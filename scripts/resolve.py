@@ -111,6 +111,22 @@ def clean_street(st):
 SEEDNAME = {}  # curated names win over Exa's (e.g. mirakl.com is "Mirakl", not "Mirakl Target2Sell")
 
 
+def linkedin_headcount(members, band):
+    """LinkedIn member count, unless it is far outside the company's declared size band
+    (freelancers and tutors who list the company inflate it, e.g. Superprof): then the band's middle."""
+    lo = hi = None
+    m = re.match(r'([\d,]+)\s*[-–]\s*([\d,]+)', band or '')
+    if m:
+        lo, hi = int(m.group(1).replace(',', '')), int(m.group(2).replace(',', ''))
+    elif re.match(r'[\d,]+\+', band or ''):
+        lo, hi = int(re.match(r'([\d,]+)', band).group(1).replace(',', '')), 10 ** 6
+    if members and (lo is None or lo / 3 <= members <= hi * 3):
+        return members
+    if lo is not None:
+        return int(round(math.sqrt(max(lo, 1) * min(hi, lo * 4))))
+    return None
+
+
 def sector(c):
     votes = {}
     for q in c.get('queries', []):
@@ -230,6 +246,42 @@ def main():
                     for k in {L.fold(o.get('name') or o.get('n')), w} - {''}:
                         idx.setdefault(k, []).append(o)
         return idx
+    LK = {}
+    lp = os.path.join(ROOT, 'data', 'ref', 'linkedin.json')   # treg: LinkedIn headcount + office list
+    if os.path.exists(lp):
+        with open(lp) as f:
+            LK = {r['domain']: r for r in json.load(f)}
+    def _brand(u):
+        h = re.sub(r'^https?://', '', (u or '').lower()).split('/')[0]
+        h = re.sub(r'^(www|fr|en|app)\.', '', h)
+        return re.sub(r'[^a-z0-9]', '', h.split('.')[0])
+
+    def lk_ok(dom, r):
+        """Is this LinkedIn page really the company's? Its website must match the domain, or its handle carry the brand."""
+        b = _brand(dom)
+        if not b or not r.get('linkedin_url'):
+            return False
+        if r.get('li_website'):
+            return _brand(r['li_website']) == b
+        handle = re.sub(r'[^a-z0-9]', '', (re.search(r'company/([^/?#]+)', r['linkedin_url']) or [None, ''])[1].lower())
+        return len(b) >= 4 and (b in handle or handle in b)
+    import glob as _g
+    for fp in _g.glob(os.path.join(ROOT, 'data', 'cache', 'treg', '*.json')):  # results of a run still in progress
+        try:
+            r = json.load(open(fp))
+            if r.get('domain'):
+                LK.setdefault(r['domain'], r)
+        except Exception:  # noqa: BLE001
+            pass
+    rejected = [d for d, r in LK.items() if not lk_ok(d, r)]
+    for d in rejected:
+        LK.pop(d)
+    print(len(LK), 'LinkedIn pages kept ·', len(rejected), 'rejected (page belongs to another company)')
+    if False:
+        try:
+            pass
+        except Exception:  # noqa: BLE001
+            pass
     VER = load_list('verified.json')       # Exa Agent verification: LinkedIn headcount, is_startup, sourced office
     COR = load_list('corrections.json')    # manual corrections: always win
 
@@ -272,6 +324,12 @@ def main():
             rows.append((f'li{i}', num, c['_li'][2] or ''))
         for j, w in enumerate(web.get(c['domain'], [])):
             rows.append((f'w{i}_{j}', w['addr'], w['postcode']))
+        lk = LK.get((c.get('domain') or '').replace('www.', '').lower()) or {}
+        c['_lk'] = []
+        for loc in lk.get('locations') or []:
+            n_, _, pc_ = L.parse_exa(loc)
+            if n_ and pc_:
+                c['_lk'].append(len(rows)); rows.append((f'lk{i}_{len(c["_lk"])}', n_, pc_))
     geo = L.ban_batch(rows)
 
     def good(g):
@@ -321,8 +379,13 @@ def main():
             g = geo.get(f'w{i}_{j}')
             if good(g):
                 ev.append((g, 'website', 3 if w['score'] > 0 else 1.5, w['kind'] == 'seat' or dom(g)))
+        lks = [geo.get(f'lk{i}_{k + 1}') for k in range(len(c.get('_lk') or []))]
+        lks = [g for g in lks if good(g)]
         addr = c.get('hq_address') or ''
-        if re.search(r'station\s*f\b|parvis alan turing|eug[eè]ne freyssinet', addr, re.I):
+        if lks:
+            for g in lks:
+                ev.append((g, 'linkedin', 2, dom(g)))
+        elif re.search(r'station\s*f\b|parvis alan turing|eug[eè]ne freyssinet', addr, re.I):
             ev.append((SF, 'linkedin', 2, False))
         else:
             g = geo.get(f'li{i}')
@@ -400,7 +463,11 @@ def main():
         if not loc:
             continue
         ve = [v.get('linkedin_employees') for v in verified(c) if v.get('linkedin_employees')]
-        emp = ve[0] if ve else c.get('employees')
+        lk = LK.get((c.get('domain') or '').replace('www.', '').lower()) or {}
+        li_emp = linkedin_headcount(lk.get('li_employees'), lk.get('li_size_band'))
+        emp = li_emp or (ve[0] if ve else c.get('employees'))
+        if li_emp or ve:
+            ve = ve or [li_emp]
         rd = c.get('last_round') or {}
         rec = {
             'n': SEEDNAME.get((c.get('domain') or '').replace('www.', ''), c['name']).strip(), 'u': c['url'], 'd': re.sub(r'\s+', ' ', (c.get('description') or '')).strip()[:260],

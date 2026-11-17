@@ -7,7 +7,7 @@ Addguests | addguests.com
 Alan | alan.com
 Alma | getalma.eu
 Ankorstore | ankorstore.com
-Back Market | backmarket.fr
+Back Market | backmarket.com
 Believe | believe.com
 BioSerenity | bioserenity.com
 BlaBlaCar | blablacar.fr
@@ -173,7 +173,6 @@ Horace | horace.co
 Seazon | seazon.fr
 Leboncoin | leboncoin.fr
 Vinted France | vinted.fr
-BackMarket | backmarket.com
 Selency | selency.fr
 Hopscotch | hopscotch.fr
 Lunii | lunii.com

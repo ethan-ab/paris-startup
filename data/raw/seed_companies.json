@@ -59,9 +59,9 @@
 },
 {
 "name": "Back Market",
-"url": "https://backmarket.fr/",
-"domain": "backmarket.fr",
-"description": "Profitez d'articles reconditionnés sur Back Market, moins cher que le neuf ! Livraison standard offerte - Garantie contractuelle de 12 mois minimum - Paiement sécurisé en 3 ou 4X",
+"url": "https://backmarket.com/",
+"domain": "backmarket.com",
+"description": "Find the best deals on refurbished phones, laptops, and tech at Back Market. Up to 70% off when compared to new products. Free delivery, 1-year warranty, 30-day money back guarantee.",
 "queries": [],
 "seed": true
 },
@@ -1634,14 +1634,6 @@
 "url": "https://vinted.fr/",
 "domain": "vinted.fr",
 "description": "Une communauté, des milliers de marques et de styles de seconde main. Prêt à te lancer ? Découvre comment ça marche !",
-"queries": [],
-"seed": true
-},
-{
-"name": "BackMarket",
-"url": "https://backmarket.com/",
-"domain": "backmarket.com",
-"description": "Find the best deals on refurbished phones, laptops, and tech at Back Market. Up to 70% off when compared to new products. Free delivery, 1-year warranty, 30-day money back guarantee.",
 "queries": [],
 "seed": true
 },
@@ -4191,7 +4183,7 @@
 "name": "Humoon",
 "url": "https://humoon.fr/",
 "domain": "humoon.fr",
-"description": "Coaching adapté aux besoins de chaque manager et aligné avec les enjeux des DRH. \r\n9,3/10 de satisfaction DRH et 98% de satisfaction des coachés",
+"description": "Coaching adapté aux besoins de chaque manager et aligné avec les enjeux des DRH. \n9,3/10 de satisfaction DRH et 98% de satisfaction des coachés",
 "queries": [],
 "seed": true,
 "founded": 2019,
