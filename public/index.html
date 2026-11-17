@@ -119,7 +119,70 @@ button,input,select{font:inherit;color:inherit}
 .tip span{font-weight:500;opacity:.7;margin-left:6px}
 .tip[hidden]{display:none}
 
+/* ---------- add a startup ---------- */
+.top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+.top .brand{min-width:0}
+.addbtn{flex:none;display:inline-flex;align-items:center;gap:6px;border:0;border-radius:999px;background:var(--ink);color:#fff;font:600 12.5px var(--sans);padding:6px 12px 6px 7px;cursor:pointer;white-space:nowrap}
+.addbtn b{display:grid;place-items:center;width:17px;height:17px;border-radius:50%;background:#fff;color:var(--ink);font:700 13px/1 var(--sans)}
+.addbtn:hover{background:#2C2E33}
+.addbtn[hidden]{display:none}
+.modal{position:fixed;inset:0;z-index:20;display:grid;place-items:center;background:rgba(22,23,26,.36);padding:14px}
+.modal[hidden]{display:none}
+.sheet{position:relative;background:var(--solid);border-radius:14px;box-shadow:var(--shadow);width:min(440px,100%);max-height:calc(100% - 28px);overflow:auto;padding:18px 18px 16px}
+.sheet h2{margin:0 36px 4px 0;font:500 21px/1.25 var(--serif)}
+.sheet .sub{margin:0 0 6px;color:var(--muted);font-size:13.5px}
+.sheet label{display:block;font:600 12.5px var(--sans);color:var(--muted);margin:11px 0 4px}
+.sheet label i{font-style:normal;font-weight:500;color:var(--faint)}
+.sheet input,.sheet select,.sheet textarea{width:100%;border:1px solid var(--line);border-radius:9px;padding:9px 11px;font-size:14px;background:var(--solid)}
+.sheet textarea{min-height:64px;resize:vertical}
+.sheet .hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:0 8px}
+.where{display:flex;gap:6px}
+.where input{flex:1;min-width:0}
+.pickb{flex:none;border:1px solid var(--line);background:var(--hover);border-radius:9px;padding:0 11px;font:600 12.5px var(--sans);cursor:pointer;white-space:nowrap}
+.pickb:hover{background:var(--line)}
+.hits{list-style:none;margin:4px 0 0;padding:4px;border:1px solid var(--line);border-radius:9px;background:var(--solid);box-shadow:var(--shadow)}
+.hits[hidden]{display:none}
+.hits li{padding:7px 9px;border-radius:6px;cursor:pointer;font-size:13.5px}
+.hits li small{display:block;color:var(--faint);font-size:12px}
+.hits li:hover,.hits li[aria-selected="true"]{background:var(--hover)}
+.spot{display:flex;align-items:center;gap:7px;margin:6px 0 0;padding:7px 9px;border-radius:8px;background:var(--growth-soft);color:var(--growth-ink);font:600 12.5px var(--sans)}
+.spot[hidden]{display:none}
+.spot::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--growth);flex:none}
+.stagehint{margin:4px 0 0;font:500 12px var(--sans);color:var(--faint);min-height:17px}
+.stagehint i{display:inline-block;width:8px;height:11px;border-radius:2px;background:var(--c);margin-right:5px;vertical-align:-1px}
+.go{display:block;width:100%;margin-top:14px;border:0;border-radius:9px;background:var(--ink);color:#fff;font:600 14px var(--sans);padding:11px;cursor:pointer}
+.go[disabled]{opacity:.5;cursor:default}
+.msg{margin:8px 0 0;font-size:13px;color:var(--muted);min-height:1em}
+.msg.err{color:#B42318}
+.picker{position:fixed;z-index:8;left:50%;top:max(14px,env(safe-area-inset-top,0px));transform:translateX(-50%);width:min(460px,calc(100% - 28px));background:var(--solid);border-radius:12px;box-shadow:var(--shadow);
+  padding:10px 12px;display:grid;grid-template-columns:1fr auto auto;gap:8px;align-items:center}
+.picker[hidden]{display:none}
+.picker p{margin:0;font-size:13px;color:var(--muted);line-height:1.35}
+.picker p b{display:block;color:var(--ink);font:500 15px/1.25 var(--serif)}
+.picker button{border:0;border-radius:8px;font:600 13px var(--sans);padding:8px 11px;cursor:pointer}
+.picker .ok{background:var(--ink);color:#fff}
+.picker .no{background:var(--hover)}
+body.picking .maplibregl-canvas{cursor:crosshair!important}
+body.picking .panel,body.picking .card,body.picking .legend{display:none}
+.newpin{display:block;width:30px;height:40px;cursor:grab;filter:drop-shadow(0 3px 4px rgba(22,23,26,.35))}
+.toast{position:fixed;z-index:9;left:50%;bottom:max(56px,env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:#fff;font:600 13px var(--sans);padding:9px 14px;border-radius:999px;box-shadow:var(--shadow);white-space:nowrap}
+.toast[hidden]{display:none}
+.mine-tag{display:inline-block;margin-left:6px;font:700 9.5px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--growth-ink);background:var(--growth-soft);padding:1px 5px;border-radius:4px;vertical-align:1px}
+.yours{margin-top:10px;padding:10px 12px;border-radius:9px;background:#FFF6D6;font-size:12.5px;color:var(--ink)}
+.yours b{display:block;font:700 10.5px var(--sans);letter-spacing:.06em;text-transform:uppercase;margin-bottom:2px}
+.yours .acts{display:flex;gap:8px;margin-top:8px}
+.yours .acts a,.yours .acts button{border:0;border-radius:7px;padding:6px 10px;font:600 12.5px var(--sans);cursor:pointer;text-decoration:none}
+.yours .send{background:var(--ink);color:#fff}
+.yours .rm{background:rgba(255,255,255,.8);color:var(--ink)}
+
 @media (max-width:760px){
+  .top{align-items:center}
+  .top .brand{flex:1;flex-direction:column;align-items:flex-start}
+  .addbtn .long{display:none}
+  .picker{grid-template-columns:1fr 1fr}
+  .picker p{grid-column:1/-1}
+  .toast{bottom:auto;top:max(14px,env(safe-area-inset-top,0px))}
   .panel{width:auto;right:max(14px,env(safe-area-inset-right,0px));max-height:50%}
   .brand{flex-direction:row;align-items:baseline;justify-content:space-between}
   .brand span{font-size:11.5px}
@@ -138,7 +201,8 @@ button,input,select{font:inherit;color:inherit}
 
 <section class="panel" aria-label="Search and filters">
   <div class="ph">
-    <div class="brand"><h1>Paris Startup Atlas</h1><span id="total"></span></div>
+    <div class="top"><div class="brand"><h1>Paris Startup Atlas</h1><span id="total"></span></div>
+      <button class="addbtn" id="addBtn" type="button"><b aria-hidden="true">+</b><span>Add<span class="long"> a startup</span></span></button></div>
     <div class="qwrap">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
       <input class="q" id="q" type="search" placeholder="Search a startup, a sector, a street" autocomplete="off" aria-label="Search">
@@ -162,6 +226,43 @@ button,input,select{font:inherit;color:inherit}
   <button id="home" aria-label="Reset view" style="font-size:14px">⌂</button>
 </div>
 <div class="tip" id="tip" hidden></div>
+<div class="picker" id="picker" hidden role="dialog" aria-label="Place the office">
+  <p><b id="pkName">Your startup</b>Click the map, or drag the pin, onto the office building.</p>
+  <button class="no" type="button" id="pkCancel">Cancel</button>
+  <button class="ok" type="button" id="pkOk">Use this spot</button>
+</div>
+<div class="toast" id="toast" hidden role="status" aria-live="polite"></div>
+
+<div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="adTitle">
+  <form class="sheet" id="adForm" novalidate>
+    <button class="x" type="button" id="adClose" aria-label="Close">×</button>
+    <h2 id="adTitle">Add a startup</h2>
+    <p class="sub">Put a startup on the map at the office where the team works. It lights up its building right away on your map; send it for review to add it for everyone.</p>
+    <label for="adName">Startup name *</label>
+    <input id="adName" name="name" required maxlength="80" autocomplete="off" placeholder="e.g. Alpic">
+    <label for="adLoc">Office address *</label>
+    <div class="where">
+      <input id="adLoc" name="address" maxlength="200" autocomplete="off" placeholder="Type the street address" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="adHits">
+      <button class="pickb" type="button" id="adPick">Pick on map</button>
+    </div>
+    <ul class="hits" id="adHits" role="listbox" aria-label="Address suggestions" hidden></ul>
+    <p class="spot" id="adSpot" hidden></p>
+    <label for="adSec">Sector *</label>
+    <select id="adSec" name="sector"><option value="">Choose a sector</option></select>
+    <div class="two">
+      <div><label for="adTeam">Team size</label><input id="adTeam" name="team" type="number" min="1" max="100000" inputmode="numeric" placeholder="e.g. 12"></div>
+      <div><label for="adYear">Founded</label><input id="adYear" name="year" type="number" min="1990" max="2100" inputmode="numeric" placeholder="e.g. 2023"></div>
+    </div>
+    <p class="stagehint" id="adStage" aria-live="polite"></p>
+    <label for="adUrl">Website <i>optional</i></label>
+    <input id="adUrl" name="url" type="url" maxlength="300" placeholder="https://">
+    <label for="adDesc">What it does <i>optional</i></label>
+    <textarea id="adDesc" name="desc" maxlength="250"></textarea>
+    <input class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <button class="go" type="submit" id="adGo">Add to the map</button>
+    <p class="msg" id="adMsg" aria-live="polite"></p>
+  </form>
+</div>
 
 <script>
 /* Built by scripts/build.py. STARTUPS rows: n name · u website · d description · y founded · e team · f raised (USD) · rd last round · s sector

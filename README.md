@@ -22,6 +22,13 @@ python3 scripts/resolve.py
 python3 scripts/build.py --artifact
 ```
 
+## Add a startup (in the page)
+The **+ Add a startup** button opens a form (name, office address with French address-base autocomplete or a pin dropped on the map, sector,
+team size → stage, founding year, website, one-liner). The startup lights up its building immediately: it joins a building that already hosts
+startups, otherwise the map reads the real footprint of the building under the address from the basemap, otherwise a small block is drawn.
+Added startups are saved in the visitor's browser (`localStorage`, key `psa.added.v1`) and can be removed; **Send for review** opens a
+pre-filled GitHub issue (label `new-startup`) so it can be checked and added to `data/startups.json`.
+
 ## Data fields (`data/startups.json`)
 `n` name · `u` website · `d` description · `y` founded · `e` team size · `f` total raised (USD) · `rd` last round · `s` sector · `st` stage
 (`early` <50, `growth` 50–249, `scale` 250+) · `a` street · `pc` postcode · `area` · `ll` [lat, lng] · `k` `office` or `seat` (registered address only)
