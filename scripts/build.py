@@ -8,12 +8,15 @@ Usage: python3 scripts/build.py [--artifact]
 import base64, datetime, json, os, re, sys, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, 'scripts'))
+from rounds import apply as apply_rounds  # noqa: E402  recent funding rounds from data/ref/rounds.json
 
 
 def main():
     with open(os.path.join(ROOT, 'data', 'startups.json')) as f:
         rows = json.load(f)
     attach_logos(rows)
+    apply_rounds(rows)
     with open(os.path.join(ROOT, 'src', 'index.template.html')) as f:
         html = f.read()
     data = json.dumps(rows, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
