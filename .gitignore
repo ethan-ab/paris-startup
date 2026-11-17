@@ -1,0 +1,9 @@
+node_modules/
+.vercel/
+.DS_Store
+__pycache__/
+artifact/
+data/cache/
+data/raw/*.log
+test-results/
+playwright-report/

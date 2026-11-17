@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Paris Startup Atlas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Every startup and scale-up in Paris on a 3D map: each building is coloured by the startups that work inside it.">
+<meta property="og:title" content="Paris Startup Atlas">
+<meta property="og:description" content="Paris in 3D, with every building that hosts a startup lit up. Station F included.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23F3F2EE'/%3E%3Cpath d='M6 26V14l5-2v14z' fill='%232a78d6'/%3E%3Cpath d='M13 26V8l6-2v20z' fill='%23eb6834'/%3E%3Cpath d='M21 26V16l5-1v11z' fill='%231baf7a'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Lora:wght@500&display=swap">
+<style>
+/* Layout: the map is the page. One compact floating panel (search, stage + sector filters), one detail card on demand,
+   a small legend. Building colour = stage of the largest startup inside. One deliberate light look over a light basemap. */
+:root{
+  color-scheme:light;
+  --ground:#F2F1ED; --panel:rgba(255,255,255,.94); --solid:#FFFFFF; --ink:#16171A; --muted:#5D5F66; --faint:#8E9097; --line:#E4E3DF; --hover:#F3F2EF;
+  --early:#2a78d6; --growth:#1baf7a; --scale:#eb6834;
+  --early-ink:#1F62B5; --growth-ink:#11704F; --scale-ink:#A8431A;
+  --early-soft:#E5EEFA; --growth-soft:#DFF3EA; --scale-soft:#FCE8DF;
+  --shadow:0 1px 2px rgba(22,23,26,.06),0 8px 24px rgba(22,23,26,.10);
+  --sans:"Figtree",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Lora",Georgia,serif;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--ground);color:var(--ink);font:14px/1.45 var(--sans);-webkit-font-smoothing:antialiased;overflow:hidden}
+#map{position:fixed;inset:0}
+.maplibregl-canvas:focus{outline:none}
+.maplibregl-ctrl-attrib{font:11px var(--sans)!important;background:rgba(255,255,255,.75)!important;border-radius:6px!important}
+:focus-visible{outline:2px solid var(--early);outline-offset:2px}
+button,input,select{font:inherit;color:inherit}
+
+/* ---------- floating panel ---------- */
+.panel{position:fixed;z-index:5;top:max(14px,env(safe-area-inset-top,0px));left:max(14px,env(safe-area-inset-left,0px));width:340px;max-width:calc(100% - 28px);
+  background:var(--panel);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-radius:14px;box-shadow:var(--shadow);display:flex;flex-direction:column;max-height:calc(100% - 28px)}
+.ph{padding:14px 14px 0}
+.brand{display:flex;flex-direction:column;gap:1px}
+.brand h1{margin:0;font:500 19px/1.2 var(--serif);letter-spacing:-.01em}
+.brand span{font:500 12px var(--sans);color:var(--faint);font-variant-numeric:tabular-nums;white-space:nowrap}
+.qwrap{position:relative;margin-top:10px}
+.q{width:100%;border:1px solid var(--line);background:var(--solid);border-radius:9px;padding:9px 12px 9px 32px;font-size:14px}
+.q::placeholder{color:var(--faint)}
+.qwrap svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);width:15px;height:15px;stroke:var(--faint);fill:none;stroke-width:2}
+.row2{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:8px}
+.pill{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:0;border:1px solid var(--line);background:var(--solid);border-radius:8px;padding:5px 9px;font:600 12.5px var(--sans);cursor:pointer;white-space:nowrap}
+.pill i{width:9px;height:12px;border-radius:2px;background:var(--c);flex:none}
+.pill em{font-style:normal;font-weight:500;color:var(--faint);font-variant-numeric:tabular-nums}
+.pill[aria-pressed="false"]{opacity:.45}
+.pill[aria-pressed="false"] i{background:transparent;box-shadow:inset 0 0 0 1.5px var(--c)}
+.sel{appearance:none;width:100%;margin-top:8px;border:1px solid var(--line);background:var(--solid) no-repeat calc(100% - 12px) 50%/10px url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%235D5F66' stroke-width='1.5'/%3E%3C/svg%3E");
+  border-radius:9px;padding:8px 30px 8px 11px;font-size:13.5px;cursor:pointer}
+.tools{display:flex;justify-content:space-between;align-items:center;gap:8px;margin:10px 0 0;padding:8px 0 10px;border-top:1px solid var(--line)}
+.link{border:0;background:none;padding:2px 0;font:600 12.5px var(--sans);color:var(--early-ink);cursor:pointer}
+.tog{display:inline-flex;align-items:center;gap:6px;font:500 12.5px var(--sans);color:var(--muted);cursor:pointer;user-select:none}
+.tog input{margin:0;accent-color:var(--ink)}
+.results{overflow:auto;border-top:1px solid var(--line);min-height:0}
+.results[hidden]{display:none}
+.res{display:grid;grid-template-columns:9px 1fr auto;gap:10px;align-items:center;width:100%;text-align:left;border:0;background:none;padding:8px 14px;cursor:pointer}
+.res:hover,.res.on{background:var(--hover)}
+.res i{width:9px;height:12px;border-radius:2px;background:var(--c)}
+.res i.u{background:transparent;box-shadow:inset 0 0 0 1.5px var(--c)}
+.res b{display:block;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.res span{display:block;font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.res div{min-width:0}
+.res small{font:500 12px var(--sans);color:var(--faint);font-variant-numeric:tabular-nums}
+.more{display:block;width:calc(100% - 28px);margin:8px 14px 12px;border:1px solid var(--line);background:var(--solid);border-radius:8px;padding:7px;font:600 12.5px var(--sans);cursor:pointer}
+.none{padding:14px;color:var(--muted)}
+
+/* ---------- detail card ---------- */
+.card{position:fixed;z-index:6;top:max(14px,env(safe-area-inset-top,0px));right:max(14px,env(safe-area-inset-right,0px));width:360px;max-width:calc(100% - 28px);max-height:calc(100% - 28px);overflow:auto;
+  background:var(--solid);border-radius:14px;box-shadow:var(--shadow);overscroll-behavior:contain}
+.card[hidden]{display:none}
+.ch{position:sticky;top:0;background:var(--solid);padding:14px 44px 10px 16px;border-bottom:1px solid var(--line);z-index:1}
+.ch .eyebrow{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--faint)}
+.ch h2{margin:3px 0 0;font:500 17px/1.3 var(--serif)}
+.x{position:absolute;top:10px;right:10px;width:28px;height:28px;border:0;border-radius:7px;background:var(--hover);color:var(--muted);font-size:16px;line-height:1;cursor:pointer}
+.x:hover{color:var(--ink)}
+.sbar{display:flex;height:4px;border-radius:2px;overflow:hidden;gap:2px;margin-top:10px}
+.sbar i{display:block;background:var(--c)}
+.co{border-bottom:1px solid var(--line)}
+.co>button{display:grid;grid-template-columns:9px 1fr auto;gap:10px;align-items:center;width:100%;text-align:left;border:0;background:none;padding:10px 16px;cursor:pointer}
+.co>button:hover{background:var(--hover)}
+.co>button i{width:9px;height:12px;border-radius:2px;background:var(--c)}
+.co>button i.u{background:transparent;box-shadow:inset 0 0 0 1.5px var(--c)}
+.co>button b{display:block;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.co>button span{display:block;font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.co>button div{min-width:0}
+.co>button small{font:500 12px var(--sans);color:var(--faint);font-variant-numeric:tabular-nums}
+.det{padding:0 16px 14px 35px}
+.det[hidden]{display:none}
+.tag{display:inline-block;font:700 10.5px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ci);background:var(--cs);padding:3px 7px;border-radius:5px}
+.det p{margin:8px 0 0;color:var(--muted);font-size:13.5px}
+.det dl{display:grid;grid-template-columns:auto 1fr;gap:3px 12px;margin:10px 0 0;font-size:13px}
+.det dt{color:var(--faint)}
+.det dd{margin:0;font-weight:600;font-variant-numeric:tabular-nums}
+.det .src{margin-top:10px;font-size:12px;color:var(--faint)}
+.det .src.warn{color:var(--scale-ink)}
+.det .links{display:flex;gap:14px;margin-top:8px}
+.det .links a{font:600 12.5px var(--sans);color:var(--early-ink);text-decoration:none}
+.det .links a:hover{text-decoration:underline}
+
+/* ---------- legend + map buttons ---------- */
+.legend{position:fixed;z-index:4;left:max(14px,env(safe-area-inset-left,0px));bottom:max(14px,env(safe-area-inset-bottom,0px));background:var(--panel);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  border-radius:10px;box-shadow:var(--shadow);padding:8px 12px;font:500 12px var(--sans);color:var(--muted);display:flex;gap:14px;align-items:center;flex-wrap:wrap;max-width:calc(100% - 28px)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:9px;height:12px;border-radius:2px;background:var(--c)}
+.mapbtns{position:fixed;z-index:4;right:max(14px,env(safe-area-inset-right,0px));bottom:max(30px,env(safe-area-inset-bottom,0px));display:flex;flex-direction:column;background:var(--panel);border-radius:10px;box-shadow:var(--shadow);overflow:hidden}
+.mapbtns button{width:36px;height:36px;border:0;background:none;font:500 16px var(--sans);cursor:pointer;color:var(--ink)}
+.mapbtns button+button{border-top:1px solid var(--line)}
+.mapbtns button:hover{background:var(--hover)}
+.tip{position:fixed;z-index:7;pointer-events:none;background:var(--ink);color:#fff;font:600 12px var(--sans);padding:5px 8px;border-radius:6px;white-space:nowrap;transform:translate(12px,12px)}
+.tip span{font-weight:500;opacity:.7;margin-left:6px}
+.tip[hidden]{display:none}
+
+@media (max-width:760px){
+  .panel{width:auto;right:max(14px,env(safe-area-inset-right,0px));max-height:50%}
+  .brand{flex-direction:row;align-items:baseline;justify-content:space-between}
+  .brand span{font-size:11.5px}
+  .ph .sel,.ph .tools{display:none}
+  .panel:focus-within .sel{display:block}
+  .panel:focus-within .tools{display:flex}
+  .card{top:auto;bottom:max(10px,env(safe-area-inset-bottom,0px));left:max(10px,env(safe-area-inset-left,0px));right:max(10px,env(safe-area-inset-right,0px));width:auto;max-width:none;max-height:58%}
+  .legend{display:none}
+  .mapbtns{bottom:auto;top:50%}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div id="map" aria-label="3D map of Paris startups"></div>
+
+<section class="panel" aria-label="Search and filters">
+  <div class="ph">
+    <div class="brand"><h1>Paris Startup Atlas</h1><span id="total"></span></div>
+    <div class="qwrap">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+      <input class="q" id="q" type="search" placeholder="Search a startup, a sector, a street" autocomplete="off" aria-label="Search">
+    </div>
+    <div class="row2" id="stages"></div>
+    <select class="sel" id="fSec" aria-label="Sector"><option value="">All sectors</option></select>
+    <div class="tools">
+      <button class="link" id="browse" type="button">Browse the list</button>
+      <label class="tog" title="Also show companies we could only place at their registered address"><input type="checkbox" id="seat"> Unconfirmed offices</label>
+    </div>
+  </div>
+  <div class="results" id="results" hidden></div>
+</section>
+
+<aside class="card" id="card" hidden aria-live="polite"></aside>
+<div class="legend" id="legend"></div>
+<div class="mapbtns">
+  <button id="zin" aria-label="Zoom in">+</button>
+  <button id="zout" aria-label="Zoom out">−</button>
+  <button id="tilt" aria-label="Toggle 3D" style="font-size:12px;font-weight:700">2D</button>
+  <button id="home" aria-label="Reset view" style="font-size:14px">⌂</button>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+/* Built by scripts/build.py. STARTUPS rows: n name · u website · d description · y founded · e team · f raised (USD) · rd last round · s sector
+   st stage (early|growth|scale) · a street · pc postcode · area · ll [lat,lng] · k office|seat · v address source · cp campus · b building id.
+   BUILDINGS: GeoJSON footprints of every occupied building (h height, mh base, s startup indices). */
+const STARTUPS = /*__DATA__*/[];
+const BUILDINGS = /*__BUILDINGS__*/{"type":"FeatureCollection","features":[]};
+const CHECKED = /*__CHECKED__*/"";
+</script>
+<script src="app.js"></script>
+</body>
+</html>

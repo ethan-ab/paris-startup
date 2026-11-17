@@ -1,0 +1,349 @@
+# Well-known Paris-area startups & scale-ups that Exa's company index under-ranks (French Tech Next40/120 and others).
+# name | website. Location is NOT taken from here: every entry goes through the same website → register pipeline,
+# and anything without an office in Paris or the inner ring drops out.
+360Learning | 360learning.com
+AB Tasty | abtasty.com
+Addguests | addguests.com
+Alan | alan.com
+Alma | getalma.eu
+Ankorstore | ankorstore.com
+Back Market | backmarket.fr
+Believe | believe.com
+BioSerenity | bioserenity.com
+BlaBlaCar | blablacar.fr
+Brut | brut.media
+ClubFunding | clubfunding.fr
+Contentsquare | contentsquare.com
+CybelAngel | cybelangel.com
+Deezer | deezer.com
+Dental Monitoring | dental-monitoring.com
+Descartes Underwriting | descartesunderwriting.com
+Devialet | devialet.com
+DNA Script | dnascript.com
+Doctolib | doctolib.fr
+EcoVadis | ecovadis.com
+Evaneos | evaneos.fr
+Finalcad | finalcad.com
+Heetch | heetch.com
+HomeExchange | homeexchange.com
+HR Path | hr-path.com
+Hublo | hublo.com
+Ivalua | ivalua.com
+JobTeaser | jobteaser.com
+LegalPlace | legalplace.fr
+Lifen | lifen.fr
+Loft Orbital | loftorbital.com
+Lydia | lydia-app.com
+Malt | malt.fr
+ManoMano | manomano.fr
+Meero | meero.com
+Mirakl | mirakl.com
+October | october.eu
+Ornikar | ornikar.com
+OpenClassrooms | openclassrooms.com
+PayFit | payfit.com
+Pigment | gopigment.com
+Qonto | qonto.com
+Brevo | brevo.com
+Shadow | shadow.tech
+Shift Technology | shift-technology.com
+Sorare | sorare.com
+Spendesk | spendesk.com
+Swile | swile.co
+Veepee | veepee.fr
+Vestiaire Collective | vestiairecollective.com
+Voodoo | voodoo.io
+Younited | younited-credit.com
+Yubo | yubo.live
+Mistral AI | mistral.ai
+H Company | hcompany.ai
+Hugging Face | huggingface.co
+Photoroom | photoroom.com
+Dust | dust.tt
+Poolside | poolside.ai
+Kyutai | kyutai.org
+Nabla | nabla.com
+Owkin | owkin.com
+Dataiku | dataiku.com
+Algolia | algolia.com
+Aircall | aircall.io
+Agicap | agicap.com
+Pennylane | pennylane.com
+Ledger | ledger.com
+Luko | luko.eu
+Shine | shine.fr
+Yousign | yousign.com
+Welcome to the Jungle | welcometothejungle.com
+Lucca | lucca.fr
+Indy | indy.fr
+Libeo | libeo.io
+Upflow | upflow.io
+Defacto | getdefacto.com
+Swan | swan.io
+Treezor | treezor.com
+Lemonway | lemonway.com
+Mangopay | mangopay.com
+Fygr | fygr.io
+Ramify | ramify.fr
+Moonshot Internet | moonshot-internet.com
+Yomoni | yomoni.fr
+Nalo | nalo.fr
+Goodvest | goodvest.fr
+Climb | climb.fr
+Coinhouse | coinhouse.com
+Paymium | paymium.com
+Kaiko | kaiko.com
+Morpho Labs | morpho.org
+Zama | zama.ai
+Ponicode | ponicode.com
+Sekoia | sekoia.io
+Vade | vadesecure.com
+GitGuardian | gitguardian.com
+Padok | padok.fr
+Scaleway | scaleway.com
+Clever Cloud | clever-cloud.com
+Front | front.com
+Livestorm | livestorm.co
+Pitch | pitch.com
+Side | side.co
+StaffMe | staffme.fr
+Ubeeqo | ubeeqo.com
+Getaround | getaround.com
+Zity | zity.eu
+Dott | ridedott.com
+Cityscoot | cityscoot.eu
+Marcel | marcel.cab
+Padam Mobility | padam-mobility.com
+Stuart | stuart.com
+Cubyn | cubyn.com
+Shippingbo | shippingbo.com
+Sendcloud France | sendcloud.fr
+Ector | ector.com
+Hiflow | hiflow.com
+Fretlink | fretlink.com
+Everoad | everoad.com
+Upply | upply.com
+Leocare | leocare.eu
+Seyna | seyna.eu
+Acheel | acheel.com
+Stello | stello.eu
+Wakam | wakam.com
+Qover France | qover.com
+Bulb | bulb.fr
+Mon Docteur | mondocteur.fr
+Qare | qare.fr
+Livi | livi.fr
+Medadom | medadom.com
+Doctrine | doctrine.fr
+Hiboo | hiboo.io
+Kayrros | kayrros.com
+Greenly | greenly.earth
+Sweep | sweep.net
+Carbo | hellocarbo.com
+Phenix | wearephenix.com
+Too Good To Go France | toogoodtogo.fr
+Beem | beem.energy
+Sunology | sunology.eu
+Electra | go-electra.com
+Zeplug | zeplug.com
+Hellowatt | hellowatt.fr
+Volta | volta.fr
+Ilek | ilek.fr
+Jow | jow.fr
+La Belle Vie | labellevie.com
+Frichti | frichti.co
+Kol | kol.app
+Cajoo | cajoo.eu
+Flink France | goflink.com
+Epicery | epicery.com
+Yuka | yuka.io
+Innovafeed | innovafeed.com
+Ynsect | ynsect.com
+Agricool | agricool.co
+Les Nouveaux Fermiers | lesnouveauxfermiers.com
+Big Mamma | bigmammagroup.com
+Sezane | sezane.com
+Jimmy Fairly | jimmyfairly.com
+Le Slip Français | leslipfrancais.fr
+Asphalte | asphalte.com
+Merci Handy | mercihandy.fr
+Respire | respire.co
+Typology | typology.com
+Horace | horace.co
+Seazon | seazon.fr
+Leboncoin | leboncoin.fr
+Vinted France | vinted.fr
+BackMarket | backmarket.com
+Selency | selency.fr
+Hopscotch | hopscotch.fr
+Lunii | lunii.com
+Yoopies | yoopies.fr
+Papernest | papernest.com
+Meilleurtaux | meilleurtaux.com
+Pretto | pretto.fr
+Masteos | masteos.com
+Hosman | hosman.co
+Homeloop | homeloop.fr
+Proprioo | proprioo.fr
+Bevouac | bevouac.com
+Flatlooker | flatlooker.com
+Unkle | unkle.fr
+Garantme | garantme.fr
+Habiteo | habiteo.com
+Fireproof | fireproof.fr
+Bricks | bricks.co
+Homunity | homunity.com
+Lodgis | lodgis.com
+Openfield | openfield.ai
+Sinay | sinay.ai
+Prophesee | prophesee.ai
+Pasqal | pasqal.com
+Alice & Bob | alice-bob.com
+Quandela | quandela.com
+Exotrail | exotrail.com
+Unseenlabs | unseenlabs.space
+The Exploration Company | exploration.space
+Wandercraft | wandercraft.eu
+Diota | diota.com
+Enchanted Tools | enchanted.tools
+Pollen Robotics | pollen-robotics.com
+Agreenculture | agreenculture.net
+Lancey Energy Storage | lancey.fr
+Verkor | verkor.com
+Hydrogen Refueling Solutions | hydrogen-refueling-solutions.fr
+Lhyfe | lhyfe.com
+Sweetch Energy | sweetch.energy
+Newcleo | newcleo.com
+Jimmy Energy | jimmy-energy.eu
+Naarea | naarea.fr
+Hexana | hexana.fr
+Bioptimus | bioptimus.com
+Cardiologs | cardiologs.com
+Implicity | implicity.com
+Withings | withings.com
+Inato | inato.com
+Cureety | cureety.com
+Moka.care | moka.care
+Spore.Bio | spore.bio
+WhiteLab Genomics | whitelabgx.com
+Aqemia | aqemia.com
+Iktos | iktos.ai
+Panakeia | panakeia.ai
+Gleamer | gleamer.ai
+Incepto | incepto-medical.com
+Therapixel | therapixel.com
+Pixyl | pixyl.ai
+Wefight | wefight.co
+Skillup | skillup.co
+Coorpacademy | coorpacademy.com
+Lingueo | lingueo.com
+Superprof | superprof.fr
+Studi | studi.com
+Jedha | jedha.co
+Le Wagon | lewagon.com
+Albert | albert-school.com
+Kartable | kartable.fr
+Nomad Education | nomadeducation.fr
+Simplon | simplon.co
+Ubble | ubble.ai
+Onfido France | onfido.com
+IDnow France | idnow.io
+Captain Contrat | captaincontrat.com
+Legalstart | legalstart.fr
+Hyperline | hyperline.co
+Qobra | qobra.co
+Lemlist | lemlist.com
+La Growth Machine | lagrowthmachine.com
+Sortlist | sortlist.fr
+Partoo | partoo.co
+Ringover | ringover.com
+Diabolocom | diabolocom.com
+Crisp | crisp.chat
+Axeptio | axeptio.eu
+Didomi | didomi.io
+Batch | batch.com
+Botify | botify.com
+Dashlane | dashlane.com
+Ogury | ogury.com
+Teads | teads.com
+Criteo | criteo.com
+Akeneo | akeneo.com
+Pricemoov | pricemoov.com
+Lengow | lengow.com
+Fintecture | fintecture.com
+Mooncard | mooncard.co
+Expensya | expensya.com
+N2F | n2f.com
+Payplug | payplug.com
+Lyra | lyra.com
+Bankin | bankin.com
+Linxo | linxo.com
+Budget Insight | budget-insight.com
+Powens | powens.com
+Bridge | bridgeapi.io
+Silvr | silvr.co
+Karmen | karmen.io
+Unlimitd | unlimitd.com
+Finfrog | finfrog.fr
+Cashbee | cashbee.fr
+Helios | helios.do
+Green-Got | green-got.com
+Vivid Money France | vivid.money
+Pixpay | pixpay.fr
+Kard | kard.eu
+Xaalys | xaalys.com
+Manager.one | manager.one
+Memo Bank | memo.bank
+Spiko | spiko.io
+Zenpark | zenpark.com
+Onepark | onepark.fr
+Beev | beev.co
+Cooltra France | cooltra.com
+Wello | wello.io
+Tiller Systems | tillersystems.com
+Zenchef | zenchef.com
+Sunday | sundayapp.com
+Innovorder | innovorder.fr
+Choco France | choco.com
+Kiosque | kiosque.com
+Deepki | deepki.com
+Hesus | hesus.eu
+Tolv | tolv.io
+Stonal | stonal.com
+Pelico | pelico.ai
+Vizcab | vizcab.io
+Wizbii | wizbii.com
+Brigad | brigad.co
+Talent.io | talent.io
+Hiresweet | hiresweet.com
+Leeto | leeto.co
+Skello | skello.io
+Combo | combohr.com
+Factorial France | factorialhr.fr
+Comet | comet.co
+Crème de la Crème | cremedelacreme.io
+Collective | collective.work
+Wemaintain | wemaintain.com
+Homa Games | homagames.com
+Loopsider | loopsider.com
+Konbini | konbini.com
+Livementor | livementor.com
+Ulule | ulule.com
+KissKissBankBank | kisskissbankbank.com
+Lita.co | lita.co
+WeeFin | weefin.co
+LightOn | lighton.ai
+Giskard | giskard.ai
+Hexa | hexa.com
+Probabl | probabl.ai
+Twin | twin.so
+Pruna AI | pruna.ai
+Linkup | linkup.so
+Nijta | nijta.com
+Gladia | gladia.io
+Payflows | payflows.io
+Folk | folk.app
+Tomorro | tomorro.com
+Fabriq | fabriq.tech
+Aerospacelab France | aerospacelab.com
+Alpic | alpic.ai

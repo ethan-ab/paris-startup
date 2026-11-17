@@ -1,0 +1,506 @@
+[
+{
+"name": "Doctolib",
+"in_paris_area": true,
+"office_street": "54 quai Charles Pasqua",
+"postcode": "92300",
+"city": "Levallois-Perret",
+"source_url": "https://craft.co/doctolib/locations",
+"website": "doctolib.fr"
+},
+{
+"name": "Believe",
+"in_paris_area": true,
+"office_street": "24 rue Toulouse Lautrec",
+"postcode": "75017",
+"city": "Paris",
+"source_url": "https://www.believe.com/fr/mentions-legales/",
+"website": "believe.com"
+},
+{
+"name": "Mistral AI",
+"in_paris_area": true,
+"office_street": "15 rue des Halles",
+"postcode": "75001",
+"city": "Paris",
+"source_url": "https://mistral.ai/legal/",
+"website": "mistral.ai"
+},
+{
+"name": "Contentsquare",
+"in_paris_area": true,
+"office_street": "7 rue de Madrid",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://contentsquare.com/contentsquare-group-list/",
+"website": "contentsquare.com"
+},
+{
+"name": "Malt",
+"in_paris_area": true,
+"office_street": "18 rue Godot de Mauroy",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.welcometothejungle.com/en/directory/m/2",
+"website": "malt.com"
+},
+{
+"name": "Mirakl",
+"in_paris_area": true,
+"office_street": "12 rue de Lübeck",
+"postcode": "75116",
+"city": "Paris",
+"source_url": "https://www.welcometothejungle.com/en/directory/m/2",
+"website": "mirakl.com"
+},
+{
+"name": "Because Music",
+"website": "because.tv",
+"in_paris_area": true,
+"office_street": "173 rue du Faubourg Poissonnière",
+"postcode": "",
+"city": "Paris",
+"source_url": "https://linkedin.com/company/because-editions"
+},
+{
+"name": "BeReal.",
+"website": "bereal.com",
+"in_paris_area": true,
+"office_street": "30/32 Boulevard Sébastopol",
+"postcode": "75004",
+"city": "Paris",
+"source_url": "https://help.bereal.com/hc/en-us/articles/10268418294429-Information-for-Law-Enforcement"
+},
+{
+"name": "ChapsVision",
+"website": "chapsvision.com",
+"in_paris_area": true,
+"office_street": "44-48 rue Saint-Lazare",
+"postcode": "",
+"city": "Paris",
+"source_url": "https://chapsvision.com/fr/solutions/entreprise/engagement-client"
+},
+{
+"name": "DNA Script",
+"website": "dnascript.com",
+"in_paris_area": true,
+"office_street": "67 avenue de Fontainebleau",
+"postcode": "94270",
+"city": "Le Kremlin-Bicêtre",
+"source_url": "https://www.dnascript.com/contact/"
+},
+{
+"name": "Dust",
+"website": "dust.tt",
+"in_paris_area": true,
+"office_street": "52 rue de la Verrerie",
+"postcode": "75004",
+"city": "Paris",
+"source_url": "https://dust.tt/home/platform-privacy"
+},
+{
+"name": "happn",
+"website": "happn.com",
+"in_paris_area": true,
+"office_street": "5 rue Feydeau",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.happn.com/legal/legal"
+},
+{
+"name": "Hopscotch",
+"website": "hopscotch.fr",
+"in_paris_area": true,
+"office_street": "25 Rue Notre Dame des Victoires",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://hopscotch.one/en/network/france-2/"
+},
+{
+"name": "Jimmy Fairly",
+"website": "jimmyfairly.com",
+"in_paris_area": true,
+"office_street": "23 rue du Mail",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.jimmyfairly.com/fr-lu/pages/cgu-cgv"
+},
+{
+"name": "Lydia",
+"website": "lydia-app.com",
+"in_paris_area": true,
+"office_street": "14 Avenue de l'Opéra",
+"postcode": "75001",
+"city": "Paris",
+"source_url": "https://static.lydia-app.com/insurance/Lydia_Insurance_Terms_Conditions_FR_V5_02.03.2026.pdf"
+},
+{
+"name": "Meilleurtaux",
+"website": "meilleurtaux.com",
+"in_paris_area": true,
+"office_street": "95 rue d'Amsterdam",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://placement.meilleurtaux.com/placement-financier/actualites/2023-juin/impot-revenu-avantages-fiscaux-trop-souvent-oublies.html"
+},
+{
+"name": "Morpho",
+"website": "morpho.org",
+"in_paris_area": true,
+"office_street": "24 rue de Clichy",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://morpho.org/legal-notice"
+},
+{
+"name": "My Little Paris",
+"website": "mylittleparis.com",
+"in_paris_area": true,
+"office_street": "13 boulevard de Rochechouart",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.mylittleparis.com/mentions-legales"
+},
+{
+"name": "PlayPlay",
+"website": "playplay.com",
+"in_paris_area": true,
+"office_street": "9 rue des Colonnes",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://playplay.com/fr/mentions-legales"
+},
+{
+"name": "Stockly",
+"website": "stockly.ai",
+"in_paris_area": true,
+"office_street": "8 rue du Sentier",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.linkedin.com/posts/stockly_our-sentier-office-has-room-and-were-opening-activity-7513512403368697856-KNKy"
+},
+{
+"name": "Too Good To Go France",
+"website": "toogoodtogo.com",
+"in_paris_area": true,
+"office_street": "12 rue Duhesme",
+"postcode": "75018",
+"city": "Paris",
+"source_url": "https://www.toogoodtogo.com/fr/legal/legal-entities"
+},
+{
+"name": "Zama",
+"website": "zama.ai",
+"in_paris_area": true,
+"office_street": "8 rue du Sentier",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.zama.org/legal/legal-notice"
+},
+{
+"name": "Brut",
+"website": "brut.media",
+"in_paris_area": true,
+"office_street": "17 rue de l'Arrivée",
+"postcode": "75015",
+"city": "Paris",
+"source_url": "https://www.brut.media/fr/mentions-legales"
+},
+{
+"name": "Deezer",
+"website": "deezer.com",
+"in_paris_area": true,
+"office_street": "24 rue de Calais",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.deezer.com/legal/legal"
+},
+{
+"name": "Ivalua",
+"website": "ivalua.com",
+"in_paris_area": false,
+"office_street": "102 avenue de Paris",
+"postcode": "91300",
+"city": "Massy",
+"source_url": "https://www.ivalua.com/company/offices/"
+},
+{
+"name": "Loft Orbital",
+"website": "loftorbital.com",
+"in_paris_area": false,
+"office_street": "45 boulevard de Strasbourg",
+"postcode": "31000",
+"city": "Toulouse",
+"source_url": "https://loftorbital.com/contact/"
+},
+{
+"name": "Ornikar",
+"website": "ornikar.com",
+"in_paris_area": true,
+"office_street": "172 boulevard de la Villette",
+"postcode": "75019",
+"city": "Paris",
+"source_url": "https://www.wework.com/newsroom/why-the-office-remains-invaluable-to-ornikars-company-culture-and-growth"
+},
+{
+"name": "Brevo",
+"website": "brevo.com",
+"in_paris_area": true,
+"office_street": "17 rue de Salneuve",
+"postcode": "75017",
+"city": "Paris",
+"source_url": "https://www.brevo.com/careers/our-offices/"
+},
+{
+"name": "Veepee",
+"website": "veepee.fr",
+"in_paris_area": true,
+"office_street": "249 avenue du Président Wilson",
+"postcode": "93210",
+"city": "La Plaine Saint-Denis",
+"source_url": "https://careers.veepee.com/legal-notice/"
+},
+{
+"name": "Yousign",
+"website": "yousign.com",
+"in_paris_area": true,
+"office_street": "36 rue de Saint-Pétersbourg",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://www.lejournaldesentreprises.com/entreprise/yousign"
+},
+{
+"name": "Welcome to the Jungle",
+"website": "welcometothejungle.com",
+"in_paris_area": true,
+"office_street": "8-10 rue Saint-Fiacre",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.welcometothejungle.com/en/pages/terms"
+},
+{
+"name": "Lucca",
+"website": "lucca.fr",
+"in_paris_area": true,
+"office_street": "151-157 avenue de France",
+"postcode": "75013",
+"city": "Paris",
+"source_url": "https://www.lucca.fr/mentions-legales"
+},
+{
+"name": "Defacto",
+"website": "getdefacto.com",
+"in_paris_area": true,
+"office_street": "100 boulevard de Sébastopol",
+"postcode": "75003",
+"city": "Paris",
+"source_url": "https://www.getdefacto.com/fr/mentions-legales"
+},
+{
+"name": "Ramify",
+"website": "ramify.fr",
+"in_paris_area": true,
+"office_street": "40 rue Blanche",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.ramify.fr/contact"
+},
+{
+"name": "Sekoia",
+"website": "sekoia.io",
+"in_paris_area": false,
+"office_street": "28 boulevard du Colombier",
+"postcode": "35000",
+"city": "Rennes",
+"source_url": "https://www.sekoia.com/fr/legal-notice"
+},
+{
+"name": "Scaleway",
+"website": "scaleway.com",
+"in_paris_area": true,
+"office_street": "8 rue de la Ville-l'Évêque",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://www.scaleway.com/en/legal-notice/"
+},
+{
+"name": "Upply",
+"website": "upply.com",
+"in_paris_area": true,
+"office_street": "26 quai Charles Pasqua",
+"postcode": "92300",
+"city": "Levallois-Perret",
+"source_url": "https://www.upply.com/mentions-legales"
+},
+{
+"name": "Wakam",
+"website": "wakam.com",
+"in_paris_area": true,
+"office_street": "120-122 rue Réaumur",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.wakam.com/legal-notice"
+},
+{
+"name": "Medadom",
+"website": "medadom.com",
+"in_paris_area": true,
+"office_street": "139 boulevard de Sébastopol",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.medadom.com/mentions"
+},
+{
+"name": "Greenly",
+"website": "greenly.earth",
+"in_paris_area": true,
+"office_street": "24 rue de Calais",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://greenly.earth/cgv/mentions-legales"
+},
+{
+"name": "Phenix",
+"website": "wearephenix.com",
+"in_paris_area": true,
+"office_street": "43-45 avenue de Clichy",
+"postcode": "75017",
+"city": "Paris",
+"source_url": "https://www.wearephenix.com/en/legal-notices-phenix/"
+},
+{
+"name": "La Belle Vie",
+"website": "labellevie.com",
+"in_paris_area": true,
+"office_street": "9 rue Georges et Maï Politzer",
+"postcode": "75012",
+"city": "Paris",
+"source_url": "https://www.labellevie.com/conditions-generales-de-vente"
+},
+{
+"name": "Yuka",
+"website": "yuka.io",
+"in_paris_area": true,
+"office_street": "14 rue de Turbigo",
+"postcode": "75001",
+"city": "Paris",
+"source_url": "https://help.yuka.io/l/en/article/nlsu1ptphw-legal-notice"
+},
+{
+"name": "Sezane",
+"website": "sezane.com",
+"in_paris_area": true,
+"office_street": "115 rue du Bac",
+"postcode": "75007",
+"city": "Paris",
+"source_url": "https://www.sezane.com/en/terms-conditions"
+},
+{
+"name": "Back Market",
+"website": "backmarket.com",
+"in_paris_area": true,
+"office_street": "199 rue Championnet",
+"postcode": "75018",
+"city": "Paris",
+"source_url": "https://www.backmarket.fr/fr-fr/legal/data-protection"
+},
+{
+"name": "Pasqal",
+"website": "pasqal.com",
+"in_paris_area": false,
+"office_street": "24 rue Emile Baudot",
+"postcode": "91120",
+"city": "Palaiseau",
+"source_url": "https://www.pasqal.com/about-us/"
+},
+{
+"name": "The Exploration Company",
+"website": "exploration.space",
+"in_paris_area": false,
+"office_street": "116 avenue de Magudas",
+"postcode": "33185",
+"city": "Le Haillan",
+"source_url": "https://www.exploration.space/imprint"
+},
+{
+"name": "Pollen Robotics",
+"website": "pollen-robotics.com",
+"in_paris_area": false,
+"office_street": "2 Place Jean Jaurès",
+"postcode": "33000",
+"city": "Bordeaux",
+"source_url": "https://pollen-robotics.com/contact-us/"
+},
+{
+"name": "Jedha",
+"website": "jedha.co",
+"in_paris_area": true,
+"office_street": "116 Rue du Faubourg Saint-Martin",
+"postcode": "75010",
+"city": "Paris",
+"source_url": "https://www.jedha.co/campus/paris"
+},
+{
+"name": "Kartable",
+"website": "kartable.fr",
+"in_paris_area": true,
+"office_street": "28 rue Parmentier",
+"postcode": "92200",
+"city": "Neuilly-sur-Seine",
+"source_url": "https://www.kartable.fr/mentions-legales"
+},
+{
+"name": "Ringover",
+"website": "ringover.com",
+"in_paris_area": true,
+"office_street": "8 rue François Ory",
+"postcode": "92120",
+"city": "Montrouge",
+"source_url": "https://www.ringover.com/contact"
+},
+{
+"name": "Axeptio",
+"website": "axeptio.eu",
+"in_paris_area": false,
+"office_street": "15 rue du Général Campredon",
+"postcode": "34000",
+"city": "Montpellier",
+"source_url": "https://academy.axept.io/honor"
+},
+{
+"name": "Bankin",
+"website": "bankin.com",
+"in_paris_area": true,
+"office_street": "4 rue de la Pierre Levée",
+"postcode": "75011",
+"city": "Paris",
+"source_url": "https://www.welcometothejungle.com/fr/companies/bankin/jobs/cdi-backend-developer-bankin-java17-springboot-h-f_paris"
+},
+{
+"name": "Powens",
+"website": "powens.com",
+"in_paris_area": true,
+"office_street": "84 rue Beaubourg",
+"postcode": "75003",
+"city": "Paris",
+"source_url": "https://careers.powens.com/locations/paris"
+},
+{
+"name": "Sunday",
+"website": "sundayapp.com",
+"in_paris_area": true,
+"office_street": "32 boulevard de Strasbourg",
+"postcode": "75010",
+"city": "Paris",
+"source_url": "https://sundayapp.com/fr/mentionslegales/"
+},
+{
+"name": "Collective",
+"website": "collective.work",
+"in_paris_area": true,
+"office_street": "9 rue des Colonnes",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.collective.work/mentions-legales"
+}
+]
