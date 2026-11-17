@@ -20,7 +20,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, 'data', 'cache', 'tiles')
 UA = 'paris-startup-map/1.0 (building lookup)'
 Z = 14
-RANK = {'early': 0, 'growth': 1, 'scale': 2}
+RANK = {'unknown': -1, 'early': 0, 'growth': 1, 'scale': 2}
 TMPL = None
 
 

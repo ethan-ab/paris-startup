@@ -1,0 +1,9002 @@
+[
+{
+"n": "Believe",
+"w": "believe.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 3255
+},
+{
+"n": "OpenClassrooms",
+"w": "openclassrooms.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/openclassrooms-openclassrooms-493861363",
+"source_type": "legal",
+"office_street": "18 rue de Calais",
+"linkedin_employees": 2520
+},
+{
+"n": "Qonto",
+"w": "qonto.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 2494
+},
+{
+"n": "EcoVadis",
+"w": "ecovadis.com",
+"postcode": "75116",
+"is_startup": true,
+"source_url": "https://ecovadis.com/contact-us/",
+"source_type": "contact",
+"office_street": "43 avenue de la Grande Armée",
+"linkedin_employees": 1770
+},
+{
+"n": "Malt",
+"w": "malt.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.malt.com/c/about-us",
+"source_type": "contact",
+"office_street": "18 rue Godot de Mauroy",
+"linkedin_employees": 1770
+},
+{
+"n": "Mistral",
+"w": "mistral.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1759
+},
+{
+"n": "Alan",
+"w": "alan.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://alan.com/fr-fr/contact",
+"source_type": "contact",
+"office_street": "117 quai de Valmy",
+"linkedin_employees": 1641
+},
+{
+"n": "Doctolib",
+"w": "doctolib.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 3725
+},
+{
+"n": "leboncoin",
+"w": "leboncoincorporate.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1467
+},
+{
+"n": "FairMoney",
+"w": "fairmoney.io",
+"postcode": "75006",
+"is_startup": true,
+"source_url": "https://craft.co/fairmoney/locations",
+"source_type": "maps",
+"office_street": "96 boulevard Raspail",
+"linkedin_employees": 1323
+},
+{
+"n": "Pennylane",
+"w": "pennylane.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.pennylane.com/fr/event-facture-electronique-pennylane",
+"source_type": "press",
+"office_street": "4 rue Jules Lefebvre",
+"linkedin_employees": 1273
+},
+{
+"n": "Hugging Face",
+"w": "huggingface.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1171
+},
+{
+"n": "own",
+"w": "flylab.io",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://linkedin.com/company/flylab",
+"source_type": "linkedin",
+"office_street": "88 rue Saint-Maur",
+"linkedin_employees": 1107
+},
+{
+"n": "Sézane",
+"w": "sezane.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1040
+},
+{
+"n": "Lucca",
+"w": "lucca.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1021
+},
+{
+"n": "Voodoo",
+"w": "voodoo.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 995
+},
+{
+"n": "TheFork",
+"w": "thefork.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 982
+},
+{
+"n": "Le Wagon",
+"w": "lewagon.com",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://www.lewagon.com/paris",
+"source_type": "maps",
+"office_street": "16 Villa Gaudelet",
+"linkedin_employees": 950
+},
+{
+"n": "Hublo",
+"w": "hublo.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 865
+},
+{
+"n": "Stuart",
+"w": "stuart.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 861
+},
+{
+"n": "Brevo",
+"w": "brevo.com",
+"postcode": "75017",
+"is_startup": true,
+"source_url": "https://www.brevo.com/careers/our-offices/",
+"source_type": "careers",
+"office_street": "17 Rue de Salneuve",
+"linkedin_employees": 849
+},
+{
+"n": "Homa",
+"w": "homagames.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 831
+},
+{
+"n": "Pigment",
+"w": "pigment.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 825
+},
+{
+"n": "Ledger",
+"w": "ledger.com",
+"postcode": "75003",
+"is_startup": true,
+"source_url": "https://careers.ledger.com/our-locations/",
+"source_type": "careers",
+"office_street": "106 Rue du Temple",
+"linkedin_employees": 802
+},
+{
+"n": "PayFit",
+"w": "payfit.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://payfit.com/fr/mentions-legales/",
+"source_type": "legal",
+"office_street": "37-39 Avenue Trudaine",
+"linkedin_employees": 793
+},
+{
+"n": "Studi",
+"w": "studi.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 3003
+},
+{
+"n": "Swile",
+"w": "swile.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 762
+},
+{
+"n": "iziwork",
+"w": "iziwork.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 738
+},
+{
+"n": "Scaleway",
+"w": "scaleway.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 716
+},
+{
+"n": "Vestiaire Collective",
+"w": "vestiairecollective.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 700
+},
+{
+"n": "NEVERHACK",
+"w": "neverhack.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 682
+},
+{
+"n": "ManoMano",
+"w": "manomano.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 665
+},
+{
+"n": "Welcome to the Jungle France",
+"w": "welcometothejungle.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 665
+},
+{
+"n": "Asacha Media Group",
+"w": "asachamediagroup.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 648
+},
+{
+"n": "ChapsVision",
+"w": "chapsvision.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 611
+},
+{
+"n": "Electra",
+"w": "go-electra.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.go-electra.com/fr/contact/",
+"source_type": "contact",
+"office_street": "104 rue de Richelieu",
+"linkedin_employees": 609
+},
+{
+"n": "Younited",
+"w": "younited.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://younited.com/fr/legal/mentions-legales/",
+"source_type": "legal",
+"office_street": "21 rue de Châteaudun",
+"linkedin_employees": 580
+},
+{
+"n": "D-EDGE Hospitality Solutions",
+"w": "d-edge.com",
+"postcode": "75003",
+"is_startup": false,
+"source_url": "https://www.d-edge.com/fr/nos-bureaux/",
+"source_type": "contact",
+"office_street": "64-66 rue des Archives",
+"linkedin_employees": 572
+},
+{
+"n": "Groupe SeLoger",
+"w": "pro-seloger.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 562
+},
+{
+"n": "Akuo",
+"w": "akuoenergy.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 542
+},
+{
+"n": "Planity",
+"w": "planity.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 526
+},
+{
+"n": "Rocket School",
+"w": "rocket-school.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 521
+},
+{
+"n": "fifty-five",
+"w": "fifty-five.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 496
+},
+{
+"n": "Green-Got",
+"w": "green-got.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 492
+},
+{
+"n": "Skello",
+"w": "skello.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 492
+},
+{
+"n": "Chance",
+"w": "chance.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 488
+},
+{
+"n": "Centre Commercial",
+"w": "centrecommercial.cc",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 487
+},
+{
+"n": "Locala",
+"w": "asklocala.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 487
+},
+{
+"n": "Free2move",
+"w": "free2move.rent",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 486
+},
+{
+"n": "DON'T NOD",
+"w": "dont-nod.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 484
+},
+{
+"n": "BlaBlaCar",
+"w": "blablacar.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 483
+},
+{
+"n": "Neoen",
+"w": "neoen.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 476
+},
+{
+"n": "Meero",
+"w": "meero.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 473
+},
+{
+"n": "SEVETYS",
+"w": "sevetys.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 468
+},
+{
+"n": "HARI",
+"w": "hari-studios.com",
+"postcode": "75011 Paris",
+"is_startup": false,
+"source_url": "https://hari-studios.com/en/contact/",
+"source_type": "contact",
+"office_street": "166 boulevard Voltaire",
+"linkedin_employees": 462
+},
+{
+"n": "La Ruche qui dit Oui !",
+"w": "laruchequiditoui.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 461
+},
+{
+"n": "FranceTV Publicité",
+"w": "francetvpub.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 459
+},
+{
+"n": "Partoo",
+"w": "partoo.co",
+"postcode": "75018 Paris",
+"is_startup": false,
+"source_url": "https://www.partoo.co/en/contact-us/",
+"source_type": "contact",
+"office_street": "190 rue Championnet",
+"linkedin_employees": 454
+},
+{
+"n": "MarketPay",
+"w": "market-pay.com",
+"postcode": "75002 Paris",
+"is_startup": true,
+"source_url": "https://market-pay.com/en/privacypolicy",
+"source_type": "legal",
+"office_street": "120-122 rue Réaumur",
+"linkedin_employees": 449
+},
+{
+"n": "Alveus",
+"w": "alveusclub.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 447
+},
+{
+"n": "Lydia",
+"w": "lydia-app.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 433
+},
+{
+"n": "VIPARIS",
+"w": "viparis.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 430
+},
+{
+"n": "My Job Glasses",
+"w": "myjobglasses.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 429
+},
+{
+"n": "Saint Algue France",
+"w": "saint-algue.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 422
+},
+{
+"n": "Onepilot",
+"w": "onepilot.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 414
+},
+{
+"n": "Wecasa",
+"w": "wecasa.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 414
+},
+{
+"n": "Ubiqus",
+"w": "ubiqus.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 413
+},
+{
+"n": "Brut.",
+"w": "brut.media",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 408
+},
+{
+"n": "Deepki",
+"w": "deepki.com",
+"postcode": "75011 Paris",
+"is_startup": true,
+"source_url": "https://www.deepki.com/contact/",
+"source_type": "contact",
+"office_street": "7 villa du Clos Malevart",
+"linkedin_employees": 402
+},
+{
+"n": "GRAITEC GROUP",
+"w": "graitec-group.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 400
+},
+{
+"n": "Lunettes Pour Tous",
+"w": "lunettespourtous.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 399
+},
+{
+"n": "STUDIO TF1",
+"w": "studiotf1.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 392
+},
+{
+"n": "Shine France",
+"w": "shine.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 387
+},
+{
+"n": "Agence Trinity",
+"w": "agencetrinity.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 383
+},
+{
+"n": "Mon Marché",
+"w": "mon-marche.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 383
+},
+{
+"n": "Lise",
+"w": "lise.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 382
+},
+{
+"n": "VO2 GROUP",
+"w": "vo2-group.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 379
+},
+{
+"n": "360Learning",
+"w": "360learning.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 505
+},
+{
+"n": "Agicap",
+"w": "agicap.com",
+"postcode": "75002 Paris",
+"is_startup": true,
+"source_url": "https://agicap.com/en/contact-us/",
+"source_type": "contact",
+"office_street": "19 rue Poissonnière",
+"linkedin_employees": 812
+},
+{
+"n": "Akeneo",
+"w": "akeneo.com",
+"postcode": "75009 Paris",
+"is_startup": true,
+"source_url": "https://www.akeneo.com/about-us/",
+"source_type": "contact",
+"office_street": "24 rue de Mogador",
+"linkedin_employees": 427
+},
+{
+"n": "Dataiku",
+"w": "dataiku.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1572
+},
+{
+"n": "Groupe Les Echos-Le Parisien",
+"w": "lesechosleparisien.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 375
+},
+{
+"n": "Jimmy Fairly",
+"w": "jimmyfairly.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 661
+},
+{
+"n": "Meilleurtaux",
+"w": "meilleurtaux.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1592
+},
+{
+"n": "Mirakl",
+"w": "mirakl.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 892
+},
+{
+"n": "Owkin",
+"w": "owkin.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.linkedin.com/company/owkin",
+"source_type": "linkedin",
+"office_street": "14/16 boulevard Poissonnière",
+"linkedin_employees": 396
+},
+{
+"n": "Shift Technology",
+"w": "shift-technology.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 633
+},
+{
+"n": "Teads",
+"w": "teads.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1817
+},
+{
+"n": "Withings",
+"w": "withings.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 326
+},
+{
+"n": "NW",
+"w": "nw-groupe.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 372
+},
+{
+"n": "padoa",
+"w": "padoa.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 360
+},
+{
+"n": "PUR",
+"w": "pur.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 360
+},
+{
+"n": "Soeur",
+"w": "soeur.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 356
+},
+{
+"n": "Spendesk",
+"w": "spendesk.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 356
+},
+{
+"n": "SYNETIS",
+"w": "synetis.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 356
+},
+{
+"n": "YKONE",
+"w": "ykone.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 354
+},
+{
+"n": "OCUS",
+"w": "ocus.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 350
+},
+{
+"n": "Hello bank!",
+"w": "hellobank.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 345
+},
+{
+"n": "CARMILA",
+"w": "carmila.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 343
+},
+{
+"n": "Circus",
+"w": "circus.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Swan",
+"w": "swan.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 342
+},
+{
+"n": "Réseau AUXI'life",
+"w": "auxilife.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 340
+},
+{
+"n": "Marble",
+"w": "marble.studio",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://marble.studio/",
+"source_type": "contact",
+"office_street": "5 Parvis Alan Turing, Station F",
+"linkedin_employees": 339
+},
+{
+"n": "VL",
+"w": "vl-media.fr",
+"postcode": "75014",
+"is_startup": false,
+"source_url": "https://vl-media.fr/contact/",
+"source_type": "contact",
+"office_street": "62-64 rue du Couëdic",
+"linkedin_employees": 336
+},
+{
+"n": "Laboratoires Vivacy",
+"w": "vivacy.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 335
+},
+{
+"n": "Doctrine",
+"w": "doctrine.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 329
+},
+{
+"n": "Upway",
+"w": "upway.fr",
+"postcode": "92230",
+"is_startup": true,
+"source_url": "https://upway.fr/pages/landing-page-showroom",
+"source_type": "contact",
+"office_street": "5 Rue Olympe de Gouges",
+"linkedin_employees": 329
+},
+{
+"n": "SBI - Data | AI | EPM",
+"w": "sbi-group.com",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://www.sbi-group.com/",
+"source_type": "contact",
+"office_street": "54 rue de Paradis",
+"linkedin_employees": 325
+},
+{
+"n": "Staycation",
+"w": "staycation.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 325
+},
+{
+"n": "Data4",
+"w": "data4group.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 324
+},
+{
+"n": "Tiime",
+"w": "tiime.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 324
+},
+{
+"n": "Big Fernand",
+"w": "bigfernand.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 323
+},
+{
+"n": "Rêve",
+"w": "beacon.bio",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 320
+},
+{
+"n": "Experimental",
+"w": "experimentalgroup.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.experimentalgroup.com/fr/contact",
+"source_type": "contact",
+"office_street": "14-16 boulevard Poissonnière",
+"linkedin_employees": 316
+},
+{
+"n": "Fortiche Production",
+"w": "forticheprod.com",
+"postcode": "75013",
+"is_startup": false,
+"source_url": "https://forticheprod.com/contact/",
+"source_type": "contact",
+"office_street": "100 avenue de France",
+"linkedin_employees": 316
+},
+{
+"n": "H Company",
+"w": "hcompany.ai",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://hcompany.ai/contact",
+"source_type": "contact",
+"office_street": "8 rue Sainte-Cécile",
+"linkedin_employees": 314
+},
+{
+"n": "Babysittor",
+"w": "babysittor.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 311
+},
+{
+"n": "Groupe Olyn",
+"w": "olyn-group.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 305
+},
+{
+"n": "PrestaShop",
+"w": "prestashop.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 303
+},
+{
+"n": "Ecole O'clock",
+"w": "oclock.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 299
+},
+{
+"n": "AB Tasty (Now Wingify)",
+"w": "abtasty.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 295
+},
+{
+"n": "isahit",
+"w": "isahit.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 293
+},
+{
+"n": "Alice & Bob",
+"w": "alice-bob.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 292
+},
+{
+"n": "IRO PARIS",
+"w": "iroparis.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 288
+},
+{
+"n": "QAPA",
+"w": "qapa.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 287
+},
+{
+"n": "Naboo",
+"w": "naboo.app",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.naboo.app/bureaux/paris",
+"source_type": "contact",
+"office_street": "7 rue de Paradis",
+"linkedin_employees": 277
+},
+{
+"n": "L'École Française",
+"w": "lecolefrancaise.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Qare.fr",
+"w": "qare.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 275
+},
+{
+"n": "bsport",
+"w": "bsport.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 273
+},
+{
+"n": "Yuka",
+"w": "yuka.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 273
+},
+{
+"n": "Women in AI",
+"w": "womeninai.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "HAST",
+"w": "hastparis.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 271
+},
+{
+"n": "Descartes Underwriting",
+"w": "descartesunderwriting.com",
+"postcode": "75017",
+"is_startup": true,
+"source_url": "https://descartesunderwriting.com/contact",
+"source_type": "contact",
+"office_street": "148 rue de Courcelles",
+"linkedin_employees": 270
+},
+{
+"n": "AdCreative.ai",
+"w": "adcreative.ai",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 269
+},
+{
+"n": "BIOSerenity",
+"w": "bioserenity.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 269
+},
+{
+"n": "crème de la crème",
+"w": "cremedelacreme.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 269
+},
+{
+"n": "ARPAVIE",
+"w": "arpavie.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 268
+},
+{
+"n": "Innovafeed",
+"w": "innovafeed.com",
+"postcode": "75018",
+"is_startup": true,
+"source_url": "https://innovafeed.com/mentions-legales/",
+"source_type": "legal",
+"office_street": "8 rue Sofia",
+"linkedin_employees": 268
+},
+{
+"n": "Payplug",
+"w": "payplug.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 268
+},
+{
+"n": "Zenchef",
+"w": "zenchef.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 268
+},
+{
+"n": "CABAIA",
+"w": "cabaia.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 262
+},
+{
+"n": "instan",
+"w": "instan.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 262
+},
+{
+"n": "Sienna Investment Managers",
+"w": "sienna-im.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 262
+},
+{
+"n": "DIGITRIPS Group",
+"w": "digitrips.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 259
+},
+{
+"n": "Stych",
+"w": "stych.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 259
+},
+{
+"n": "Brigad",
+"w": "brigad.co",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.brigad.co/legal/charte-de-confidentialite",
+"source_type": "legal",
+"office_street": "34 rue du Sentier",
+"linkedin_employees": 255
+},
+{
+"n": "Getaround",
+"w": "getaround.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 254
+},
+{
+"n": "Groupe Santiane",
+"w": "santiane.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 254
+},
+{
+"n": "Treezor",
+"w": "treezor.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 254
+},
+{
+"n": "WBP",
+"w": "wbp-co.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 254
+},
+{
+"n": "Zama",
+"w": "zama.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 254
+},
+{
+"n": "SWEEP",
+"w": "sweep.net",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 252
+},
+{
+"n": "Youtrust",
+"w": "youtrust.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 251
+},
+{
+"n": "G LA DALLE France",
+"w": "g-ladalle.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 250
+},
+{
+"n": "Les Sherpas",
+"w": "sherpas.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 250
+},
+{
+"n": "Shadow",
+"w": "shadow.tech",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 250
+},
+{
+"n": "Comet Meetings",
+"w": "comet-meetings.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 247
+},
+{
+"n": "LegalPlace",
+"w": "legalplace.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 245
+},
+{
+"n": "Ohm Energie",
+"w": "ohm-energie.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 243
+},
+{
+"n": "Blank",
+"w": "blank.app",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 241
+},
+{
+"n": "Shippeo",
+"w": "shippeo.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.shippeo.com/company/contact-us",
+"source_type": "contact",
+"office_street": "60 rue d’Hauteville",
+"linkedin_employees": 238
+},
+{
+"n": "AKUR8",
+"w": "akur8.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 237
+},
+{
+"n": "Frichti",
+"w": "frichti.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 237
+},
+{
+"n": "Lyf Pay",
+"w": "lyf.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 234
+},
+{
+"n": "asap.work",
+"w": "asap.work",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 233
+},
+{
+"n": "Mouvement Impact France",
+"w": "impactfrance.eco",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 232
+},
+{
+"n": "AXA Climate",
+"w": "climate.axa",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 231
+},
+{
+"n": "Qair Group",
+"w": "qair.energy",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 231
+},
+{
+"n": "AD Seniors",
+"w": "adseniors.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 230
+},
+{
+"n": "Mairie du 17e arrondissement de Paris",
+"w": "mairie17.paris.fr",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://mairie17.paris.fr/",
+"source_type": "contact",
+"office_street": "16 rue des Batignolles",
+"linkedin_employees": 0
+},
+{
+"n": "amo",
+"w": "amo.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 228
+},
+{
+"n": "La Belle Vie",
+"w": "labellevie.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 227
+},
+{
+"n": "SARENZA.com",
+"w": "sarenza.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 226
+},
+{
+"n": "Aircall",
+"w": "aircall.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 864
+},
+{
+"n": "Algolia",
+"w": "algolia.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 923
+},
+{
+"n": "Dental Monitoring",
+"w": "dental-monitoring.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 541
+},
+{
+"n": "Dott",
+"w": "ridedott.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 655
+},
+{
+"n": "lylo",
+"w": "lylo.tv",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 225
+},
+{
+"n": "DriiveMe",
+"w": "driiveme.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 224
+},
+{
+"n": "Kaiko",
+"w": "kaiko.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 224
+},
+{
+"n": "Joko",
+"w": "joko.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "MEDADOM",
+"w": "medadom.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 223
+},
+{
+"n": "MEDIOT",
+"w": "mediot.tech",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 222
+},
+{
+"n": "MÊME",
+"w": "memecosmetics.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 221
+},
+{
+"n": "Resilience Care",
+"w": "resilience.care",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 221
+},
+{
+"n": "Positive Planet",
+"w": "positiv.ngo",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 220
+},
+{
+"n": "Yogurt Factory",
+"w": "yogurtfactory.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 220
+},
+{
+"n": "Meetic",
+"w": "meetic-europe.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 218
+},
+{
+"n": "YARD",
+"w": "yard.me",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 217
+},
+{
+"n": "Learning Planet Institute",
+"w": "learningplanetinstitute.org",
+"postcode": "75004",
+"is_startup": false,
+"source_url": "https://learningplanetinstitute.org/",
+"source_type": "contact",
+"office_street": "8 bis rue Charles V",
+"linkedin_employees": 0
+},
+{
+"n": "Liberkeys",
+"w": "liberkeys.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 214
+},
+{
+"n": "JobTeaser",
+"w": "jobteaser.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 213
+},
+{
+"n": "Veesion",
+"w": "veesion.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "IDOL",
+"w": "idol.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 212
+},
+{
+"n": "GitGuardian",
+"w": "gitguardian.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 211
+},
+{
+"n": "MédecinDirect",
+"w": "medecindirect.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 211
+},
+{
+"n": "Unlimitail",
+"w": "unlimitail.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 210
+},
+{
+"n": "Biggie",
+"w": "biggie.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 209
+},
+{
+"n": "NUS",
+"w": "vivre-nus.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Eres",
+"w": "eres-group.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 207
+},
+{
+"n": "Erborian",
+"w": "erborian.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Hello Watt",
+"w": "hellowatt.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 202
+},
+{
+"n": "Kactus",
+"w": "kactus.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Hunteed",
+"w": "hunteed.com",
+"postcode": "75001",
+"is_startup": true,
+"source_url": "https://www.hunteed.com/fr/contact-us",
+"source_type": "company contact page",
+"office_street": "40 rue du Louvre",
+"linkedin_employees": 0
+},
+{
+"n": "Respire",
+"w": "respire.co",
+"postcode": "75012",
+"is_startup": true,
+"source_url": "https://respire.co/policies/contact-information",
+"source_type": "company contact page",
+"office_street": "12 rue Lacuée",
+"linkedin_employees": 111
+},
+{
+"n": "Groupe Cyril Lignac",
+"w": "cyrillignac.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Wandercraft",
+"w": "wandercraft.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 197
+},
+{
+"n": "PlayPlay",
+"w": "playplay.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 196
+},
+{
+"n": "Stoïk",
+"w": "stoik.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Molotov",
+"w": "molotov.tv",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "TwentyTwo Real Estate",
+"w": "twentytwo.com",
+"postcode": "75116",
+"is_startup": false,
+"source_url": "https://twentytwo.com/contact/",
+"source_type": "company contact page",
+"office_street": "4 rue Dumont d’Urville",
+"linkedin_employees": 0
+},
+{
+"n": "YouSchool",
+"w": "youschool.info",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Yogosha",
+"w": "yogosha.com",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://yogosha.com/fr/contact/",
+"source_type": "company contact page",
+"office_street": "37 Rue des Mathurins",
+"linkedin_employees": 0
+},
+{
+"n": "EFICIA",
+"w": "eficia.com",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://eficia.com/fr/a-propos/contact",
+"source_type": "company contact page",
+"office_street": "112 ter Rue Cardinet",
+"linkedin_employees": 0
+},
+{
+"n": "Scal-e",
+"w": "scal-e.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Jump",
+"w": "join-jump.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Lifen",
+"w": "lifen.fr",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://www.lifen.fr/",
+"source_type": "company website",
+"office_street": "43-45 Rue de Saint-Pétersbourg",
+"linkedin_employees": 0
+},
+{
+"n": "bnetwork",
+"w": "bnetwork.com",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://bnetwork.com/Corporate/Community/ImplantationsAndNetwork.aspx",
+"source_type": "company locations page",
+"office_street": "124/126 Rue de Provence",
+"linkedin_employees": 4
+},
+{
+"n": "S3NS",
+"w": "s3ns.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 189
+},
+{
+"n": "Beaumarly",
+"w": "beaumarly.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Bien'ici",
+"w": "bienici.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "My Little Paris",
+"w": "mylittleparis.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.pagesjaunes.fr/pros/55497163",
+"source_type": "business_directory",
+"office_street": "13 boulevard de Rochechouart",
+"linkedin_employees": 0
+},
+{
+"n": "NetZero",
+"w": "netzero.green",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Agorapulse",
+"w": "agorapulse.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 187
+},
+{
+"n": "La Ruche",
+"w": "la-ruche.net",
+"postcode": "75020",
+"is_startup": false,
+"source_url": "https://la-ruche.net/espaces/coworking-paris/",
+"source_type": "official website",
+"office_street": "24 rue de l’Est",
+"linkedin_employees": 0
+},
+{
+"n": "Diabolocom",
+"w": "diabolocom.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://fr.diabolocom.com/contact/",
+"source_type": "company_contact_page",
+"office_street": "20 Rue de la Paix",
+"linkedin_employees": 0
+},
+{
+"n": "E2C Paris",
+"w": "e2c-paris.fr",
+"postcode": "75018",
+"is_startup": false,
+"source_url": "https://e2c-paris.fr/contact",
+"source_type": "official website",
+"office_street": "47 rue d’Aubervilliers",
+"linkedin_employees": 0
+},
+{
+"n": "makesense",
+"w": "makesense.org",
+"postcode": "75012",
+"is_startup": false,
+"source_url": "https://spaces.makesense.org/contact/",
+"source_type": "official contact page",
+"office_street": "11 rue Biscornet",
+"linkedin_employees": 0
+},
+{
+"n": "Swapcard",
+"w": "swapcard.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.swapcard.com/legal",
+"source_type": "company legal page",
+"office_street": "17 - 21 Rue Saint Fiacre",
+"linkedin_employees": 0
+},
+{
+"n": "Hexa",
+"w": "efounders.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.hexa.com/faq",
+"source_type": "company website",
+"office_street": "12 rue Martel",
+"linkedin_employees": 182
+},
+{
+"n": "Bodyguard",
+"w": "bodyguard.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Contexte",
+"w": "contexte.com",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://about.contexte.com/nous-contacter",
+"source_type": "company website",
+"office_street": "9 cour des Petites-Écuries",
+"linkedin_employees": 181
+},
+{
+"n": "Wiremind",
+"w": "wiremind.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 180
+},
+{
+"n": "Feed.",
+"w": "okr.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 179
+},
+{
+"n": "Yoopies",
+"w": "yoopies.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 179
+},
+{
+"n": "Paris Santé",
+"w": "paris.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Dust",
+"w": "dust.tt",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 177
+},
+{
+"n": "Lemonway",
+"w": "lemonway.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.lemonway.com/en/legal-notice",
+"source_type": "legal notice",
+"office_street": "8 Rue du Sentier",
+"linkedin_employees": 0
+},
+{
+"n": "Quitoque",
+"w": "quitoque.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 177
+},
+{
+"n": "Ysé",
+"w": "yse-paris.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Bioprojet",
+"w": "bioprojet.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.bioprojet.com/nous-contacter/",
+"source_type": "company contact page",
+"office_street": "115 rue d'Aboukir",
+"linkedin_employees": 176
+},
+{
+"n": "Rise Up",
+"w": "riseup.ai",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.riseup.ai/contact",
+"source_type": "company website",
+"office_street": "1 Cité Paradis",
+"linkedin_employees": 176
+},
+{
+"n": "Meilleurs Agents",
+"w": "meilleursagents.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.meilleursagents.com/contact/",
+"source_type": "company contact page",
+"office_street": "2-8 rue des Italiens",
+"linkedin_employees": 171
+},
+{
+"n": "ESTREEM",
+"w": "estreem.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Jow",
+"w": "jow.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 170
+},
+{
+"n": "UpSlide",
+"w": "upslide.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 170
+},
+{
+"n": "UNIT IMAGE",
+"w": "unit-image.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 169
+},
+{
+"n": "Kolsquare",
+"w": "kolsquare.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Sqwad",
+"w": "sqwad.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Worldia",
+"w": "worldia.com",
+"postcode": "75017",
+"is_startup": true,
+"source_url": "https://agencesvoyage.fr/75/paris/worldia-ct0",
+"source_type": "directory",
+"office_street": "52 Rue Bayen",
+"linkedin_employees": 168
+},
+{
+"n": "Shares",
+"w": "shares.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Bcv Systems",
+"w": "basecampvascular.com",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://www.basecampvascular.com/",
+"source_type": "contact",
+"office_street": "6 rue du Docteur Laurent",
+"linkedin_employees": 0
+},
+{
+"n": "Eureka Education",
+"w": "eureka-education.fr",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.eureka-education.fr/fr/contact",
+"source_type": "contact",
+"office_street": "145 boulevard Haussmann",
+"linkedin_employees": 0
+},
+{
+"n": "Serena",
+"w": "serena.vc",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Because Music",
+"w": "because.tv",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "EOS imaging",
+"w": "eos-imaging.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.eos-imaging.com/fr/contactez-nous",
+"source_type": "contact",
+"office_street": "32 rue Blanche",
+"linkedin_employees": 0
+},
+{
+"n": "La Fourche",
+"w": "lafourche.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 164
+},
+{
+"n": "Orchestra",
+"w": "orchestra.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "BeReal.",
+"w": "bereal.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "WOO",
+"w": "woo.paris",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://linkedin.com/company/woo-paris",
+"source_type": "LinkedIn company page",
+"office_street": "255 boulevard Pereire",
+"linkedin_employees": 162
+},
+{
+"n": "Kbrw",
+"w": "kbrw.com",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://careers.kbrw.fr/locations/paris-hq",
+"source_type": "company careers page",
+"office_street": "11 avenue Parmentier",
+"linkedin_employees": 0
+},
+{
+"n": "Mobsuccess",
+"w": "mobsuccess.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://mobsuccess.com/contact",
+"source_type": "company website",
+"office_street": "151 rue Saint-Denis",
+"linkedin_employees": 0
+},
+{
+"n": "Quiz Room",
+"w": "quiz-room.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Cielis",
+"w": "cielis.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Sipartech",
+"w": "sipartech.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.sipartech.com/about-sipartech-3/",
+"source_type": "company website office page",
+"office_street": "7 rue Auber",
+"linkedin_employees": 0
+},
+{
+"n": "Yubo",
+"w": "yubo.live",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Bourjois",
+"w": "bourjois.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "VYV 3 Île-de-France",
+"w": "idf.vyv3.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 159
+},
+{
+"n": "Groupe Magnolia",
+"w": "simulassur.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 158
+},
+{
+"n": "KRYPTOSPHERE",
+"w": "kryptosphere.org",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Moka.Care",
+"w": "moka.care",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://moka.care/",
+"source_type": "company website",
+"office_street": "6 rue St-Sabin",
+"linkedin_employees": 0
+},
+{
+"n": "IKIGAI Education",
+"w": "ikigai-education.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "JIB",
+"w": "jib-home.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 156
+},
+{
+"n": "Combo",
+"w": "combohr.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://combohr.com/",
+"source_type": "company website",
+"office_street": "32 Rue de Trévise",
+"linkedin_employees": 0
+},
+{
+"n": "GAYA",
+"w": "gaya.bike",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 155
+},
+{
+"n": "Interstis Solutions",
+"w": "interstis.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Les Bébés Explorateurs",
+"w": "lesbebesexplorateurs.com",
+"postcode": "92400",
+"is_startup": false,
+"source_url": "https://lesbebesexplorateurs.com/",
+"source_type": "company website",
+"office_street": "1 rue Lalyre",
+"linkedin_employees": 0
+},
+{
+"n": "Les Secrets de Loly",
+"w": "secretsdeloly.com",
+"postcode": "75012",
+"is_startup": false,
+"source_url": "https://b2b.secretsdeloly.com/fr/nous-contacter",
+"source_type": "company contact page",
+"office_street": "56 rue Coriolis",
+"linkedin_employees": 152
+},
+{
+"n": "Welcome at Work!",
+"w": "welcomeatwork.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 152
+},
+{
+"n": "Yann Couvreur Pâtisserie",
+"w": "yanncouvreur.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Ad's up Consulting",
+"w": "ads-up.fr",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://ads-up.fr/contact/",
+"source_type": "company website",
+"office_street": "103 Boulevard de Charonne",
+"linkedin_employees": 0
+},
+{
+"n": "each One",
+"w": "eachone.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "GENERALE DU SOLAIRE",
+"w": "gdsolaire.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 151
+},
+{
+"n": "METRON",
+"w": "metron.energy",
+"postcode": "75015",
+"is_startup": true,
+"source_url": "https://www.metron.energy/fr/contact/",
+"source_type": "company contact page",
+"office_street": "75, rue de Lourmel",
+"linkedin_employees": 151
+},
+{
+"n": "R3",
+"w": "r3.fr",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.r3.fr/contact",
+"source_type": "company contact page",
+"office_street": "18-20 rue Treilhard",
+"linkedin_employees": 0
+},
+{
+"n": "Ankorstore",
+"w": "ankorstore.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 183
+},
+{
+"n": "ARAGAN",
+"w": "aragan.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 150
+},
+{
+"n": "B/Acceptance",
+"w": "b-acceptance.com",
+"postcode": "75012",
+"is_startup": false,
+"source_url": "https://testing.b-acceptance.com/demande-de-contact",
+"source_type": "company contact page",
+"office_street": "8 rue des Pirogues de Bercy",
+"linkedin_employees": 0
+},
+{
+"n": "Botify",
+"w": "botify.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 1
+},
+{
+"n": "Devialet",
+"w": "devialet.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 2
+},
+{
+"n": "DNA Script",
+"w": "dnascript.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 128
+},
+{
+"n": "Evaneos",
+"w": "evaneos.fr",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.evaneos.fr/infos-legales/mentions-legales/",
+"source_type": "company legal notice",
+"office_street": "27 Rue de Mogador",
+"linkedin_employees": 257
+},
+{
+"n": "Hopscotch",
+"w": "hopscotch.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 525
+},
+{
+"n": "Konbini",
+"w": "konbini.com",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://www.konbini.com/mentions-legales/",
+"source_type": "company legal notice",
+"office_street": "70 rue de l'Aqueduc",
+"linkedin_employees": 241
+},
+{
+"n": "Lengow",
+"w": "lengow.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Les Nouveaux Fermiers",
+"w": "lesnouveauxfermiers.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 134
+},
+{
+"n": "Ogury",
+"w": "ogury.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 504
+},
+{
+"n": "Superprof",
+"w": "superprof.fr",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://www.superprof.fr/blog/relation-clientele-cours/",
+"source_type": "company website",
+"office_street": "42-44 rue Alexandre Dumas",
+"linkedin_employees": 9625
+},
+{
+"n": "Amplitude Studios",
+"w": "amplitude-studios.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 149
+},
+{
+"n": "Mister Garden",
+"w": "mister-garden.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Orphalan",
+"w": "orphalan.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 149
+},
+{
+"n": "Shotgun",
+"w": "shotgun.live",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Fabriq",
+"w": "fabriq.tech",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 148
+},
+{
+"n": "Madbox",
+"w": "madbox.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 148
+},
+{
+"n": "NEOSILVER",
+"w": "neosilver.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 148
+},
+{
+"n": "Sun'R",
+"w": "sunr.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 148
+},
+{
+"n": "TISSIUM",
+"w": "tissium.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 148
+},
+{
+"n": "Groupe Faubourg",
+"w": "groupe-faubourg.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 147
+},
+{
+"n": "advizeo",
+"w": "advizeo.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 146
+},
+{
+"n": "hemea",
+"w": "hemea.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 146
+},
+{
+"n": "Mozza",
+"w": "mozza.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "CENTQUATRE-PARIS",
+"w": "104.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 145
+},
+{
+"n": "Cheerz.com",
+"w": "cheerz.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 145
+},
+{
+"n": "Eloi",
+"w": "eloi.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Résidences Stella",
+"w": "residences-stella.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 145
+},
+{
+"n": "Xpollens",
+"w": "xpollens.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 145
+},
+{
+"n": "Climate House",
+"w": "climate.house",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://climate.house/climate-house",
+"source_type": "contact",
+"office_street": "39 rue du Caire",
+"linkedin_employees": 143
+},
+{
+"n": "MONI",
+"w": "monisnap.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://play.google.com/store/apps/details?id=com.monisnap.allo&hl=en",
+"source_type": "contact",
+"office_street": "4 boulevard Montmartre",
+"linkedin_employees": 0
+},
+{
+"n": "Kol",
+"w": "kol-app.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Mairie du 13e",
+"w": "mairie13.paris.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 142
+},
+{
+"n": "Luko by Allianz Direct",
+"w": "fr.luko.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 141
+},
+{
+"n": "Kry France",
+"w": "kry.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 140
+},
+{
+"n": "Bump",
+"w": "bump-charge.com",
+"postcode": "75015",
+"is_startup": true,
+"source_url": "https://www.welcometothejungle.com/en/companies/bump-charge/jobs/people-operations-office-manager_paris",
+"source_type": "job_post",
+"office_street": "130 rue de Lourmel",
+"linkedin_employees": 0
+},
+{
+"n": "Julia",
+"w": "julia-assurance.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Powens Group",
+"w": "powens.com",
+"postcode": "75003",
+"is_startup": true,
+"source_url": "https://careers.powens.com/locations/paris",
+"source_type": "careers",
+"office_street": "84 rue Beaubourg",
+"linkedin_employees": 139
+},
+{
+"n": "Sénova",
+"w": "senova.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 139
+},
+{
+"n": "Flim",
+"w": "flim.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Glopal",
+"w": "glopal.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 138
+},
+{
+"n": "HarfangLab",
+"w": "harfanglab.io",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://harfanglab.io/career/",
+"source_type": "careers",
+"office_street": "5 rue Feydeau",
+"linkedin_employees": 138
+},
+{
+"n": "Laboratoire Garancia",
+"w": "garancia-beauty.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 138
+},
+{
+"n": "Little Worker",
+"w": "littleworker.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 138
+},
+{
+"n": "Sloclap",
+"w": "sloclap.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 138
+},
+{
+"n": "Adikteev",
+"w": "adikteev.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.allbiz.fr/adikteev-01-42-61-46-55",
+"source_type": "contact",
+"office_street": "51 rue Saint-Georges",
+"linkedin_employees": 137
+},
+{
+"n": "Choose",
+"w": "appchoose.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Fraîcheur de Paris",
+"w": "fraicheurdeparis.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 137
+},
+{
+"n": "The Galion Project",
+"w": "thegalionproject.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 137
+},
+{
+"n": "WeeFin",
+"w": "weefin.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 137
+},
+{
+"n": "Bioburger",
+"w": "bioburger.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 136
+},
+{
+"n": "Expliseat",
+"w": "expliseat.com",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://expliseat.com/contact/",
+"source_type": "contact",
+"office_street": "20 rue Bouvier",
+"linkedin_employees": 136
+},
+{
+"n": "Jedha Bootcamp",
+"w": "jedha.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 136
+},
+{
+"n": "Jimmy",
+"w": "jimmy-energy.eu",
+"postcode": "75015",
+"is_startup": true,
+"source_url": "https://jimmy-energy.eu/en/home",
+"source_type": "contact",
+"office_street": "123 boulevard de Grenelle",
+"linkedin_employees": 0
+},
+{
+"n": "Buly 1803",
+"w": "buly1803.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 136
+},
+{
+"n": "Orisha Healthcare",
+"w": "healthcare.orisha.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 136
+},
+{
+"n": "Alegria.group",
+"w": "alegria.group",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 135
+},
+{
+"n": "Ecomaison",
+"w": "ecomaison.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 135
+},
+{
+"n": "HappyVore",
+"w": "happyvore.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 134
+},
+{
+"n": "Ma Salle de Sport",
+"w": "masalledesport.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 134
+},
+{
+"n": "Hero",
+"w": "heropay.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Vizzia",
+"w": "vizzia.com",
+"postcode": "75003",
+"is_startup": true,
+"source_url": "https://www.vizzia.com/en",
+"source_type": "contact",
+"office_street": "51 rue de Turbigo",
+"linkedin_employees": 133
+},
+{
+"n": "Zefir",
+"w": "zefir.fr",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://finalscout.com/company/zefir",
+"source_type": "contact",
+"office_street": "20 bis rue Lafayette",
+"linkedin_employees": 0
+},
+{
+"n": "L'ÉCOLE School of Jewelry Arts",
+"w": "lecolevancleefarpels.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.lecolevancleefarpels.com/fr/en/contact",
+"source_type": "contact",
+"office_street": "16 bis boulevard Montmartre",
+"linkedin_employees": 132
+},
+{
+"n": "May",
+"w": "may.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Vroomly",
+"w": "vroomly.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 132
+},
+{
+"n": "October",
+"w": "october.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "PerfectStay",
+"w": "perfectstay.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 131
+},
+{
+"n": "Playground",
+"w": "playground-event.fr",
+"postcode": "75013",
+"is_startup": false,
+"source_url": "https://playground-event.fr/contact/",
+"source_type": "contact",
+"office_street": "37 rue de Domrémy",
+"linkedin_employees": 0
+},
+{
+"n": "Ekwateur",
+"w": "ekwateur.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 130
+},
+{
+"n": "Enchanted Tools",
+"w": "enchanted.tools",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 130
+},
+{
+"n": "GM Planworks",
+"w": "3ds.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 130
+},
+{
+"n": "Outsight",
+"w": "outsight.ai",
+"postcode": "75006",
+"is_startup": true,
+"source_url": "https://www.outsight.ai/contact/",
+"source_type": "contact",
+"office_street": "140bis rue de Rennes",
+"linkedin_employees": 130
+},
+{
+"n": "Qwant",
+"w": "qwant.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 129
+},
+{
+"n": "Sparteo",
+"w": "sparteo.com",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://corporate.sparteo.com/contact",
+"source_type": "contact",
+"office_street": "33 boulevard des Batignolles",
+"linkedin_employees": 128
+},
+{
+"n": "The Source",
+"w": "thesource.social",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://www.thesource.social/news/welcome-to-our-place",
+"source_type": "press",
+"office_street": "162 boulevard de Magenta",
+"linkedin_employees": 0
+},
+{
+"n": "Ÿnsect",
+"w": "ynsect.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 128
+},
+{
+"n": "BOCO",
+"w": "boco.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Clone",
+"w": "getclone.io",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.getclone.io/legal-notice",
+"source_type": "legal",
+"office_street": "26 rue de Montholon",
+"linkedin_employees": 0
+},
+{
+"n": "MyTower",
+"w": "mytower.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 127
+},
+{
+"n": "SCPP",
+"w": "scpp.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 127
+},
+{
+"n": "Trustpair",
+"w": "trustpair.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 127
+},
+{
+"n": "Femmes de Santé",
+"w": "femmesdesante.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 126
+},
+{
+"n": "Paris&Co",
+"w": "parisandco.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 126
+},
+{
+"n": "The New Me",
+"w": "thenewmeparis.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 124
+},
+{
+"n": "Bim",
+"w": "bimapp.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Checkmyguest",
+"w": "checkmyguest.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 123
+},
+{
+"n": "Joya",
+"w": "joya-domicile.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Jus Mundi",
+"w": "jusmundi.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 123
+},
+{
+"n": "KILIAN PARIS",
+"w": "bykilian.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 123
+},
+{
+"n": "Mayday",
+"w": "mayday.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Deskeo",
+"w": "deskeo.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 122
+},
+{
+"n": "Lalalab",
+"w": "lalalab.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 122
+},
+{
+"n": "Zeplug",
+"w": "zeplug.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 122
+},
+{
+"n": "Convelio",
+"w": "convelio.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 120
+},
+{
+"n": "touriste",
+"w": "touriste.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 120
+},
+{
+"n": "Careside",
+"w": "careside.care",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 119
+},
+{
+"n": "Leonard",
+"w": "leonard.vinci.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "VeryChic",
+"w": "verychic.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 119
+},
+{
+"n": "+Simple",
+"w": "plussimple.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Be-Cloud",
+"w": "be-cloud.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 118
+},
+{
+"n": "Walden Digital",
+"w": "walden-group.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Pivot",
+"w": "pivotapp.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Bozen",
+"w": "bozen.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "La Casa",
+"w": "lacasa.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "SUPERGA BEAUTY",
+"w": "supergabeauty.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 116
+},
+{
+"n": "Animaj",
+"w": "animaj.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 115
+},
+{
+"n": "Batch",
+"w": "batch.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 115
+},
+{
+"n": "Karos",
+"w": "karos.fr",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://fr.linkedin.com/company/karos-mobility",
+"source_type": "linkedin",
+"office_street": "10 Rue de la Paix",
+"linkedin_employees": 115
+},
+{
+"n": "Samaritaine",
+"w": "samaritaine.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 115
+},
+{
+"n": "THIBIERGE NOTAIRES",
+"w": "thibierge.notaires.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 115
+},
+{
+"n": "happn",
+"w": "happn.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 114
+},
+{
+"n": "Éstiam",
+"w": "estiam.education",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 114
+},
+{
+"n": "Cartesia Education",
+"w": "cartesia-education.fr",
+"postcode": "75006",
+"is_startup": false,
+"source_url": "https://www.cartesia-education.fr/",
+"source_type": "contact",
+"office_street": "5 bis rue Auguste Comte",
+"linkedin_employees": 90
+},
+{
+"n": "Paradox",
+"w": "paradox.io",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.pagesjaunes.fr/pros/62011676",
+"source_type": "maps",
+"office_street": "25 rue du Général Foy",
+"linkedin_employees": 90
+},
+{
+"n": "Primeo Energie France",
+"w": "primeo-energie.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 90
+},
+{
+"n": "SOLVACE",
+"w": "solvace.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 90
+},
+{
+"n": "Tillou Crèche",
+"w": "tilloucreche.com",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://www.linkedin.com/company/tillou-cr-che",
+"source_type": "linkedin",
+"office_street": "23 rue Chaudron",
+"linkedin_employees": 90
+},
+{
+"n": "Views",
+"w": "views.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 90
+},
+{
+"n": "DFNS",
+"w": "dfns.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 89
+},
+{
+"n": "FAIRMAT",
+"w": "fairmat.tech",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 89
+},
+{
+"n": "L'Addition",
+"w": "laddition.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 89
+},
+{
+"n": "Opensee",
+"w": "opensee.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 89
+},
+{
+"n": "Prismic",
+"w": "prismic.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 89
+},
+{
+"n": "Qevlar AI",
+"w": "qevlar.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 89
+},
+{
+"n": "Sami",
+"w": "sami.eco",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 89
+},
+{
+"n": "Eksaé",
+"w": "eksae.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 88
+},
+{
+"n": "ipso santé",
+"w": "ipsosante.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 88
+},
+{
+"n": "Memo Bank",
+"w": "memo.bank",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 88
+},
+{
+"n": "Sightness",
+"w": "sightness.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 88
+},
+{
+"n": "SPRiNG",
+"w": "wespring.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 88
+},
+{
+"n": "AQEMIA",
+"w": "aqemia.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 87
+},
+{
+"n": "Lucky cart",
+"w": "luckycart.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 87
+},
+{
+"n": "900.care",
+"w": "900.care",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "FoodFlow",
+"w": "foodflow.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "GreenGo",
+"w": "greengo.voyage",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "Happydemics",
+"w": "happydemics.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "Homeland",
+"w": "homeland.immo",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "INCEPTO",
+"w": "incepto-medical.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "manager.one",
+"w": "manager.one",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "Ramify",
+"w": "ramify.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "Smallable",
+"w": "smallable.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "The Sanctuary Group",
+"w": "thesanctuary-group.com",
+"postcode": "75003",
+"is_startup": false,
+"source_url": "https://www.linkedin.com/company/the-sanctuary-group",
+"source_type": "linkedin",
+"office_street": "33 Boulevard Saint Martin",
+"linkedin_employees": 86
+},
+{
+"n": "Ulysse",
+"w": "swll.to",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "C12",
+"w": "c12qe.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 85
+},
+{
+"n": "Feedgy",
+"w": "feedgy.solar",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 85
+},
+{
+"n": "Innovorder",
+"w": "innovorder.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 85
+},
+{
+"n": "Schoolab",
+"w": "theschoolab.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 85
+},
+{
+"n": "triPica",
+"w": "tripica.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 85
+},
+{
+"n": "Bolero",
+"w": "boleromusic.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 84
+},
+{
+"n": "Diffusely",
+"w": "carcutter.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 87
+},
+{
+"n": "Elum Energy",
+"w": "elum-energy.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 84
+},
+{
+"n": "FITZ GROUP",
+"w": "fitz-group.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 84
+},
+{
+"n": "Iskera",
+"w": "iskera.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 84
+},
+{
+"n": "Keewe",
+"w": "keewe.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 84
+},
+{
+"n": "Lago",
+"w": "getlago.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 84
+},
+{
+"n": "nona",
+"w": "nona.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 84
+},
+{
+"n": "Evertrust",
+"w": "evertrust.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 83
+},
+{
+"n": "Expensya",
+"w": "expensya.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 83
+},
+{
+"n": "StrangeBee",
+"w": "strangebee.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 83
+},
+{
+"n": "Superette",
+"w": "3615superette.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 83
+},
+{
+"n": "Joy",
+"w": "joy.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 82
+},
+{
+"n": "Libon",
+"w": "libon.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 82
+},
+{
+"n": "Novaquark",
+"w": "novaquark.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 82
+},
+{
+"n": "On train",
+"w": "on-train.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 82
+},
+{
+"n": "QuantCube Technology",
+"w": "quant-cube.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.quant-cube.com/contact",
+"source_type": "contact",
+"office_street": "15 boulevard Poissonnière",
+"linkedin_employees": 82
+},
+{
+"n": "SOLAB",
+"w": "solab.tech",
+"postcode": "75015",
+"is_startup": false,
+"source_url": "https://www.linkedin.com/posts/solab-ingenierie-et-environnement_d%C3%A9m%C3%A9nagement-agence-de-paris-solab-activity-7503482471125286912-zMTH",
+"source_type": "linkedin",
+"office_street": "202 rue de la Croix-Nivert",
+"linkedin_employees": 82
+},
+{
+"n": "ChangeNOW",
+"w": "changenow.world",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 81
+},
+{
+"n": "innerskin",
+"w": "innerskin.com",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://www.linkedin.com/posts/innerskinfr_innerskin-paris-ouverture-activity-7449400969353744384-AJCG",
+"source_type": "linkedin",
+"office_street": "5 rue Clément Marot",
+"linkedin_employees": 81
+},
+{
+"n": "WOMEN FIRST",
+"w": "womenfirst.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 81
+},
+{
+"n": "Édifice",
+"w": "edifice.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 81
+},
+{
+"n": "Adopte",
+"w": "adopte.app",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 80
+},
+{
+"n": "Biomemory",
+"w": "biomemory.com",
+"postcode": "75014",
+"is_startup": true,
+"source_url": "https://www.biomemory.com/contact",
+"source_type": "contact",
+"office_street": "3-5 impasse Reille",
+"linkedin_employees": 80
+},
+{
+"n": "Cityscoot",
+"w": "cityscoot.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 80
+},
+{
+"n": "copains.paris",
+"w": "copains-paris.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.copains-paris.com/",
+"source_type": "contact",
+"office_street": "60 rue Tiquetonne",
+"linkedin_employees": 80
+},
+{
+"n": "Livelihoods",
+"w": "livelihoods.eu",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://livelihoods.eu/fr/contact-us/contact/",
+"source_type": "contact",
+"office_street": "226 boulevard Voltaire",
+"linkedin_employees": 80
+},
+{
+"n": "REAL Campus by L'Oréal",
+"w": "realcampus.fr",
+"postcode": "75014",
+"is_startup": false,
+"source_url": "https://www.realcampus.fr/le-campus",
+"source_type": "contact",
+"office_street": "98 rue Didot",
+"linkedin_employees": 80
+},
+{
+"n": "Zoī",
+"w": "zoi.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.zoi.com/fr/contact-us/form",
+"source_type": "contact",
+"office_street": "12 rue Volney",
+"linkedin_employees": 80
+},
+{
+"n": "Aive",
+"w": "aive.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 79
+},
+{
+"n": "ELECO",
+"w": "eleco.fr",
+"postcode": "75001",
+"is_startup": false,
+"source_url": "https://www.eleco.fr/",
+"source_type": "contact",
+"office_street": "48 rue Cambon",
+"linkedin_employees": 79
+},
+{
+"n": "Fairly Made",
+"w": "fairlymade.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.fairlymade.com/get-started",
+"source_type": "contact",
+"office_street": "76 boulevard de Magenta",
+"linkedin_employees": 79
+},
+{
+"n": "Goodays",
+"w": "goodays.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 79
+},
+{
+"n": "Groupe WATT & Co",
+"w": "groupe-wattetco.com",
+"postcode": "75116",
+"is_startup": false,
+"source_url": "https://groupe-wattetco.com/contact/",
+"source_type": "contact",
+"office_street": "19 avenue de la Grande Armée",
+"linkedin_employees": 79
+},
+{
+"n": "DGE / SYSTEA",
+"w": "elia-groupe.fr",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.elia-groupe.fr/dge-systea/",
+"source_type": "contact",
+"office_street": "10 rue Bachaumont",
+"linkedin_employees": 78
+},
+{
+"n": "eGreen",
+"w": "egreen.fr",
+"postcode": "75018",
+"is_startup": true,
+"source_url": "https://www.egreen.fr/contactez-nous",
+"source_type": "contact",
+"office_street": "48 rue René Clair",
+"linkedin_employees": 78
+},
+{
+"n": "Kampus",
+"w": "kampusacademy.fr",
+"postcode": "75015",
+"is_startup": false,
+"source_url": "https://www.kampusacademy.fr/contact/",
+"source_type": "contact",
+"office_street": "33 avenue du Maine",
+"linkedin_employees": 78
+},
+{
+"n": "LightOn",
+"w": "lighton.ai",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 78
+},
+{
+"n": "Montessori Lifestyle",
+"w": "ag-d.fr",
+"postcode": "75014",
+"is_startup": false,
+"source_url": "https://www.linkedin.com/posts/montessorilifestyle_troublescognitifs-r%C3%A9cup%C3%A9rationespac%C3%A9e-activity-7511359419612446721-O7mM",
+"source_type": "linkedin",
+"office_street": "79 avenue Denfert-Rochereau",
+"linkedin_employees": 78
+},
+{
+"n": "Spore.Bio",
+"w": "spore.bio",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 78
+},
+{
+"n": "Theodo Data & AI",
+"w": "sicara.com",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://www.welcometothejungle.com/fr/companies/sicara/jobs/candidature-spontanee-theodo-data-ai_paris",
+"source_type": "job_post",
+"office_street": "48 boulevard des Batignolles",
+"linkedin_employees": 78
+},
+{
+"n": "Bridge API",
+"w": "bridgeapi.io",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://www.welcometothejungle.com/fr/companies/bridge/jobs/software-enigneer-h-f-x_paris",
+"source_type": "job_post",
+"office_street": "4 rue de la Pierre Levée",
+"linkedin_employees": 77
+},
+{
+"n": "HostnFly",
+"w": "hostnfly.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 77
+},
+{
+"n": "Nasta Pet Food",
+"w": "nasta.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 77
+},
+{
+"n": "The French Bastards",
+"w": "thefrenchbastards.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 77
+},
+{
+"n": "WeWard",
+"w": "wewardapp.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 77
+},
+{
+"n": "Clic Campus",
+"w": "clic-campus.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 76
+},
+{
+"n": "LA CASERNE",
+"w": "lacaserneparis.com",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://www.lacaserneparis.com/",
+"source_type": "contact",
+"office_street": "12 rue Philippe de Girard",
+"linkedin_employees": 76
+},
+{
+"n": "Monks Paris",
+"w": "dare.win",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://lbbonline.com/companies/monks-paris/about",
+"source_type": "press",
+"office_street": "17 rue Martel",
+"linkedin_employees": 76
+},
+{
+"n": "Theodo Cloud",
+"w": "cloud.theodo.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 76
+},
+{
+"n": "Yavin",
+"w": "yavin.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 76
+},
+{
+"n": "Assentis",
+"w": "assentis.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 75
+},
+{
+"n": "AYOMI",
+"w": "ayomi.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 75
+},
+{
+"n": "Coorpacademy",
+"w": "coorpacademy.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 24
+},
+{
+"n": "Dashlane",
+"w": "dashlane.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 310
+},
+{
+"n": "Gleamer",
+"w": "gleamer.ai",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K241620",
+"source_type": "press",
+"office_street": "45-47 bis rue des Vinaigriers",
+"linkedin_employees": 116
+},
+{
+"n": "Implicity",
+"w": "implicity.com",
+"postcode": "75001",
+"is_startup": true,
+"source_url": "https://implicity.com/fr/contact/",
+"source_type": "contact",
+"office_street": "2 rue du Colonel Driant",
+"linkedin_employees": 131
+},
+{
+"n": "LETULLE NOTAIRES",
+"w": "letulle.com",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.letulle.fr/contact",
+"source_type": "contact",
+"office_street": "3 rue Montalivet",
+"linkedin_employees": 75
+},
+{
+"n": "LGU - Le Guide Ultime",
+"w": "leguideultimedeparis.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 75
+},
+{
+"n": "Lodgis",
+"w": "lodgis.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.lodgis.com/fr/l-agence-lodgis/",
+"source_type": "contact",
+"office_street": "27-29 rue de Choiseul",
+"linkedin_employees": 61
+},
+{
+"n": "Nopillo",
+"w": "nopillo.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 75
+},
+{
+"n": "PRINCE ERACHEM",
+"w": "erachem.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 75
+},
+{
+"n": "Sorare",
+"w": "sorare.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 149
+},
+{
+"n": "Sweetch Energy",
+"w": "sweetch.energy",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.sweetch.energy/contact/",
+"source_type": "contact",
+"office_street": "113 rue d’Aboukir",
+"linkedin_employees": 63
+},
+{
+"n": "Dolead",
+"w": "dolead.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.dolead.com/about-us",
+"source_type": "contact",
+"office_street": "3 rue de Gramont",
+"linkedin_employees": 113
+},
+{
+"n": "Hestia",
+"w": "hestia.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 113
+},
+{
+"n": "Mômji",
+"w": "momji.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 113
+},
+{
+"n": "Yespark",
+"w": "yespark.fr",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.societe.com/societe/yespark-801558495.html",
+"source_type": "contact",
+"office_street": "15 rue de Sambre-et-Meuse",
+"linkedin_employees": 113
+},
+{
+"n": "EVESA",
+"w": "evesa.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 112
+},
+{
+"n": "MyTraffic",
+"w": "mytraffic.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 112
+},
+{
+"n": "AUXIA",
+"w": "auxia.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 111
+},
+{
+"n": "BY TERRY",
+"w": "byterry.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 111
+},
+{
+"n": "Hilo food",
+"w": "hilofood.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 111
+},
+{
+"n": "Padam Mobility",
+"w": "padam-mobility.com",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.padam-mobility.com/contact",
+"source_type": "contact",
+"office_street": "11 rue Tronchet",
+"linkedin_employees": 111
+},
+{
+"n": "SATISFY",
+"w": "satisfyrunning.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 111
+},
+{
+"n": "Alta Ares",
+"w": "altaares.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 110
+},
+{
+"n": "Les p'tits Babadins",
+"w": "lesptitsbabadins.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 110
+},
+{
+"n": "Mobility Work",
+"w": "mobility-work.com",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://mobility-work.com/contact",
+"source_type": "contact",
+"office_street": "44 rue de Lisbonne",
+"linkedin_employees": 110
+},
+{
+"n": "Turenne Groupe",
+"w": "turennecapital.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 110
+},
+{
+"n": "Hilton Paris Opera",
+"w": "hilton.com",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.hiltonparisoperahotel.com/contact",
+"source_type": "contact",
+"office_street": "108 rue Saint-Lazare",
+"linkedin_employees": 109
+},
+{
+"n": "Cureety",
+"w": "cureety.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 108
+},
+{
+"n": "Legalstart",
+"w": "legalstart.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 108
+},
+{
+"n": "WeShare",
+"w": "weshare.pro",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 108
+},
+{
+"n": "EX NIHILO PARIS",
+"w": "ex-nihilo-paris.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 107
+},
+{
+"n": "Refashion",
+"w": "refashion.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 107
+},
+{
+"n": "Satis",
+"w": "satis.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 107
+},
+{
+"n": "Shodo",
+"w": "shodo.io",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://linkedin.com/in/laury-maurice-874758b0",
+"source_type": "linkedin",
+"office_street": "5 rue de la Fontaine au Roi",
+"linkedin_employees": 107
+},
+{
+"n": "AZmed",
+"w": "azmed.co",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.azmed.co/fr/contact",
+"source_type": "contact",
+"office_street": "10 rue d'Uzès",
+"linkedin_employees": 106
+},
+{
+"n": "Epsor",
+"w": "epsor.fr",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://fr.mappy.com/poi/5b9dc1ae0351d16d3693d82b",
+"source_type": "maps",
+"office_street": "9 boulevard des Italiens",
+"linkedin_employees": 106
+},
+{
+"n": "EUTELMED",
+"w": "eutelmed.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 106
+},
+{
+"n": "Huwise",
+"w": "huwise.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 106
+},
+{
+"n": "JeVeuxAider.gouv.fr",
+"w": "jeveuxaider.gouv.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 106
+},
+{
+"n": "LSN Assurances",
+"w": "lsngroupe.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 106
+},
+{
+"n": "Smart Energies",
+"w": "smart-energies.eu",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.smart-energies.eu/en/contact-us/",
+"source_type": "contact",
+"office_street": "20 rue Quentin Bauchart",
+"linkedin_employees": 105
+},
+{
+"n": "Sofitel Le Scribe",
+"w": "hotel-scribe.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://sofitel.accor.com/fr/hotels/0663.html",
+"source_type": "contact",
+"office_street": "1 rue Scribe",
+"linkedin_employees": 105
+},
+{
+"n": "YESNYOU",
+"w": "yesnyou.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 105
+},
+{
+"n": "AUREA AGROSCIENCES",
+"w": "aurea.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 104
+},
+{
+"n": "Eleven Labs",
+"w": "eleven-labs.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 104
+},
+{
+"n": "Luxurynsight",
+"w": "luxurynsight.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 104
+},
+{
+"n": "Stockly",
+"w": "stockly.ai",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://stockly.ai/",
+"source_type": "linkedin",
+"office_street": "8 rue du Sentier",
+"linkedin_employees": 104
+},
+{
+"n": "Kayrros",
+"w": "kayrros.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.kayrros.com/contact-us/",
+"source_type": "contact",
+"office_street": "37 Avenue Trudaine",
+"linkedin_employees": 103
+},
+{
+"n": "Lingueo",
+"w": "lingueo.com",
+"postcode": "75005",
+"is_startup": false,
+"source_url": "https://www.lingueo.com/mentions-legales",
+"source_type": "contact",
+"office_street": "29 bis rue Monge",
+"linkedin_employees": 103
+},
+{
+"n": "Mooncard",
+"w": "mooncard.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 103
+},
+{
+"n": "RAISE",
+"w": "raise.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 103
+},
+{
+"n": "Sixtine",
+"w": "sixtine.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 103
+},
+{
+"n": "YEET",
+"w": "yeetmagazine.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 103
+},
+{
+"n": "Compani",
+"w": "compani.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "CyberVadis",
+"w": "cybervadis.com",
+"postcode": "75116",
+"is_startup": true,
+"source_url": "https://cybervadis.com/fr/a-propos/contact",
+"source_type": "contact",
+"office_street": "43 Avenue de la Grande-Armée",
+"linkedin_employees": 102
+},
+{
+"n": "goalmap",
+"w": "goalmap.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://goalmap.com/fr/contactez-nous",
+"source_type": "contact",
+"office_street": "55 Boulevard de Strasbourg",
+"linkedin_employees": 102
+},
+{
+"n": "Kylotonn - KT Racing",
+"w": "kylotonn.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 102
+},
+{
+"n": "Plateau Urbain",
+"w": "plateau-urbain.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 102
+},
+{
+"n": "SO/ Paris",
+"w": "so-hotels.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 102
+},
+{
+"n": "Witco",
+"w": "witco.io",
+"postcode": "75015",
+"is_startup": true,
+"source_url": "https://fr.mappy.com/poi/66ecf803d5e0eb413d2eea81",
+"source_type": "maps",
+"office_street": "123 boulevard de Grenelle",
+"linkedin_employees": 102
+},
+{
+"n": "Actility",
+"w": "actility.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.actility.com/our-offices/",
+"source_type": "contact",
+"office_street": "65 rue de la Victoire",
+"linkedin_employees": 101
+},
+{
+"n": "Food Hotel Tech",
+"w": "foodhoteltech.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 100
+},
+{
+"n": "LegalVision",
+"w": "legalvision.fr",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://apps.legalvision.fr/contact",
+"source_type": "contact",
+"office_street": "15 rue de Milan",
+"linkedin_employees": 100
+},
+{
+"n": "Pavonis Santé",
+"w": "pavonis.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 100
+},
+{
+"n": "UBY",
+"w": "uby.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 100
+},
+{
+"n": "Colonies",
+"w": "livecolonies.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.livecolonies.com/",
+"source_type": "contact",
+"office_street": "21 rue de Bruxelles",
+"linkedin_employees": 99
+},
+{
+"n": "Excurio",
+"w": "excurio.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.excurio.com/en/contact-us/",
+"source_type": "contact",
+"office_street": "1 rue de Metz",
+"linkedin_employees": 99
+},
+{
+"n": "Groupe Althémis",
+"w": "althemis.fr",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://althemis.fr/nos-offices",
+"source_type": "contact",
+"office_street": "17 rue Viète",
+"linkedin_employees": 99
+},
+{
+"n": "Infranity",
+"w": "infranity.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 99
+},
+{
+"n": "Legal2digital",
+"w": "legal2digital.fr",
+"postcode": "75015",
+"is_startup": true,
+"source_url": "https://exa.ai/library/place/twnrtvl30qr",
+"source_type": "maps",
+"office_street": "3 rue de Pondichéry",
+"linkedin_employees": 99
+},
+{
+"n": "Sahar",
+"w": "sahar.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 99
+},
+{
+"n": "CGEVVFX",
+"w": "cgev.fr",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://www.cgev.fr/contact",
+"source_type": "contact",
+"office_street": "13 rue Yves Toudic",
+"linkedin_employees": 98
+},
+{
+"n": "HighLife",
+"w": "highlifemedical.com",
+"postcode": "75015",
+"is_startup": true,
+"source_url": "https://www.highlifemedical.com/fr/nous-contacter/",
+"source_type": "contact",
+"office_street": "100 avenue de Suffren",
+"linkedin_employees": 98
+},
+{
+"n": "SISTA",
+"w": "wearesista.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 98
+},
+{
+"n": "Taller",
+"w": "taller.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 98
+},
+{
+"n": "Wecandoo",
+"w": "wecandoo.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 98
+},
+{
+"n": "Yomoni",
+"w": "yomoni.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 98
+},
+{
+"n": "Aria",
+"w": "helloaria.eu",
+"postcode": "93200",
+"is_startup": true,
+"source_url": "https://www.pagesjaunes.fr/pros/65189479",
+"source_type": "maps",
+"office_street": "5 rue Pleyel",
+"linkedin_employees": 97
+},
+{
+"n": "Delicious",
+"w": "deliciousgroup.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 97
+},
+{
+"n": "Hynamics",
+"w": "hynamics.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 97
+},
+{
+"n": "MisterFly",
+"w": "misterfly.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 97
+},
+{
+"n": "Zaion",
+"w": "zaion.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 97
+},
+{
+"n": "Lita",
+"w": "lita.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 96
+},
+{
+"n": "Oh BiBi",
+"w": "ohbibi.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.ohbibi.com/contact",
+"source_type": "contact",
+"office_street": "16 rue d’Athènes",
+"linkedin_employees": 96
+},
+{
+"n": "Rebirth",
+"w": "groupe-rebirth.com",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://www.groupe-rebirth.com/contact/",
+"source_type": "contact",
+"office_street": "4 Rue Tarbé",
+"linkedin_employees": 0
+},
+{
+"n": "B.Conseil",
+"w": "bconseil.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 95
+},
+{
+"n": "Quarkslab",
+"w": "quarkslab.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.quarkslab.com/fr/nous-contacter/",
+"source_type": "contact",
+"office_street": "10 boulevard Haussmann",
+"linkedin_employees": 95
+},
+{
+"n": "AnimOpro",
+"w": "animopro.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 94
+},
+{
+"n": "Beetween",
+"w": "beetween.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 94
+},
+{
+"n": "Ensol",
+"w": "goensol.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 94
+},
+{
+"n": "Morpho",
+"w": "morpho.org",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 94
+},
+{
+"n": "EPISOD",
+"w": "episod.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 93
+},
+{
+"n": "Femmes des Territoires",
+"w": "femmesdesterritoires.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 93
+},
+{
+"n": "Garantme",
+"w": "garantme.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 93
+},
+{
+"n": "Leocare",
+"w": "leocare.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 93
+},
+{
+"n": "TOROW",
+"w": "torow.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 93
+},
+{
+"n": "Word Class",
+"w": "wordclass.net",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "AMVALOR",
+"w": "artsetmetiers.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Bruce.work",
+"w": "bruce.work",
+"postcode": "75010",
+"is_startup": false,
+"source_url": "https://brucefrance.fr/contact/",
+"source_type": "contact",
+"office_street": "46 Rue d’Enghien",
+"linkedin_employees": 92
+},
+{
+"n": "Les Parents Zens",
+"w": "lesparentszens.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Lunii",
+"w": "lunii.com",
+"postcode": "75003",
+"is_startup": true,
+"source_url": "https://www.pagesjaunes.fr/pros/63694614",
+"source_type": "contact",
+"office_street": "90 rue Notre-Dame de Nazareth",
+"linkedin_employees": 92
+},
+{
+"n": "Powell",
+"w": "powell-software.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 92
+},
+{
+"n": "RockFi",
+"w": "rockfi.fr",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.rockfi.fr/mentions-legales",
+"source_type": "contact",
+"office_street": "7 boulevard Haussmann",
+"linkedin_employees": 92
+},
+{
+"n": "Stonal",
+"w": "stonal.com",
+"postcode": "92100",
+"is_startup": false,
+"source_url": "https://stonal.com/entreprise/contact",
+"source_type": "contact",
+"office_street": "27 Cours de l’Île Seguin",
+"linkedin_employees": 92
+},
+{
+"n": "Defacto",
+"w": "getdefacto.com",
+"postcode": "75003",
+"is_startup": true,
+"source_url": "https://www.getdefacto.com/legal-mentions",
+"source_type": "contact",
+"office_street": "100 boulevard de Sébastopol",
+"linkedin_employees": 91
+},
+{
+"n": "Ipsos Synthesio",
+"w": "synthesio.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 91
+},
+{
+"n": "Kenko",
+"w": "kenko.fr",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.kenko.fr/legal/mentions-legales",
+"source_type": "contact",
+"office_street": "37 rue Bergère",
+"linkedin_employees": 91
+},
+{
+"n": "Le Slip Français",
+"w": "leslipfrancais.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 91
+},
+{
+"n": "Opportunity",
+"w": "oppycx.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 91
+},
+{
+"n": "PROPHESEE",
+"w": "prophesee.ai",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://careers.prophesee.ai/",
+"source_type": "careers",
+"office_street": "75 ter rue de Charonne",
+"linkedin_employees": 91
+},
+{
+"n": "137 Notaires",
+"w": "137notaires.com",
+"postcode": "75007",
+"is_startup": false,
+"source_url": "https://137notaires.com/",
+"source_type": "contact",
+"office_street": "137 rue de l’Université",
+"linkedin_employees": 90
+},
+{
+"n": "HIWAY",
+"w": "hiway.fr",
+"postcode": "75015",
+"is_startup": true,
+"source_url": "https://hiway.fr/contact",
+"source_type": "contact",
+"office_street": "51 Rue Fondary",
+"linkedin_employees": 54
+},
+{
+"n": "Kyutai",
+"w": "kyutai.org",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+},
+{
+"n": "La Maison Perchée",
+"w": "maisonperchee.org",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+},
+{
+"n": "Les Notaires du Trocadéro",
+"w": "lesnotairesdutrocadero.fr",
+"postcode": "75116",
+"is_startup": false,
+"source_url": "https://lesnotairesdutrocadero.fr/contactez-nous/",
+"source_type": "contact",
+"office_street": "32 avenue Raymond Poincaré",
+"linkedin_employees": 54
+},
+{
+"n": "Odaje",
+"w": "odaje.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+},
+{
+"n": "Orion Energies",
+"w": "orionenergies.com",
+"postcode": "92110",
+"is_startup": false,
+"source_url": "https://orionenergies.com/contact/",
+"source_type": "contact",
+"office_street": "12 Boulevard Victor Hugo",
+"linkedin_employees": 54
+},
+{
+"n": "Roads",
+"w": "roads.social",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+},
+{
+"n": "Seiza",
+"w": "seiza.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+},
+{
+"n": "Siit",
+"w": "siit.io",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://www.pagesjaunes.fr/pros/63731827",
+"source_type": "maps",
+"office_street": "50 rue Aboukir",
+"linkedin_employees": 54
+},
+{
+"n": "Vocca",
+"w": "vocca.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+},
+{
+"n": "Bitstack",
+"w": "bitstack-app.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Circulab",
+"w": "circulab.com",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://circulab.com/fr/contact/",
+"source_type": "contact",
+"office_street": "4 quater passage de la Fonderie",
+"linkedin_employees": 53
+},
+{
+"n": "Diggers Factory",
+"w": "diggersfactory.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Enfant Présent",
+"w": "enfantpresent.net",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Faks",
+"w": "faks.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Joyeuse",
+"w": "joyeuse.io",
+"postcode": "75012",
+"is_startup": true,
+"source_url": "http://joyeuseizn.cluster027.hosting.ovh.net/contact/",
+"source_type": "contact",
+"office_street": "4 Boulevard de la Bastille",
+"linkedin_employees": 53
+},
+{
+"n": "Karmen",
+"w": "karmen.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "kelvin",
+"w": "go-kelvin.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "L'Envol",
+"w": "envolcampus.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Lemon Learning",
+"w": "lemonlearning.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "LOIN",
+"w": "loin.paris",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Manger NU!",
+"w": "manger.nu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Mozoo",
+"w": "mozoo.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Nono",
+"w": "nono.services",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "SportEasy",
+"w": "sporteasy.net",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 53
+},
+{
+"n": "Stanley Robotics",
+"w": "stanley-robotics.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.stanley-robotics.com/fr/contactez-nous/",
+"source_type": "contact",
+"office_street": "4/6 Boulevard Montmartre",
+"linkedin_employees": 53
+},
+{
+"n": "Waiv",
+"w": "waiv.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://waiv.com/contact",
+"source_type": "contact",
+"office_street": "63 Rue Sainte-Anne",
+"linkedin_employees": 53
+},
+{
+"n": "WizVille",
+"w": "wizville.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.wizville.com/mentions-legales",
+"source_type": "contact",
+"office_street": "29 rue des Petites Écuries",
+"linkedin_employees": 53
+},
+{
+"n": "Citalid",
+"w": "citalid.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://citalid.com/fr/a-propos/",
+"source_type": "contact",
+"office_street": "10 rue de la Bourse",
+"linkedin_employees": 52
+},
+{
+"n": "Coudac",
+"w": "coudac.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "Delos",
+"w": "delos.so",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "Ecoslops",
+"w": "ecoslops.com",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://www.ecoslops.com/wp-content/uploads/2024/06/Rapport-RSE-2023-Ecoslops_web.pdf",
+"source_type": "press",
+"office_street": "5 rue de Chazelles",
+"linkedin_employees": 52
+},
+{
+"n": "FGO-Barbara",
+"w": "fgo-barbara.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "Flatsy",
+"w": "flatsy.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "Horizontal Software",
+"w": "qoia-rh.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "Kls",
+"w": "kls-desk.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "Noota",
+"w": "noota.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "OneFlash",
+"w": "oneflash.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "quarksUp",
+"w": "quarksup.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "Rogervoice",
+"w": "rogervoice.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "SCALINX",
+"w": "scalinx.com",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://www.scalinx.com/contact-us/",
+"source_type": "contact",
+"office_street": "48-50 rue Albert",
+"linkedin_employees": 52
+},
+{
+"n": "Tech.Rocks",
+"w": "tech.rocks",
+"postcode": "75015",
+"is_startup": false,
+"source_url": "https://www.tech.rocks/contact",
+"source_type": "contact",
+"office_street": "11 rue de Lourmel",
+"linkedin_employees": 52
+},
+{
+"n": "YMO",
+"w": "ymo.africa",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 52
+},
+{
+"n": "aesthé",
+"w": "aesthe.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "Beamy",
+"w": "beamy.xyz",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.welcometothejungle.com/fr/companies/beamy/jobs/deployment-engineer_paris",
+"source_type": "job_post",
+"office_street": "32 rue de Trévise",
+"linkedin_employees": 51
+},
+{
+"n": "h'up entrepreneurs",
+"w": "h-up.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "Hellopro",
+"w": "hellopro.fr",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://www.hellopro.fr/nous-contacter.html",
+"source_type": "contact",
+"office_street": "5 avenue de la République",
+"linkedin_employees": 51
+},
+{
+"n": "Hype",
+"w": "hype.earth",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "iGraal",
+"w": "igraal.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "Mansa",
+"w": "getmansa.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "Nalo",
+"w": "nalo.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "Nextories",
+"w": "nextories.com",
+"postcode": "75017",
+"is_startup": true,
+"source_url": "https://www.nextories.com/contact",
+"source_type": "contact",
+"office_street": "9 avenue de Clichy",
+"linkedin_employees": 51
+},
+{
+"n": "Pulp",
+"w": "pulp.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "RézoSocial",
+"w": "rezosocial.com",
+"postcode": "75020",
+"is_startup": false,
+"source_url": "https://rezosocial.com/contact/",
+"source_type": "contact",
+"office_street": "10 rue des Prairies",
+"linkedin_employees": 0
+},
+{
+"n": "Samp",
+"w": "samp.ai",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://samp.ai/contact-us/",
+"source_type": "contact",
+"office_street": "61 rue de Douai",
+"linkedin_employees": 51
+},
+{
+"n": "talent.io",
+"w": "talent.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 51
+},
+{
+"n": "TrustBuilder",
+"w": "trustbuilder.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://trustbuilder.com/contact/",
+"source_type": "contact",
+"office_street": "33 rue de Châteaudun",
+"linkedin_employees": 51
+},
+{
+"n": "code.store",
+"w": "code.store",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://code.store/fr/contact",
+"source_type": "contact",
+"office_street": "63 rue de Ponthieu",
+"linkedin_employees": 50
+},
+{
+"n": "Damae Medical",
+"w": "damae-medical.com",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://www.damae-medical.com/",
+"source_type": "contact",
+"office_street": "14 rue Sthrau",
+"linkedin_employees": 50
+},
+{
+"n": "Gama",
+"w": "gamaspace.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 50
+},
+{
+"n": "Kaliti",
+"w": "kaliti.fr",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://www.kaliti.fr/contact",
+"source_type": "contact",
+"office_street": "198 Avenue de France",
+"linkedin_employees": 50
+},
+{
+"n": "LeLynx.fr",
+"w": "lelynx.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 50
+},
+{
+"n": "NumWorks",
+"w": "numworks.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 50
+},
+{
+"n": "Pied de Biche",
+"w": "pieddebiche-paris.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 50
+},
+{
+"n": "PowerZ",
+"w": "powerz.tech",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 50
+},
+{
+"n": "RESTO FLASH",
+"w": "restoflash.fr",
+"postcode": "75004",
+"is_startup": true,
+"source_url": "https://craft.co/resto-flash/locations",
+"source_type": "maps",
+"office_street": "33 rue du Temple",
+"linkedin_employees": 50
+},
+{
+"n": "Shipup",
+"w": "shipup.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 50
+},
+{
+"n": "Sorella Care",
+"w": "sorella-care.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 50
+},
+{
+"n": "Carbo",
+"w": "hellocarbo.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 47
+},
+{
+"n": "Selency",
+"w": "selency.fr",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.selency.fr/blog/bureaux-selency",
+"source_type": "contact",
+"office_street": "1 rue Châteaudun",
+"linkedin_employees": 47
+},
+{
+"n": "Bioptimus",
+"w": "bioptimus.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 46
+},
+{
+"n": "Arlequin AI",
+"w": "arlq.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 45
+},
+{
+"n": "homeloop",
+"w": "homeloop.fr",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.immomatin.com/annuaires/portails/homeloop.html",
+"source_type": "maps",
+"office_street": "49 bis avenue Franklin Roosevelt",
+"linkedin_employees": 45
+},
+{
+"n": "Cashbee",
+"w": "cashbee.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 43
+},
+{
+"n": "Fintecture",
+"w": "fintecture.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 42
+},
+{
+"n": "Payflows",
+"w": "payflows.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 41
+},
+{
+"n": "Thunders",
+"w": "thunders.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 41
+},
+{
+"n": "FFFACE.ME",
+"w": "ffface.me",
+"postcode": "75013",
+"is_startup": false,
+"source_url": "https://ffface.me/about/",
+"source_type": "contact",
+"office_street": "5 Parvis Alan Turing, STATION F",
+"linkedin_employees": 38
+},
+{
+"n": "HABS",
+"w": "habs.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 37
+},
+{
+"n": "Collective.work",
+"w": "collective.work",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 36
+},
+{
+"n": "Acheel",
+"w": "acheel.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 103
+},
+{
+"n": "Alouette AI",
+"w": "alouette.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 16
+},
+{
+"n": "Beev",
+"w": "beev.co",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://www.beev.co/contact/",
+"source_type": "contact",
+"office_street": "198 avenue de France",
+"linkedin_employees": 53
+},
+{
+"n": "ClubFunding",
+"w": "clubfunding.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 101
+},
+{
+"n": "Finalcad",
+"w": "finalcad.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 30
+},
+{
+"n": "Gladia",
+"w": "gladia.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "Heetch",
+"w": "heetch.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 694
+},
+{
+"n": "Inato",
+"w": "inato.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 71
+},
+{
+"n": "Jitter",
+"w": "jitter.video",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 35
+},
+{
+"n": "Nabla",
+"w": "nabla.com",
+"postcode": "75003",
+"is_startup": true,
+"source_url": "https://www.nabla.com/copilot-contact",
+"source_type": "contact",
+"office_street": "22 rue Chapon",
+"linkedin_employees": 204
+},
+{
+"n": "Orbital",
+"w": "getorbital.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Silvr",
+"w": "silvr.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 15
+},
+{
+"n": "Therapixel",
+"w": "therapixel.com",
+"postcode": "75014",
+"is_startup": true,
+"source_url": "https://www.pagesjaunes.fr/pros/57572001",
+"source_type": "maps",
+"office_street": "1 impasse Reille",
+"linkedin_employees": 61
+},
+{
+"n": "Upflow",
+"w": "upflow.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 86
+},
+{
+"n": "Homunity",
+"w": "homunity.com",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://www.homunity.com/contact",
+"source_type": "contact",
+"office_street": "12 rue Jacquemont",
+"linkedin_employees": 34
+},
+{
+"n": "Ircam Amplify",
+"w": "ircamamplify.com",
+"postcode": "75001",
+"is_startup": true,
+"source_url": "https://soundexperience.ircamamplify.com/contact-us",
+"source_type": "contact",
+"office_street": "7 rue de Turbigo",
+"linkedin_employees": 33
+},
+{
+"n": "Libeo",
+"w": "libeo.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 33
+},
+{
+"n": "Pletor",
+"w": "pletor.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 33
+},
+{
+"n": "Glanceable",
+"w": "glanceable.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 29
+},
+{
+"n": "Webyn",
+"w": "webyn.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 29
+},
+{
+"n": "Tomorro",
+"w": "tomorro.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 144
+},
+{
+"n": "Upply",
+"w": "upply.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 62
+},
+{
+"n": "Wemaintain",
+"w": "wemaintain.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 203
+},
+{
+"n": "Wizbii",
+"w": "wizbii.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 109
+},
+{
+"n": "Zest",
+"w": "zestmeup.com",
+"postcode": "75017",
+"is_startup": true,
+"source_url": "https://zestmeup.com/en/contact/",
+"source_type": "contact",
+"office_street": "71 rue de Saussure",
+"linkedin_employees": 75
+},
+{
+"n": "Babylangues France",
+"w": "babylangues.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 74
+},
+{
+"n": "Nextory France",
+"w": "nextory.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 140
+},
+{
+"n": "Hosman",
+"w": "hosman.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 74
+},
+{
+"n": "LOTCHI",
+"w": "lotchi.live",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 74
+},
+{
+"n": "Medicen Paris Region",
+"w": "medicen.org",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 74
+},
+{
+"n": "MYRE",
+"w": "getmyre.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.getmyre.com/contact",
+"source_type": "contact",
+"office_street": "5 Rue Jules Lefebvre",
+"linkedin_employees": 74
+},
+{
+"n": "OMY",
+"w": "omy-maison.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 74
+},
+{
+"n": "Asterion Ventures",
+"w": "asterionventures.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 73
+},
+{
+"n": "Chouette",
+"w": "chouette.vision",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 73
+},
+{
+"n": "Hiboo",
+"w": "hiboo.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 73
+},
+{
+"n": "La Fondation",
+"w": "lafondationhotel.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Napta",
+"w": "napta.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 73
+},
+{
+"n": "Seyna",
+"w": "seyna.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 73
+},
+{
+"n": "SmallBusinessAct",
+"w": "smallbusinessact.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.smallbusinessact.com/contact/",
+"source_type": "contact",
+"office_street": "15 rue du Faubourg Montmartre",
+"linkedin_employees": 73
+},
+{
+"n": "SÊMEIA",
+"w": "semeia.io",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.linkedin.com/posts/semeia_accounting-manager-s%C3%AAmeia-cdi-%C3%A0-paris-activity-7506336634926194688-My9Q",
+"source_type": "job_post",
+"office_street": "174 Quai de Jemmapes",
+"linkedin_employees": 73
+},
+{
+"n": "ARMIS.TECH",
+"w": "armis.tech",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 72
+},
+{
+"n": "Bankin'",
+"w": "bankin.com",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://www.welcometothejungle.com/fr/companies/bankin/jobs/cdi-backend-developer-bankin-java17-springboot-h-f_paris",
+"source_type": "maps",
+"office_street": "4 Rue de la Pierre Levée",
+"linkedin_employees": 72
+},
+{
+"n": "IOMA Paris",
+"w": "ioma-paris.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 72
+},
+{
+"n": "Laboratoires Majorelle",
+"w": "laboratoires-majorelle.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 72
+},
+{
+"n": "Lulu dans ma rue",
+"w": "luludansmarue.org",
+"postcode": "75019",
+"is_startup": false,
+"source_url": "https://intercom.help/lulu-dans-ma-rue-832ae985c6d8/fr/collections/5002629-infos-pratiques",
+"source_type": "contact",
+"office_street": "118-130 Av. Jean Jaurès",
+"linkedin_employees": 72
+},
+{
+"n": "QUANT AI Lab",
+"w": "quant.global",
+"postcode": "75001",
+"is_startup": true,
+"source_url": "https://www.quant.global/contact/",
+"source_type": "contact",
+"office_street": "2 Rue de Valois",
+"linkedin_employees": 72
+},
+{
+"n": "Quinta",
+"w": "quinta.im",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 72
+},
+{
+"n": "Stairling",
+"w": "stairling.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 72
+},
+{
+"n": "Aktio",
+"w": "aktio.cc",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://fr.mappy.com/poi/68c4eff8d8d2116b00ae9374",
+"source_type": "maps",
+"office_street": "21 r Cléry",
+"linkedin_employees": 71
+},
+{
+"n": "Amabilis",
+"w": "amabilis.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Keepeek",
+"w": "keepeek.com",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://www.keepeek.com/a-propos-logiciel-dam-brand-management",
+"source_type": "contact",
+"office_street": "2 rue de la Roquette, passage du Cheval Blanc",
+"linkedin_employees": 71
+},
+{
+"n": "Onepark",
+"w": "onepark.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 71
+},
+{
+"n": "Redpill",
+"w": "redpill.paris",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Socrate",
+"w": "socrate.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 71
+},
+{
+"n": "abbeal",
+"w": "abbeal.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://abbeal.com/fr/contact",
+"source_type": "contact",
+"office_street": "54 rue Greneta",
+"linkedin_employees": 70
+},
+{
+"n": "Goodvest",
+"w": "goodvest.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 70
+},
+{
+"n": "Le Petit Lunetier",
+"w": "lepetitlunetier.com",
+"postcode": "75011",
+"is_startup": false,
+"source_url": "https://lepetitlunetier.com/fr-eu/pages/mentions-legales",
+"source_type": "maps",
+"office_street": "155 rue de Charonne",
+"linkedin_employees": 70
+},
+{
+"n": "MoveUp Media",
+"w": "moveup.media",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 70
+},
+{
+"n": "Ofelia",
+"w": "ofelia.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Poppins",
+"w": "poppins.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Verso Energy",
+"w": "verso.energy",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://verso.energy/contact/",
+"source_type": "contact",
+"office_street": "49 bis avenue Franklin D. Roosevelt",
+"linkedin_employees": 70
+},
+{
+"n": "Via Sana",
+"w": "centreviasana.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://www.linkedin.com/posts/via-sana_on-cherche-des-colocataires-pour-nos-bureaux-activity-7511811930131574784-TqLp",
+"source_type": "maps",
+"office_street": "5 rue Saulnier",
+"linkedin_employees": 70
+},
+{
+"n": "Bkeys",
+"w": "bkeys.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 69
+},
+{
+"n": "Bonanza",
+"w": "bonanza.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Coinhouse",
+"w": "coinhouse.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 69
+},
+{
+"n": "Evy",
+"w": "evy.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "GETJUST",
+"w": "getjust.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 69
+},
+{
+"n": "Mairie du 18e",
+"w": "mairie18.paris.fr",
+"postcode": "75018",
+"is_startup": false,
+"source_url": "https://www.paris.fr/lieux/mairie-du-18e-arrondissement-3255",
+"source_type": "maps",
+"office_street": "1 place Jules Joffrin",
+"linkedin_employees": 69
+},
+{
+"n": "Abivax",
+"w": "abivax.com",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://www.abivax.com/about-abivax/contact-us/?lang=fr",
+"source_type": "contact",
+"office_street": "7-11 Boulevard Haussmann",
+"linkedin_employees": 68
+},
+{
+"n": "ACXIAS",
+"w": "acxias.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 68
+},
+{
+"n": "ARCURE BLAXTAIR",
+"w": "blaxtair.com",
+"postcode": "93500",
+"is_startup": false,
+"source_url": "https://www.cylex-locale.fr/entreprises/arcure---blaxtair-13178155.html",
+"source_type": "maps",
+"office_street": "14 rue Scandicci, Tour Essor",
+"linkedin_employees": 68
+},
+{
+"n": "Cycle Up",
+"w": "cycle-up.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 68
+},
+{
+"n": "Django",
+"w": "django.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Isograd",
+"w": "tosa.org",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 68
+},
+{
+"n": "Lixo",
+"w": "lixo.tech",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 68
+},
+{
+"n": "relevanC",
+"w": "relevanc.com",
+"postcode": "92110",
+"is_startup": true,
+"source_url": "https://relevanc.com/fr/about-relevanc",
+"source_type": "maps",
+"office_street": "14 – 16 rue Marc Bloch",
+"linkedin_employees": 0
+},
+{
+"n": "Ritz Paris Le Comptoir",
+"w": "ritzparislecomptoir.com",
+"postcode": "75001",
+"is_startup": false,
+"source_url": "https://www.ritzparislecomptoir.com/fr/les-boutiques",
+"source_type": "maps",
+"office_street": "38 rue Cambon",
+"linkedin_employees": 68
+},
+{
+"n": "SESAMm",
+"w": "sesamm.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 68
+},
+{
+"n": "Smart Impulse",
+"w": "smart-impulse.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 68
+},
+{
+"n": "Volta Groupe",
+"w": "groupe-volta.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 68
+},
+{
+"n": "WSHOP",
+"w": "wshop.com",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://www.wshop.com/contact_faq.php",
+"source_type": "contact",
+"office_street": "11Bis - 13 Rue du Colisée",
+"linkedin_employees": 68
+},
+{
+"n": "DataBird",
+"w": "data-bird.co",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Evidens de Beauté",
+"w": "evidensdebeaute.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 67
+},
+{
+"n": "Helmett",
+"w": "helmett-assurances.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 67
+},
+{
+"n": "Lokad",
+"w": "lokad.com",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://www.lokad.com/fr/contactez-nous/",
+"source_type": "contact",
+"office_street": "83-85 Boulevard Vincent Auriol",
+"linkedin_employees": 67
+},
+{
+"n": "NovaVet",
+"w": "novavet.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 67
+},
+{
+"n": "Perifit",
+"w": "perifit.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 67
+},
+{
+"n": "Skores",
+"w": "skores.com",
+"postcode": "75009",
+"is_startup": true,
+"source_url": "https://company.skores.com/contact/",
+"source_type": "contact",
+"office_street": "2 Boulevard Montmartre",
+"linkedin_employees": 67
+},
+{
+"n": "Spiko",
+"w": "spiko.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 67
+},
+{
+"n": "CHAPITRE SIX",
+"w": "chapitresixhotels.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 66
+},
+{
+"n": "Climb",
+"w": "climb.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Maria Schools",
+"w": "mariaschools.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.mariaschools.com/contact",
+"source_type": "contact",
+"office_street": "75 rue de Richelieu",
+"linkedin_employees": 0
+},
+{
+"n": "RATP Connect",
+"w": "ratpconnect.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 66
+},
+{
+"n": "Work With Island",
+"w": "workwithisland.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.workwithisland.com/en/showroom",
+"source_type": "maps",
+"office_street": "15 rue de Chabrol",
+"linkedin_employees": 66
+},
+{
+"n": "Liligo",
+"w": "liligo.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 65
+},
+{
+"n": "MIZNON",
+"w": "miznonparis.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "RESIDALYA",
+"w": "residalya.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 65
+},
+{
+"n": "Spark",
+"w": "spark.do",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "SPECTRE",
+"w": "spectre-music.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Too Good To Go France",
+"w": "toogoodtogo.com",
+"postcode": "75018",
+"is_startup": true,
+"source_url": "https://www.toogoodtogo.com/fr/legal/legal-entities",
+"source_type": "maps",
+"office_street": "12 Rue Duhesme",
+"linkedin_employees": 65
+},
+{
+"n": "Agence Point d'Orgue",
+"w": "po.agency",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.strategies.fr/guides-annuaires/point-dorgue",
+"source_type": "maps",
+"office_street": "65 Rue d'Anjou",
+"linkedin_employees": 64
+},
+{
+"n": "Agora Managers Groupe",
+"w": "agoramanagers.fr",
+"postcode": "75017",
+"is_startup": false,
+"source_url": "https://www.agoramanagers.fr/nous-contacter/",
+"source_type": "contact",
+"office_street": "42 avenue de la Grande Armée",
+"linkedin_employees": 64
+},
+{
+"n": "Evergaz",
+"w": "evergaz.com",
+"postcode": "92400",
+"is_startup": false,
+"source_url": "https://linkedin.com/company/evergaz",
+"source_type": "linkedin",
+"office_street": "9/11 Allée de l'Arche",
+"linkedin_employees": 64
+},
+{
+"n": "Finovox",
+"w": "finovox.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 64
+},
+{
+"n": "JIM",
+"w": "jimapp.fit",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "le19M",
+"w": "le19m.com",
+"postcode": "75019",
+"is_startup": false,
+"source_url": "https://www.linkedin.com/posts/le19m_maisonmichel-jep2026-journ%C3%A9esdupatrimoine-activity-7512923716310335490-3W9_",
+"source_type": "linkedin",
+"office_street": "2 place Skanderbeg",
+"linkedin_employees": 64
+},
+{
+"n": "mediarithmics",
+"w": "mediarithmics.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 64
+},
+{
+"n": "NEOBRAIN",
+"w": "neobrain.io",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 64
+},
+{
+"n": "Pixpay",
+"w": "pixpay.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 64
+},
+{
+"n": "ZE ENERGY",
+"w": "ze-energy.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 64
+},
+{
+"n": "ALDEBARAN",
+"w": "aldebaran.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "Cartier Women's Initiative",
+"w": "cartierwomensinitiative.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "DOCENT",
+"w": "docent-art.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "Elevo",
+"w": "elevo.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "GetVocal AI",
+"w": "getvocal.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "Paylead",
+"w": "paylead.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "Pitchy",
+"w": "pitchy.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "ssp",
+"w": "sspayment.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "Supervan",
+"w": "supervan.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 63
+},
+{
+"n": "Unow",
+"w": "unow.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 11
+},
+{
+"n": "Zelty",
+"w": "zelty.fr",
+"postcode": "75011",
+"is_startup": true,
+"source_url": "https://www.francenum.gouv.fr/activateurs/zelty",
+"source_type": "contact",
+"office_street": "91 rue Jean-Pierre Timbaud",
+"linkedin_employees": 63
+},
+{
+"n": "Bababam",
+"w": "bababam.com",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://corporate.bababam.com/nous-contacter",
+"source_type": "contact",
+"office_street": "33 boulevard des Batignolles",
+"linkedin_employees": 62
+},
+{
+"n": "BLING",
+"w": "bling.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 62
+},
+{
+"n": "Edusign",
+"w": "edusign.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 62
+},
+{
+"n": "Elax Energie",
+"w": "elaxenergie.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 62
+},
+{
+"n": "Graneet",
+"w": "graneet.com",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.welcometothejungle.com/en/companies/graneet",
+"source_type": "careers",
+"office_street": "54 rue de Chabrol",
+"linkedin_employees": 62
+},
+{
+"n": "iktos",
+"w": "iktos.ai",
+"postcode": "75017",
+"is_startup": true,
+"source_url": "https://iktos.ai/contact",
+"source_type": "contact",
+"office_street": "65 rue de Prony",
+"linkedin_employees": 62
+},
+{
+"n": "Nomad Education",
+"w": "nomadeducation.fr",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://www.campusmatin.com/annuaires/numerique/nomad-education.html",
+"source_type": "contact",
+"office_street": "160 Boulevard Haussmann",
+"linkedin_employees": 62
+},
+{
+"n": "Traveller Made",
+"w": "travellermade.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 62
+},
+{
+"n": "STAIRWAY",
+"w": "stairway-management.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.stairway-management.com/contactez-nous",
+"source_type": "contact",
+"office_street": "4 Place de la Bourse",
+"linkedin_employees": 62
+},
+{
+"n": "Stonly",
+"w": "stonly.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 62
+},
+{
+"n": "Wamiz",
+"w": "wamiz.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 62
+},
+{
+"n": "Waysia",
+"w": "mywaysia.com",
+"postcode": "75014",
+"is_startup": false,
+"source_url": "https://pitchbook.com/profiles/company/469919-17",
+"source_type": "contact",
+"office_street": "13 rue Poirier de Narçay",
+"linkedin_employees": 62
+},
+{
+"n": "Agorize",
+"w": "agorize.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Alvest",
+"w": "alvest.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Audion",
+"w": "audion.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Domavia",
+"w": "domavia.fr",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.domavia.fr/contact/",
+"source_type": "contact",
+"office_street": "168 rue Saint-Denis",
+"linkedin_employees": 61
+},
+{
+"n": "HEYME",
+"w": "heyme.care",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Kiamo",
+"w": "kiamo.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://kiamo.com/contactez-nous.html",
+"source_type": "contact",
+"office_street": "21 rue Saint Marc",
+"linkedin_employees": 61
+},
+{
+"n": "Leeto",
+"w": "leeto.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Nomadic Labs",
+"w": "nomadic-labs.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "SeDomicilier.fr",
+"w": "sedomicilier.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "SlimPay",
+"w": "slimpay.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Wakeo",
+"w": "wakeo.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Énergie Partagée",
+"w": "energie-partagee.org",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 61
+},
+{
+"n": "Aldoria",
+"w": "aldoria.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 60
+},
+{
+"n": "ECTOR",
+"w": "ectorparking.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 60
+},
+{
+"n": "EDGAR SUITES",
+"w": "edgarsuites.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 60
+},
+{
+"n": "GENIUS",
+"w": "genius.paris",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://genius.paris/about-us/",
+"source_type": "contact",
+"office_street": "69 bd Haussmann",
+"linkedin_employees": 60
+},
+{
+"n": "Gobi",
+"w": "gobilab.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 60
+},
+{
+"n": "MARKENTIVE",
+"w": "markentive.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://www.markentive.com/contact",
+"source_type": "contact",
+"office_street": "21 rue Greneta",
+"linkedin_employees": 60
+},
+{
+"n": "Posos",
+"w": "posos.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 60
+},
+{
+"n": "SCREP",
+"w": "screp.bz",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 60
+},
+{
+"n": "THE GAME",
+"w": "thegame-france.com",
+"postcode": "75005",
+"is_startup": false,
+"source_url": "https://www.thegame-france.com/en/legal-mentions.htm",
+"source_type": "legal",
+"office_street": "51 Rue du Cardinal Lemoine",
+"linkedin_employees": 60
+},
+{
+"n": "Banijay Kids and Family",
+"w": "banijaykidsandfamily.com",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.banijaykidsandfamily.com/contact/",
+"source_type": "contact",
+"office_street": "23 rue de Berri",
+"linkedin_employees": 59
+},
+{
+"n": "Dattak",
+"w": "dattak.io",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://www.dattak.io/en/contact-expert",
+"source_type": "contact",
+"office_street": "21 rue du Général Foy",
+"linkedin_employees": 59
+},
+{
+"n": "DELIGHT",
+"w": "delight-data.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 59
+},
+{
+"n": "Jinka",
+"w": "jinka.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 59
+},
+{
+"n": "Life Plus IO",
+"w": "lifeplus.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 59
+},
+{
+"n": "Magic Makers",
+"w": "magicmakers.fr",
+"postcode": "75015",
+"is_startup": false,
+"source_url": "https://www.magicmakers.fr/policies/contact-information",
+"source_type": "contact",
+"office_street": "14 place Etienne Pernet",
+"linkedin_employees": 59
+},
+{
+"n": "Mairie du 9e",
+"w": "mairie09.paris.fr",
+"postcode": "75009",
+"is_startup": false,
+"source_url": "https://mairie09.paris.fr/pages/les-services-de-la-mairie-du-9e-8315",
+"source_type": "contact",
+"office_street": "6 rue Drouot",
+"linkedin_employees": 0
+},
+{
+"n": "Matrice",
+"w": "matrice.io",
+"postcode": "75020",
+"is_startup": false,
+"source_url": "https://www.matrice.io/",
+"source_type": "contact",
+"office_street": "14 rue Soleillet",
+"linkedin_employees": 0
+},
+{
+"n": "Omnidoc",
+"w": "omnidoc.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 59
+},
+{
+"n": "PandaScore",
+"w": "pandascore.co",
+"postcode": "75010",
+"is_startup": true,
+"source_url": "https://www.pandascore.co/contact",
+"source_type": "contact",
+"office_street": "24 rue Louis Blanc",
+"linkedin_employees": 59
+},
+{
+"n": "PathoQuest",
+"w": "pathoquest.com",
+"postcode": "75013",
+"is_startup": false,
+"source_url": "https://pathoquest.com/contact-us/",
+"source_type": "contact",
+"office_street": "11 rue Watt, Biopark Bâtiment B",
+"linkedin_employees": 59
+},
+{
+"n": "Revolte",
+"w": "revolte.club",
+"postcode": "94320",
+"is_startup": true,
+"source_url": "https://www.revolte.club/garages/paris",
+"source_type": "maps",
+"office_street": "37 rue Hélène Muller",
+"linkedin_employees": 59
+},
+{
+"n": "Tom&Josette",
+"w": "tometjosette.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 59
+},
+{
+"n": "UNIVITY",
+"w": "univity.global",
+"postcode": "75014",
+"is_startup": true,
+"source_url": "https://www.univity.global/contact",
+"source_type": "contact",
+"office_street": "82 avenue du Maine",
+"linkedin_employees": 59
+},
+{
+"n": "WeWeb",
+"w": "weweb.io",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 59
+},
+{
+"n": "Ad Scientiam",
+"w": "adscientiam.com",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://www.adscientiam.com/en",
+"source_type": "contact",
+"office_street": "21-23 rue Albert Bayet, Digital Village",
+"linkedin_employees": 58
+},
+{
+"n": "ADENES Group",
+"w": "adenes.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 58
+},
+{
+"n": "Carton Plein",
+"w": "cartonplein.org",
+"postcode": "75018",
+"is_startup": false,
+"source_url": "https://cartonplein.org/contact/",
+"source_type": "contact",
+"office_street": "132 rue des Poissonniers",
+"linkedin_employees": 58
+},
+{
+"n": "Manty",
+"w": "manty.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 58
+},
+{
+"n": "Mes Potos",
+"w": "mespotos.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 58
+},
+{
+"n": "Primo",
+"w": "getprimo.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 58
+},
+{
+"n": "Spiders",
+"w": "spiders-games.com",
+"postcode": "94200",
+"is_startup": false,
+"source_url": "https://www.spiders-games.com/contact/",
+"source_type": "contact",
+"office_street": "6 Rue André Voguet",
+"linkedin_employees": 58
+},
+{
+"n": "Ad4screen",
+"w": "ad4screen.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://ad4screen.com/nous-contacter/",
+"source_type": "contact",
+"office_street": "8 rue de Choiseul",
+"linkedin_employees": 57
+},
+{
+"n": "Commanders Act",
+"w": "commandersact.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "BlaBlaCar Daily",
+"w": "blablacardaily.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "Dametis",
+"w": "dametis.com",
+"postcode": "75014",
+"is_startup": true,
+"source_url": "https://www.dametis.com/contact/",
+"source_type": "contact",
+"office_street": "13 rue Niépce",
+"linkedin_employees": 57
+},
+{
+"n": "DREAM",
+"w": "dream.archi",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "ESpot",
+"w": "espot.fr",
+"postcode": "75001",
+"is_startup": false,
+"source_url": "https://espot.fr/mentions-legales",
+"source_type": "contact",
+"office_street": "150 rue de Rivoli",
+"linkedin_employees": 57
+},
+{
+"n": "L'Ascenseur",
+"w": "lascenseur.org",
+"postcode": "75004",
+"is_startup": false,
+"source_url": "https://www.lascenseur.org/contactez-nous/",
+"source_type": "contact",
+"office_street": "29 boulevard Bourdon",
+"linkedin_employees": 57
+},
+{
+"n": "Le 17.45",
+"w": "le17-45.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "Metroscope",
+"w": "metroscope.tech",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "Probabl",
+"w": "probabl.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "SEVAIA",
+"w": "sevaia.eu",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.sevaia.eu/contact/",
+"source_type": "contact",
+"office_street": "60 rue de Londres",
+"linkedin_employees": 57
+},
+{
+"n": "SiVIEW",
+"w": "siview.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Skarlett",
+"w": "skarlett.fr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "Tilak Healthcare",
+"w": "tilakhealthcare.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "Urban Campus",
+"w": "urbancampus.com",
+"postcode": "75002",
+"is_startup": false,
+"source_url": "https://urbancampus.com/fr/contactez-nous/",
+"source_type": "contact",
+"office_street": "25 rue du Mail",
+"linkedin_employees": 57
+},
+{
+"n": "Zei",
+"w": "zei-world.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 57
+},
+{
+"n": "Absolution",
+"w": "absolution-cosmetics.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Boxtal",
+"w": "boxtal.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Carb0n",
+"w": "carbon.green",
+"postcode": "75008",
+"is_startup": true,
+"source_url": "https://carbon.green/",
+"source_type": "company",
+"office_street": "24 avenue Hoche",
+"linkedin_employees": 56
+},
+{
+"n": "Compose",
+"w": "compose.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Danim",
+"w": "danim.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Figures",
+"w": "figures.hr",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 0
+},
+{
+"n": "Kardinal",
+"w": "kardinal.ai",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Kraaft",
+"w": "kraaft.com",
+"postcode": "75002",
+"is_startup": true,
+"source_url": "https://bdbau.org/en/mitglieder/kraaft/",
+"source_type": "contact",
+"office_street": "14 Rue d'Uzès",
+"linkedin_employees": 56
+},
+{
+"n": "microDON",
+"w": "microdon.org",
+"postcode": "75015",
+"is_startup": false,
+"source_url": "https://www.microdon.org/contact",
+"source_type": "contact",
+"office_street": "112-114 avenue Emile Zola",
+"linkedin_employees": 56
+},
+{
+"n": "Orygeen",
+"w": "orygeen.eu",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Pongo",
+"w": "heypongo.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Quantalys",
+"w": "quantalys.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Standing Ovation",
+"w": "standing-ovation.co",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "Ubees",
+"w": "ubees.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 56
+},
+{
+"n": "WhiteLab Genomics",
+"w": "whitelabgx.com",
+"postcode": "75013",
+"is_startup": true,
+"source_url": "https://whitelabgx.com/fr/contact-us",
+"source_type": "company contact page",
+"office_street": "8 Rue Jean Antoine de Baïf",
+"linkedin_employees": 56
+},
+{
+"n": "ALGAIA",
+"w": "algaia.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 55
+},
+{
+"n": "Boks",
+"w": "boks.app",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 55
+},
+{
+"n": "Collector Square",
+"w": "collectorsquare.com",
+"postcode": "75007",
+"is_startup": false,
+"source_url": "https://www.collectorsquare.com/nous-trouver",
+"source_type": "company contact page",
+"office_street": "36-38 boulevard Raspail",
+"linkedin_employees": 55
+},
+{
+"n": "FairMoove",
+"w": "fairmoove.fr",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 55
+},
+{
+"n": "HIGHSTAY",
+"w": "highstay.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 55
+},
+{
+"n": "Kwerk",
+"w": "kwerk.fr",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.kwerk.fr/",
+"source_type": "company location page",
+"office_street": "16 avenue de Messine",
+"linkedin_employees": 55
+},
+{
+"n": "Qubit Pharmaceuticals",
+"w": "qubit-pharmaceuticals.com",
+"postcode": "75014",
+"is_startup": true,
+"source_url": "https://www.qubit-pharmaceuticals.com/legal-notices",
+"source_type": "company legal/contact page",
+"office_street": "29 rue du Faubourg Saint-Jacques",
+"linkedin_employees": 55
+},
+{
+"n": "TYLIA",
+"w": "tylia.fr",
+"postcode": "75008",
+"is_startup": false,
+"source_url": "https://www.tylia.fr/contact",
+"source_type": "company contact page",
+"office_street": "13 rue Saint Florentin",
+"linkedin_employees": 55
+},
+{
+"n": "uggy",
+"w": "ifeelgoods.com",
+"postcode": "",
+"is_startup": false,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 55
+},
+{
+"n": "BackLight",
+"w": "backlight.fr",
+"postcode": "93200",
+"is_startup": false,
+"source_url": "https://backlight.fr/contact/",
+"source_type": "company contact page",
+"office_street": "47 Bd Ornano",
+"linkedin_employees": 54
+},
+{
+"n": "Coave Therapeutics",
+"w": "coavetx.com",
+"postcode": "75012",
+"is_startup": true,
+"source_url": "https://coavetx.com/terms-and-conditions/",
+"source_type": "company legal/contact page",
+"office_street": "63 bis avenue Ledru Rollin",
+"linkedin_employees": 54
+},
+{
+"n": "Dastra",
+"w": "dastra.eu",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+},
+{
+"n": "Equitable Earth",
+"w": "eq-earth.com",
+"postcode": "",
+"is_startup": true,
+"source_url": "",
+"source_type": "",
+"office_street": "",
+"linkedin_employees": 54
+}
+]

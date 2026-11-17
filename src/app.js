@@ -8,7 +8,9 @@ const STAGE = {
   growth: {label:'Growth',      short:'Growth',    hint:'50 to 249',       hex:'#1baf7a', sel:'#0F7D56', hov:'#4CC497', c:'--growth', ci:'--growth-ink', cs:'--growth-soft'},
   scale:  {label:'Scale-up',    short:'Scale-ups', hint:'250 and more',    hex:'#eb6834', sel:'#B9461A', hov:'#F08A60', c:'--scale',  ci:'--scale-ink',  cs:'--scale-soft'},
 };
-const RANK = {early:0, growth:1, scale:2};
+const UNKNOWN = {label:'Size unknown', hex:'#A9ABB1', sel:'#7E8087', hov:'#C2C4C9', c:'--unknown', ci:'--muted', cs:'--hover'};
+const ST = k => STAGE[k] || UNKNOWN;
+const RANK = {unknown:-1, early:0, growth:1, scale:2};
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fold = s => String(s ?? '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
@@ -26,7 +28,7 @@ B.forEach(f => { f._c = center(f); });
 /* ---------- state ---------- */
 const active = new Set(Object.keys(STAGE));
 let query = '', fSec = '', showSeat = false, selB = null, openI = null, hovB = null;
-const visible = p => active.has(p.st) && (showSeat || p.k === 'office') && (!fSec || p.s === fSec) && (!query || p._s.includes(query));
+const visible = p => (active.has(p.st) || (p.st === 'unknown' && active.size === 3)) && (showSeat || p.k === 'office') && (!fSec || p.s === fSec) && (!query || p._s.includes(query));
 const bySize = (a, b) => (b.e || 0) - (a.e || 0) || a.n.localeCompare(b.n, 'fr');
 
 /* ---------- base map: OpenFreeMap vector tiles, quieted down; neutral 3D buildings ---------- */
@@ -88,7 +90,7 @@ const map = new maplibregl.Map({container:'map',
 map.touchZoomRotate.disableRotation();
 let ready = false;
 
-const COLOR = k => ['match',['coalesce',['feature-state','st'],['get','st']],'scale',STAGE.scale[k],'growth',STAGE.growth[k],STAGE.early[k]];
+const COLOR = k => ['match',['coalesce',['feature-state','st'],['get','st']],'scale',STAGE.scale[k],'growth',STAGE.growth[k],'early',STAGE.early[k],UNKNOWN[k]];
 const ptsData = () => ({type:'FeatureCollection', features:S.filter(visible).map(p => ({type:'Feature', properties:{w:RANK[p.st] + 1}, geometry:{type:'Point', coordinates:[p.ll[1], p.ll[0]]}}))});
 const styleReady = window.BASEMAP ? Promise.resolve(null) : fetch('https://tiles.openfreemap.org/styles/positron').then(r => r.json());
 styleReady.then(st => {
@@ -147,7 +149,7 @@ let qt; $('q').addEventListener('input', e => { clearTimeout(qt); qt = setTimeou
 $('q').addEventListener('keydown', e => { if (e.key === 'Enter') { const r = $('results').querySelector('.res'); r && r.click(); } });
 let listOpen = false, shown = 40;
 $('browse').onclick = () => { listOpen = !listOpen; renderPanel(); };
-$('legend').innerHTML = Object.values(STAGE).map(C => `<span><i style="--c:var(${C.c})"></i>${C.label}</span>`).join('') + `<span>Colour = stage of the largest startup in the building</span>`;
+$('legend').innerHTML = [...Object.values(STAGE), UNKNOWN].map(C => `<span><i style="--c:var(${C.c})"></i>${C.label}</span>`).join('') + `<span>Colour = stage of the largest startup in the building</span>`;
 
 function renderPanel(){
   const vis = S.filter(visible);
@@ -158,7 +160,7 @@ function renderPanel(){
   if (!listOpen) { R.hidden = true; return; }
   R.hidden = false;
   vis.sort(bySize);
-  R.innerHTML = (vis.length ? vis.slice(0, shown).map(p => `<button class="res${p.i === openI ? ' on' : ''}" type="button" data-i="${p.i}" style="--c:var(${STAGE[p.st].c})">
+  R.innerHTML = (vis.length ? vis.slice(0, shown).map(p => `<button class="res${p.i === openI ? ' on' : ''}" type="button" data-i="${p.i}" style="--c:var(${ST(p.st).c})">
       <i class="${p.k === 'office' ? '' : 'u'}"></i><div><b>${esc(p.n)}</b><span>${esc([p.s, p.cp || p.area].filter(Boolean).join(' · '))}</span></div><small>${p.e ? nf.format(p.e) : ''}</small></button>`).join('')
     : `<div class="none">No startup matches. Try another word or clear a filter.</div>`) +
     (vis.length > shown ? `<button class="more" type="button">Show ${nf.format(Math.min(200, vis.length - shown))} more</button>` : '');
@@ -168,18 +170,26 @@ function renderPanel(){
 
 /* ---------- card: one building, the startups inside ---------- */
 const card = $('card');
-const VIA = {website:'its own website', linkedin:'its LinkedIn page', register:'the company register', research:'press and job listings'};
+const SRC = {manual:'a manual check', research:'job posts and press', website:'its own website', linkedin:'its LinkedIn page', cohort:'a Station F programme list', register:'the company register'};
+const FIX = 'https://github.com/ethan-ab/paris-startups/issues/new';
 function detail(p){
-  const C = STAGE[p.st];
+  const C = ST(p.st);
   const host = (() => { try { return new URL(p.u).hostname.replace(/^www\./, ''); } catch { return ''; } })();
-  const rows = [['Founded', p.y], ['Team', p.e ? nf.format(p.e) + ' people' : ''], ['Raised', money(p.f)], ['Last round', p.rd]].filter(r => r[1]);
+  const team = p.e ? nf.format(p.e) + ' people' + (p.eh === 'linkedin' ? ' on LinkedIn' : p.eh === 'register' ? ' (register band)' : '') : '';
+  const rows = [['Founded', p.y], ['Team', team], ['Raised', money(p.f)], ['Last round', p.rd]].filter(r => r[1]);
   const where = [p.a, p.pc && (/^75/.test(p.pc) ? `${p.pc} Paris` : p.pc)].filter(Boolean).join(', ');
+  const ev = (p.ev || [p.v]).map(k => SRC[k] || k);
+  const how = p.cf === 'v' ? `Verified office: ${esc(where)}. Source: ${esc(ev.join(' + '))}.`
+    : p.cf === 'l' ? `Likely office: ${esc(where)}. Only source: ${esc(ev[0])}.`
+    : `Unconfirmed: ${esc(where)} comes from ${esc(ev[0])} only. The team may work elsewhere.`;
+  const fix = `${FIX}?title=${encodeURIComponent('Office: ' + p.n)}&body=${encodeURIComponent(`${p.n} (${p.u || ''})\nMap says: ${where}\nActual office: `)}`;
   return `<span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span>
     ${p.d ? `<p>${esc(p.d)}${p.d.length >= 259 ? '…' : ''}</p>` : ''}
     ${rows.length ? `<dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}</dl>` : ''}
-    <div class="src ${p.k === 'office' ? '' : 'warn'}">${p.k === 'office' ? `Office at ${esc(where)}, from ${esc(VIA[p.v] || p.v)}.` : `Registered address only (${esc(where)}). We could not confirm the team works here.`}</div>
+    <div class="src ${p.cf === 'u' ? 'warn' : ''}">${how}</div>
     <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}
-      <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.n + ', ' + where)}" target="_blank" rel="noopener">Directions ↗</a></div>`;
+      <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.n + ', ' + where)}" target="_blank" rel="noopener">Directions ↗</a>
+      <a href="${esc(fix)}" target="_blank" rel="noopener">Wrong office? ↗</a></div>`;
 }
 function showCard(b, i, fly){
   const f = byB.get(b); if (!f) return;
@@ -191,12 +201,12 @@ function showCard(b, i, fly){
   const lead = list[0];
   const addr = (() => { const c = {}; list.forEach(p => { if (p.a) c[p.a] = (c[p.a] || 0) + 1; }); return Object.entries(c).sort((x, y) => y[1] - x[1])[0]?.[0] || ''; })();
   const place = lead.cp || [addr, lead.area].filter(Boolean).join(' · ');
-  const counts = Object.keys(STAGE).map(k => [k, list.filter(p => p.st === k).length]).filter(x => x[1]);
+  const counts = [...Object.keys(STAGE), 'unknown'].map(k => [k, list.filter(p => p.st === k).length]).filter(x => x[1]);
   card.innerHTML = `<div class="ch"><div class="eyebrow">${esc(place)}</div>
       <h2>${list.length === 1 ? esc(lead.n) : `${nf.format(list.length)} startups in this building`}</h2>
-      ${list.length > 1 ? `<div class="sbar">${counts.map(([k, n]) => `<i style="--c:var(${STAGE[k].c});flex-grow:${n}" title="${STAGE[k].label}: ${n}"></i>`).join('')}</div>` : ''}
+      ${list.length > 1 ? `<div class="sbar">${counts.map(([k, n]) => `<i style="--c:var(${ST(k).c});flex-grow:${n}" title="${ST(k).label}: ${n}"></i>`).join('')}</div>` : ''}
       <button class="x" type="button" aria-label="Close">×</button></div>
-    ${list.map(p => `<div class="co"><button type="button" data-i="${p.i}" aria-expanded="${p.i === i}" style="--c:var(${STAGE[p.st].c})">
+    ${list.map(p => `<div class="co"><button type="button" data-i="${p.i}" aria-expanded="${p.i === i}" style="--c:var(${ST(p.st).c})">
         <i class="${p.k === 'office' ? '' : 'u'}"></i><div><b>${esc(p.n)}</b><span>${esc(p.s)}</span></div><small>${p.e ? nf.format(p.e) : ''}</small></button>
         <div class="det" ${p.i === i ? '' : 'hidden'}>${p.i === i ? detail(p) : ''}</div></div>`).join('')}`;
   card.hidden = false;

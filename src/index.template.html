@@ -21,7 +21,7 @@
 :root{
   color-scheme:light;
   --ground:#F2F1ED; --panel:rgba(255,255,255,.94); --solid:#FFFFFF; --ink:#16171A; --muted:#5D5F66; --faint:#8E9097; --line:#E4E3DF; --hover:#F3F2EF;
-  --early:#2a78d6; --growth:#1baf7a; --scale:#eb6834;
+  --early:#2a78d6; --growth:#1baf7a; --scale:#eb6834; --unknown:#A9ABB1;
   --early-ink:#1F62B5; --growth-ink:#11704F; --scale-ink:#A8431A;
   --early-soft:#E5EEFA; --growth-soft:#DFF3EA; --scale-soft:#FCE8DF;
   --shadow:0 1px 2px rgba(22,23,26,.06),0 8px 24px rgba(22,23,26,.10);
@@ -107,7 +107,7 @@ button,input,select{font:inherit;color:inherit}
 .det .links a:hover{text-decoration:underline}
 
 /* ---------- legend + map buttons ---------- */
-.legend{position:fixed;z-index:4;left:max(14px,env(safe-area-inset-left,0px));bottom:max(14px,env(safe-area-inset-bottom,0px));background:var(--panel);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+.legend{position:fixed;z-index:4;left:calc(max(14px,env(safe-area-inset-left,0px)) + 354px);bottom:max(14px,env(safe-area-inset-bottom,0px));background:var(--panel);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
   border-radius:10px;box-shadow:var(--shadow);padding:8px 12px;font:500 12px var(--sans);color:var(--muted);display:flex;gap:14px;align-items:center;flex-wrap:wrap;max-width:calc(100% - 28px)}
 .legend span{display:inline-flex;align-items:center;gap:6px}
 .legend i{width:9px;height:12px;border-radius:2px;background:var(--c)}

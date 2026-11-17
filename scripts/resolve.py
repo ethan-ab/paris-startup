@@ -108,6 +108,9 @@ def clean_street(st):
     return m[-1].group(0) if m else st
 
 
+SEEDNAME = {}  # curated names win over Exa's (e.g. mirakl.com is "Mirakl", not "Mirakl Target2Sell")
+
+
 def sector(c):
     votes = {}
     for q in c.get('queries', []):
@@ -125,7 +128,9 @@ def sector(c):
 
 
 def stage(n):
-    if not n or n < 50:
+    if not n:
+        return 'unknown'  # no reliable headcount: say so rather than guess "early"
+    if n < 50:
         return 'early'
     return 'growth' if n < 250 else 'scale'
 
@@ -201,6 +206,7 @@ def main():
             seeds = json.load(f)
         have = {c['domain'] for c in companies} | {L.fold(c['name']) for c in companies}
         names = {L.fold(c['name']) for c in companies}
+        SEEDNAME.update({s['domain']: s['name'] for s in seeds})
         add = [s for s in seeds if L.fold(s['name']) not in names]
         companies += add
         print(len(add), 'seed companies added')
@@ -214,6 +220,31 @@ def main():
                 ov[L.fold(o['name'])] = o
                 if o.get('website'):
                     ov[o['website'].replace('https://', '').replace('www.', '').strip('/').lower()] = o
+    def load_list(name):
+        p_ = os.path.join(ROOT, 'data', 'ref', name)
+        idx = {}
+        if os.path.exists(p_):
+            with open(p_) as f:
+                for o in json.load(f):
+                    w = (o.get('website') or o.get('w') or '').replace('https://', '').replace('http://', '').replace('www.', '').split('/')[0].lower()
+                    for k in {L.fold(o.get('name') or o.get('n')), w} - {''}:
+                        idx.setdefault(k, []).append(o)
+        return idx
+    VER = load_list('verified.json')       # Exa Agent verification: LinkedIn headcount, is_startup, sourced office
+    COR = load_list('corrections.json')    # manual corrections: always win
+
+    def _get(idx, c):
+        seen, out = set(), []
+        for k in ((c.get('domain') or '').replace('www.', '').lower(), L.fold(c.get('name'))):
+            for o in idx.get(k, []):
+                if id(o) not in seen:
+                    seen.add(id(o)); out.append(o)
+        return out
+    def verified(c):
+        return _get(VER, c)
+    def corrections(c):
+        return _get(COR, c)
+
     def override(c):
         return ov.get((c.get('domain') or '').replace('www.', '').lower()) or ov.get(L.fold(c.get('name')))
 
@@ -221,7 +252,7 @@ def main():
     kept = []
     drop = {'old': 0, 'big': 0, 'not_startup': 0}
     for c in companies:
-        if c.get('seed') or override(c):
+        if c.get('seed') or override(c) or corrections(c):
             kept.append(c); continue
         if c.get('founded') and c['founded'] < 2005:
             drop['old'] += 1; continue
@@ -246,33 +277,25 @@ def main():
     def good(g):
         return g and g[5] == 'housenumber' and L.in_bbox(g[0], g[1])
 
-    def pick(i, c):
-        cands = []  # (rank, loc)
-        for j, w in enumerate(web.get(c['domain'], [])):
-            g = geo.get(f'w{i}_{j}')
-            if not good(g):
-                continue
-            dom = L.addr_key(g[2]) in L.DOMICILIATION
-            if w['kind'] == 'seat' or dom:
-                cands.append((9, g, 'website', 'seat'))
-            else:
-                cands.append((1 if w['score'] > 0 else 3, g, 'website', 'office'))
-        num, street, pc = c['_li']
-        addr = c.get('hq_address') or ''
-        if re.search(r'station\s*f\b|parvis alan turing|eug[eè]ne freyssinet', addr, re.I):
-            cands.append((2, [L.STATION_F[0], L.STATION_F[1], L.STATION_F[2], '75013', 'Paris', 'housenumber', 1], 'linkedin', 'office'))
-        g = geo.get(f'li{i}')
-        if good(g):
-            dom = L.addr_key(g[2]) in L.DOMICILIATION
-            # a domiciliation address on LinkedIn still counts if the website independently calls it the office
-            confirmed = any(r_ == 1 and L.addr_key(gg[2]) == L.addr_key(g[2]) for r_, gg, _, _ in cands)
-            cands.append((2, g, 'linkedin', 'office') if (not dom or confirmed) else (9, g, 'linkedin', 'seat'))
-        cands.sort(key=lambda x: x[0])
-        return cands
+    # ---------- evidence: every address we hold for a company, weighted by how much it says about the OFFICE ----------
+    # families: manual (your corrections), research (Exa Agent: careers/job posts/press/legal), website (own pages),
+    # linkedin (company page HQ), cohort (Station F programme lists), register (SIRENE secondary establishment).
+    LEGALISH = re.compile(r'legal|mentions|cgu|cgv|terms|privacy|conditions|pappers|societe\.com|infogreffe', re.I)
+    SF = [L.STATION_F[0], L.STATION_F[1], L.STATION_F[2], '75013', 'Paris', 'housenumber', 1]
 
-    picks = [pick(i, c) for i, c in enumerate(kept)]
+    def research_entries(c):
+        out = []
+        for o in [override(c)] + verified(c):
+            if o and o.get('office_street'):
+                out.append(o)
+        return out
 
-    # researched Station F residents (data/ref/stationf_residents.json) sit at Station F
+    rrows = []
+    for i, c in enumerate(kept):
+        for j, o in enumerate(research_entries(c) + corrections(c)):
+            rrows.append((f'r{i}_{j}', o['office_street'], o.get('postcode') or ''))
+    rgeo = L.ban_batch(rrows)
+
     sfp = os.path.join(ROOT, 'data', 'ref', 'stationf_residents.json')
     sfres = set()
     if os.path.exists(sfp):
@@ -280,69 +303,113 @@ def main():
             for r in json.load(f):
                 sfres.add(L.fold(r['name']))
                 sfres.add((r.get('website') or '').replace('https://', '').replace('http://', '').replace('www.', '').strip('/').lower())
-    SF = [L.STATION_F[0], L.STATION_F[1], L.STATION_F[2], '75013', 'Paris', 'housenumber', 1]
-    for i, c in enumerate(kept):
+
+    def evidence(i, c):
+        ev = []  # (geo, family, weight, is_seat)
+        dom = lambda g: L.addr_key(g[2]) in L.DOMICILIATION
+        rs = research_entries(c)
+        for j, o in enumerate(rs + corrections(c)):
+            g = rgeo.get(f'r{i}_{j}')
+            if not good(g):
+                continue
+            if j >= len(rs):
+                ev.append((g, 'manual', 100, False)); continue
+            st = (o.get('source_type') or '').lower()
+            legal = st == 'legal' or LEGALISH.search(o.get('source_url') or '')
+            ev.append((g, 'research', 1.5 if legal else 2 if st == 'linkedin' else 3, dom(g)))
+        for j, w in enumerate(web.get(c['domain'], [])):
+            g = geo.get(f'w{i}_{j}')
+            if good(g):
+                ev.append((g, 'website', 3 if w['score'] > 0 else 1.5, w['kind'] == 'seat' or dom(g)))
+        addr = c.get('hq_address') or ''
+        if re.search(r'station\s*f\b|parvis alan turing|eug[eè]ne freyssinet', addr, re.I):
+            ev.append((SF, 'linkedin', 2, False))
+        else:
+            g = geo.get(f'li{i}')
+            if good(g):
+                ev.append((g, 'linkedin', 2, dom(g)))
         if L.fold(c['name']) in sfres or (c.get('domain') or '').replace('www.', '').lower() in sfres:
-            picks[i] = [(0, SF, 'research', 'office')] + picks[i]
+            ev.append((SF, 'cohort', 1, False))
+        return ev
 
-    # researched offices win over everything
-    orows = [(f'o{i}', override(c)['office_street'], override(c).get('postcode') or '')
-             for i, c in enumerate(kept) if override(c) and override(c).get('office_street')]
-    ogeo = L.ban_batch(orows)
-    outside = set()
-    for i, c in enumerate(kept):
-        o = override(c)
-        if not o:
-            continue
-        if o.get('in_paris_area') is False:
-            outside.add(i); continue
-        g = ogeo.get(f'o{i}')
-        if good(g):
-            picks[i] = [(0, g, 'research', 'office')] + picks[i]
-    print(len(ov), 'researched overrides,', len(outside), 'outside Paris')
+    def near(g, h):
+        return abs(g[0] - h[0]) < 0.00036 and abs(g[1] - h[1]) < 0.00055 or L.addr_key(g[2]) == L.addr_key(h[2])
 
-    # register lookup only where no office was found
-    need = [i for i, cs in enumerate(picks) if not cs or cs[0][3] != 'office']
+    def decide(ev):
+        """-> (geo, confidence 'v'|'l'|'u', families) or None"""
+        offices = [e for e in ev if not e[3]]
+        if not offices:
+            return None
+        man = [e for e in offices if e[1] == 'manual']
+        if man:
+            return man[0][0], 'v', ['manual']
+        best = None
+        for e in offices:
+            fam = {}
+            for f in offices:
+                if near(e[0], f[0]):
+                    fam[f[1]] = max(fam.get(f[1], 0), f[2])
+            score = sum(fam.values())
+            top = max(fam.values())
+            cand = (score, top, e)
+            if not best or cand[:2] > best[:2]:
+                best = (score, top, e, fam)
+        score, top, e, fam = best
+        # pick the strongest single piece of evidence inside the winning cluster for the exact point
+        g = max((f for f in offices if near(e[0], f[0])), key=lambda f: f[2])[0]
+        conf = 'v' if top >= 3 or (score >= 3.5 and len(fam) >= 2) else 'l' if score >= 1.5 else 'u'
+        return g, conf, sorted(fam, key=lambda k: -fam[k])
+
+    decisions = [decide(evidence(i, c)) for i, c in enumerate(kept)]
+
+    outside = {i for i, c in enumerate(kept) if (override(c) or {}).get('in_paris_area') is False and not corrections(c)}
+    # the research flag alone is too strict (it calls Hugging Face or Lucca "not a startup"): drop only when the company
+    # also has no venture funding and no tech product in its own description
+    notstart = {i for i, c in enumerate(kept) if any(v.get('is_startup') is False for v in verified(c)) and not corrections(c)
+                and not c.get('seed') and not c.get('funding_total') and not TECH.search((c.get('description') or '')[:600])}
+    print(len(outside), 'outside Paris ·', len(notstart), 'not startups (research)')
+
+    # register lookup only where nothing better than "unconfirmed" was found
+    need = [i for i, d in enumerate(decisions) if not d or d[1] == 'u']
     print(len(need), 'companies need the company register')
     with ThreadPoolExecutor(8) as ex:
         sir = dict(zip(need, ex.map(lambda i: L.sirene_match_all(kept[i], kept[i]['_li'][2]), need)))
 
     out, stats = [], {}
     for i, c in enumerate(kept):
-        cs = picks[i]
-        loc = None
-        if i in outside:
+        if i in outside or i in notstart:
             continue
-        if cs and cs[0][3] == 'office':
-            r, g, via, kind = cs[0]
-            loc = {'ll': [g[0], g[1]], 'street': g[2], 'pc': g[3], 'city': g[4], 'via': via, 'kind': 'office'}
-        else:
+        d = decisions[i]
+        loc = None
+        if d:
+            g, conf, fams = d
+            loc = {'ll': [g[0], g[1]], 'street': g[2], 'pc': g[3], 'city': g[4], 'via': fams[0], 'cf': conf, 'ev': fams}
+        if not loc or loc['cf'] == 'u':
             pc0 = c['_li'][2]
-            # the register entry must agree with what we know: same postcode as the LinkedIn office, or Paris proper
             ets = [e for e in (sir.get(i) or []) if ((e['postcode'] == pc0) if pc0 else (e['postcode'] or '').startswith('75'))]
             sec = [e for e in ets if not e['siege'] and L.addr_key(e['street']) not in L.DOMICILIATION]
             seat = [e for e in ets if e['siege'] and L.addr_key(e['street']) not in L.DOMICILIATION]
-            if sec:
-                e = sec[0]
-                loc = {'ll': [e['lat'], e['lng']], 'street': e['street'], 'pc': e['postcode'], 'city': e['city'], 'via': 'register', 'kind': 'office' if pc0 else 'seat'}
-            elif cs:
-                r, g, via, kind = cs[0]
-                loc = {'ll': [g[0], g[1]], 'street': g[2], 'pc': g[3], 'city': g[4], 'via': via, 'kind': 'seat'}
-            elif seat:
-                e = seat[0]
-                loc = {'ll': [e['lat'], e['lng']], 'street': e['street'], 'pc': e['postcode'], 'city': e['city'], 'via': 'register', 'kind': 'seat'}
-        key = (loc or {}).get('kind', 'none') + '/' + (loc or {}).get('via', '')
+            pick_ = sec[0] if sec else None
+            if pick_ and loc and abs(pick_['lat'] - loc['ll'][0]) < 0.0004 and abs(pick_['lng'] - loc['ll'][1]) < 0.0006:
+                loc['cf'] = 'l'; loc['ev'] = loc['ev'] + ['register']   # register corroborates the weak lead
+            elif not loc and (pick_ or seat):
+                e = pick_ or seat[0]
+                loc = {'ll': [e['lat'], e['lng']], 'street': e['street'], 'pc': e['postcode'], 'city': e['city'], 'via': 'register', 'cf': 'u', 'ev': ['register']}
+        key = (loc or {}).get('cf', 'none') + '/' + (loc or {}).get('via', '')
         stats[key] = stats.get(key, 0) + 1
         if not loc:
             continue
+        ve = [v.get('linkedin_employees') for v in verified(c) if v.get('linkedin_employees')]
+        emp = ve[0] if ve else c.get('employees')
         rd = c.get('last_round') or {}
         rec = {
-            'n': c['name'].strip(), 'u': c['url'], 'd': re.sub(r'\s+', ' ', (c.get('description') or '')).strip()[:260],
-            'y': c.get('founded'), 'e': c.get('employees'), 'f': c.get('funding_total'),
+            'n': SEEDNAME.get((c.get('domain') or '').replace('www.', ''), c['name']).strip(), 'u': c['url'], 'd': re.sub(r'\s+', ' ', (c.get('description') or '')).strip()[:260],
+            'y': c.get('founded'), 'e': emp, 'f': c.get('funding_total'),
             'rd': ' · '.join(x for x in (rd.get('name'), (rd.get('date') or '')[:4]) if x) or None,
-            's': sector(c), 'st': stage(c.get('employees')),
+            's': sector(c), 'st': stage(emp), 'eh': 'linkedin' if ve else ('register' if c.get('seed') and emp else 'exa' if emp else None),
             'a': clean_street(loc['street']), 'pc': loc['pc'], 'area': area(loc['pc'], loc['city']),
-            'll': [round(loc['ll'][0], 6), round(loc['ll'][1], 6)], 'k': loc['kind'], 'v': loc['via'],
+            'll': [round(loc['ll'][0], 6), round(loc['ll'][1], 6)], 'k': 'office' if loc['cf'] in 'vl' else 'seat',
+            'cf': loc['cf'], 'v': loc['via'], 'ev': loc['ev'],
         }
         cp = CAMPUS.get(L.addr_key(rec['a']))
         if cp:
@@ -354,7 +421,7 @@ def main():
     seen, uniq = set(), []
     def dom(r):
         return re.sub(r'^https?://(www\.)?', '', r.get('u') or '').split('/')[0].lower()
-    for r in sorted(out, key=lambda r: (r['k'] != 'office', r.get('v') != 'research', -(r.get('e') or 0))):
+    for r in sorted(out, key=lambda r: ('vlu'.index(r['cf']), -(r.get('e') or 0))):
         keys = {'n:' + L.fold(r['n']), 'd:' + dom(r)} - {'d:'}
         if keys & seen:
             continue
