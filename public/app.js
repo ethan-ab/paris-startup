@@ -186,7 +186,7 @@ function detail(p, hero){
   const C = ST(p.st);
   const host = (() => { try { return new URL(p.u).hostname.replace(/^www\./, ''); } catch { return ''; } })();
   const team = p.e ? nf.format(p.e) + (p.eh === 'register' ? ' (band)' : '') : '';
-  const facts = [['Founded', p.y], ['Team', team], ['Raised', money(p.f)], ['Last round', p.rd]].filter(r => r[1]);
+  const facts = [['Founded', p.y], ['Team', team], ['Raised', money(p.f)], ['Last round', p.rd, p.rs]].filter(r => r[1]);
   const where = [p.a, p.pc && (/^75/.test(p.pc) ? `${p.pc} Paris` : p.pc)].filter(Boolean).join(', ');
   const ev = (p.ev || [p.v]).map(k => SRC[k] || k);
   const conf = p.cf === 'v' ? ['ok', 'Verified office', `Source: ${ev.join(' + ')}`]
@@ -195,7 +195,7 @@ function detail(p, hero){
   const fix = `${FIX}?title=${encodeURIComponent('Office: ' + p.n)}&body=${encodeURIComponent(`${p.n} (${p.u || ''})\nMap says: ${where}\nActual office: `)}`;
   return `${hero ? '' : `<div class="meta"><span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span></div>`}
     ${p.d ? `<p class="desc">${esc(p.d)}${p.d.length >= 259 ? '…' : ''}</p>` : ''}
-    ${facts.length ? `<div class="facts">${facts.map(([k, v]) => `<div><span>${k}</span><b>${esc(v)}</b></div>`).join('')}</div>` : ''}
+    ${facts.length ? `<div class="facts">${facts.map(([k, v, href]) => `<div><span>${k}</span><b>${/^https?:\/\//i.test(href || '') ? `<a href="${esc(href)}" target="_blank" rel="noopener" title="Source">${esc(v)} ↗</a>` : esc(v)}</b></div>`).join('')}</div>` : ''}
     <div class="where ${conf[0]}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
       <div><b>${esc(where || 'Address unknown')}</b><span>${conf[1]} · ${esc(conf[2])}</span></div></div>
     <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a class="btn pri" href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}
