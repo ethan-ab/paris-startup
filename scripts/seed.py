@@ -26,7 +26,8 @@ def meta_desc(h):
 
 
 def build(line):
-    name, dom = [x.strip() for x in line.split('|')]
+    name, dom = [x.strip() for x in line.rsplit('|', 1)]
+    dom = dom.replace('https://', '').replace('http://', '').replace('www.', '').split('/')[0].lower()
     url = 'https://' + dom + '/'
     rec = {'name': name, 'url': url, 'domain': dom, 'description': meta_desc(W.get(url) or W.get('https://www.' + dom + '/')),
            'queries': [], 'seed': True}
@@ -43,6 +44,10 @@ def build(line):
 
 def main():
     lines = [l for l in open(os.path.join(ROOT, 'data', 'seed', 'known.txt')).read().splitlines() if '|' in l and not l.startswith('#')]
+    sf = os.path.join(ROOT, 'data', 'ref', 'stationf_residents.json')  # researched Station F residents (Exa Agent)
+    if os.path.exists(sf):
+        with open(sf) as f:
+            lines += [f"{r['name']} | {r['website']}" for r in json.load(f) if r.get('website')]
     with ThreadPoolExecutor(8) as ex:
         recs = list(ex.map(build, lines))
     with open(os.path.join(ROOT, 'data', 'raw', 'seed_companies.json'), 'w') as f:

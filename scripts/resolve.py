@@ -272,6 +272,19 @@ def main():
 
     picks = [pick(i, c) for i, c in enumerate(kept)]
 
+    # researched Station F residents (data/ref/stationf_residents.json) sit at Station F
+    sfp = os.path.join(ROOT, 'data', 'ref', 'stationf_residents.json')
+    sfres = set()
+    if os.path.exists(sfp):
+        with open(sfp) as f:
+            for r in json.load(f):
+                sfres.add(L.fold(r['name']))
+                sfres.add((r.get('website') or '').replace('https://', '').replace('http://', '').replace('www.', '').strip('/').lower())
+    SF = [L.STATION_F[0], L.STATION_F[1], L.STATION_F[2], '75013', 'Paris', 'housenumber', 1]
+    for i, c in enumerate(kept):
+        if L.fold(c['name']) in sfres or (c.get('domain') or '').replace('www.', '').lower() in sfres:
+            picks[i] = [(0, SF, 'research', 'office')] + picks[i]
+
     # researched offices win over everything
     orows = [(f'o{i}', override(c)['office_street'], override(c).get('postcode') or '')
              for i, c in enumerate(kept) if override(c) and override(c).get('office_street')]

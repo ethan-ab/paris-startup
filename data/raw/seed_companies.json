@@ -673,7 +673,7 @@
 "name": "Luko",
 "url": "https://luko.eu/",
 "domain": "luko.eu",
-"description": "Luko by Allianz Direct est votre assureur en ligne :  🏠 assurance habitation, \r\n🚗 assurance auto, ✈ assurance voyage. ✔️Meilleur prix et souscription en 2min",
+"description": "Luko by Allianz Direct est votre assureur en ligne :  🏠 assurance habitation, \n🚗 assurance auto, ✈ assurance voyage. ✔️Meilleur prix et souscription en 2min",
 "queries": [],
 "seed": true,
 "founded": 2005,
@@ -3250,5 +3250,2437 @@
 "seed": true,
 "founded": 2025,
 "employees": null
+},
+{
+"name": "A51",
+"url": "https://a51tx.com/",
+"domain": "a51tx.com",
+"description": "A51 — Programmable RNA logic to unlock human modularity.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Abstrakt",
+"url": "https://abstrakt.news/",
+"domain": "abstrakt.news",
+"description": "Veille médias sur mesure : revue de presse chaque matin, analyse des retombées et rapports de perception. Notre technologie lit tout, un analyste valide.",
+"queries": [],
+"seed": true,
+"founded": 2020,
+"employees": 2
+},
+{
+"name": "AçaiMusic",
+"url": "https://acaimusic.com/",
+"domain": "acaimusic.com",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Achille.ai",
+"url": "https://achille.ai/",
+"domain": "achille.ai",
+"description": "Achille AI, plateforme IA pour le service client e-commerce : helpdesk AI-first, automatisation, insights, Copilote. Setup en 5 minutes, ROI dès le 1er mois.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "Adstrum",
+"url": "https://adstrum.me/",
+"domain": "adstrum.me",
+"description": "TRANSCEND HUMAN ABILITIES",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Advant-labs",
+"url": "https://advant-labs.com/",
+"domain": "advant-labs.com",
+"description": "Veille publicitaire et pige plurimédia pilotées par l'IA : près de 120 sources, de la télévision aux réseaux sociaux. Part de voix, pression publicitaire, dépenses estimées et créations de vos concurrents, dans 30 pays.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Aectual",
+"url": "https://aectual.com/",
+"domain": "aectual.com",
+"description": "Circular customizable products by and for architects, designers and designlovers. Check our collection now!",
+"queries": [],
+"seed": true
+},
+{
+"name": "Aerleum",
+"url": "https://aerleum.com/",
+"domain": "aerleum.com",
+"description": "Aerleum transforms CO2 into clean fuels and chemicals. Discover our innovative technology and mission to decarbonize hard-to-abate industries for a sustainable future.",
+"queries": [],
+"seed": true
+},
+{
+"name": "AICE",
+"url": "https://aicepower.com/",
+"domain": "aicepower.com",
+"description": "AICE is a European defense company that builds modular autonomous underwater vehicles for fleet defense.",
+"queries": [],
+"seed": true
+},
+{
+"name": "AIM Intelligence",
+"url": "https://aim-intelligence.com/",
+"domain": "aim-intelligence.com",
+"description": "AIM Intelligence provides an integrated AI security solution optimized for the enterprise. From automated red teaming to ultra-low latency real-time guardrails, we empower organizations with complete control to deploy safe and reliable AI services.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Aive",
+"url": "https://aive.com/",
+"domain": "aive.com",
+"description": "Aive transforme vos vidéos en données structurées pour vos équipes, outils et les IA : Studio pour produire à l’échelle, GEO pour exister dans les réponses IA.",
+"queries": [],
+"seed": true,
+"founded": 2019,
+"employees": 35
+},
+{
+"name": "Allude",
+"url": "https://allude.cc/",
+"domain": "allude.cc",
+"description": "Your best expert on every shift, in every factory.\nCapture expertise, standardize effortlessly, and guide every decision on the shop floor.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Alouette AI",
+"url": "https://alouette.ai/",
+"domain": "alouette.ai",
+"description": "Alouette is the first Neuro-Symbolic AI platform that transforms engineering documentation into verified, self-checking blueprints — generative speed with engineering truth.",
+"queries": [],
+"seed": true,
+"founded": 1985,
+"employees": 35
+},
+{
+"name": "Alpic",
+"url": "https://alpic.ai/",
+"domain": "alpic.ai",
+"description": "Alpic is the cloud platform for MCP-based AI apps. Build with open-source tools, ship in one click, analyze performance and scale in production.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Alva",
+"url": "https://alva.care/",
+"domain": "alva.care",
+"description": "Automatisez jusqu’à 70 % des appels de votre cabinet avec l’assistant téléphonique IA Alva.care : rendez-vous 24h/24, SMS et emails, 3 h libérées par jour.",
+"queries": [],
+"seed": true,
+"founded": 2019,
+"employees": null
+},
+{
+"name": "Anchor Node",
+"url": "https://anchornode.io/",
+"domain": "anchornode.io",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Andra Learning",
+"url": "https://andralearning.com/",
+"domain": "andralearning.com",
+"description": "L'IA d'Andra repère dans vos réunions, CR, emails et CRM le geste qui manque à chaque deal et active vos commerciaux au bon moment avec la bonne ressource.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "AppCraft",
+"url": "https://appcraft.fr/",
+"domain": "appcraft.fr",
+"description": "Logiciel de gestion d’événements d’entreprise : inscriptions, site, application mobile, badges et check-in réunis. Français, RGPD et ISO 27001.",
+"queries": [],
+"seed": true,
+"founded": 2016,
+"employees": 15
+},
+{
+"name": "Argos Labs",
+"url": "https://argoslabs.io/",
+"domain": "argoslabs.io",
+"description": "Argos Labs builds AI agents, operates cloud infrastructure and supports international growth. Based at Station F in Paris.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "Arlequin AI",
+"url": "https://arlq.ai/",
+"domain": "arlq.ai",
+"description": "Designed for humans, powered by superintelligence. Arlequin is the AI native platform for critical decision making and action.",
+"queries": [],
+"seed": true,
+"founded": 2010,
+"employees": null
+},
+{
+"name": "Auditoo",
+"url": "https://auditoo.eco/",
+"domain": "auditoo.eco",
+"description": "Dictez vos relevés DPE, amiante et plomb sur le terrain : l'IA les structure et les exporte vers votre logiciel de diagnostic.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Authena",
+"url": "https://authena.io/",
+"domain": "authena.io",
+"description": "Authena is a deep-tech company delivering real-time Supply Chain Traceability & Product Authentication for food, pharma & luxury industries",
+"queries": [],
+"seed": true
+},
+{
+"name": "Balanced",
+"url": "https://balanced-france.com/",
+"domain": "balanced-france.com",
+"description": "Sustainable performance consulting in France and the UK. We measure where performance is leaking — burnout, disengagement, turnover — and fix it across people, teams and culture.",
+"queries": [],
+"seed": true,
+"founded": 2018,
+"employees": 2
+},
+{
+"name": "Bamboo Energy",
+"url": "https://bambooenergy.tech/",
+"domain": "bambooenergy.tech",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Banyan.eco",
+"url": "https://banyan.eco/",
+"domain": "banyan.eco",
+"description": "Banyan.eco provides AI-powered materials intelligence for OEMs and EMS companies, automating materials compliance, Product Carbon Footprints, critical minerals analysis, and supply chain resilience across electronics supply chains.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Batisia",
+"url": "https://batisia.ai/",
+"domain": "batisia.ai",
+"description": "Toute la connaissance métier de votre organisation, structurée et mise au travail, de l'estimation à l'exécution.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "Beamy",
+"url": "https://beamy.xyz/",
+"domain": "beamy.xyz",
+"description": "Beamy models how work really flows across processes, people, agents and apps to speed up enterprise transformation and AI adoption across the workforce.",
+"queries": [],
+"seed": true,
+"founded": 2014,
+"employees": 35
+},
+{
+"name": "Beink Dream",
+"url": "https://beink.fr/",
+"domain": "beink.fr",
+"description": "Beink réunit équipes créatives, techniques et business sur une plateforme collaborative pour transformer les idées en produits concrets.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Bending words",
+"url": "https://bendingwords.com/",
+"domain": "bendingwords.com",
+"description": "Notre mission est de créer un monde avec 10× plus d'élèves à 20/20. Agents de tutorat IA pour collégiens et lycéens.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Billabex",
+"url": "https://billabex.com/",
+"domain": "billabex.com",
+"description": "Billabex prend en charge les échanges et le suivi de vos impayés. Moins de dossiers à reprendre, des engagements suivis et les décisions sensibles entre…",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "BioSky",
+"url": "https://biosky.tech/",
+"domain": "biosky.tech",
+"description": "BioSky fuses satellite earth-observation with deep learning to forecast demand, map grid assets, and reduce operational risk for electric utilities, in live systems.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Bixoto",
+"url": "https://bixoto.com/",
+"domain": "bixoto.com",
+"description": "Chez Bixoto, nous avons plus de 250 000 produits à portée de main. Achetez en ligne et au meilleur prix tous les produits d'informatique, de cosmétique, de sport, de maison, de jardin et bien plus encore.",
+"queries": [],
+"seed": true,
+"founded": 2020,
+"employees": 2
+},
+{
+"name": "Bleu Robotics",
+"url": "https://bleu-robotics.com/",
+"domain": "bleu-robotics.com",
+"description": "Bleu Robotics builds the AI that lets a humanoid robot take on manual tasks on your line: taught in under an hour with a few demonstrations, and a new task at each changeover.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Blify",
+"url": "https://blify.co/",
+"domain": "blify.co",
+"description": "Turn your company knowledge into AI Learning Agents and deploy them in Microsoft Teams, Slack and WhatsApp. Train, practice, perform, in the flow of work.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "BLNG",
+"url": "https://blng.ai/",
+"domain": "blng.ai",
+"description": "BLNG™ - \"Transform Jewelry Design & Marketing: AI Driven Tools for Jewelers, Designers, Brands & Retailers - Boost Creativity & Efficiency!\"",
+"queries": [],
+"seed": true
+},
+{
+"name": "Blue2",
+"url": "https://lapel-dig-72900784.figma.site/",
+"domain": "lapel-dig-72900784.figma.site",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Bluefish AI",
+"url": "https://bluefishai.com/",
+"domain": "bluefishai.com",
+"description": "Bluefish is the end-to-end agentic marketing platform helping enterprise brands improve how they are represented and recommended across AI channels.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Blynt AI",
+"url": "https://blynt.ai/",
+"domain": "blynt.ai",
+"description": "Your production speech API, built on the best open weights and tuned to your audience, jargon and acoustics. Ready in hours. The weights are yours.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "BOHAJE",
+"url": "https://bohaje.com/",
+"domain": "bohaje.com",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Boza",
+"url": "https://getboza.io/",
+"domain": "getboza.io",
+"description": "Boza recense vos applications sans rien installer sur les postes. L’IA propose la carte de votre SI, vous la validez. Dépenses, accès, conformité et communication sur la même plateforme.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": null
+},
+{
+"name": "Brightplus",
+"url": "https://brightplus.com/",
+"domain": "brightplus.com",
+"description": "Brightplus is a leader in sustainable materials innovation, renowned for its environmentally friendly coatings that are transforming industries from cosmetics to textiles. The company’s mission is to develop solutions that reduce reliance on non-renewable resources, offering greener alternatives that meet the high standards of many sectors.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Candix",
+"url": "https://candix.com/",
+"domain": "candix.com",
+"description": "Candix connects ambitious engineers with startups gaining serious momentum.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Cede Hub",
+"url": "https://cedehub.io/",
+"domain": "cedehub.io",
+"description": "Earn USDT daily by trading or holding your favorite tokens on top CEXs. Join Cede Hub and share in millions of USD rewards for traders and holders.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Claimy",
+"url": "https://claimy.co/",
+"domain": "claimy.co",
+"description": "Collect the full value of your catalog with AI-powered publishing administration. Register globally, audits rights, tracks usage, and recovers missing royalties worldwide.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 4
+},
+{
+"name": "Clarifeye",
+"url": "https://clarifeye.ai/",
+"domain": "clarifeye.ai",
+"description": "Your project runs on knowledge that only lives in people's heads. Clara, the AI consultant who stays on the project from day one, reads your documents and systems, runs the interviews, and keeps your process maps, business rules and playbooks current. Weeks, not months.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Cleavr",
+"url": "https://cleavr.fr/",
+"domain": "cleavr.fr",
+"description": "Automatisez votre poste clients de bout en bout. Relances multicanales, IA, portail débiteur, réconciliation. Live en 24h.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Coach",
+"url": "https://getcoach.com/",
+"domain": "getcoach.com",
+"description": "AI Coach gives every field sales rep personalized coaching after every meeting, helps managers prioritize coaching opportunities, and turns customer conversations into actionable sales intelligence.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Cobalt",
+"url": "https://cobalt.shop/",
+"domain": "cobalt.shop",
+"description": "Dive into the future of retail",
+"queries": [],
+"seed": true,
+"founded": 1998,
+"employees": null
+},
+{
+"name": "Cobl",
+"url": "https://cobl.ai/",
+"domain": "cobl.ai",
+"description": "Cobl is the AI sales agent that helps you crush your quota. It follows every prospect, deal and customer, and acts when something happens.",
+"queries": [],
+"seed": true,
+"founded": 2020,
+"employees": 8
+},
+{
+"name": "COΛCH",
+"url": "https://ai-coach.fr/",
+"domain": "ai-coach.fr",
+"description": "Coach capte les rendez-vous terrain, analyse chaque échange et met en avant les leviers qui font vendre pour aider vos équipes à performer et à ne rien laisser passer.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Coconut",
+"url": "https://coconut.cx/",
+"domain": "coconut.cx",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": null
+},
+{
+"name": "Coforix",
+"url": "https://coforix.ai/",
+"domain": "coforix.ai",
+"description": "Connect AI models and agents from different hospitals and vendors through one secure, EU-hosted integration layer built for healthcare.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Contestio",
+"url": "https://contestio.fr/",
+"domain": "contestio.fr",
+"description": "Augmentez les conversions de votre e-commerce en intégrant des concours, sondages, forums, actualités et plus encore au sein d'un espace communautaire.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Contractzlab",
+"url": "https://contractzlab.com/",
+"domain": "contractzlab.com",
+"description": "Une suite d'agents IA fiables pour des opérations métiers complexes, documentaires et réglementées.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": null
+},
+{
+"name": "Correl8",
+"url": "https://correl8.ai/",
+"domain": "correl8.ai",
+"description": "Correl8 turns those conversations into prioritized product, service, and agent issues, so you know what to do next. No exporting private chats.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Corsaire",
+"url": "https://corsairesecurity.fr/",
+"domain": "corsairesecurity.fr",
+"description": "Corsaire cartographie l'exposition réelle de vos dirigeants sur le web clair, deep et dark, puis vous livre un plan d'action pour la réduire.",
+"queries": [],
+"seed": true
+},
+{
+"name": "CURA",
+"url": "https://curaclimate.com/",
+"domain": "curaclimate.com",
+"description": "CURA removes cement's process emissions upstream with electrochemical technology. Deep decarbonization without replacing feedstocks, plants, or standards.",
+"queries": [],
+"seed": true,
+"founded": 2016,
+"employees": 15
+},
+{
+"name": "Daftar",
+"url": "https://daftar.fr/",
+"domain": "daftar.fr",
+"description": "Daftar dématérialise le registre de sécurité de vos ERP : registre de sécurité numérique tenu à jour, suivi de la conformité réglementaire, maintenance et GMAO IA. Demandez une démo.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Daisy",
+"url": "https://daisyapp.fr/",
+"domain": "daisyapp.fr",
+"description": "Daisy centralise réservations, paiements, abonnements et CRM pour les ateliers créatifs. La 1ère solution dédiée aux écoles et ateliers créatifs.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "darwie",
+"url": "https://darwie.com/",
+"domain": "darwie.com",
+"description": "Darwie 360, la plateforme d’éco-conception textile et chaussure pour concevoir mieux, réduire votre impact et suivre vos engagements.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Deepeye Medical",
+"url": "https://deepeye-medical.com/",
+"domain": "deepeye-medical.com",
+"description": "Empowering ophthalmologists with AI-driven insights to enhance retinal disease treatment planning and patient outcomes. Discover deepeye® TPS.",
+"queries": [],
+"seed": true
+},
+{
+"name": "DEMCRM",
+"url": "https://demcrm.com/",
+"domain": "demcrm.com",
+"description": "DemCRM est le logiciel de déménagement n°1 en France, Belgique, Suisse et Europe : un CRM pensé pour les déménageurs. Devis, factures, planning, clients et équipes. Essai gratuit 14 jours.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Dépan.pro",
+"url": "https://depan.pro/",
+"domain": "depan.pro",
+"description": "Dépan.Pro (DepanPro) : dépannage d'urgence 24h/24 près de chez vous. Serrurerie, plomberie, électricité, vitrerie, chauffage, climatisation. Intervention rapide.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "DOTSE WORLD",
+"url": "https://dotse.world/",
+"domain": "dotse.world",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "DutyAdvisor",
+"url": "https://dutyadvisor.com/",
+"domain": "dutyadvisor.com",
+"description": "DutyAdvisor, c'est une AssurTech portée par une conviction simple : les professionnels de l’assurance méritent des outils pensés pour eux.",
+"queries": [],
+"seed": true
+},
+{
+"name": "EchoSilence",
+"url": "https://echosilence.info/",
+"domain": "echosilence.info",
+"description": "Echo Silence développe des matériaux acoustiques avancés, durables et performants. Découvrez nos solutions de contrôle du bruit pour améliorer les performances acoustiques, notamment aux basses et moyennes fréquences. Des méta-matériaux innovants, personnalisables et éco-responsables.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Ed.ai",
+"url": "https://ed.ai/",
+"domain": "ed.ai",
+"description": "Divisez par 2 votre temps de correction et multipliez par 10 la qualité de vos retours. Ed.ai vous assiste dans la correction, le suivi et la remédiation tout en vous laissant maître de votre pédagogie.",
+"queries": [],
+"seed": true
+},
+{
+"name": "EKOO Audio Business Platform",
+"url": "https://ekoo.co/",
+"domain": "ekoo.co",
+"description": "La plateforme qui donne la voix à votre commerce Racontez l’histoire et les bénéfices de vos produits Laissez vos clients déposer des avis vocaux authentiques Votre navigateur ne prend pas en charge la lecture de vidéos WebM avec fond transparent. L’audio au service de votre conversion L’audio, un format qui plaît 80 % des personnes […]",
+"queries": [],
+"seed": true
+},
+{
+"name": "Ekumen",
+"url": "https://ekumen.co/",
+"domain": "ekumen.co",
+"description": "Agriculteurs et conseillers parlent, Ekumen enregistre, vérifie et partage. Les agents IA qui font la saisie agricole à la voix, du champ à la coopérative.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Elsee Care",
+"url": "https://elsee.care/",
+"domain": "elsee.care",
+"description": "Profitez du remboursement de vos séances de médecine douce, sport et compléments alimentaires avec Elsee, spécialement conçu pour les femmes.",
+"queries": [],
+"seed": true
+},
+{
+"name": "EQL",
+"url": "https://eql.com/",
+"domain": "eql.com",
+"description": "Power fair, high-demand product drops, and stress-free launches. EQL helps brands run secure, bot-free drops for in-demand products and limited releases.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Escape",
+"url": "https://escape.tech/",
+"domain": "escape.tech",
+"description": "Replace legacy scanners with AI agents for continuous discovery, pentesting & remediation. Business-logic-aware ASM, DAST, AI pentesting, trusted by 2000+ security teams.",
+"queries": [],
+"seed": true,
+"founded": 2002,
+"employees": null
+},
+{
+"name": "Ethylowheel",
+"url": "https://ethylowheel.com/",
+"domain": "ethylowheel.com",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Evotis",
+"url": "https://evotis.com/",
+"domain": "evotis.com",
+"description": "Turn the way you work into an AI app you can use, share or sell. Pipelex is in private beta: sign in, or join the waitlist.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 2
+},
+{
+"name": "Ewake.ai",
+"url": "https://ewake.ai/",
+"domain": "ewake.ai",
+"description": "ewake is the AI on-call engineer that helps engineering teams get ahead of incidents: it investigates production issues, finds the root cause and helps resolve them faster.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "ExtraJool",
+"url": "https://extrajool.com/",
+"domain": "extrajool.com",
+"description": "Turn your industrial waste heat into clean electricity with ExtraJool's modular system. Save up to 34 tons CO₂ per kWe installed. Zero process disruption. Pre-booking open for 2026 installations.",
+"queries": [],
+"seed": true
+},
+{
+"name": "FancyTech",
+"url": "https://fancy.tech/",
+"domain": "fancy.tech",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Fater AI",
+"url": "https://fater.ai/",
+"domain": "fater.ai",
+"description": "The superintelligence behind the physical asset economy. Our AI runs strategy and operations for the companies that own the physical world.",
+"queries": [],
+"seed": true,
+"founded": 1976,
+"employees": null
+},
+{
+"name": "Fentech",
+"url": "https://fentech.ai/",
+"domain": "fentech.ai",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2022,
+"employees": null
+},
+{
+"name": "FFFACE.ME",
+"url": "https://ffface.me/",
+"domain": "ffface.me",
+"description": "FFFACE creates AR, AI, CGI, virtual try-on, filters, and mixed reality solutions for brands that want engaging, measurable customer experiences.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Fifty",
+"url": "https://fifty.do/",
+"domain": "fifty.do",
+"description": "Momentum by Fifty aide vos équipes à passer de l'intention à l'action grâce à un coach IA conçu pour transformer durablement les comportements en entreprise.",
+"queries": [],
+"seed": true,
+"founded": 2018,
+"employees": 15
+},
+{
+"name": "Freeda",
+"url": "https://freeda.so/",
+"domain": "freeda.so",
+"description": "Freeda helps construction teams navigate regulatory compliance. Send us your plans, get answers in hours.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Gando",
+"url": "https://gando.app/",
+"domain": "gando.app",
+"description": "Gérez vos cautions en ligne, sans bloquer les fonds de vos clients.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Gems",
+"url": "https://withgems.ai/",
+"domain": "withgems.ai",
+"description": "Match vetted creators, launch Partnership Ads from your own Meta account, and track ROAS per creator. Gems runs sourcing, contracts and payouts in 100+ countries.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": 2
+},
+{
+"name": "Genesis",
+"url": "https://genesis-ai.company/",
+"domain": "genesis-ai.company",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "GetMint",
+"url": "https://getmint.ai/",
+"domain": "getmint.ai",
+"description": "Be the brand every AI recommends. GetMint helps you monitor, improve, and grow your visibility across ChatGPT, Gemini, Perplexity, and all major LLMs.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Gimii",
+"url": "https://gimii.fr/",
+"domain": "gimii.fr",
+"description": "Gimii est une solution innovante pour les sites web et apps mobiles pour augmenter leur taux de consentement tout en finançant des associations.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": null
+},
+{
+"name": "GK Concept",
+"url": "https://gaudier.com/",
+"domain": "gaudier.com",
+"description": "We design interactive in‑store experiences, capture every data, and convert those insights into higher traffic, conversion, and basket size",
+"queries": [],
+"seed": true,
+"founded": 2020,
+"employees": 4
+},
+{
+"name": "Glanceable",
+"url": "https://glanceable.io/",
+"domain": "glanceable.io",
+"description": "Glanceable centralise avis, enquêtes et SAV. Notre IA identifie les irritants impactant vos KPI et distribue les plans d'action aux bonnes équipes.",
+"queries": [],
+"seed": true,
+"founded": 2020,
+"employees": 15
+},
+{
+"name": "Go Fusion",
+"url": "https://gofusion.fr/",
+"domain": "gofusion.fr",
+"description": "Fusion : audit et conseil IA, création d'agents IA métier sur mesure, AMOA de déploiement, plateforme de micro-learning gamifié pour l'adoption. Pour entreprises et collectivités. Hébergement en France (Mistral via Scaleway, ISO 27001), sous droit français. Incubé Station F.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Goji",
+"url": "https://getgoji.ai/",
+"domain": "getgoji.ai",
+"description": "Goji AI - The most intelligent sales agent that people actually want to talk to.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": null
+},
+{
+"name": "Gourmand’Ease",
+"url": "https://gourmandease.fr/",
+"domain": "gourmandease.fr",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Gustave",
+"url": "https://gustave-auto.com/",
+"domain": "gustave-auto.com",
+"description": "Optimisez la gestion de vos véhicules avec Gustave Auto, plateforme intuitive pour le convoyage, la réparation et la gestion de flotte automobile pour des prix imbattable.",
+"queries": [],
+"seed": true,
+"founded": 1999,
+"employees": 15
+},
+{
+"name": "HABS",
+"url": "https://habs.ai/",
+"domain": "habs.ai",
+"description": "HABS builds the cognitive infrastructure layer that enables AI to measure, model, and align with human cognition. 30+ experts, 15+ patents, 158 scientific publications.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 4
+},
+{
+"name": "Hello Virtuoso",
+"url": "https://hellovirtuoso.com/",
+"domain": "hellovirtuoso.com",
+"description": "Apprendre le piano en ligne grâce au programme Hello Virtuoso : cours vidéo pas à pas, communauté de soutien et accompagnement individuel par ton professeur particulier.",
+"queries": [],
+"seed": true,
+"founded": 2020,
+"employees": 2
+},
+{
+"name": "hello wilo",
+"url": "https://hellowilo.ai/",
+"domain": "hellowilo.ai",
+"description": "L'app qui t'aide à comprendre ce que tu ressens, avancer au quotidien et te relier à celles et ceux qui vivent la même chose.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Heralbony",
+"url": "https://heralbony.jp/",
+"domain": "heralbony.jp",
+"description": "“異彩を、放て。”をミッションに掲げる株式会社ヘラルボニー（HERALBONY）のコーポレートサイトです。",
+"queries": [],
+"seed": true
+},
+{
+"name": "HermineIA",
+"url": "https://hermineia.fr/",
+"domain": "hermineia.fr",
+"description": "Découvrez votre copilote IA de rédaction juridique. Rédaction, analyse et suivi complet de tous vos dossiers avec une productivité sans précédent.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "Hexagone AI",
+"url": "https://hexagone.ai/",
+"domain": "hexagone.ai",
+"description": "Logiciel français d'anonymisation et de pseudonymisation de documents, qui tourne entièrement sur votre Mac ou PC. Il détecte et remplace les données personnelles dans vos PDF, Word, Excel et PowerPoint, puis laisse Claude, ChatGPT ou n'importe quelle IA travailler sur la copie protégée. 96,95 % de détection mesurée, contre 75,30 % pour Microsoft Presidio.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Hiliv",
+"url": "https://hilivsolution.com/",
+"domain": "hilivsolution.com",
+"description": "Hiliv simplifies every step of your international move, from paperwork to your first day abroad. Trusted by over 800 expats. Start your relocation journey today.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Hugy",
+"url": "https://hugy.co/",
+"domain": "hugy.co",
+"description": "Découvrez HUGY, la référence des produits du quotidien bons et responsables en grand format.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Humanitics.ai",
+"url": "https://humanitics.ai/",
+"domain": "humanitics.ai",
+"description": "Notre moteur de recommandation aide les boutiques physiques à être plus performantes en adaptant leurs actions aux clients qui vont les visiter.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Humoon",
+"url": "https://humoon.fr/",
+"domain": "humoon.fr",
+"description": "Coaching adapté aux besoins de chaque manager et aligné avec les enjeux des DRH. \r\n9,3/10 de satisfaction DRH et 98% de satisfaction des coachés",
+"queries": [],
+"seed": true,
+"founded": 2019,
+"employees": null
+},
+{
+"name": "HyReveal",
+"url": "https://hyreveal.com/",
+"domain": "hyreveal.com",
+"description": "French deeptech building IORIGIN, a physics-based platform that predicts subsurface energy resources (oil & gas, natural hydrogen, helium) before drilling.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 4
+},
+{
+"name": "Immonator",
+"url": "https://immonator.fr/",
+"domain": "immonator.fr",
+"description": "Sourcing immobilier pour marchands de biens : annonces reliées à leur adresse, leur parcelle et leurs données. Division parcellaire, de bâti, d’appartement.",
+"queries": [],
+"seed": true
+},
+{
+"name": "InSpek",
+"url": "https://inspek-solutions.com/",
+"domain": "inspek-solutions.com",
+"description": "InSpek delivers real-time, in-line multiparameter visibility for bioprocessing, chemical and pharmaceutical manufacturing. Turn bioprocesses into controllable systems: detect deviations early, improve yield.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": 8
+},
+{
+"name": "Invertix",
+"url": "https://invertix.ai/",
+"domain": "invertix.ai",
+"description": "AI agents for energy operations. They triage alarms, bring in the right technician and prepare fleet reports for solar O&M and asset management. YC-backed.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Ircam Amplify",
+"url": "https://ircamamplify.com/",
+"domain": "ircamamplify.com",
+"description": "The world's most accurate solution to detect AI-generated music. Trusted third-party safeguard by Ircam Amplify for DSPs, labels, and distributors.",
+"queries": [],
+"seed": true,
+"founded": 2019,
+"employees": 15
+},
+{
+"name": "IRMA Match",
+"url": "https://irmamatch.com/",
+"domain": "irmamatch.com",
+"description": "Du signal amont au marché public, IRMA vous dit qui contacter en premier. Détection des consultations, analyse du DCE, partenaires à activer en priorité pour la maîtrise d'œuvre.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Jane",
+"url": "https://jane-energie.fr/",
+"domain": "jane-energie.fr",
+"description": "Logiciel d’autoconsommation collective pour simuler, créer et piloter vos opérations d’ACC : dimensionnement, démarches, répartition et facturation.",
+"queries": [],
+"seed": true,
+"founded": 2008,
+"employees": null
+},
+{
+"name": "Jikan",
+"url": "https://jikantechno.com/",
+"domain": "jikantechno.com",
+"description": "Author - Kacper Kucharczyk",
+"queries": [],
+"seed": true
+},
+{
+"name": "Jinko",
+"url": "https://jinko.so/",
+"domain": "jinko.so",
+"description": "One MCP to search, compare, and book flights. Real-time global inventory. Built for agents only.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 8
+},
+{
+"name": "Jitter",
+"url": "https://jitter.video/",
+"domain": "jitter.video",
+"description": "Jitter is a collaborative motion design tool that lets you create professional animations in minutes, no matter your experience with motion.",
+"queries": [],
+"seed": true
+},
+{
+"name": "JÒIA TIME",
+"url": "https://joiatime.com/",
+"domain": "joiatime.com",
+"description": "Découvre des profils, rencontre-les lors d'expériences JÒIA et choisis qui tu aimerais revoir.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Kahoona",
+"url": "https://kahoona.ai/",
+"domain": "kahoona.ai",
+"description": "Kahoona is the context generation layer of the agentic web. It reads Digital Body Language to give systems real-time context on every actor, agent or human.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Kindnee",
+"url": "https://kindnee.com/",
+"domain": "kindnee.com",
+"description": "Kindnee est une plateforme  de formation de promotion immobilière, conçue pour permettre aux professionnels de l’immobilier d’augmenter leurs marges à travers des opérations plus rentables.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Kira",
+"url": "https://kira.photos/",
+"domain": "kira.photos",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": null
+},
+{
+"name": "Klaimy",
+"url": "https://getklaimy.com/",
+"domain": "getklaimy.com",
+"description": "🔍 Boostez l’efficacité de votre assurance santé avec Klaimy. Notre IA analyse, résume et détecte les risques médicaux en quelques secondes. Plus rapide, plus précis.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 4
+},
+{
+"name": "Kodex AI",
+"url": "https://kodex-ai.com/",
+"domain": "kodex-ai.com",
+"description": "Turn regulatory change into confident action. CUBE combines AI-native technology with global regulatory data and proprietary network data to enable customers to gather deep intelligence and automate compliance and risk processes.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": null
+},
+{
+"name": "Korix",
+"url": "https://korix.ai/",
+"domain": "korix.ai",
+"description": "The AI gateway for your company. Connect ChatGPT, Claude, and Copilot to every approved app through one connector — with per-person access, approvals, data protection, and a full audit trail.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Krako Labs",
+"url": "https://krako.xyz/",
+"domain": "krako.xyz",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Kuli",
+"url": "https://kuli.one/",
+"domain": "kuli.one",
+"description": "AI agent that runs influencer marketing for consumer brands. Kuli removes the manual work and makes them 10× more efficient.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Label Phi",
+"url": "https://labelphi.com/",
+"domain": "labelphi.com",
+"description": "phily, le seul cabinet Conseil + Tech au service de la philanthropie. Le métier du mécénat augmenté par la puissance de l'IA.",
+"queries": [],
+"seed": true,
+"founded": 2022,
+"employees": 4
+},
+{
+"name": "Landng",
+"url": "https://landng.com/",
+"domain": "landng.com",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": null
+},
+{
+"name": "Leadbay",
+"url": "https://leadbay.ai/",
+"domain": "leadbay.ai",
+"description": "Constant flow of skills, widgets, and qualified leads delivered into the apps your team and agents use daily - Claude, ChatGPT, and Copilot.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Lectual.AI",
+"url": "https://lectual.ai/",
+"domain": "lectual.ai",
+"description": "Automate your customer support across email, chat, phone, and social channels with Lectual.AI—your omnichannel, AI-driven platform for seamless, real-time customer experiences.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Lemrock",
+"url": "https://lemrock.com/",
+"domain": "lemrock.com",
+"description": "Lemrock powers agentic commerce infrastructure for brands and retailers, connecting product catalogs to LLM platforms like OpenAI and Perplexity.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Lib et Lou",
+"url": "https://libetlou.com/",
+"domain": "libetlou.com",
+"description": "Location de jouets simple et flexible : choisissez une formule, recevez vos jouets, jouez puis échangez. Livraison & retours faciles",
+"queries": [],
+"seed": true
+},
+{
+"name": "Lightpanda",
+"url": "https://lightpanda.io/",
+"domain": "lightpanda.io",
+"description": "The AI-native web browser built from scratch for machines. Not a fork. Not a patch. Fast, scalable web automation with a minimal memory footprint. 10x faster, 10x less RAM, and 100x better than Chrome headless.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Limnos",
+"url": "https://limnos.app/",
+"domain": "limnos.app",
+"description": "Réduisez de 90% le temps de traitement de vos commandes. Limnos utilise l'IA pour automatiser l'extration et le traitement des commandes B2B.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Lineshift AI",
+"url": "https://lineshift.ai/",
+"domain": "lineshift.ai",
+"description": "Voice AI agents for automotive: 24/7 call handling to book appointments, capture leads and connect every conversation to your DMS and CRM.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "livratos.fr",
+"url": "https://livratos.fr/",
+"domain": "livratos.fr",
+"description": "Livratos connecte les fournisseurs et les professionnels du bâtiment pour des livraisons optimisées et responsables.",
+"queries": [],
+"seed": true
+},
+{
+"name": "MaestroLMS",
+"url": "https://maestrolms.fr/",
+"domain": "maestrolms.fr",
+"description": "Maestro aide les organismes de formation à gérer les sessions, l’émargement et le dossier Qualiopi. Essai gratuit 7 jours sur Essentiel, sans engagement.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Mago",
+"url": "https://mago.studio/",
+"domain": "mago.studio",
+"description": "Everything a production needs between the footage and the final cut. One workflow, from a 10-second clip to a hundred-episode series.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 4
+},
+{
+"name": "Maket",
+"url": "https://maket.store/",
+"domain": "maket.store",
+"description": "Achetez et vendez des vêtements et accessoires de seconde main vérifiés. Livraison en Afrique de l'Ouest, paiement mobile, prix tout compris.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Marble",
+"url": "https://withmarble.com/",
+"domain": "withmarble.com",
+"description": "Marble is an interactive learning world for curious kids aged 6 to 12. They explore an island, craft, draw, talk with its characters and go on quests that adapt to them. Built to grow curiosity, confidence and creativity, not passive screen time. Try the beta.",
+"queries": [],
+"seed": true,
+"founded": 2022,
+"employees": 4
+},
+{
+"name": "Marso Robotics",
+"url": "https://marsorobotics.com/",
+"domain": "marsorobotics.com",
+"description": "Autonomous robotics platform for logistics operations.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Minari",
+"url": "https://minari.ai/",
+"domain": "minari.ai",
+"description": "Minari, le parallel dialer des équipes sales B2B : plus de conversations en direct, moins de sonneries, plus de rendez-vous sans recruter.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "MincaAI",
+"url": "https://mincaai.com/",
+"domain": "mincaai.com",
+"description": "MincaAI develops specialized AI agents to transform commercial insurance: automated underwriting, claims management, intelligent customer support, and document analysis.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Mixity",
+"url": "https://mixity.co/",
+"domain": "mixity.co",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2018,
+"employees": null
+},
+{
+"name": "Moby Analytics",
+"url": "https://mobyanalytics.com/",
+"domain": "mobyanalytics.com",
+"description": "AI for auditors and financial advisors, inside Excel. Automate audit testing, tie-outs and general ledger analysis — clean, documented Excel files with every figure traced to its source.",
+"queries": [],
+"seed": true,
+"founded": 2022,
+"employees": 4
+},
+{
+"name": "Nao Labs",
+"url": "https://getnao.io/",
+"domain": "getnao.io",
+"description": "nao is the open source agentic BI builder and analytics agent. Connect your warehouse, add business context, and deploy it to your whole company: chat with your data in Slack, Teams or Claude, build live stories, data apps and slides, on a context layer your data team controls and tests.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Neuralk-AI",
+"url": "https://neuralk-ai.com/",
+"domain": "neuralk-ai.com",
+"description": "Instant, high-accuracy predictions on structured data. Our tabular foundation models require zero training and no pipeline setup.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": null
+},
+{
+"name": "Newav",
+"url": "https://newav.eu/",
+"domain": "newav.eu",
+"description": "NEWAV designs EA1, the first electric car natively designed for people with reduced mobility and their relatives.",
+"queries": [],
+"seed": true
+},
+{
+"name": "NextLevel",
+"url": "https://next-level.run/",
+"domain": "next-level.run",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Noïa Labs",
+"url": "https://noialabs.ai/",
+"domain": "noialabs.ai",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Norma",
+"url": "https://norma.tech/",
+"domain": "norma.tech",
+"description": "Norma is pioneering Supercapacitive Direct Air Capture — a low-energy pathway using energy storage to recover and reuse the energy required to capture carbon",
+"queries": [],
+"seed": true,
+"founded": 2016,
+"employees": null
+},
+{
+"name": "NuMind",
+"url": "https://numind.ai/",
+"domain": "numind.ai",
+"description": "NuMind builds frontier multimodal LLMs that turn documents into structured JSON and clean Markdown. Available via SaaS or private enterprise deployment.",
+"queries": [],
+"seed": true,
+"founded": 2022,
+"employees": 15
+},
+{
+"name": "Oguste",
+"url": "https://oguste.fr/",
+"domain": "oguste.fr",
+"description": "Oguste lit, classe et audite les pièces des dossiers immobiliers, avec une source pour chaque constat. Pour les études notariales, foncières et investisseurs.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Ohmyseason",
+"url": "https://ohmyseason.fr/",
+"domain": "ohmyseason.fr",
+"description": "Plateforme d'emploi saisonnier en France : trouvez un job saisonnier dans l’hôtellerie, la restauration, le tourisme ou l’agriculture. Recrutez vos saisonniers qualifiés rapidement.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 2
+},
+{
+"name": "Olfy",
+"url": "https://olfy-official.com/",
+"domain": "olfy-official.com",
+"description": "Et si vos expériences immersives éveillaient aussi l'odorat ? OLFY synchronise la diffusion de parfums pour renforcer l'émotion et l'engagement.",
+"queries": [],
+"seed": true
+},
+{
+"name": ".omics",
+"url": "https://dotomics.bio/",
+"domain": "dotomics.bio",
+"description": "Living Models builds foundation models for biology. BOTANIC-1 advances the state of the art in plant genomic representation learning.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Onbox",
+"url": "https://onbox.ai/",
+"domain": "onbox.ai",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Ooak Data",
+"url": "https://ooakdata.com/",
+"domain": "ooakdata.com",
+"description": "OOAK turns real company workflows into training environments for frontier labs. Licensed from real companies, anonymized in-house, built for AI agent training.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "OOrion",
+"url": "https://oorion.fr/",
+"domain": "oorion.fr",
+"description": "OOrion l'application rendant le monde plus accessible aux personnes déficientes visuelles",
+"queries": [],
+"seed": true
+},
+{
+"name": "Opale",
+"url": "https://opale.ai/",
+"domain": "opale.ai",
+"description": "AI spreadsheet for document analysts. Let AI run your playbooks, across every document.",
+"queries": [],
+"seed": true,
+"founded": 1988,
+"employees": 15
+},
+{
+"name": "Open Decide",
+"url": "https://opendecide.com/",
+"domain": "opendecide.com",
+"description": "The AI system for operational excellence at scale: diagnose what blocks team and organizational performance and deploy solutions that fix it. Try now.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Opsima",
+"url": "https://opsima.ai/",
+"domain": "opsima.ai",
+"description": "Opsima is an automated platform that optimizes cloud spend and saves ~30% on cloud bills. Opsima is risk-free with zero impact on your infrastructure",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "OptimPharma",
+"url": "https://optimpharma.com/",
+"domain": "optimpharma.com",
+"description": "OptimPharma est une plateforme mobile qui simplifie la gestion, la traçabilité et l'analyse des retours de médicaments du service de soins jusqu'à la pharmacie hospitalière (PUI).",
+"queries": [],
+"seed": true
+},
+{
+"name": "Orbital",
+"url": "https://getorbital.ai/",
+"domain": "getorbital.ai",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 1997,
+"employees": 35
+},
+{
+"name": "Orus Energy",
+"url": "https://orus-energy.com/",
+"domain": "orus-energy.com",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 8
+},
+{
+"name": "Ouwba",
+"url": "https://ouwba.com/",
+"domain": "ouwba.com",
+"description": "ouwba est la plateforme de conformité avec accompagnement par des experts qui aide les startups à se certifier ISO 27001, SOC 2, HDS et NIS 2, et à signer de gros contrats.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "PatLynk",
+"url": "https://patlynk.com/",
+"domain": "patlynk.com",
+"description": "Accédez aux dernières actualités concernant les études cliniques, et reprenez le contrôle de votre santé.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Pearl",
+"url": "https://heypearl.ai/",
+"domain": "heypearl.ai",
+"description": "Pearl — We're building Pearl for sales teams in complex B2B environments — helping reps sell better and managers lead with clarity.",
+"queries": [],
+"seed": true,
+"founded": 2013,
+"employees": null
+},
+{
+"name": "Perception",
+"url": "https://perception-manufacturing.com/",
+"domain": "perception-manufacturing.com",
+"description": "Lineware by Perception Manufacturing: AI vision that catches process drift on industrial lines before defects reach your customer. Runs on your site, no cloud.",
+"queries": [],
+"seed": true,
+"founded": 2014,
+"employees": 4
+},
+{
+"name": "Ping Pang Paris",
+"url": "https://pingpang.paris/",
+"domain": "pingpang.paris",
+"description": "Ping Pang Paris est une jeune marque française qui ambitionne de redessiner le paysage du tennis de table au travers de: - Ping Pang Paris, le Club, club de ping-pong nouvelle génération. - Ping Pang Paris, marque de vêtements et de produits techniques design. - Ping Pang Media, magazine dédié à la culture ping",
+"queries": [],
+"seed": true
+},
+{
+"name": "Pleias",
+"url": "https://pleias.fr/",
+"domain": "pleias.fr",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 4
+},
+{
+"name": "Pletor",
+"url": "https://pletor.ai/",
+"domain": "pletor.ai",
+"description": "Orchestrate the best AI models with your brand context to produce ads, product imagery, UGC videos, and campaign variants at scale. Build repeatable creative pipelines, rooted in your brand system — start free.",
+"queries": [],
+"seed": true
+},
+{
+"name": "PolicyMate",
+"url": "https://policymate.io/",
+"domain": "policymate.io",
+"description": "PolicyMate is the intelligence engine for government activity. It watches any source, in any language, and tells you what changed and why it matters.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Pollitics",
+"url": "https://pollitics.com/",
+"domain": "pollitics.com",
+"description": "Discover Pollitics, a synthetic panel platform to test a message, concept, offer or price and get actionable reactions quickly.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": 2
+},
+{
+"name": "Print Your Feet",
+"url": "https://printyourfeet.com/",
+"domain": "printyourfeet.com",
+"description": "Améliorez la santé et la performance au travail avec des semelles anti-fatigue sur mesure, idéales pour chaussures de sécurité. Conçues en 3D via scan smartphone.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Prior Foundry",
+"url": "https://priorfoundry.com/",
+"domain": "priorfoundry.com",
+"description": "Prior Foundry helps policy teams research evidence, simulate impacts on realistic populations, and draft decision-ready documents - with full transparency and auditability.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Procureezy",
+"url": "https://procureezy.com/",
+"domain": "procureezy.com",
+"description": "Procureezy is hardware sourcing intelligence for engineering teams. Describe a part, get suppliers compared spec by spec, beyond the first page of Google. Hosted in Europe.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Prokingdoms",
+"url": "https://prokingdoms.com/",
+"domain": "prokingdoms.com",
+"description": "Track KvK battles, governor profiles, and kingdom statistics. Get detailed analytics and insights for RoK gameplay optimization.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Pronto",
+"url": "https://prontohq.com/",
+"domain": "prontohq.com",
+"description": "Search 100+ data sources for the verified email and mobile of any B2B prospect. One Pipecorn subscription, unlimited leads. Free plan, no card needed.",
+"queries": [],
+"seed": true,
+"founded": 2010,
+"employees": null
+},
+{
+"name": "Pruna",
+"url": "https://pruna.ai/",
+"domain": "pruna.ai",
+"description": "Faster, cheaper, smaller, and outstanding quality Image Gen Models.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 4
+},
+{
+"name": "Pyto",
+"url": "https://pyto.co/",
+"domain": "pyto.co",
+"description": "Pyto is an AI voice agent that qualifies leads, books meetings, and follows up - so your sales team focuses on closing. Trusted by fast-growing B2B companies.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Qantum",
+"url": "https://qantum.io/",
+"domain": "qantum.io",
+"description": "Clôturez sereinement et pilotez en temps réel : comptabilité générale, TVA, immobilisations et reporting réunis dans un seul outil.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 2
+},
+{
+"name": "Qbook.io",
+"url": "https://qbook.io/",
+"domain": "qbook.io",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Raiku",
+"url": "https://raiku.co/",
+"domain": "raiku.co",
+"description": "Nous produisons des emballages 100% compostables, esthétiques et protecteurs pour remplacer les emballages en plastique",
+"queries": [],
+"seed": true,
+"founded": 2019,
+"employees": null
+},
+{
+"name": "RainPath",
+"url": "https://rainpath.ai/",
+"domain": "rainpath.ai",
+"description": "RainPath édite LabOS, le SGL cloud de l'anatomopathologie, certifié Sésam-Vitale et en production, et développe le Virtual Staining, sa recherche en IA d'image.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Raison",
+"url": "https://raison.app/",
+"domain": "raison.app",
+"description": "Raison is a platform for pre-IPO investments, venture capital investments in startups, personalized investment strategies & alternative investments",
+"queries": [],
+"seed": true,
+"founded": 2016,
+"employees": null
+},
+{
+"name": "Raive",
+"url": "https://raive.com/",
+"domain": "raive.com",
+"description": "Raive. Creative Intelligence.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 0
+},
+{
+"name": "Ralator",
+"url": "https://ralator.io/",
+"domain": "ralator.io",
+"description": "Serveur MCP pour Claude Code, Cursor et VS Code : votre agent audite votre site, mesure ce que répondent les IA et écrit les pages qui vous font citer.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Rayon Libre",
+"url": "https://rayonlibre.fr/",
+"domain": "rayonlibre.fr",
+"description": "Rayon Libre révolutionne le dernier kilomètre : réservez votre vélo automatiquement à l'arrivée du train. Solution de mobilité durable pour les trajets intermodaux train-vélo en France.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Rebuilderm",
+"url": "https://rebuilderm.fr/",
+"domain": "rebuilderm.fr",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Reccap",
+"url": "https://recap-app.com/",
+"domain": "recap-app.com",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Recupere Metals",
+"url": "https://recupere-metals.com/",
+"domain": "recupere-metals.com",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Reduck",
+"url": "https://reduck.ai/",
+"domain": "reduck.ai",
+"description": "Ready-made automation scripts for LinkedIn, Twitter, Reddit and more, or write your own. They run in your own Chrome, where you're already logged in.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Reenbow",
+"url": "https://reenbow.ai/",
+"domain": "reenbow.ai",
+"description": "Préparez vos apprenants au monde réel avec des jeux de rôle professionnels. Créez vos contenus, proposez des mises en situation et suivez leurs progrès.",
+"queries": [],
+"seed": true,
+"founded": 2019,
+"employees": 8
+},
+{
+"name": "Reetags",
+"url": "https://reetags.com/",
+"domain": "reetags.com",
+"description": "Turn videos into interactive shopping experiences. Increase engagement, conversions, and revenue with AI-powered shoppable video for e-commerce.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Refabric",
+"url": "https://refabric.com/",
+"domain": "refabric.com",
+"description": "Refabric provides end-to-end AI fashion solutions, from accelerating concept-to-collection process, to automating production and enhancing e-commerce.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Referly",
+"url": "https://getreferly.com/",
+"domain": "getreferly.com",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Re-Fresh",
+"url": "https://re-fresh.global/",
+"domain": "re-fresh.global",
+"description": "Re-Fresh Global brings sustainability innovation into the manufacturing industry. Our patented biotechnology transforms textile waste into recycled raw materials: nanocellulose, ethanol, and sanitized textile pulp.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Repost",
+"url": "https://repost.fashion/",
+"domain": "repost.fashion",
+"description": "Repost est une solution qui permet aux revendeurs seconde main de gérer leurs stocks sur les plateformes de revente.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Revolv",
+"url": "https://revolv.ai/",
+"domain": "revolv.ai",
+"description": "Revolv.ai automatise la gestion des indemnités journalières de sécurité sociale (IJSS) pour les grandes entreprises grâce à une plateforme deeptech souveraine.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": 2
+},
+{
+"name": "Revox",
+"url": "https://getrevox.com/",
+"domain": "getrevox.com",
+"description": "Nos agents vocaux IA passent vos appels sortants : cold call, qualification, prise de RDV, relance… à chaque étape de votre cycle de sales.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Rhizome Labs",
+"url": "https://rhizome-labs.com/",
+"domain": "rhizome-labs.com",
+"description": "Rhizome Labs builds trustworthy adaptive AI systems for demanding real-world environments.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Rounded Technologies",
+"url": "https://callrounded.com/",
+"domain": "callrounded.com",
+"description": "Rounded propose des agents vocaux IA intelligents pour automatiser vos appels téléphoniques. Reconnaissance vocale en français, latence < 700ms, intégration API simple.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Safeout",
+"url": "https://safeout.io/",
+"domain": "safeout.io",
+"description": "Safeout: track, authenticate & secure products via NFC/QR scans and optional blockchain—digital product passports, anti-counterfeit protection, stolen-item tracking.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Sandra AI",
+"url": "https://sandra-ai.com/",
+"domain": "sandra-ai.com",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "SecondBrain",
+"url": "https://usesecondbrain.io/",
+"domain": "usesecondbrain.io",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "SeeLab AI",
+"url": "https://seelab.ai/",
+"domain": "seelab.ai",
+"description": "Modélisation produit, génération image et vidéo, automatisations et experts dédiés. Testez gratuitement avec votre site.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Seendra",
+"url": "https://seendra.app/",
+"domain": "seendra.app",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Seeqle",
+"url": "https://seeqle.com/",
+"domain": "seeqle.com",
+"description": "Deux Agents IA attirent puis scorent vos talents : 9 plateformes sociales et publicitaires, de Facebook à ChatGPT, et 35+ sites d'emploi, dans un seul budget.",
+"queries": [],
+"seed": true,
+"founded": 2015,
+"employees": 15
+},
+{
+"name": "Segmos",
+"url": "https://segmos.com/",
+"domain": "segmos.com",
+"description": "Segmos gives food, biofuel and industrial supply chains the chain of custody, footprint measurement and commercial tools to turn emission reductions into low-carbon offerings customers pay for.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Semantikmatch",
+"url": "https://semantikmatch.com/",
+"domain": "semantikmatch.com",
+"description": "Semantikmatch automates admissions, evaluations, graduation and internal workflows for higher education institutions — with full EU AI Act and GDPR compliance.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "SentraFlow",
+"url": "https://sentraflow.com/",
+"domain": "sentraflow.com",
+"description": "SentraFlow: Architecture d'entreprise pilotée par l'IA. Il lit votre code, vos APIs et vos configurations pour produire une cartographie vivante de votre SI, toujours à jour.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Sève Finance",
+"url": "https://seve-finance.com/",
+"domain": "seve-finance.com",
+"description": "Optimisez votre trésorerie d'entreprise avec Sève Finance, cabinet indépendant certifié ORIAS et 1ère société à mission du secteur. Expertise institutionnelle et placements ESG.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Shipfox",
+"url": "https://shipfox.io/",
+"domain": "shipfox.io",
+"description": "Build your team’s software factory without rebuilding the infrastructure. Shipfox is the MIT-licensed engine that runs your agents, tools, and workflows.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "Shiplog",
+"url": "https://useshiplog.com/",
+"domain": "useshiplog.com",
+"description": "Shiplog creates live customer profiles to automate real-time decisions, helping SaaS teams expand, retain, and grow Net Revenue Retention.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Siembra",
+"url": "https://siembra.io/",
+"domain": "siembra.io",
+"description": "Siembra est la plateforme achats qui aide les entreprises industrielles à détecter les économies, réduire la non-conformité et automatiser les tâches les plus pénibles grâce l'intelligence artificielle.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Sillage",
+"url": "https://getsillage.com/",
+"domain": "getsillage.com",
+"description": "Sillage turns account, people and market activity into signals you can act on. Run your GTM motion on it, or embed it in your product through one API.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Sim Skills",
+"url": "https://simskills.io/",
+"domain": "simskills.io",
+"description": "SimSkills desarrolla el liderazgo y las soft skills mediante simulaciones inmersivas, con avatares interactivos e Inteligencia Artificial.",
+"queries": [],
+"seed": true
+},
+{
+"name": "SkAI Tech",
+"url": "https://skai-aero.com/",
+"domain": "skai-aero.com",
+"description": "AI-powered crew management platform for airlines. Streamline scheduling and optimize flight operations with intelligent, automated solutions.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Skyld",
+"url": "https://skyld.io/",
+"domain": "skyld.io",
+"description": "Skyld provides solutions to secure AI models and regularize AI licensing.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Smalk",
+"url": "https://smalk.ai/",
+"domain": "smalk.ai",
+"description": "Build brand consideration with Smalk’s Publisher Citation Network and activate AI Platform Ads for website clicks and conversions.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Sneakmart",
+"url": "https://sneakmart.com/",
+"domain": "sneakmart.com",
+"description": "Le meilleur des marques contemporaines, luxe et urbaines, soigneusement sélectionné, à des prix réservés aux membres.",
+"queries": [],
+"seed": true,
+"founded": 2018,
+"employees": 2
+},
+{
+"name": "Solfair",
+"url": "https://solfair-energy.com/",
+"domain": "solfair-energy.com",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "SoonGo",
+"url": "https://soongo.co/",
+"domain": "soongo.co",
+"description": "SoonGo est un logiciel qui vous permet d'optimiser les flottes automobiles simplement à travers : un module de gestion de flotte automatisé pour gagner du temps, un module d'optimisation pour réduire son TCO et son empreinte carbone, un module d'analyses data, une offre de télématique sans boîtier.",
+"queries": [],
+"seed": true
+},
+{
+"name": "SoPost",
+"url": "https://sopost.com/",
+"domain": "sopost.com",
+"description": "Transform your marketing strategy with the leading digital product sampling platform. Drive unmatched opt-in data, accelerate sales and build lasting loyalty.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": 4
+},
+{
+"name": "Spacio",
+"url": "https://spacio.ai/",
+"domain": "spacio.ai",
+"description": "Design buildings faster with Spacio. Fast massing edits, built-in daylight, sun, wind and noise simulations, live code checks and instant analytics for feasibility studies. Trusted by Snøhetta, Oslo Works, and leading architecture firms.",
+"queries": [],
+"seed": true,
+"founded": 1974,
+"employees": null
+},
+{
+"name": "Sparxell",
+"url": "https://sparxell.com/",
+"domain": "sparxell.com",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "SPATE",
+"url": "https://spate.nyc/",
+"domain": "spate.nyc",
+"description": "Leverage AI-powered trend forecasting for beauty, wellness, personal care and food brands. Spate predicts consumer trends with unmatched accuracy.",
+"queries": [],
+"seed": true,
+"founded": 1993,
+"employees": null
+},
+{
+"name": "Sphinx",
+"url": "https://sphinxlabs.ai/",
+"domain": "sphinxlabs.ai",
+"description": "Sphinx unifies financial operations with AI agents for onboarding, investigations, and case resolution. SOC 2 Type II certified.",
+"queries": [],
+"seed": true,
+"founded": 2001,
+"employees": null
+},
+{
+"name": "Sportyum (Nutrition et AI)",
+"url": "https://sportyum.io/",
+"domain": "sportyum.io",
+"description": "Sportyum is the sports nutrition app that turns every training session into energy, macro and meal targets, for athletes, nutritionists, clubs and their coaches.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Stellar",
+"url": "https://stellar.tc/",
+"domain": "stellar.tc",
+"description": "At Stellar we bring resilient connectivity across networks to mobility, enterprise, and governments, leveraging the combined strength of all terrestrial and satellite networks. We offer software, data plans, and all-inclusive options for unbreakable and sovereign connectivity needs.",
+"queries": [],
+"seed": true,
+"founded": 2017,
+"employees": null
+},
+{
+"name": "Sumbia",
+"url": "https://sumbia.com/",
+"domain": "sumbia.com",
+"description": "An embedded AI assistant that helps publishers monetize their audience through sponsored interactions.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Synovance",
+"url": "https://synovance.com/",
+"domain": "synovance.com",
+"description": "Découvrez Casino Tortuga sur tartugacasino.net: jeux variés, bonus attractifs et retraits rapides. Rejoignez Tortuga Casino et jouez en toute sécurité dès aujourd'hui.",
+"queries": [],
+"seed": true,
+"founded": 2017,
+"employees": 15
+},
+{
+"name": "SYNRA",
+"url": "https://synra.us/",
+"domain": "synra.us",
+"description": "SYNRA turns any camera into a high-precision vibration sensor. Full-field vibration measurement for automotive, aerospace, oil & gas, energy and rail — no accelerometers, no added mass.",
+"queries": [],
+"seed": true
+},
+{
+"name": "TattooDay",
+"url": "https://tatday.com/",
+"domain": "tatday.com",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Tellers.ai",
+"url": "https://tellers.ai/",
+"domain": "tellers.ai",
+"description": "Automate video editing with Tellers. Turn footage or a brief into a first cut, refine it with prompts, and export a finished video or an editable timeline.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Temelion",
+"url": "https://temelion.ai/",
+"domain": "temelion.ai",
+"description": "Temelion is an AI copilot to assist building engineers during their pre-construction workflows so they can deliver high quality projects on time, faster while preserving their margins.",
+"queries": [],
+"seed": true
+},
+{
+"name": "TheSEA",
+"url": "https://thesea.ai/",
+"domain": "thesea.ai",
+"description": "Beachside is the Creative OS behind global leading\nbeauty brands — built for precision visual production at scale, with 88% less production time.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Thunder Code",
+"url": "https://thunders.ai/",
+"domain": "thunders.ai",
+"description": "Les Agents de test IA créent, exécutent et maintiennent vos tests de bout en bout sur le web, le mobile, les API et le desktop. Un seul parcours, tous les systèmes. Moins de 0,5 % de tests instables.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": 2
+},
+{
+"name": "Timper",
+"url": "https://timper.ai/",
+"domain": "timper.ai",
+"description": "AI feasibility and permitting software for real estate developers. Timper helps you assess whether a project will get permitted in Belgium and Europe before you commit capital. Investment-grade analysis in minutes.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Togethrust",
+"url": "https://togethrust.com/",
+"domain": "togethrust.com",
+"description": "Sécurisez vos tontines avec votre cercle. Plateforme agréée ORIAS (IFP n°24006639), contrôlée par la Banque de France. Créez votre tontine digitale en 3 minutes.",
+"queries": [],
+"seed": true,
+"founded": 2017,
+"employees": null
+},
+{
+"name": "TokPortal",
+"url": "https://tokportal.com/",
+"domain": "tokportal.com",
+"description": "Launch local TikTok and Instagram accounts. Publish, track analytics, manage comments and automate Instagram DMs through one dashboard, API or MCP.",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Topograph",
+"url": "https://topograph.co/",
+"domain": "topograph.co",
+"description": "Company details, representatives, shareholders, beneficial owners and official extracts, straight from official registers in 150+ jurisdictions. One API for prefill and verification.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Trajaan",
+"url": "https://trajaan.io/",
+"domain": "trajaan.io",
+"description": "Spot emerging consumer trends and monitor your brand’s visibility in LLMs with Trajaan. Turn search and AI insights into smarter marketing decisions.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": 8
+},
+{
+"name": "Tranched",
+"url": "https://tranched.fi/",
+"domain": "tranched.fi",
+"description": "Introducing real-time on-chain securitisation. Fintech Lenders and Professional Investors can now launch an institutional-grade transaction up to 90% faster than before.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Umamy.io",
+"url": "https://umamy.io/",
+"domain": "umamy.io",
+"description": "Les agents cartographient tous ceux qui pourraient faire le poste, lisent qui est réellement mobile et prennent contact sous votre marque — votre fondateur, votre hiring manager. 1 sur 2 répond.",
+"queries": [],
+"seed": true
+},
+{
+"name": "UNIVIA.AI",
+"url": "https://univia.ai/",
+"domain": "univia.ai",
+"description": "Tableau de bord et modules d'accompagnement pour l'orientation à l'international",
+"queries": [],
+"seed": true
+},
+{
+"name": "VARL Hair",
+"url": "https://varl.fr/",
+"domain": "varl.fr",
+"description": "Votre identité capillaire. Enfin exploitable. Analysez, suivez et faites évoluer vos cheveux avec une routine qui s’adapte dans le temps.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Vema Hydrogen",
+"url": "https://vema.earth/",
+"domain": "vema.earth",
+"description": "Vema Hydrogen is tackling the huge decarbonisation problem by providing 1000’s of years of economic, environmentally-friendly and predictable energy.",
+"queries": [],
+"seed": true
+},
+{
+"name": "VetAlly",
+"url": "https://vetally.fr/",
+"domain": "vetally.fr",
+"description": "VetAlly écoute la consultation et rédige compte rendu, ordonnance et courrier au propriétaire. Intégré à VetUp, VetNext et Synapps/VetoPartner. Essai gratuit.",
+"queries": [],
+"seed": true
+},
+{
+"name": "VIOLA",
+"url": "https://violawalkhome.com/",
+"domain": "violawalkhome.com",
+"description": "Scarica VIOLA per non sentirti più solə in strada, grazie alle funzionalità di videochiamata, chat, geolocalizzazione, mappe e spazi sicuri.",
+"queries": [],
+"seed": true,
+"founded": 2006,
+"employees": 2
+},
+{
+"name": "Vireo",
+"url": "https://vireo.earth/",
+"domain": "vireo.earth",
+"description": "Vireo est une marketplace pair à pair connectant les organisations compensatrices et les porteurs de projets sur le marché volontaire des crédits carbone",
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Vizcom",
+"url": "https://vizcom.com/",
+"domain": "vizcom.com",
+"description": "AI-powered design tool for real world product designers and their teams. Go from sketch to photorealistic 3D render in seconds. Start creating for free.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Vocal Image",
+"url": "https://vocalimage.app/",
+"domain": "vocalimage.app",
+"description": "Découvrez votre accent et type de voix. Test gratuit de 30 secondes. Rejoignez 4M+ utilisateurs qui développent une communication claire et confiante avec un coaching IA quotidien.",
+"queries": [],
+"seed": true
+},
+{
+"name": "VoiceHire",
+"url": "https://voicehire.io/",
+"domain": "voicehire.io",
+"description": "Offrez un entretien de découverte par téléphone dès la candidature grâce à l'IA vocale de VoiceHire.",
+"queries": [],
+"seed": true,
+"founded": 2024,
+"employees": null
+},
+{
+"name": "Voicing AI",
+"url": "https://voicing.ai/",
+"domain": "voicing.ai",
+"description": "Voice agents that finish the call, deployed on your servers or in your cloud. Voice AI Agents, Real-Time Translation, Knowledge Mesh and Agent Assist.",
+"queries": [],
+"seed": true,
+"founded": 2001,
+"employees": null
+},
+{
+"name": "Waterflai",
+"url": "https://waterflai.ai/",
+"domain": "waterflai.ai",
+"description": "No-code platform to build, deploy, and scale AI agents. Connect your data, choose any AI model, and go live in minutes.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Webyn",
+"url": "https://webyn.ai/",
+"domain": "webyn.ai",
+"description": "Optimisez les conversions de votre site web avec Webyn : la seule solution tout-en-un qui combine analyse, test, personnalisation et IA pour des résultats rapides et durables. Découvrez une approche intuitive et automatisée.",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 15
+},
+{
+"name": "Weflayr",
+"url": "https://weflayr.com/",
+"domain": "weflayr.com",
+"description": "The adaptive AI gateway. Benchmark models on your own production calls and route every request to the best model for your quality and cost objectives.",
+"queries": [],
+"seed": true,
+"founded": 2026,
+"employees": null
+},
+{
+"name": "Welcome Account",
+"url": "https://welcomeaccount.com/",
+"domain": "welcomeaccount.com",
+"description": "Welcount ouvre un IBAN français et une carte Visa en 24h aux réfugiés, travailleurs et étudiants internationaux. Solution de paiement inclusive distribuée via vos organisations partenaires, sous régulation ACPR.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Witty Works",
+"url": "https://witty.works/",
+"domain": "witty.works",
+"description": "Operationalize inclusion across your organization in a few hours, increasing employee loyalty by over 35%. With a simple tool: Language.",
+"queries": [],
+"seed": true
+},
+{
+"name": "WizyVision",
+"url": "https://wizyvision.com/",
+"domain": "wizyvision.com",
+"description": "Ready-made AI-powered mobile apps for frontline and field teams. Inspections, proof of service, traceability — deploy in days, no training needed.",
+"queries": [],
+"seed": true,
+"founded": 2019,
+"employees": null
+},
+{
+"name": "Wunderkind",
+"url": "https://wunderkind.co/",
+"domain": "wunderkind.co",
+"description": "Wunderkind transforms anonymous traffic into revenue by leveraging advanced AI and identity insights, ensuring guaranteed revenue growth through personalized marketing strategies.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Xydrobe",
+"url": "https://xydrobe.com/",
+"domain": "xydrobe.com",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "YesHome",
+"url": "https://yeshome.fr/",
+"domain": "yeshome.fr",
+"description": null,
+"queries": [],
+"seed": true
+},
+{
+"name": "Youngr Labs",
+"url": "https://youngr.io/",
+"domain": "youngr.io",
+"description": null,
+"queries": [],
+"seed": true,
+"founded": 2025,
+"employees": null
+},
+{
+"name": "Younzee",
+"url": "https://younzee.com/",
+"domain": "younzee.com",
+"description": "Votre personal shopper à portée de main ! Téléchargez sur iOS et Android. Expérience shopping personnalisée avec Younzee.",
+"queries": [],
+"seed": true,
+"founded": 2021,
+"employees": 8
+},
+{
+"name": "ZebraTruth",
+"url": "https://zebratruth.com/",
+"domain": "zebratruth.com",
+"description": "ZebraTruth checks proposed AI agent actions against laws, regulations, and institutional policies before they proceed. Explore agentic compliance use cases across banking, from KYC and advice to consumer credit and markets.",
+"queries": [],
+"seed": true
+},
+{
+"name": "Zilo Énergie",
+"url": "https://zilo-energie.com/",
+"domain": "zilo-energie.com",
+"description": "Profitez d’un abonnement solaire sans apport et réalisez des économies dès la première année. Testez votre éligibilité !",
+"queries": [],
+"seed": true,
+"founded": 2023,
+"employees": 4
+},
+{
+"name": "ZKAI Labs",
+"url": "https://zkailabs.com/",
+"domain": "zkailabs.com",
+"description": "ZKAI Labs researches financial representations learned from public transaction data and builds production recommendation systems.",
+"queries": [],
+"seed": true
 }
 ]
