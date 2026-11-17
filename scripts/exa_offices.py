@@ -40,13 +40,18 @@ NEG = re.compile(r"si[èe]ge\s+social|registered office|\brcs\b|capital\s+(?:soc
 REGISTRY = re.compile(r"pappers|societe\.com|annuaire|infogreffe|verif\.com|manageo|corporama|bodacc|entreprises\.lefigaro|"
                       r"score3|kompass|dnb\.com|opencorporates|lagazettefrance|b-reputation|pagesjaunes|lesentreprises|"
                       r"wikidata|wikipedia|societeinfo|sirene|siret|rubypayeur|france-entreprises|bilans?-|entreprise\.|"
-                      r"openbase|french-companies|companieshouse|dirigeant|infonet|creditsafe|ellisphere|northdata|crunchbase|pitchbook|dealroom|tracxn|cbinsights", re.I)
+                      r"openbase|french-companies|companieshouse|societeco|deedz|dataprospects|cerfapp|gowork|abosociete|archiver\.biz|"
+                      r"docubiz|medioq|avis-utiles|trustpilot|mappy|gaebler|yasteq|clustor|fr\.kompass|hoodspot|"
+                      r"entreprises\.|sortlist|dirigeant|infonet|creditsafe|ellisphere|northdata|crunchbase|pitchbook|dealroom|tracxn|cbinsights", re.I)
 # legal notices, T&Cs and privacy pages print the registered seat, not the office
 LEGAL_URL = re.compile(r"mentions|legal|l[ée]gales?|cgu|cgv|terms|termes|conditions|privacy|confidentialit|politique|"
                        r"imprint|impressum|rgpd|gdpr|cookie|disclaimer", re.I)
 JOBS = re.compile(r"welcometothejungle|jobs\.|careers\.|lever\.co|greenhouse\.io|ashbyhq|teamtailor|workable|recruitee|"
                   r"smartrecruiters|indeed|hellowork|jobteaser|apec\.fr|glassdoor|wttj|join\.com|personio|flatchr|"
                   r"/careers|/jobs|/carrieres|/recrutement", re.I)
+# startup directories and map listings: often right, sometimes the registered seat -> corroboration only
+DIRECTORY = re.compile(r"myfrenchstartup|exa\.ai/library|frenchtechcentral|lafrenchtech|maddyness\.com/annuaire|"
+                       r"station-f|play\.google|apps\.apple|afjv|lafrenchcare|etim-france|cofondateur", re.I)
 COWORK = re.compile(r"wework|morning|kwerk|regus|spaces|deskeo|station f|now coworking|wojo|bureaux à partager|cowork", re.I)
 
 
@@ -110,6 +115,9 @@ def candidates(c, results):
                 near = t[max(0, m.start() - 80):m.start()]
                 ctx = t[max(0, m.start() - 220):m.start()] + ' ' + t[m.end():m.end() + 80]
                 mentioned = own or (core and re.search(r'\b' + re.escape(core) + r'\b', L.fold(ctx) + ' ' + title))
+                label = dom.split('.')[0] if dom else ''
+                if mentioned and not own and len(core) <= 5 and not (label and label in (url + ' ' + t).lower()):
+                    mentioned = False  # a short name ("Bruno", "Julia") must come with the company's own domain
                 if not mentioned:
                     continue  # an address on a third-party page that does not name the company is someone else's
                 if re.search(r'\b(cs|bp|cedex|tsa)\s*$', m.group(1), re.I):
@@ -118,9 +126,11 @@ def candidates(c, results):
                 score = (2 if POS.search(ctx) else 0) - (3 if seat else 1 if NEG.search(ctx) else 0)
                 score += 2 if own else 1 if JOBS.search(url) else 0
                 addr = re.sub(r'\s+', ' ', m.group(1)).strip(' ,-')
+                addr = re.sub(r'[\s,-]+(paris|bureau \d+|b[âa]t(iment)?\.? ?\w+|[ée]tage \d+|\d+(e|er|[èe]me) [ée]tage)$', '', addr, flags=re.I)
                 if L.addr_key(addr) in L.DOMICILIATION:
                     continue
-                kind = 'legal' if seat else 'website' if own else 'jobs' if JOBS.search(url) else 'press'
+                kind = ('legal' if seat else 'website' if own else 'jobs' if JOBS.search(url)
+                        else 'directory' if DIRECTORY.search(url) else 'press')
                 out.append({'addr': addr, 'postcode': m.group(2), 'score': score, 'url': url, 'kind': kind,
                             'cowork': bool(COWORK.search(ctx))})
     # the same street seen on several pages is stronger
@@ -177,7 +187,8 @@ def main():
                         'n': c['n'], 'w': host(c.get('u')), 'office_street': b['addr'], 'postcode': b['postcode'],
                         'source_url': b['url'], 'source_type': b['kind'], 'is_startup': True,
                         # own site / job post with office wording = strong; a press mention or a coworking = medium
-                        'weight': 3 if b['kind'] in ('website', 'jobs') and b['score'] >= 2 and not b['cowork'] else 2,
+                        'weight': (3 if b['kind'] in ('website', 'jobs') and b['score'] >= 2 and not b['cowork']
+                                   else 1.5 if b['kind'] == 'directory' else 2),
                         'via': 'exa'}
             if i % 200 == 0:
                 print(f'  {i} searched · {found} offices · ${spent[0]:.2f}', flush=True)
