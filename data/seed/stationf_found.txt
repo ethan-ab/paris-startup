@@ -1,0 +1,367 @@
+# Startups named on stationf.co (scripts/stationf.py) that were not on the map. name | website
+212 | 212qa.com
+A.I.Mergence | ai-mergence.com
+A51 | a51tx.com
+Abstrakt | abstraktmg.com
+Abundant Earth | abundantearth.coop
+Actiondesk | actiondesk.io
+ADN Paris | adn-paris.fr
+Aerleum | aerleum.com
+Afrobloomy | afrobloomy.com
+aHRtemis | ahrtemis.com
+Aktio | aktio.cc
+Albatros | albatros.coop
+Alki | alki.com
+Aloty | aloty.ai
+Alpagga | alpagga.com
+Altfair | altfair.fr
+Alva | oyealva.com
+Amalia | handmadebyamalia.blogspot.com
+Amalia.io | amalia.io
+Anamnèse | anamnese.care
+Andy Cleraux | andyapp.io
+Animeo | animeo.fr
+Artiris | artiris-photo.com
+ATLAN Space | atlanspace.com
+AtmoCooling | atmocooling.com
+Axel | axel-loc.com
+Baback | baback.co
+Backacia | backacia.com
+Bamboo Energy | bambooenergy.tech
+Bampa | bampa.fr
+BatchCooking.com | batchcooking.com
+Baûbo | baubo.fr
+BeautyMix | beautymix-konstanz.de
+Beauté INÉE | beauteinee.fr
+Beavr | beavrdesign.com
+Bigblue | bigblue.co
+Blazar | blazarcapital.com
+Bleen | mybleen.com
+Bloomineral | bloomineral.com
+Bluco | bluco.com
+Blyynd | blyynd.com
+BOHAJE | bohaje.com
+Booxi | booxi.com
+Broke and Abroad | brokeandabroad.com
+Bumpy | bumpy.com
+Campsider | campsider.com
+Candix | candix.com
+Capio | capio.se
+CARBON SAVER | carbonsaver.org
+Carbonx | carbonx.com
+CareGame | caregame.com
+CEDE Labs | cede-labs-landing.webflow.io
+Cegid | cegid.com
+Celsius Energy | celsiusenergy.com
+Centeon | centeon.bio
+Chari | chari.com
+Cherry Pick | cherry-pick.com
+Chift | chift.eu
+Circl | circl.lu
+Clarity | clarity.fm
+CleanMob | cleanmob.com
+Cleavr | cleavr.com
+Coconut | coconutsilo.com
+Cocoon-Immo | cocoon-immo.io
+Cocoworker | cocoworker.com
+Coforix | coforix.ai
+Cohere | cohere.com
+ConsultAway | consultaway.com
+Cozycozy | cozycozy.com
+Crafty | craftydelivers.com
+Crown | crown.com
+Cryptonext | cryptonext-security.com
+CURA | curagroep.com
+Cuvée Privée | cuvee-privee.com
+Daftar | daftar.com
+Dame Products | dameproducts.com
+Dashery | dashery.com
+DealGuard | dealguard.it.com
+Deepeye Medical | deepeye-medical.com
+DeltaBlock | deltablock.io
+Demooz | demooz.com
+DePoly | depoly.co
+Differs | differs.io
+DigiTall | digitall.com
+Dive | divemagazine.com
+Diversified | onediversified.com
+Dokit | dokit.org
+Dropcontact | dropcontact.com
+Ecohesens | care-ecohesens.com
+EEVY | eevy.fr
+Elendi | elendi.ai
+ENAKL | enakl.com
+Enrise | enrise.com
+Entoureo | entoureo.fr
+Epopia | epopia.com
+Escapad | escapad.coop
+Ethylowheel | ethylowheel.com
+Eventbrite | eventbrite.com
+Evotis | evotis.be
+ex9 | ex9.tech
+ExtraJool | extrajool.com
+Extralab | extralab.fr
+FACIL’iti | facil-iti.com
+Factio | agencefactio.com
+FairJungle | fairjungle.com
+Famileat | famileat.fr
+Finense | finense.fr
+FITLE | fitle.com
+Flaneer | flaneer.com
+Flatmates | flatmates.com.au
+Flushy | flushy.co
+Food7Go | food7go.com
+Four40 | four40partners.com
+Frakihabara | frakihabara.com
+Fructifi | fructifi.com
+Futurz | futurzhr.com
+Fuzed | fuzed.com
+Gatling | gatling.io
+Genesis AI | genesis-ai.company
+Geovelo | geovelo.app
+GetMint | getmint.ai
+Github | github.com
+Glowssary | glowssary.app
+GoDraft | godraft.gg
+Goji | goji.io
+GOKADEN | gokaden.xyz
+Golden Blocks | goldenblocks.fr
+Grasp | getgrasp.com
+Gravite | gravite.io
+Greenspector | greenspector.com
+Gynica | gynica.com
+HABS | habsplus.com
+Harvestr | harvestr.io
+Hectar | hectar.co
+Hello Marcel | hellomarcel.be
+HelloMyBot | hellomybot.io
+HeronAI | heronai.com
+Hexagone AI | hexagone.ai
+Hiliv | hilivsolution.com
+Holler.live | holler.live
+Holy Owly | holyowly.fr
+Hors Normes | ateliers-horsnormes.fr
+Huawei | huawei.com
+Hubspot | hubspot.com
+Hugy | hugy.co
+Humapro | humapro.fr
+Humind | thehumind.com
+HUMUS | humusfarm.com
+HyReveal | hyreveal.com
+Ictyos | ictyos.com
+Immersiv | immersiv.com.au
+Immonator | immonator.fr
+Incepto Medical | incepto-medical.com
+Included VC | included.vc
+Inspek | inspek-solutions.com
+Inspiraction | inspiraction.ro
+Intimately | intimatelyyouboudoir.com.au
+Invertix | invertixbcn.com
+Jami | jami.net
+Jamii | lovejamii.com
+Jeste | jeste.co
+Jinko | gojinko.com
+Jobday | jobday-sciences.be
+JOOVENCE | joovence.com
+Kara.ai | kara.ai
+Karamel | karamel.eu
+Katalyz | katalyz.co
+Keypup | keypup.io
+Kinetix | kntx.ventures
+Kira | nexoft.asia
+Kolibri | kolibrigames.com
+Kolverr | kolverr.com
+Konexio | konexionetwork.com
+Koyeb | koyeb.com
+Kraaft | kraaft.com
+Kuli | kuli.com
+Kumulus | kumulus.com
+Kunto | kunto.fr
+Kushim | kushim.co.jp
+Laba | laba.com
+Labtoo | labtoo.com
+Landng | landng.com
+Lasqo | lasqo.ai
+Leadbay | leadbay.ai
+LeadBees | leadbees.io
+Leanear | leanear.io
+Lecko | lecko.fr
+Lecturer | lecturer.fr
+Leeway | leeway.net
+Legora | legora.com
+Les Déterminés | lesdetermines.fr
+Life Protect | lifeprotect.net.au
+ListenUp! | listenup.com
+Livna | livna-education.fr
+Lizy | lizy.be
+Localista | localista.com.au
+Lokki | lokki.rent
+Loola | loola.pl
+Lovable | link.lovable.dev
+LumApps | lumapps.com
+Lumeen | lumeen.com
+Lymia | thesensiblemama.com
+L’Intendance | lintendance.co
+Majamaja | majamaja.com
+Mapstr | mapstr.com
+Marie Mas | mariemas.com
+Marso Robotics | marsorobotics.com
+Matricis.ai | matricis.ai
+Medoucine | medoucine.com
+Memorality | memorality.com
+Memorizer | memorizer.ai
+MGNM | mgnm.com.au
+MicroXpace | microxpace.com
+Mimesys | mimesys-project.it
+MincaAI | mincaai.com
+Mindflow | mindflowspeedreading.com
+Moby Analytics | mobyanalytics.com
+MonCamionavecChauffeur | moncamionavecchauffeur.com
+Moonai | mooonai.com
+MORIARTY | moriartymedia.com
+Motion Society | motionsociety.io
+Moustache AI | moustacheai.com
+Multiverse Computing | multiversecomputing.com
+Munki | munki.audio
+My Digital Buildings | mydigitalbuildings.com
+Möss | moss-paris.com
+Naarica | naarica.in
+Nao | naodevils.de
+NaTakallam | natakallam.com
+Navee | navee.asia
+Nebius | nebius.com
+Nelson Mobility | nelson-mobility.com
+Neptune Elements | neptuneelements.com
+NetR | netronline.com
+Newav | newav.eu
+NextLevel | nextlevel.ai
+Nopli | nopli.eu
+Notion | notion.com
+null | null.community
+NuMind | numind.ai
+Nym Technologies | nym.com
+Ohmboa | ohmboa.com
+Ohmyseason | ohmyseason.fr
+Okarito | okarito.co.nz
+Omini | ominiclinic.ro
+Onboard | onboard.blue
+Onbox | onbox.hu
+OneSecond | one-second.com
+Ooak data | ooakdata.com
+OpenRouter | openrouter.ai
+Optimiz Construction | optimiz-construction.fr
+Orbital | orbital.com
+Ordo'Lib | ordolib.io
+ORIDA | oridahotels.com
+Outshift | outshift.com
+O’Tacos | o-tacos.ma
+Payper | payper.com
+Pazapa | pazapa.org
+Pazzi | pazzidifanta.com
+Phacil | phacil.delivery
+Phagos | phagos.com
+Phenomenal Women | anujagupta.blogspot.com
+Pimento | pimento.fr
+PimpUp | pimpup.io
+Pimster | pimster.app
+Plateya | plateya.fr
+Pledger | pledger.fr
+Podium | podium.com
+Pressmium | pressmium.com
+Prior Foundry | priorfoundry.com
+Pronto | withpronto.com
+Puissante | puissante.co
+Qairn | qairn-rh.fr
+Qantev | qantev.com
+Qeels | qeels.io
+Qivio | qivio.fr
+Qlip | qlip.com
+Quack AI | quackai.com
+RainPath | rainpath.ai
+Re-Inc | re-cap.com
+Redesk | redesk.fr
+Referly | referly.so
+ReparCar | reparcar.fr
+Repio | repio.com
+Replit | replit.com
+Repost | repost.com
+Retro//VRS | retrovrs.com
+Revolv | revolv.com
+Rinse | rinse.com
+Rippling | rippling.com
+River Side | river.com
+Rocambole | rocambole.fr
+Running Care | running-care.com
+Sandra AI | sandra-ai.com
+Sarwa | sarwa.co
+Savvy | savvy.com
+Sayna | sayna.ai
+Schoolab | theschoolab.com
+Scienta Lab | scientalab.com
+Scio | scio.cz
+Scrambl | scrambl.com
+Selectivity | selectivity.life
+Selfr | selfr.ai
+Shary | shary.it
+Shipfox | shipfox.io
+Shiplog | shiplog.mr
+Sifflet | siffletdata.com
+SINGA | singa.com
+Skyld | skyld.io
+Slack | slack.com
+Sneakmart | sampleapp.co
+Sonaar | sonaar.com
+SoonGo | soongo.co
+Sorore | sorore.fr
+Soufflé | soufflekitchen.com
+SOWIT | sowit.co
+Spacefill | spacefill.com
+Spacio | spacio.co.uk
+Sphinx | sphinxhq.com
+Starton | starton.com
+Stealth | timelyai.com
+Sunnycare | sunnycare.com.au
+Sweevana | sweevana.com
+SYNRA | mcpserver.design
+Syntetica | syntetica.co
+Tailor | tailor.tech
+Take- Caire | take-caire.fr
+TAMISIUM | tamisiumextractors.com
+teale | teale.io
+Team Vitality | vitality.gg
+TecHunter | techuntermagazine.com
+Temelion | temelion.ai
+Timelapps | timelapps.com
+Timper | timper.ai
+Tingz | tingzcreative.com
+TotalEnergies | totalenergies.com
+Tranched | tranched.fi
+Trashtag | trashtag.org
+Treeway | treeway.nl
+Tremau | tremau.com
+Unbottled | unbottled.co
+Unifai | unif.ai
+Uptale | uptale.io
+VelyVelo | velyvelo.com
+Vema | vemadocs.com
+Vema Hydrogen | vema.earth
+Verdikt | verdikt.io
+ViiBE | viibe.co
+Vitabu | vitabuerp.com
+Vitality | vitality.com
+VizioSense | viziosense.com
+Vocads | vocads.com
+Voicing AI | voicing.ai
+Voxe | voxe.org
+Watiz | watiz.io
+WayUp | wayup.com
+Weflayr | weflayr.com
+Whaly | whaly.com
+WhiteLab | whitelabgx.com
+Whoomies | whoomies.com
+Wildcard | wildcardmobile.com
+Woodoo | woodoo.com
+Xydrobe | xydrobe.com
+Y Combinator | ycombinator.com
+Yuzu | yuzu.com
+ZebraTruth | zebratruth.ai

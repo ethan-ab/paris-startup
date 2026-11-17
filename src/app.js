@@ -28,7 +28,9 @@ const logo = (p, size) => { const C = ST(p.st), src = logoSrc(p.lg);
     src ? `<img src="${esc(src)}" alt="" loading="lazy" decoding="async">` : ''}</span>`; };
 const wireLogos = root => root.querySelectorAll('.lg img').forEach(im => { im.onerror = () => im.remove(); if (im.complete && !im.naturalWidth) im.remove(); });
 const S = STARTUPS, B = BUILDINGS.features;
-S.forEach((p, i) => { p.i = i; p._s = fold([p.n, p.d, p.s, p.a, p.area, p.cp, p.pc].join(' ')); p._slug = slug(p.n); });
+const SFTXT = {here:'station f', moved:'left station f alumni moved', past:'station f alumni'};
+S.forEach((p, i) => { p.i = i; p._s = fold([p.n, p.d, p.s, p.a, p.area, p.cp, p.pc, p.sf && SFTXT[p.sf.s], p.sf && p.sf.p].join(' ')); p._slug = slug(p.n); });
+const LEFT_SF = S.filter(p => p.sf && p.sf.s === 'moved').length;
 const byB = new Map(B.map(f => [f.properties.b, f]));
 const center = f => { const r = f.geometry.type === 'Polygon' ? f.geometry.coordinates[0] : f.geometry.coordinates[0][0];
   let x = 0, y = 0; r.forEach(c => { x += c[0]; y += c[1]; }); return [x / r.length, y / r.length]; };
@@ -198,6 +200,9 @@ function detail(p, hero){
     ${facts.length ? `<div class="facts">${facts.map(([k, v, href]) => `<div><span>${k}</span><b>${/^https?:\/\//i.test(href || '') ? `<a href="${esc(href)}" target="_blank" rel="noopener" title="Source">${esc(v)} ↗</a>` : esc(v)}</b></div>`).join('')}</div>` : ''}
     <div class="where ${conf[0]}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
       <div><b>${esc(where || 'Address unknown')}</b><span>${conf[1]} · ${esc(conf[2])}</span></div></div>
+    ${p.sf ? `<div class="sfline ${p.sf.s}">${p.sf.s === 'here' ? `At Station F · ${esc(p.sf.p)}${p.sf.y ? ' (' + esc(p.sf.y) + ')' : ''}`
+      : p.sf.s === 'moved' ? `Moved out of Station F · was in ${esc(p.sf.p)}${p.sf.y ? ' (' + esc(p.sf.y) + ')' : ''}`
+      : `Was at Station F (${esc(p.sf.p)}${p.sf.y ? ', ' + esc(p.sf.y) : ''}) · current office not confirmed`}</div>` : ''}
     <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a class="btn pri" href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}
       <a class="btn" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.n + ', ' + where)}" target="_blank" rel="noopener">Directions</a>
       <a class="fix" href="${esc(fix)}" target="_blank" rel="noopener">Wrong office?</a></div>`;
@@ -224,13 +229,16 @@ function showCard(b, i, fly){
         <h2>${nf.format(list.length)} startups in this building</h2>
         <div class="sbar">${counts.map(([k, n]) => `<i style="--c:var(${ST(k).c});flex-grow:${n}" title="${ST(k).label}: ${n}"></i>`).join('')}</div>
         <button class="x" type="button" aria-label="Close">×</button></div>
+      ${lead.cp === 'Station F' && LEFT_SF ? `<div class="co"><button type="button" class="alumni"><span class="lg lg-sm u" aria-hidden="true"><b>→</b></span><div><b>${nf.format(LEFT_SF)} startups have left Station F</b><span>Show where they moved</span></div><small></small><em class="chev" aria-hidden="true"></em></button></div>` : ''}
       ${list.map(p => `<div class="co"><button type="button" data-i="${p.i}" aria-expanded="${p.i === i}">
           ${logo(p, 'sm')}<div><b>${esc(p.n)}</b><span>${esc(p.s)}</span></div><small>${p.e ? nf.format(p.e) : ''}</small><em class="chev" aria-hidden="true"></em></button>
           <div class="det" ${p.i === i ? '' : 'hidden'}>${p.i === i ? detail(p) : ''}</div></div>`).join('')}`;
   wireLogos(card);
   card.hidden = false;
   card.querySelector('.x').onclick = closeCard;
-  card.querySelectorAll('.co>button').forEach(btn => btn.onclick = () => {
+  const alumni = card.querySelector('.alumni');
+  if (alumni) alumni.onclick = () => { $('q').value = 'left station f'; query = 'left station f'; listOpen = true; shown = 40; closeCard(); apply(); fitVisible(); };
+  card.querySelectorAll('.co>button:not(.alumni)').forEach(btn => btn.onclick = () => {
     const k = +btn.dataset.i, d = btn.nextElementSibling, open = d.hidden;
     card.querySelectorAll('.det').forEach(x => { x.hidden = true; x.previousElementSibling.setAttribute('aria-expanded', 'false'); });
     if (open) { d.innerHTML = detail(S[k]); d.hidden = false; btn.setAttribute('aria-expanded', 'true'); openI = k; setHash(S[k]); } else { openI = null; }

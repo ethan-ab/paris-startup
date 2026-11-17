@@ -179,6 +179,15 @@
 "shape": "tile",
 "sha": "1af03d67bd12d1b1"
 },
+"212qa.com": {
+"key": "212qa-com",
+"from": "website:https://asset.jetourqatar.com/brands/cmbrand212seed00000000001/cms/2026/09/4403533c-185a-4874-b73a-14cc0970683f-29c7b814-3966-484d-93ca-c12c2a052005-212_svg_logo.svg",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 178,
+"sha": "41442e8ec70ccd63"
+},
 "21st.luxury": {
 "key": "21st-luxury",
 "from": "linkedin",
@@ -557,6 +566,15 @@
 "shape": "tile",
 "sha": "379b4ef38f5555d8"
 },
+"abundantearth.coop": {
+"key": "abundantearth-coop",
+"from": "website:https://images.squarespace-cdn.com/content/v1/60aa555d239cca53f3579afb/75849ad4-d911-4d4b-829a-9fb821731d27/Untitled+design+-+2023-06-17T082444.783.png?format=1500w",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 96,
+"sha": "ee6401cd9d047452"
+},
 "ac3-studio.com": {
 "key": "ac3-studio-com",
 "from": "linkedin",
@@ -655,6 +673,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "e798eece36e4a56b"
+},
+"actiondesk.io": {
+"key": null,
+"why": "no usable logo"
 },
 "actoon.fr": {
 "key": "actoon-fr",
@@ -763,6 +785,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "54998bb0fc3f005f"
+},
+"adn-paris.fr": {
+"key": "adn-paris-fr",
+"from": "website:https://www.adn-paris.fr/cdn/shop/files/ADN_Paris_-_Logo_noir_d54c3de8-d9c5-4a6a-ac39-dde3cdb5c2e1.png?v=1685284700&width=500",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 142,
+"sha": "44dc8c55c5e633e0"
 },
 "adnexus.fr": {
 "key": "adnexus-fr",
@@ -926,6 +957,10 @@
 "shape": "tile",
 "sha": "e2fbc54e6791932e"
 },
+"afrobloomy.com": {
+"key": null,
+"why": "no usable logo"
+},
 "afterdata.com": {
 "key": "afterdata-com",
 "from": "linkedin",
@@ -986,6 +1021,15 @@
 "shape": "tile",
 "sha": "e50daec3f906f4aa"
 },
+"agencefactio.com": {
+"key": "agencefactio-com",
+"from": "website:https://www.agencefactio.com/wp-content/uploads/2026/09/cropped-05-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "62d0729f85c6b8ea"
+},
 "agencepointbarre.com": {
 "key": "agencepointbarre-com",
 "from": "linkedin",
@@ -1009,6 +1053,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "52ff167c9eccfc9c"
+},
+"agentelix.ai": {
+"key": "agentelix-ai",
+"from": "linkedin",
+"shape": "tile",
+"sha": "d13f911d229579de"
 },
 "agentimmo18.com": {
 "key": "agentimmo18-com",
@@ -1085,6 +1135,10 @@
 "shape": "tile",
 "sha": "060699da66c38cda"
 },
+"agricool.co": {
+"key": null,
+"why": "no usable logo"
+},
 "agrilifestudio.com": {
 "key": "agrilifestudio-com",
 "from": "linkedin",
@@ -1127,6 +1181,12 @@
 "shape": "tile",
 "sha": "dd5f81f8fe7c1037"
 },
+"ahrtemis.com": {
+"key": "ahrtemis-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "127bb69d5308bf16"
+},
 "ai-coach.fr": {
 "key": "ai-coach-fr",
 "from": "website:https://framerusercontent.com/images/nLjYBDiffeIOIhBc9zbVx3bzk.png",
@@ -1135,6 +1195,15 @@
 "shape": "plate",
 "w": 126,
 "sha": "aa680bf636f9a645"
+},
+"ai-mergence.com": {
+"key": "ai-mergence-com",
+"from": "website:https://ai-mergence.com/logo.png",
+"kind": "icon",
+"score": 200,
+"shape": "tile",
+"w": 96,
+"sha": "714f46ecc1d43cd4"
 },
 "ai-x-leaders.com": {
 "key": "ai-x-leaders-com",
@@ -1364,6 +1433,15 @@
 "shape": "tile",
 "sha": "e8566deac5136429"
 },
+"albatros.coop": {
+"key": "albatros-coop",
+"from": "website:https://albatros.coop/assets/img/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "39c2d8fa8ceb15bd"
+},
 "albertapp.com": {
 "key": "albertapp-com",
 "from": "linkedin",
@@ -1457,6 +1535,10 @@
 "shape": "tile",
 "sha": "2c76cdf49467838e"
 },
+"alki.com": {
+"key": null,
+"why": "no usable logo"
+},
 "all.accor.com": {
 "key": "all-accor-com",
 "from": "linkedin",
@@ -1517,6 +1599,10 @@
 "shape": "tile",
 "sha": "ef1520666e51c5f0"
 },
+"aloty.ai": {
+"key": null,
+"why": "no usable logo"
+},
 "alouette.ai": {
 "key": "alouette-ai",
 "from": "website:https://alouette.ai/assets/LOGO_ALOUETTE_HORIZONTAL.svg",
@@ -1525,6 +1611,15 @@
 "shape": "plate",
 "w": 192,
 "sha": "05b6f8a169623db6"
+},
+"alpagga.com": {
+"key": "alpagga-com",
+"from": "website:https://alpagga.com/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "6c084e8489a554dc"
 },
 "alphadogshouse.com": {
 "key": "alphadogshouse-com",
@@ -1586,6 +1681,10 @@
 "shape": "tile",
 "sha": "30bef8ba1f4a3e10"
 },
+"altfair.fr": {
+"key": null,
+"why": "no usable logo"
+},
 "altiainvestment.com": {
 "key": "altiainvestment-com",
 "from": "linkedin",
@@ -1603,6 +1702,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "1549e31c0d548936"
+},
+"amalia.io": {
+"key": "amalia-io",
+"from": "website:https://cdn.prod.website-files.com/5ea3a69927484b2f5da415f3/65f609d1ce39e674fc88bd33_Isotype256Webflow.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "8da8d622042fbc47"
 },
 "amaltheafs.com": {
 "key": "amaltheafs-com",
@@ -1661,6 +1769,12 @@
 "shape": "tile",
 "sha": "4ce2d6b848f92c2d"
 },
+"anamnese.care": {
+"key": "anamnese-care",
+"from": "linkedin",
+"shape": "tile",
+"sha": "60a7807b81c5c0a9"
+},
 "anatomiesdarchitecture.com": {
 "key": "anatomiesdarchitecture-com",
 "from": "linkedin",
@@ -1687,6 +1801,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "8c281c9afe7424e0"
+},
+"andyapp.io": {
+"key": "andyapp-io",
+"from": "website:https://andyapp.io/wp-content/uploads/2022/10/logo-oficial_Andy-02.png",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "61c0cb613a37cceb"
 },
 "andyoucreate.com": {
 "key": "andyoucreate-com",
@@ -1717,6 +1840,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "5c26ae6e86ad2721"
+},
+"animeo.fr": {
+"key": "animeo-fr",
+"from": "website:https://cdn.prod.website-files.com/6818786f299aa0a31a6cfde2/68237011dfc31217be3cfbbf_animeo-webclip-256.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "911195d5e6169347"
 },
 "animopro.fr": {
 "key": "animopro-fr",
@@ -1780,6 +1912,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "88bca1da92490edc"
+},
+"anujagupta.blogspot.com": {
+"key": null,
+"why": "no usable logo"
 },
 "anywhere-app.com": {
 "key": "anywhere-app-com",
@@ -1926,6 +2062,12 @@
 "shape": "tile",
 "sha": "c7b86e624e52ce10"
 },
+"arago.inc": {
+"key": "arago-inc",
+"from": "linkedin",
+"shape": "tile",
+"sha": "1048d821c5100e69"
+},
 "arc-space.com": {
 "key": "arc-space-com",
 "from": "linkedin",
@@ -2043,6 +2185,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "ce8b14f3c9b75c06"
+},
+"artiris-photo.com": {
+"key": "artiris-photo-com",
+"from": "website:https://artiris.com/wp-content/uploads/2024/05/Logo-artiris-noir-sans-bkgd-300x300.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "136851c7785da2fa"
 },
 "artludique.com": {
 "key": "artludique-com",
@@ -2242,11 +2393,26 @@
 "shape": "tile",
 "sha": "cf6c3fa59fe7afde"
 },
+"ateliers-horsnormes.fr": {
+"key": "ateliers-horsnormes-fr",
+"from": "website:https://ateliers-horsnormes.fr/wp-content/uploads/2024/09/cropped-favicon-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "ef4ffed62858ccc8"
+},
 "ateliers2paris.fr": {
 "key": "ateliers2paris-fr",
 "from": "linkedin",
 "shape": "tile",
 "sha": "2af0be583a346962"
+},
+"athana.shop": {
+"key": "athana-shop",
+"from": "linkedin",
+"shape": "tile",
+"sha": "747a501602cf4f2c"
 },
 "athletai.org": {
 "key": "athletai-org",
@@ -2260,11 +2426,19 @@
 "shape": "tile",
 "sha": "d53d997157b26a48"
 },
+"atlanspace.com": {
+"key": null,
+"why": "no usable logo"
+},
 "atmgaming.com": {
 "key": "atmgaming-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "8fecea05eb2725f8"
+},
+"atmocooling.com": {
+"key": null,
+"why": "no usable logo"
 },
 "atom.com": {
 "key": "atom-com",
@@ -2512,6 +2686,15 @@
 "shape": "tile",
 "sha": "d10bb25e1a2b04fb"
 },
+"baback.co": {
+"key": "baback-co",
+"from": "website:https://baback.co/apple-icon.png?45ea94cf733cf6a8",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "3f0a67e923d65887"
+},
 "babybamboo.fr": {
 "key": "babybamboo-fr",
 "from": "linkedin",
@@ -2535,6 +2718,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "660792a9c4b3bfc6"
+},
+"backacia.com": {
+"key": "backacia-com",
+"from": "website:https://backacia.com/cdn/shop/files/LOGO_BACKACIA_FINAL_TITLE.png?v=1725442047&width=400",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "64c04f21ff7d1a41"
 },
 "backlane.ai": {
 "key": "backlane-ai",
@@ -2578,6 +2770,12 @@
 "w": 96,
 "sha": "c1796c1df2b77bcb"
 },
+"ballin.co": {
+"key": "ballin-co",
+"from": "linkedin",
+"shape": "tile",
+"sha": "7949605337e0c530"
+},
 "baltimore-paris.fr": {
 "key": "baltimore-paris-fr",
 "from": "linkedin",
@@ -2604,6 +2802,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "66af564566c49e84"
+},
+"bampa.fr": {
+"key": null,
+"why": "no usable logo"
 },
 "ban.coop": {
 "key": "ban-coop",
@@ -2667,6 +2869,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "dc0ec2e61f15bfbf"
+},
+"batchcooking.com": {
+"key": "batchcooking-com",
+"from": "website:https://batchcooking.com/cdn/shop/files/BatchCooking_787_x_190_px_210x.png?v=1671435663",
+"kind": "logo",
+"score": 82,
+"shape": "plate",
+"w": 192,
+"sha": "e65f139b73e455a5"
 },
 "batisia.ai": {
 "key": "batisia-ai",
@@ -2770,11 +2981,33 @@
 "shape": "tile",
 "sha": "9695787450f07015"
 },
+"beauteinee.fr": {
+"key": "beauteinee-fr",
+"from": "website:https://beauteinee.fr/images/BI-logoNoir.png",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 192,
+"sha": "f3d22fc3863aa97e"
+},
 "beautigloo.com": {
 "key": "beautigloo-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "e22433c1bc60d295"
+},
+"beautymix-konstanz.de": {
+"key": "beautymix-konstanz-de",
+"from": "website:https://beautymix-konstanz.de/beautymix-wellness-logo.png?v=20260806-1",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "55515331ec849207"
+},
+"beavrdesign.com": {
+"key": null,
+"why": "no usable logo"
 },
 "bebook.com": {
 "key": "bebook-com",
@@ -3010,6 +3243,15 @@
 "shape": "tile",
 "sha": "b488da38a94d493a"
 },
+"bigblue.co": {
+"key": "bigblue-co",
+"from": "website:https://cdn.prod.website-files.com/620b80186e8df90831052331/621df3381fbc495a6aa345ad_webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "40bad9e0292ef782"
+},
 "bigdataparis.com": {
 "key": "bigdataparis-com",
 "from": "linkedin",
@@ -3099,6 +3341,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "c29a83f00162a027"
+},
+"biolevate.com": {
+"key": "biolevate-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "de05b5dd3665a88c"
 },
 "biomemory.com": {
 "key": "biomemory-com",
@@ -3232,6 +3480,15 @@
 "shape": "tile",
 "sha": "3b82f80088b78035"
 },
+"blazarcapital.com": {
+"key": "blazarcapital-com",
+"from": "website:https://blazarcapital.com/build/_assets/favicon-P6NERHXH.svg",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "091480257a97d457"
+},
 "blent.ai": {
 "key": "blent-ai",
 "from": "linkedin",
@@ -3295,6 +3552,15 @@
 "shape": "tile",
 "sha": "cd16e798922c4c5b"
 },
+"bloomineral.com": {
+"key": "bloomineral-com",
+"from": "website:https://images.squarespace-cdn.com/content/v1/663fa5adea10b96d44e736ce/a862c848-f6e1-45c0-86fd-c8084d8449a3/favicon.ico",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "0129366bd0d41e2e"
+},
 "bluefishai.com": {
 "key": "bluefishai-com",
 "from": "website:https://framerusercontent.com/images/K70LkGp6hb0M2Oy9CW8cQeqOmJI.png",
@@ -3342,6 +3608,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "57359e238f5fb4b2"
+},
+"blyynd.com": {
+"key": "blyynd-com",
+"from": "website:https://hush-app.com/favicon.ico?favicon.0x3dzn~oxb6tn.ico?dpl=dpl_DupTrcazaDyzAWEwuA7ChS1faB8L",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "9d0c703811d1a870"
 },
 "bmkparis.com": {
 "key": "bmkparis-com",
@@ -3483,6 +3758,15 @@
 "shape": "tile",
 "sha": "8ede1db98a46ca42"
 },
+"booxi.com": {
+"key": "booxi-com",
+"from": "website:https://cdn.prod.website-files.com/60f8323663cccd98d9f300f3/6aea0018a3aecb49bce5f2d4_booxi-app-icon-deep.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "c003dda7c078d56f"
+},
 "botify.com": {
 "key": "botify-com",
 "from": "website:https://cdn.prod.website-files.com/6639e9e213b495098391c3d1/6a8849f4aae62fe0db30671a_Botify%20Profile_2024_RGB_%20Purple%203.png",
@@ -3612,6 +3896,15 @@
 "shape": "tile",
 "sha": "ba81aab92a8eb29a"
 },
+"brokeandabroad.com": {
+"key": "brokeandabroad-com",
+"from": "website:https://brokeandabroad.com/icons/icon-512x512.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "e040425050fbc917"
+},
 "brokins.fr": {
 "key": "brokins-fr",
 "from": "linkedin",
@@ -3698,6 +3991,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "a207d9a8bc9f93d4"
+},
+"bumpy.com": {
+"key": null,
+"why": "no usable logo"
 },
 "bunji.fr": {
 "key": "bunji-fr",
@@ -4004,6 +4301,15 @@
 "shape": "tile",
 "sha": "0a8e15cc6009d392"
 },
+"carbonsaver.org": {
+"key": "carbonsaver-org",
+"from": "website:https://carbonsaver.org/images/iphone.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "f3804587f12c97a8"
+},
 "carcutter.com": {
 "key": "carcutter-com",
 "from": "linkedin",
@@ -4022,11 +4328,29 @@
 "shape": "tile",
 "sha": "ee8f483055f50cbb"
 },
+"care-ecohesens.com": {
+"key": "care-ecohesens-com",
+"from": "website:https://www.care-ecohesens.com/_next/image?url=%2Fimages%2Flogo.png&w=640&q=75",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "44632d72d65907c4"
+},
 "careers.justeattakeaway.com": {
 "key": "careers-justeattakeaway-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "6456aca73d90b551"
+},
+"caregame.com": {
+"key": "caregame-com",
+"from": "website:https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://caregame.com&size=256",
+"kind": "google",
+"score": 100,
+"shape": "tile",
+"w": 96,
+"sha": "d3be7bc7505ee4dc"
 },
 "careside.care": {
 "key": "careside-care",
@@ -4110,11 +4434,29 @@
 "shape": "tile",
 "sha": "c86d3952893af045"
 },
+"cede-labs-landing.webflow.io": {
+"key": "cede-labs-landing-webflow-io",
+"from": "website:https://assets.website-files.com/6355416aa7b90c7242c63c63/63653ce0d680e57eae1de7f3_webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "83a8da28df30371a"
+},
 "cedehub.notion.site": {
 "key": "cedehub-notion-site",
 "from": "linkedin",
 "shape": "tile",
 "sha": "fcc623f575902a1b"
+},
+"celsiusenergy.com": {
+"key": "celsiusenergy-com",
+"from": "website:https://celsiusenergy.com/wp-content/uploads/2024/04/logo_celsius-energy_BLC-1.svg",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 112,
+"sha": "8e12d101fa0d3a1d"
 },
 "cemagcare.com": {
 "key": "cemagcare-com",
@@ -4151,6 +4493,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "1c7536c418a82958"
+},
+"centeon.bio": {
+"key": null,
+"why": "no usable logo"
 },
 "centre-villiers-batignolles.paris": {
 "key": "centre-villiers-batignolles-paris",
@@ -4290,6 +4636,15 @@
 "shape": "tile",
 "sha": "9a8773059352acc7"
 },
+"chari.com": {
+"key": "chari-com",
+"from": "website:https://chari.com/apple-icon.png?360cf774e4ce4550",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 166,
+"sha": "9437309bdd3f33dc"
+},
 "charles.co": {
 "key": "charles-co",
 "from": "linkedin",
@@ -4338,6 +4693,15 @@
 "shape": "tile",
 "sha": "00b0e67c7f144398"
 },
+"cherry-pick.com": {
+"key": "cherry-pick-com",
+"from": "website:https://cherry-pick.com/favicon-512x512.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "fdc7944ffc83c00c"
+},
 "cherrybiotech.com": {
 "key": "cherrybiotech-com",
 "from": "linkedin",
@@ -4355,6 +4719,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "477aa0ce890e2147"
+},
+"chift.eu": {
+"key": "chift-eu",
+"from": "website:https://cdn.prod.website-files.com/6a660f0114a0e9b02b687041/6a8f059cb96437b0a5c3e9ca_Webclip-B-user.jpg",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "d04827360fa23d33"
 },
 "chilowe.com": {
 "key": "chilowe-com",
@@ -4433,6 +4806,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "dd245f9f69590d2b"
+},
+"circl.lu": {
+"key": "circl-lu",
+"from": "website:https://circl.lu/assets/images/logo.png",
+"kind": "logo",
+"score": 125,
+"shape": "plate",
+"w": 192,
+"sha": "4658d63d05eee890"
 },
 "circleci.com": {
 "key": "circleci-com",
@@ -4526,6 +4908,24 @@
 "shape": "plate",
 "w": 96,
 "sha": "ed88d9b345e1bba5"
+},
+"clarity.fm": {
+"key": "clarity-fm",
+"from": "website:https://clarity.fm/assets/touch-icon-ipad-retina-precomposed.png",
+"kind": "icon",
+"score": 144,
+"shape": "plate",
+"w": 96,
+"sha": "f0e928c14aa861ff"
+},
+"cleanmob.com": {
+"key": "cleanmob-com",
+"from": "website:https://cdn.prod.website-files.com/66cf1bde8be87ede5cb72f69/687104ca744cca1456c3dcde_image%20271.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "d26e97b73bd2ebaa"
 },
 "cleavr.fr": {
 "key": "cleavr-fr",
@@ -4776,11 +5176,29 @@
 "w": 97,
 "sha": "43720e796b0765ea"
 },
+"cocoon-immo.io": {
+"key": "cocoon-immo-io",
+"from": "website:https://cdn.prod.website-files.com/652699bf2fd9861bf5dfe1cd/6526a693c9da43f3722f7bb8_Webclip%20Cocoon%20Immo.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "885b3f5347128925"
+},
 "cocoon-space.com": {
 "key": "cocoon-space-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "e32b8f1a75cf0683"
+},
+"cocoworker.com": {
+"key": "cocoworker-com",
+"from": "website:https://veldrive.com/FNHXACHY/logo-hoki178.webp",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 119,
+"sha": "88d8833d591fe5a3"
 },
 "codageparis.com": {
 "key": "codageparis-com",
@@ -4859,6 +5277,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "8f0d3539798c42ad"
+},
+"cohere.com": {
+"key": "cohere-com",
+"from": "website:https://cohere.com/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "c2be5ac1acf9883b"
 },
 "cohl.io": {
 "key": "cohl-io",
@@ -4971,6 +5398,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "b13531593f85fdeb"
+},
+"comet.co": {
+"key": "comet-co",
+"from": "website:https://cdn.prod.website-files.com/6985b206ec5917dc1b4eb912/6a3cdfc952694f1c89878b75_CO_Rond_Noir.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "ebc45763c3740201"
 },
 "cominty.ai": {
 "key": "cominty-ai",
@@ -5098,6 +5534,15 @@
 "shape": "tile",
 "sha": "1a5f2a8f9a0796a8"
 },
+"consultaway.com": {
+"key": "consultaway-com",
+"from": "website:https://www.consultaway.com/wp-content/uploads/2019/09/cropped-Icotype-color-e1568879980247-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 135,
+"sha": "c27aa871fa1856ba"
+},
 "contentsquare.com": {
 "key": "contentsquare-com",
 "from": "website:https://contentsquare.com/favicons/apple-touch-icon.png",
@@ -5188,6 +5633,15 @@
 "shape": "tile",
 "sha": "df0fe475258abc1b"
 },
+"cooltra.com": {
+"key": "cooltra-com",
+"from": "website:https://cdn.cooltra.com/uploads/2020/11/cropped-favicon-cooltra-64px-2-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "35ab8a9dd20b1f40"
+},
 "coopcarbone-parismetropole.fr": {
 "key": "coopcarbone-parismetropole-fr",
 "from": "linkedin",
@@ -5244,6 +5698,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "64c13e057f807484"
+},
+"corebiogenesis.com": {
+"key": "corebiogenesis-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "446bf6cfedc84108"
 },
 "corecyclage.fr": {
 "key": "corecyclage-fr",
@@ -5357,11 +5817,26 @@
 "shape": "tile",
 "sha": "f7f826f964c660eb"
 },
+"cozycozy.com": {
+"key": "cozycozy-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "123f925406f35681"
+},
 "craft.ai": {
 "key": "craft-ai",
 "from": "linkedin",
 "shape": "tile",
 "sha": "71239cc456d41300"
+},
+"craftydelivers.com": {
+"key": "craftydelivers-com",
+"from": "website:https://cdn.prod.website-files.com/68ef636bea7f569ab0056781/6931de8de0821ee3774bfbe2_webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "95f5d7996b5a7b73"
 },
 "crazy-voyages.com": {
 "key": "crazy-voyages-com",
@@ -5540,6 +6015,24 @@
 "shape": "tile",
 "sha": "cf4c58cc713a0d97"
 },
+"cuvee-privee.com": {
+"key": "cuvee-privee-com",
+"from": "website:https://cuvee-privee.com/cdn/shop/files/LOGO-NOIR-VECTO.svg?v=1740155250&width=600",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 126,
+"sha": "1a0d88586f93f894"
+},
+"cybelangel.com": {
+"key": "cybelangel-com",
+"from": "website:https://cybelangel.com/wp-content/uploads/2022/02/favicon.svg",
+"kind": "icon",
+"score": 222,
+"shape": "plate",
+"w": 104,
+"sha": "13ef4ea61ac521e3"
+},
 "cyberexperts.io": {
 "key": "cyberexperts-io",
 "from": "linkedin",
@@ -5696,6 +6189,15 @@
 "shape": "tile",
 "sha": "0ca75c7e2df46983"
 },
+"dameproducts.com": {
+"key": "dameproducts-com",
+"from": "website:https://dame.com/cdn/shop/files/Group_9.svg?v=1771882909&width=120",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 192,
+"sha": "8e4331eb090283a5"
+},
 "dametis.com": {
 "key": "dametis-com",
 "from": "linkedin",
@@ -5779,6 +6281,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "dbe882cb05fe8e85"
+},
+"dashery.com": {
+"key": "dashery-com",
+"from": "website:https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dashery.com&size=256",
+"kind": "google",
+"score": 100,
+"shape": "plate",
+"w": 96,
+"sha": "e9c9b4e65b12fed1"
 },
 "dashlane.com": {
 "key": "dashlane-com",
@@ -5996,6 +6507,15 @@
 "shape": "tile",
 "sha": "3963a93a6c1f7d9b"
 },
+"dealguard.it.com": {
+"key": "dealguard-it-com",
+"from": "website:https://dealguard.it.com/favicon.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "5d38d3d01c6d5dc5"
+},
 "decade.energy": {
 "key": "decade-energy",
 "from": "linkedin",
@@ -6149,6 +6669,10 @@
 "shape": "tile",
 "sha": "d689c3284c81a7b6"
 },
+"deltablock.io": {
+"key": null,
+"why": "no usable logo"
+},
 "delusion.fr": {
 "key": "delusion-fr",
 "from": "linkedin",
@@ -6205,6 +6729,15 @@
 "shape": "plate",
 "w": 96,
 "sha": "1b649060f8f1129b"
+},
+"depoly.co": {
+"key": "depoly-co",
+"from": "website:https://cdn.prod.website-files.com/65fc1876777e6eaf167fad43/664753e3e9c8f8fa3445abed_Frame%20974%20(1).png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "4ad22fdf36564b14"
 },
 "depozen.com": {
 "key": "depozen-com",
@@ -6311,6 +6844,12 @@
 "shape": "tile",
 "sha": "7a29bbb0e17f7996"
 },
+"dfns.co": {
+"key": "dfns-co",
+"from": "linkedin",
+"shape": "tile",
+"sha": "b369e69dc4b384fc"
+},
 "diabolocom.com": {
 "key": "diabolocom-com",
 "from": "linkedin",
@@ -6343,6 +6882,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "413f2da173678e59"
+},
+"differs.io": {
+"key": null,
+"why": "no usable logo"
 },
 "diffly.co": {
 "key": "diffly-co",
@@ -6409,6 +6952,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "cb3957b9a1b1e0c1"
+},
+"digitall.com": {
+"key": "digitall-com",
+"from": "website:https://digitall.com/wp-content/uploads/2024/08/Logo-clover-color-300x300.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "b3e3d9c8611b5e7f"
 },
 "digitalparentingfoundation.org": {
 "key": "digitalparentingfoundation-org",
@@ -6487,6 +7039,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "c3a3bf9194c2053c"
+},
+"divemagazine.com": {
+"key": "divemagazine-com",
+"from": "website:https://divemagazine.com/wp-content/uploads/2021/11/cropped-square-dive-192x192.jpg",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "0a1e010f4934ca0a"
 },
 "diversification-production.fr": {
 "key": "diversification-production-fr",
@@ -6625,6 +7186,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "9829f363942813c8"
+},
+"dokit.org": {
+"key": "dokit-org",
+"from": "website:https://www.dokit.org/static/favicon.e748756d9085.png",
+"kind": "icon",
+"score": 68,
+"shape": "plate",
+"w": 96,
+"sha": "eb641be831c2de5b"
 },
 "dokles.io": {
 "key": "dokles-io",
@@ -6811,6 +7381,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "da252445278b439a"
+},
+"dropcontact.com": {
+"key": "dropcontact-com",
+"from": "website:https://cdn.prod.website-files.com/655b8092803c160e897db876/655b8092803c160e897db913_DropcontactSymbol.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "f99df13e35df2847"
 },
 "drsimone.fr": {
 "key": "drsimone-fr",
@@ -7256,6 +7835,15 @@
 "shape": "tile",
 "sha": "e1861a91d5f5f3f6"
 },
+"eevy.fr": {
+"key": "eevy-fr",
+"from": "website:https://www.eevy.fr/_next/image?url=%2Fimgs%2Flogo_blue_horizontal.png&w=256&q=75",
+"kind": "logo?",
+"score": 117,
+"shape": "plate",
+"w": 192,
+"sha": "48e972fbdda4f346"
+},
 "effigy-3d.com": {
 "key": "effigy-3d-com",
 "from": "linkedin",
@@ -7391,6 +7979,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "4576160ae52ee74e"
+},
+"elendi.ai": {
+"key": "elendi-ai",
+"from": "website:https://static.wixstatic.com/media/1c71a1_e1430578451c4a2c9d2936cb492d5a9b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1c71a1_e1430578451c4a2c9d2936cb492d5a9b%7Emv2.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 192,
+"sha": "4c30acd94d4817d9"
 },
 "eleni-group.com": {
 "key": "eleni-group-com",
@@ -7556,6 +8153,15 @@
 "shape": "tile",
 "sha": "fa620b5dfaa798b8"
 },
+"enakl.com": {
+"key": "enakl-com",
+"from": "website:https://enakl.com/images/favicon.jpg",
+"kind": "icon",
+"score": 100,
+"shape": "tile",
+"w": 96,
+"sha": "d8af626846d0ec0c"
+},
 "encarta.bio": {
 "key": "encarta-bio",
 "from": "linkedin",
@@ -7715,6 +8321,15 @@
 "shape": "tile",
 "sha": "82db1a9b43e3e7cc"
 },
+"entoureo.fr": {
+"key": "entoureo-fr",
+"from": "website:https://cdn.prod.website-files.com/611273e4b993025727352033/612dfccfedc1a9a9fb9e33ca_logo-tab-final-256x256.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "da95aee2f5889d74"
+},
 "entremains.com": {
 "key": "entremains-com",
 "from": "linkedin",
@@ -7826,6 +8441,15 @@
 "shape": "tile",
 "sha": "519e9353bab7087b"
 },
+"epopia.com": {
+"key": "epopia-com",
+"from": "website:https://epopia.com/assets/logo.png",
+"kind": "logo?",
+"score": 75,
+"shape": "plate",
+"w": 165,
+"sha": "bcacd0030f61ac51"
+},
 "eprocfactory.com": {
 "key": "eprocfactory-com",
 "from": "linkedin",
@@ -7913,6 +8537,15 @@
 "shape": "tile",
 "sha": "4abc2c94e828dd85"
 },
+"escapad.coop": {
+"key": "escapad-coop",
+"from": "website:https://www.escapad.coop/sites/default/files/ESCAPAD%20-%20Favicon%20couleur_1.jpg",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "9acc52868435e1b4"
+},
 "escape.tech": {
 "key": "escape-tech",
 "from": "website:https://cdn.prod.website-files.com/6989b8a60711cc71bc3d6d6e/69bc1d6b6f72f7688eefa88d_Untitled%20design%20(2).png",
@@ -7981,6 +8614,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "e4c0398d5a129a07"
+},
+"estuaire.aero": {
+"key": "estuaire-aero",
+"from": "linkedin",
+"shape": "tile",
+"sha": "c3d8a62394313260"
 },
 "etchegroup.com": {
 "key": "etchegroup-com",
@@ -8095,6 +8734,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "71631cce84ccc8e1"
+},
+"eventbrite.com": {
+"key": "eventbrite-com",
+"from": "website:https://cdn.evbstatic.com/s3-build/perm_001/317aa1/django/images/favicons/favicon-194x194.png",
+"kind": "icon",
+"score": 194,
+"shape": "plate",
+"w": 96,
+"sha": "0af3ed11a44adc69"
 },
 "eventdrive.com": {
 "key": "eventdrive-com",
@@ -8231,6 +8879,15 @@
 "shape": "tile",
 "sha": "7d12c3fc12eb83d1"
 },
+"ex9.tech": {
+"key": "ex9-tech",
+"from": "website:https://static.tildacdn.net/tild6430-3936-4662-a533-333234346265/9_-_white_back.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "07284ca1de9b9dd6"
+},
 "exatrack.com": {
 "key": "exatrack-com",
 "from": "linkedin",
@@ -8330,6 +8987,10 @@
 "w": 96,
 "sha": "5e68166efd7a7c24"
 },
+"extralab.fr": {
+"key": null,
+"why": "no usable logo"
+},
 "exwayz.fr": {
 "key": "exwayz-fr",
 "from": "linkedin",
@@ -8406,6 +9067,15 @@
 "shape": "tile",
 "sha": "3ff4a667c5e1a745"
 },
+"facil-iti.com": {
+"key": "facil-iti-com",
+"from": "website:https://www.facil-iti.com/assets/images/logo/facil-iti-DjYZ1xJ.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "8ecaa1b1c2103700"
+},
 "facilitatrip.net": {
 "key": "facilitatrip-net",
 "from": "linkedin",
@@ -8435,6 +9105,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "3bd27c1051a3afa5"
+},
+"fairjungle.com": {
+"key": "fairjungle-com",
+"from": "website:https://cdn.prod.website-files.com/649d7588109f54a3920257ba/64ca3c38780640c82f5b7d12_5f2078d7af214491091085b2_Toucan%40256x256.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "2fdf060d7033e929"
 },
 "fairlymade.com": {
 "key": "fairlymade-com",
@@ -8489,6 +9168,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "f7db729d0c2cd4d0"
+},
+"famileat.fr": {
+"key": "famileat-fr",
+"from": "website:https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://famileat.fr&size=256",
+"kind": "google",
+"score": 100,
+"shape": "tile",
+"w": 96,
+"sha": "985a0736b80b4cc1"
 },
 "famillec-participations.com": {
 "key": "famillec-participations-com",
@@ -8779,6 +9467,15 @@
 "shape": "tile",
 "sha": "0bfd9671916b2795"
 },
+"finense.fr": {
+"key": "finense-fr",
+"from": "website:https://www.finense.fr/wp-content/uploads/2023/11/Logo_finense-369x93.png",
+"kind": "logo",
+"score": 149,
+"shape": "plate",
+"w": 192,
+"sha": "45cd918e870ad8af"
+},
 "finfrog.fr": {
 "key": "finfrog-fr",
 "from": "linkedin",
@@ -8839,6 +9536,15 @@
 "shape": "tile",
 "sha": "17e433daadeadbcf"
 },
+"fitle.com": {
+"key": "fitle-com",
+"from": "website:https://fitle.com/wp-content/uploads/2024/10/cropped-logo-fitle-192x192.jpg",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "5a7c4bc0544fd48b"
+},
 "fitz-group.fr": {
 "key": "fitz-group-fr",
 "from": "linkedin",
@@ -8874,6 +9580,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "d4d055a0e69d8e32"
+},
+"flaneer.com": {
+"key": null,
+"why": "no usable logo"
 },
 "flashoffice.fr": {
 "key": "flashoffice-fr",
@@ -8995,6 +9705,21 @@
 "shape": "tile",
 "sha": "55edd21297a1a10e"
 },
+"fluctuo.com": {
+"key": "fluctuo-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "a73a12f9214d0271"
+},
+"flushy.co": {
+"key": "flushy-co",
+"from": "website:https://flushy.co/cdn/shop/files/logo-Flushy-favikon_a0dad56c-5eca-4bb1-accc-0429e85628c0.png?v=1687934396&width=180",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "2e2e609acae83c98"
+},
 "flylab.io": {
 "key": "flylab-io",
 "from": "linkedin",
@@ -9055,6 +9780,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "cd363723b1baed8f"
+},
+"food7go.com": {
+"key": "food7go-com",
+"from": "website:https://food7go.com/assets/food7go-logo.png",
+"kind": "icon",
+"score": 90,
+"shape": "plate",
+"w": 192,
+"sha": "8cc3e9fc4b89e13a"
 },
 "foodanalytics.fr": {
 "key": "foodanalytics-fr",
@@ -9187,6 +9921,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "004d19975773413d"
+},
+"frakihabara.com": {
+"key": null,
+"why": "no usable logo"
 },
 "fraktion.fr": {
 "key": "fraktion-fr",
@@ -9353,11 +10091,29 @@
 "shape": "tile",
 "sha": "79aa807fe9a43a09"
 },
+"front.com": {
+"key": "front-com",
+"from": "website:https://front.com/apple-icon.png",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "1160202e93fe0cf4"
+},
 "frst.vc": {
 "key": "frst-vc",
 "from": "linkedin",
 "shape": "tile",
 "sha": "620f676422b6b265"
+},
+"fructifi.com": {
+"key": "fructifi-com",
+"from": "website:https://www.fructifi.com/public/images/512-logo_tree_png.png?_wwcv=245",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 99,
+"sha": "9f56554192e69e78"
 },
 "fugustructures.com": {
 "key": "fugustructures-com",
@@ -9388,6 +10144,33 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "cbd61e4e7eaf1a92"
+},
+"futurzhr.com": {
+"key": "futurzhr-com",
+"from": "website:https://www.futurzhr.com/images/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "d465ebe8d3321e2e"
+},
+"fuzed.com": {
+"key": "fuzed-com",
+"from": "website:https://www.fuzed.com/assets/fuzed-logo-400.webp",
+"kind": "logo",
+"score": 141,
+"shape": "plate",
+"w": 192,
+"sha": "afbb0c8ab6c040fe"
+},
+"fygr.io": {
+"key": "fygr-io",
+"from": "website:https://cdn.prod.website-files.com/69eb7a30cdf6ea15b407f2d9/6a228fd03d68b5c7bb6bf357_Webclip-okimia.jpg",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "e0711696ea3c652e"
 },
 "fygurs.com": {
 "key": "fygurs-com",
@@ -9498,6 +10281,12 @@
 "shape": "tile",
 "sha": "07ccfcf645cbc6d8"
 },
+"gapianne.com": {
+"key": "gapianne-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "1cde1a10b97b868e"
+},
 "garantme.fr": {
 "key": "garantme-fr",
 "from": "linkedin",
@@ -9509,6 +10298,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "8333dce1007195c9"
+},
+"gatling.io": {
+"key": "gatling-io",
+"from": "website:https://cdn.prod.website-files.com/685a8fe4ddca049f26333871/68bc535c700ce1cd3c547e36_Webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "13056d71c41e8d8f"
 },
 "gaudier.com": {
 "key": "gaudier-com",
@@ -9630,6 +10428,15 @@
 "shape": "tile",
 "sha": "020927b3be757ccc"
 },
+"geovelo.app": {
+"key": "geovelo-app",
+"from": "website:https://geovelo.app/favicon.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "0bb712406cdaae2c"
+},
 "geoya.fr": {
 "key": "geoya-fr",
 "from": "linkedin",
@@ -9647,6 +10454,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "75ea2842affb39d3"
+},
+"get-flowie.com": {
+"key": "get-flowie-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "514dac0d557d34e4"
 },
 "get-moba.com": {
 "key": "get-moba-com",
@@ -9757,6 +10570,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "3a2176e1281d91f7"
+},
+"getgrasp.com": {
+"key": "getgrasp-com",
+"from": "website:https://www.getgrasp.com/favicon.ico",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "c8321dff736993cc"
 },
 "getground.io": {
 "key": "getground-io",
@@ -10014,6 +10836,15 @@
 "shape": "tile",
 "sha": "542c9cd67f69b285"
 },
+"glowssary.app": {
+"key": "glowssary-app",
+"from": "website:https://cdn.prod.website-files.com/67d4a695cdae78d1e8162539/67d4a695cdae78d1e8162632_android-chrome-256x256.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "e130d101454bb140"
+},
 "glytch.io": {
 "key": "glytch-io",
 "from": "linkedin",
@@ -10074,6 +10905,15 @@
 "shape": "tile",
 "sha": "58eb02aa3ae6f2c9"
 },
+"godraft.gg": {
+"key": "godraft-gg",
+"from": "website:https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://godraft.gg&size=256",
+"kind": "google",
+"score": 53,
+"shape": "plate",
+"w": 141,
+"sha": "1311ef6abe4c801a"
+},
 "goensol.com": {
 "key": "goensol-com",
 "from": "linkedin",
@@ -10103,6 +10943,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "6503f1918052b4b1"
+},
+"gokaden.xyz": {
+"key": null,
+"why": "no usable logo"
 },
 "goldeneyesmartvision.ai": {
 "key": "goldeneyesmartvision-ai",
@@ -10245,6 +11089,12 @@
 "shape": "tile",
 "sha": "197df6db17ba2f52"
 },
+"gravite.io": {
+"key": "gravite-io",
+"from": "linkedin",
+"shape": "tile",
+"sha": "ce852005201c4bf6"
+},
 "green-got.com": {
 "key": "green-got-com",
 "from": "linkedin",
@@ -10287,6 +11137,15 @@
 "shape": "tile",
 "sha": "c6c3528c0d41fc23"
 },
+"greenly.earth": {
+"key": "greenly-earth",
+"from": "website:https://greenly.earth/favicon.ico",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "1cfbfd7a3c3c0a61"
+},
 "greenmotorshop.com": {
 "key": "greenmotorshop-com",
 "from": "linkedin",
@@ -10316,6 +11175,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "6f092dfd66d0c5e1"
+},
+"greenspector.com": {
+"key": "greenspector-com",
+"from": "website:https://greenspector.com/assets/img/favicon/android-chrome-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "e2f9c1a6d46349d9"
 },
 "gribouilli.fr": {
 "key": "gribouilli-fr",
@@ -10417,17 +11285,38 @@
 "shape": "tile",
 "sha": "38d5263d7b7ee10b"
 },
+"gymkee.com": {
+"key": "gymkee-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "583a29e54774f58e"
+},
 "gynecee.com": {
 "key": "gynecee-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "18428511010d0142"
 },
+"gyneika.com": {
+"key": "gyneika-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "4706543d36d4fc84"
+},
 "gynelia.com": {
 "key": "gynelia-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "1e66c62607a0b54e"
+},
+"gynica.com": {
+"key": "gynica-com",
+"from": "website:https://gynica.com/wp-content/uploads/2019/02/gynica-fav@4x.png",
+"kind": "icon",
+"score": 240,
+"shape": "plate",
+"w": 96,
+"sha": "14cb8d5594c72f11"
 },
 "h2v.net": {
 "key": "h2v-net",
@@ -10453,6 +11342,15 @@
 "shape": "tile",
 "sha": "a47a3395758b50c0"
 },
+"habsplus.com": {
+"key": "habsplus-com",
+"from": "website:https://habsplus.com/favicon.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 113,
+"sha": "ea50d16cab314f1a"
+},
 "hal-audio.com": {
 "key": "hal-audio-com",
 "from": "linkedin",
@@ -10474,6 +11372,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "e356d48aa326b65b"
+},
+"handmadebyamalia.blogspot.com": {
+"key": null,
+"why": "no usable logo"
 },
 "hapni.fr": {
 "key": "hapni-fr",
@@ -10535,6 +11437,15 @@
 "shape": "tile",
 "sha": "abd29098c577cb52"
 },
+"harvestr.io": {
+"key": "harvestr-io",
+"from": "website:https://cdn.prod.website-files.com/64ed287b93132f959aac1bb0/6500e248bcb9eff5115ddbaa_webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "02bf092d2d9af278"
+},
 "hauteurlibre.com": {
 "key": "hauteurlibre-com",
 "from": "linkedin",
@@ -10594,6 +11505,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "3dc209f4dcad81f0"
+},
+"hectar.co": {
+"key": "hectar-co",
+"from": "website:https://cdn.prod.website-files.com/623dc37ea4761848e563f3fc/623dc37ea47618aec963f453_Webclip.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "13bd2c41f6896540"
 },
 "heelio.io": {
 "key": "heelio-io",
@@ -10675,6 +11595,24 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "8a78f609d01a98c4"
+},
+"hellomarcel.be": {
+"key": "hellomarcel-be",
+"from": "website:https://hellomarcel.be/wp-content/themes/hellomarcel/src/images/favicon/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "0dda7f2f2cb8257f"
+},
+"hellomybot.io": {
+"key": "hellomybot-io",
+"from": "website:https://cdn.gavangtv.biz/wp-content/uploads/2025/08/cropped-logo-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 137,
+"sha": "62fde824ebe67fca"
 },
 "helloprimary.care": {
 "key": "helloprimary-care",
@@ -10772,6 +11710,15 @@
 "shape": "tile",
 "sha": "0a677798c3c0da62"
 },
+"heronai.com": {
+"key": "heronai-com",
+"from": "website:https://cdn.prod.website-files.com/67322520ef5061a464058a0c/673bb6b818e2b4f6698306aa_1.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "0de2a83dc7e8a737"
+},
 "herve.io": {
 "key": "herve-io",
 "from": "linkedin",
@@ -10783,6 +11730,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "fd4c4f53e2deeaa6"
+},
+"hesus.eu": {
+"key": null,
+"why": "no usable logo"
 },
 "heureuxlescurieux.com": {
 "key": "heureuxlescurieux-com",
@@ -10988,6 +11939,15 @@
 "shape": "tile",
 "sha": "cc76f717c2663e20"
 },
+"holler.live": {
+"key": "holler-live",
+"from": "website:https://holler.live/images/bot.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "2a02c621d357abca"
+},
 "holonomy.com": {
 "key": "holonomy-com",
 "from": "linkedin",
@@ -11006,6 +11966,15 @@
 "shape": "tile",
 "sha": "47d8b85f16d8c344"
 },
+"holyowly.fr": {
+"key": "holyowly-fr",
+"from": "website:https://www.holyowly.fr/logo/webHO_img-logoHO.svg",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 158,
+"sha": "e25afab2228c6775"
+},
 "homagames.com": {
 "key": "homagames-com",
 "from": "linkedin",
@@ -11017,6 +11986,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "db9107119444a3f9"
+},
+"homeexchange.com": {
+"key": "homeexchange-com",
+"from": "website:https://www.homeexchange.com/favicon.ico?cd55ad03a8c9d99e",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "7902fcc008bc76d1"
 },
 "homeland.immo": {
 "key": "homeland-immo",
@@ -11249,6 +12227,10 @@
 "shape": "tile",
 "sha": "4d7f715693dfa0d5"
 },
+"humapro.fr": {
+"key": null,
+"why": "no usable logo"
+},
 "humoon.fr": {
 "key": "humoon-fr",
 "from": "website:https://humoon.fr/wp-content/uploads/2024/03/cropped-cropped-LOGO-HUMOON-192x192.png",
@@ -11257,6 +12239,15 @@
 "shape": "plate",
 "w": 96,
 "sha": "1891bf7650682fb1"
+},
+"humusfarm.com": {
+"key": "humusfarm-com",
+"from": "website:https://static.wixstatic.com/media/e4ab9a_0976c00d4a5e40c0960a73623e5200c2%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/e4ab9a_0976c00d4a5e40c0960a73623e5200c2%7Emv2.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "4bfae507c1a46371"
 },
 "hunteed.com": {
 "key": "hunteed-com",
@@ -11528,6 +12519,15 @@
 "shape": "tile",
 "sha": "50cf018f80c730a2"
 },
+"ictyos.com": {
+"key": "ictyos-com",
+"from": "website:https://www.ictyos.com/cdn/shop/files/LOGO-ICTYOS-OCEAN-seul-rogne.png",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "e44b612eb81af058"
+},
 "id-tree.com": {
 "key": "id-tree-com",
 "from": "linkedin",
@@ -11720,6 +12720,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "82c5bbe8ac24f0f5"
+},
+"immersiv.com.au": {
+"key": null,
+"why": "no usable logo"
 },
 "immersiv.io": {
 "key": "immersiv-io",
@@ -12037,6 +13041,15 @@
 "shape": "tile",
 "sha": "f35a715dd1e19ff5"
 },
+"inspiraction.ro": {
+"key": "inspiraction-ro",
+"from": "website:https://inspiraction.ro/wp-content/uploads/cropped-Asociatia-InspirAction-Logo-Symbol-Magenta-1-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "8f80b5d4d0a3b03f"
+},
 "instamed.fr": {
 "key": "instamed-fr",
 "from": "linkedin",
@@ -12138,6 +13151,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "195562bfd90b60d5"
+},
+"intimatelyyouboudoir.com.au": {
+"key": "intimatelyyouboudoir-com-au",
+"from": "website:https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://intimatelyyouboudoir.com.au&size=256",
+"kind": "google",
+"score": 100,
+"shape": "plate",
+"w": 96,
+"sha": "8e7712b60dd6f54a"
 },
 "intuition-software.com": {
 "key": "intuition-software-com",
@@ -12523,6 +13545,15 @@
 "shape": "tile",
 "sha": "92d8d16ada23ec94"
 },
+"jami.net": {
+"key": "jami-net",
+"from": "website:https://jami.net/assets/images/favicon/favicon-196x196.webp?v=50b072d0b0",
+"kind": "icon",
+"score": 196,
+"shape": "plate",
+"w": 96,
+"sha": "a49480300da2072a"
+},
 "jane-energie.fr": {
 "key": "jane-energie-fr",
 "from": "linkedin",
@@ -12570,6 +13601,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "07f44e6ad8842100"
+},
+"jeste.co": {
+"key": "jeste-co",
+"from": "website:https://jeste.co/public/d0d50f1e/favicons/180x180.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "114871f4963bb40f"
 },
 "jestia.fr": {
 "key": "jestia-fr",
@@ -12837,6 +13877,10 @@
 "shape": "tile",
 "sha": "518825b953b16df5"
 },
+"joovence.com": {
+"key": null,
+"why": "no usable logo"
+},
 "joro-space.fr": {
 "key": "joro-space-fr",
 "from": "linkedin",
@@ -13072,6 +14116,24 @@
 "shape": "tile",
 "sha": "0937bcab54a63577"
 },
+"kara.ai": {
+"key": "kara-ai",
+"from": "website:https://kara.ai/wp-content/uploads/2022/11/cropped-favigonkara-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 102,
+"sha": "c619ff6b8edbc795"
+},
+"karamel.eu": {
+"key": "karamel-eu",
+"from": "website:https://www.karamel.eu/favicon.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "098f06e01cfd16ee"
+},
 "karbonomics.com": {
 "key": "karbonomics-com",
 "from": "linkedin",
@@ -13116,6 +14178,15 @@
 "shape": "plate",
 "w": 96,
 "sha": "d700fd108aac49fd"
+},
+"katalyz.co": {
+"key": "katalyz-co",
+"from": "website:https://www.katalyz.co/icon.png?a33e47903c3bbe67",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "a7e461e11578a92c"
 },
 "kaukana-ventures.com": {
 "key": "kaukana-ventures-com",
@@ -13165,6 +14236,12 @@
 "shape": "tile",
 "sha": "172e1e5f9f89ff04"
 },
+"keenest.co": {
+"key": "keenest-co",
+"from": "linkedin",
+"shape": "tile",
+"sha": "fb9ba9bd47892f3e"
+},
 "keepeek.com": {
 "key": "keepeek-com",
 "from": "linkedin",
@@ -13206,6 +14283,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "fb876f65ec473a8a"
+},
+"keypup.io": {
+"key": "keypup-io",
+"from": "website:https://www.keypup.io/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "9a31f20847a78a9d"
 },
 "keytchens.com": {
 "key": "keytchens-com",
@@ -13340,6 +14426,12 @@
 "shape": "tile",
 "sha": "2b35d5ddab799220"
 },
+"klartai.com": {
+"key": "klartai-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "61b79d42776aaebe"
+},
 "klemo.com": {
 "key": "klemo-com",
 "from": "linkedin",
@@ -13369,6 +14461,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "373c40b17d6836fc"
+},
+"kntx.ventures": {
+"key": null,
+"why": "no usable logo"
 },
 "kobojo.com": {
 "key": "kobojo-com",
@@ -13409,11 +14505,24 @@
 "shape": "tile",
 "sha": "8e9cbcefec8240cf"
 },
+"kolibrigames.com": {
+"key": "kolibrigames-com",
+"from": "website:https://kolibrigames.com/logo.png",
+"kind": "icon",
+"score": 155,
+"shape": "plate",
+"w": 96,
+"sha": "c4f00218c04b2fe7"
+},
 "kolsquare.com": {
 "key": "kolsquare-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "460def4d52ff4547"
+},
+"kolverr.com": {
+"key": null,
+"why": "no usable logo"
 },
 "komainu-ai.com": {
 "key": "komainu-ai-com",
@@ -13439,6 +14548,12 @@
 "shape": "tile",
 "sha": "c5451ff597698e89"
 },
+"kompozite.io": {
+"key": "kompozite-io",
+"from": "linkedin",
+"shape": "tile",
+"sha": "3dc08daa18711a06"
+},
 "komu.eu": {
 "key": "komu-eu",
 "from": "linkedin",
@@ -13453,6 +14568,15 @@
 "shape": "plate",
 "w": 96,
 "sha": "996cd72a434b01b0"
+},
+"konexionetwork.com": {
+"key": "konexionetwork-com",
+"from": "website:https://konexionetwork.com/wp-content/uploads/2025/03/cropped-lloo-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "860411935b2e6209"
 },
 "kooping.io": {
 "key": "kooping-io",
@@ -13504,6 +14628,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "0db8f2757c41671f"
+},
+"koyeb.com": {
+"key": "koyeb-com",
+"from": "website:https://www.koyeb.com/favicon/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "471e056dcb387f04"
 },
 "kozto.fr": {
 "key": "kozto-fr",
@@ -13565,6 +14698,15 @@
 "w": 96,
 "sha": "f924811b5f5f8ea5"
 },
+"kumulus.com": {
+"key": "kumulus-com",
+"from": "website:https://kumulus.com/assets/favicon.png",
+"kind": "icon",
+"score": 96,
+"shape": "plate",
+"w": 96,
+"sha": "4f00a138f6c0da8e"
+},
 "kurmapartners.com": {
 "key": "kurmapartners-com",
 "from": "linkedin",
@@ -13576,6 +14718,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "8fdb4dc65c3b5170"
+},
+"kushim.co.jp": {
+"key": "kushim-co-jp",
+"from": "website:https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kushim.co.jp&size=256",
+"kind": "google",
+"score": 100,
+"shape": "plate",
+"w": 96,
+"sha": "62a75d0720bcdc62"
 },
 "kwarto.io": {
 "key": "kwarto-io",
@@ -13649,6 +14800,10 @@
 "shape": "tile",
 "sha": "f5e3f5a64804c6cf"
 },
+"laba.com": {
+"key": null,
+"why": "no usable logo"
+},
 "lababillo.fr": {
 "key": "lababillo-fr",
 "from": "linkedin",
@@ -13720,6 +14875,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "61ba5651deb53b79"
+},
+"labtoo.com": {
+"key": "labtoo-com",
+"from": "website:https://www.labtoo.com/hubfs/favicon%20medium-2.png",
+"kind": "icon",
+"score": 100,
+"shape": "plate",
+"w": 96,
+"sha": "d9bc69e8616342ec"
 },
 "lacasa.io": {
 "key": "lacasa-io",
@@ -13941,6 +15105,10 @@
 "shape": "tile",
 "sha": "fc02b5d14b77c68e"
 },
+"lasqo.ai": {
+"key": null,
+"why": "no usable logo"
+},
 "lassurances.com": {
 "key": "lassurances-com",
 "from": "linkedin",
@@ -14124,6 +15292,15 @@
 "w": 106,
 "sha": "cf178c21115cc2bd"
 },
+"leadbees.io": {
+"key": "leadbees-io",
+"from": "website:https://www.leadbees.io/assets/images/favicon.png",
+"kind": "icon",
+"score": 64,
+"shape": "plate",
+"w": 108,
+"sha": "af7fb691c5f4ed5a"
+},
 "leade.rs": {
 "key": "leade-rs",
 "from": "linkedin",
@@ -14148,11 +15325,26 @@
 "shape": "tile",
 "sha": "a23789799b2c279c"
 },
+"leanear.io": {
+"key": "leanear-io",
+"from": "website:https://leanear.io:443/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "93c81d5dd65b626e"
+},
 "learnenjoy.com": {
 "key": "learnenjoy-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "e2b5b190abfc0b6a"
+},
+"leasi.co": {
+"key": "leasi-co",
+"from": "linkedin",
+"shape": "tile",
+"sha": "1a0747273d1dfdbb"
 },
 "leasup.com": {
 "key": "leasup-com",
@@ -14171,6 +15363,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "6fd3aeeca5a2f648"
+},
+"leazy.net": {
+"key": "leazy-net",
+"from": "linkedin",
+"shape": "tile",
+"sha": "df4c921a434be394"
 },
 "leboncoincorporate.com": {
 "key": "leboncoincorporate-com",
@@ -14208,6 +15406,15 @@
 "shape": "tile",
 "sha": "effad3a9738dfa0c"
 },
+"lecko.fr": {
+"key": "lecko-fr",
+"from": "website:https://lecko.fr/wp-content/uploads/sites/2/2024/01/cropped-logo_lecko_couleur-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 117,
+"sha": "49c03f30c1f3efe7"
+},
 "leclairdegenieshop.com": {
 "key": "leclairdegenieshop-com",
 "from": "linkedin",
@@ -14229,6 +15436,15 @@
 "lectual.ai": {
 "key": null,
 "why": "no usable logo"
+},
+"lecturer.fr": {
+"key": "lecturer-fr",
+"from": "website:https://lecturer.fr/icons/icon-192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "db035ca47a6753f5"
 },
 "ledevisjuridique.fr": {
 "key": "ledevisjuridique-fr",
@@ -14253,6 +15469,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "ebfe0d522287d898"
+},
+"leeway.net": {
+"key": "leeway-net",
+"from": "website:https://images.squarespace-cdn.com/content/v1/64dd3bc6bd3a574151ec3e4b/bda3d803-05f3-4f7c-9122-cf8775610daf/Untitled+design+%282%29.png?format=1500w",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 176,
+"sha": "8cbaf14450d57bfc"
 },
 "lefuturdestartup.com": {
 "key": "lefuturdestartup-com",
@@ -14343,6 +15568,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "f88e73e7736b0b1d"
+},
+"legora.com": {
+"key": "legora-com",
+"from": "website:https://framerusercontent.com/images/t4E7HtGvgFipxaYtePy1dSQAjks.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "c89a1848b8bb3766"
 },
 "legorafi.fr": {
 "key": "legorafi-fr",
@@ -14605,6 +15839,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "5efae5913c1ebf11"
+},
+"lesdetermines.fr": {
+"key": "lesdetermines-fr",
+"from": "website:https://www.lesdetermines.fr/Logo-remove.png",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 192,
+"sha": "85c441c4fb3b2305"
 },
 "lesentier.paris": {
 "key": "lesentier-paris",
@@ -14905,6 +16148,15 @@
 "shape": "tile",
 "sha": "b41f1ac1215493ee"
 },
+"lifeprotect.net.au": {
+"key": "lifeprotect-net-au",
+"from": "website:https://static.wixstatic.com/media/486f0e_3cf74d28a4b84804974dba616be9044f%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/486f0e_3cf74d28a4b84804974dba616be9044f%7Emv2.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 97,
+"sha": "bfff06b57f9c9aa2"
+},
 "ligama.app": {
 "key": "ligama-app",
 "from": "linkedin",
@@ -14995,6 +16247,10 @@
 "shape": "tile",
 "sha": "6a85d91c33c309f7"
 },
+"link.lovable.dev": {
+"key": null,
+"why": "no usable logo"
+},
 "linkaband.com": {
 "key": "linkaband-com",
 "from": "linkedin",
@@ -15015,6 +16271,15 @@
 "shape": "tile",
 "w": 96,
 "sha": "3597c596a3c5b1b3"
+},
+"lintendance.co": {
+"key": "lintendance-co",
+"from": "website:https://uploads-ssl.webflow.com/6436ae6afdf039267deeb3be/6436afdd52823e75be668a47_webclip256.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "89c30e6634c52dfc"
 },
 "lion.mariaschools.com": {
 "key": "lion-mariaschools-com",
@@ -15133,6 +16398,15 @@
 "w": 96,
 "sha": "5a313737115a4ec7"
 },
+"livna-education.fr": {
+"key": "livna-education-fr",
+"from": "website:https://livna-education.fr/assets/logo-mark.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "784fee22f8e0c64d"
+},
 "livratos.fr": {
 "key": "livratos-fr",
 "from": "website:https://livratos.fr/logo-livratos.ico",
@@ -15154,11 +16428,29 @@
 "shape": "tile",
 "sha": "e95ef8586d3dbe66"
 },
+"lizy.be": {
+"key": "lizy-be",
+"from": "website:https://www.lizy.be/apple-icon.png?839ac28b71f7d6a3",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "b200a278e016f008"
+},
 "localia-france.com": {
 "key": "localia-france-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "414d2efff9425ac4"
+},
+"localista.com.au": {
+"key": "localista-com-au",
+"from": "website:https://localista.com.au/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "c3ddd090d98b9bfd"
 },
 "lochall.com": {
 "key": "lochall-com",
@@ -15247,6 +16539,15 @@
 "shape": "tile",
 "sha": "c0dcddd78eb7b6bf"
 },
+"lokki.rent": {
+"key": "lokki-rent",
+"from": "website:https://bucket-prod.getlokki.com/lokki-rental-place/logos/lokki-rent-logo-bird-yellow.svg",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 159,
+"sha": "7acd9b5c5f736177"
+},
 "lokoroom.com": {
 "key": "lokoroom-com",
 "from": "linkedin",
@@ -15288,6 +16589,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "7d10f0b9b08f7b19"
+},
+"loola.pl": {
+"key": "loola-pl",
+"from": "website:https://loola.pl/skins/user/rwd_clickshop_35/images/logo.png",
+"kind": "logo",
+"score": 101,
+"shape": "plate",
+"w": 159,
+"sha": "fc1bb49a9a4312f6"
 },
 "loom.fr": {
 "key": "loom-fr",
@@ -15357,6 +16667,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "97b70029244eb902"
+},
+"lovejamii.com": {
+"key": "lovejamii-com",
+"from": "website:https://lovejamii.com/wp-content/themes/lovejamii/build/img/favicons/android-icon-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "2513b2216c75aeed"
 },
 "lovelace.paris": {
 "key": "lovelace-paris",
@@ -15474,6 +16793,24 @@
 "shape": "tile",
 "w": 96,
 "sha": "fbe178edb2fa6581"
+},
+"lumapps.com": {
+"key": "lumapps-com",
+"from": "website:https://cdn.prod.website-files.com/694159454607d4764c350591/69aed5347350fb1cd46af449_favicon-large.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 97,
+"sha": "c5cea570b849602c"
+},
+"lumeen.com": {
+"key": "lumeen-com",
+"from": "website:https://cdn.prod.website-files.com/68a88fd3af00f02c605442f5/68f879f5025b5b06aca555c9_lumeen-webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "0c8548d619ee58ee"
 },
 "lumiomedical.com": {
 "key": "lumiomedical-com",
@@ -15809,6 +17146,15 @@
 "shape": "tile",
 "sha": "eb87d4d1cfd390f2"
 },
+"majamaja.com": {
+"key": "majamaja-com",
+"from": "website:https://majamaja.com/wp-content/uploads/2024/04/cropped-favicon_Maja-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "84d3a389d7a6023f"
+},
 "makavideo.fr": {
 "key": "makavideo-fr",
 "from": "linkedin",
@@ -15941,6 +17287,15 @@
 "shape": "tile",
 "sha": "d7743b41e316432a"
 },
+"mapstr.com": {
+"key": "mapstr-com",
+"from": "website:https://cdn.prod.website-files.com/6488354fa807724b80ed3378/649a8ab04b3d5868eaf5768b_Webclip%20mapstr.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "dfde3bcc61e37606"
+},
 "marcel.cab": {
 "key": "marcel-cab",
 "from": "website:https://lecab.fr/wp-content/uploads/2026/01/cropped-favicon-lecab-192x192.png",
@@ -15967,6 +17322,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "3e26ee1a0e4c12b1"
+},
+"mariemas.com": {
+"key": "mariemas-com",
+"from": "website:https://mariemas.com/cdn/shop/files/VOGUE_logo_logotype_1d85c8a0-571a-4017-83e6-80c727f9241f.png?v=1613210155&width=500",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "c78bff293faab0a2"
 },
 "mariloubio.com": {
 "key": "mariloubio-com",
@@ -16070,6 +17434,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "716bc8398ab31a76"
+},
+"matricis.ai": {
+"key": "matricis-ai",
+"from": "website:https://matricis.ai/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "d382bf18da5cca89"
 },
 "maxtronics.com": {
 "key": "maxtronics-com",
@@ -16218,6 +17591,15 @@
 "shape": "tile",
 "sha": "265eef51b1bf3e15"
 },
+"medoucine.com": {
+"key": "medoucine-com",
+"from": "website:https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://medoucine.com&size=256",
+"kind": "google",
+"score": 100,
+"shape": "tile",
+"w": 96,
+"sha": "224959eeb6cc7ea1"
+},
 "medvir.fr": {
 "key": "medvir-fr",
 "from": "linkedin",
@@ -16359,11 +17741,24 @@
 "shape": "tile",
 "sha": "4e580d095fe0681c"
 },
+"memorality.com": {
+"key": null,
+"why": "no usable logo"
+},
 "memories.video": {
 "key": "memories-video",
 "from": "linkedin",
 "shape": "tile",
 "sha": "d610d818a2aa861f"
+},
+"memorizer.ai": {
+"key": "memorizer-ai",
+"from": "website:https://mio.now/icon.png?f2d7207ef0cff008",
+"kind": "icon",
+"score": 140,
+"shape": "plate",
+"w": 96,
+"sha": "3bdb3b0dab86c383"
 },
 "mentorgoal.com": {
 "key": "mentorgoal-com",
@@ -16518,11 +17913,26 @@
 "shape": "tile",
 "sha": "132de08073c0975f"
 },
+"mgnm.com.au": {
+"key": "mgnm-com-au",
+"from": "website:https://static.wixstatic.com/media/3df40d_e765dc55e25a429fbcff8db767309af3~mv2.png/v1/fill/w_154,h_61,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/meriba%20geb%20ngalpun%20mab_logo_reversed.png",
+"kind": "logo?",
+"score": 98,
+"shape": "plate",
+"w": 192,
+"sha": "d723f211302fadef"
+},
 "miamao.fr": {
 "key": "miamao-fr",
 "from": "linkedin",
 "shape": "tile",
 "sha": "8cc605e95c2295bd"
+},
+"micco.app": {
+"key": "micco-app",
+"from": "linkedin",
+"shape": "tile",
+"sha": "c0dddb190da5513a"
 },
 "michel-ai.com": {
 "key": "michel-ai-com",
@@ -16554,6 +17964,15 @@
 "shape": "tile",
 "sha": "9a0a76d7d8fc3c44"
 },
+"microxpace.com": {
+"key": "microxpace-com",
+"from": "website:https://microxpace.com/wp-content/uploads/2026/07/logo-nobackground-500-e1783671421303.png",
+"kind": "icon",
+"score": 253,
+"shape": "plate",
+"w": 126,
+"sha": "40e1ee6997e0582d"
+},
 "millumin.com": {
 "key": "millumin-com",
 "from": "linkedin",
@@ -16577,6 +17996,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "a0846b2d8da38651"
+},
+"mimesys-project.it": {
+"key": "mimesys-project-it",
+"from": "website:https://mimesys-project.it/wp-content/uploads/2024/03/logo-tortora-300x300.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 124,
+"sha": "9947c91236b29796"
 },
 "mimetique.com": {
 "key": "mimetique-com",
@@ -16611,6 +18039,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "43a8c3d2be83fdb1"
+},
+"mindflowspeedreading.com": {
+"key": "mindflowspeedreading-com",
+"from": "website:https://mindflowspeedreading.com/wp-content/uploads/2021/05/cropped-mindflow-favicon-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "b5d00b5dfb7946be"
 },
 "mindlapse.ai": {
 "key": "mindlapse-ai",
@@ -16903,6 +18340,15 @@
 "shape": "tile",
 "sha": "9864cff130c7997c"
 },
+"moncamionavecchauffeur.com": {
+"key": "moncamionavecchauffeur-com",
+"from": "website:https://mcac.app/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "89ba7f5790998d72"
+},
 "monclub.eu": {
 "key": "monclub-eu",
 "from": "linkedin",
@@ -16938,6 +18384,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "340a82b6ead2dffd"
+},
+"monk.ai": {
+"key": "monk-ai",
+"from": "linkedin",
+"shape": "tile",
+"sha": "a12270a179ef0c21"
 },
 "monka.care": {
 "key": "monka-care",
@@ -17011,6 +18463,15 @@
 "shape": "tile",
 "sha": "f74527a6ed3a889b"
 },
+"mooonai.com": {
+"key": "mooonai-com",
+"from": "website:https://mooonai.com/icon.png?icon.3gbqxnqz5xb1u.png",
+"kind": "icon",
+"score": 200,
+"shape": "plate",
+"w": 135,
+"sha": "a8d726112dc286b9"
+},
 "moove-lab.com": {
 "key": "moove-lab-com",
 "from": "linkedin",
@@ -17047,6 +18508,15 @@
 "shape": "tile",
 "sha": "889a6230fee20b8d"
 },
+"moriartymedia.com": {
+"key": "moriartymedia-com",
+"from": "website:https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdgAbNwk2XwpeevwQtCpSOv8LpTPjFS4-GdHJtlZ_IepTKglv9UgQ4BVQGdmcbtCT8aYmrcpPWK064_8LCqLcGfUnOV5DXJJOafVQJ7M3kHJJ1mnt0I_oGQrp_cmRWeW0ll-8Cnv8sqr0-uLRRSNTz1kd049aFUUd16BfL3jlvx4SqG_WsjbX8QrtVox7rgKS2xi1JPXHZEqoV0YA7akAA",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 113,
+"sha": "85e4aacc8a27622a"
+},
 "morningcroissant.fr": {
 "key": "morningcroissant-fr",
 "from": "linkedin",
@@ -17065,17 +18535,44 @@
 "shape": "tile",
 "sha": "d45253710ecc0bba"
 },
+"moss-paris.com": {
+"key": "moss-paris-com",
+"from": "website:https://www.moss-paris.com/cdn/shop/files/IMG-20240425-WA0005.jpg?v=1738831838&width=180",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "3fed67975ea692e1"
+},
 "motier.vc": {
 "key": "motier-vc",
 "from": "linkedin",
 "shape": "tile",
 "sha": "436574b6d647c49c"
 },
+"motionsociety.io": {
+"key": "motionsociety-io",
+"from": "website:https://www.motionsociety.com/favicon-light.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 111,
+"sha": "6154d404e808ae13"
+},
 "motocab.com": {
 "key": "motocab-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "57196ccd802be3ca"
+},
+"moustacheai.com": {
+"key": "moustacheai-com",
+"from": "website:https://moustacheai.com/favicon.ico",
+"kind": "icon",
+"score": 200,
+"shape": "plate",
+"w": 96,
+"sha": "cab108ed2f8e613a"
 },
 "moustaches.fr": {
 "key": "moustaches-fr",
@@ -17188,11 +18685,29 @@
 "shape": "tile",
 "sha": "09aab9f92aa7c62c"
 },
+"multiversecomputing.com": {
+"key": "multiversecomputing-com",
+"from": "website:https://multiversecomputing.com/apple-icon.png?apple-icon.3y2zhthwz5ibd.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 140,
+"sha": "ded83baa2de63b03"
+},
 "mumandthegang.com": {
 "key": "mumandthegang-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "87f4ff12d9a15435"
+},
+"munki.audio": {
+"key": "munki-audio",
+"from": "website:https://munki.audio/brand/icone-180.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "9713143c6a380196"
 },
 "murena.com": {
 "key": "murena-com",
@@ -17302,6 +18817,15 @@
 "shape": "tile",
 "sha": "130b6c6ff37cb902"
 },
+"mybleen.com": {
+"key": "mybleen-com",
+"from": "website:https://mybleen.com/cdn/shop/files/logohd.svg?crop=center&height=29&v=1676548537&width=130",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 192,
+"sha": "5db65124cd16667a"
+},
 "mybrazilfactory.com": {
 "key": "mybrazilfactory-com",
 "from": "linkedin",
@@ -17325,6 +18849,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "fda30449b5fd9934"
+},
+"mydigitalbuildings.com": {
+"key": "mydigitalbuildings-com",
+"from": "website:https://cdn.prod.website-files.com/61aa1ef34b3208595f4fe64d/66ab797ebaa14d606afdc8d4_webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "e4fe378e397f05c2"
 },
 "myfacturation.com": {
 "key": "myfacturation-com",
@@ -17527,6 +19060,10 @@
 "shape": "tile",
 "sha": "64063274f91e8065"
 },
+"naarica.in": {
+"key": null,
+"why": "no usable logo"
+},
 "nabla.com": {
 "key": "nabla-com",
 "from": "website:https://cdn.prod.website-files.com/67c6ddc58c9e7b3f7d095cb3/69e8ed278ce22f3e664e7f87_Webclip.png",
@@ -17596,6 +19133,15 @@
 "shape": "tile",
 "sha": "9c8274231e7df6d5"
 },
+"natakallam.com": {
+"key": "natakallam-com",
+"from": "website:https://natakallam.com/app/uploads/2024/12/NaTakallam-logo-2-833x1024.png",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 96,
+"sha": "f85b52d2dec53fbc"
+},
 "nataparis.com": {
 "key": "nataparis-com",
 "from": "linkedin",
@@ -17613,6 +19159,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "d7472940a7a53ffd"
+},
+"navee.asia": {
+"key": "navee-asia",
+"from": "website:https://storage.googleapis.com/stateless.navee.asia/2020/11/af2904bb-logo-notext-120-sq.png",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 96,
+"sha": "433dbd7d6c8a1b9b"
 },
 "naven.fr": {
 "key": "naven-fr",
@@ -17734,6 +19289,15 @@
 "shape": "tile",
 "sha": "9fb394c9f978f90e"
 },
+"neptuneelements.com": {
+"key": "neptuneelements-com",
+"from": "website:https://neptuneelements.com/cdn/shop/files/logo_detoure_51423391-05ed-4e19-8ac9-930a04759f2e.png?crop=center&height=120&v=1732204359&width=300",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "dd2afdc3373848a6"
+},
 "nerdit.ai": {
 "key": "nerdit-ai",
 "from": "linkedin",
@@ -17769,6 +19333,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "d9009b48f3cf54dc"
+},
+"netronline.com": {
+"key": null,
+"why": "no usable logo"
 },
 "netzero.green": {
 "key": "netzero-green",
@@ -17899,6 +19467,12 @@
 "shape": "tile",
 "sha": "13e615c08c7257d6"
 },
+"newscore.fr": {
+"key": "newscore-fr",
+"from": "linkedin",
+"shape": "tile",
+"sha": "82395762e0324469"
+},
 "newzik.com": {
 "key": "newzik-com",
 "from": "linkedin",
@@ -17955,6 +19529,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "ac75526335e12283"
+},
+"nextlevel.ai": {
+"key": "nextlevel-ai",
+"from": "website:https://nextlevel.ai/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "3c1189d9149391ce"
 },
 "nextofficeparis.fr": {
 "key": "nextofficeparis-fr",
@@ -18193,6 +19776,15 @@
 "shape": "tile",
 "sha": "bce1504ef73588c5"
 },
+"nopli.eu": {
+"key": "nopli-eu",
+"from": "website:https://cdn.prod.website-files.com/6516ce88d3130155cc5bbabc/652eb6a984a70f20368c0edb_android-chrome-192x192.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "06d690ba43b22ade"
+},
 "norma.tech": {
 "key": "norma-tech",
 "from": "linkedin",
@@ -18349,6 +19941,15 @@
 "shape": "tile",
 "sha": "3736fb53415f0071"
 },
+"null.community": {
+"key": "null-community",
+"from": "website:https://null.community/assets/null_logo-2a71e96120aaf855555b5fb4472aab589cdddd8f480544cc1b373543532d4f47.png",
+"kind": "logo",
+"score": 154,
+"shape": "tile",
+"w": 96,
+"sha": "4e40f6fcbbf429c8"
+},
 "numahealth.com": {
 "key": "numahealth-com",
 "from": "linkedin",
@@ -18388,11 +19989,29 @@
 "shape": "tile",
 "sha": "4f80e3ee6c57c11a"
 },
+"nym.com": {
+"key": "nym-com",
+"from": "website:https://nym.com/icons/App-Icon-32x32-retina.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "90a76c39ed32cfff"
+},
 "o-labs.net": {
 "key": "o-labs-net",
 "from": "linkedin",
 "shape": "tile",
 "sha": "e802272972e51a1f"
+},
+"o-tacos.ma": {
+"key": "o-tacos-ma",
+"from": "website:https://o-tacos.ma/apple-touch-icon.png?v=642131750391",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "967714f52f5799d5"
 },
 "o137.ai": {
 "key": "o137-ai",
@@ -18559,6 +20178,15 @@
 "shape": "tile",
 "sha": "46cc0b8bf8dfa933"
 },
+"ohmboa.com": {
+"key": "ohmboa-com",
+"from": "website:https://images.squarespace-cdn.com/content/v1/64ad75db73f2452b38330339/df763179-baf4-46ed-b769-146a1685fb47/Ohmboa_LOGOS_WHT.png?format=1500w",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "59a5e60f8eed8e0c"
+},
 "ohmycad.com": {
 "key": "ohmycad-com",
 "from": "linkedin",
@@ -18573,6 +20201,15 @@
 "shape": "tile",
 "w": 96,
 "sha": "156653965912c299"
+},
+"okarito.co.nz": {
+"key": "okarito-co-nz",
+"from": "website:https://okarito.co.nz/wp-content/uploads/2022/09/cropped-favicon-192x192.jpg",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "197bc00beab1e774"
 },
 "okeiro.com": {
 "key": "okeiro-com",
@@ -18637,11 +20274,26 @@
 "shape": "tile",
 "sha": "4cf164e7a9282e65"
 },
+"omena.app": {
+"key": "omena-app",
+"from": "linkedin",
+"shape": "tile",
+"sha": "ae07e807d59a55cd"
+},
 "omind.me": {
 "key": "omind-me",
 "from": "linkedin",
 "shape": "tile",
 "sha": "0cdc3dcb19302174"
+},
+"ominiclinic.ro": {
+"key": "ominiclinic-ro",
+"from": "website:https://www.ominiclinic.ro/app/images/favicon.png",
+"kind": "icon",
+"score": 95,
+"shape": "plate",
+"w": 96,
+"sha": "64032916d8bdd4c8"
 },
 "omni.community": {
 "key": "omni-community",
@@ -18691,6 +20343,15 @@
 "shape": "tile",
 "sha": "06edc9fc5b09b798"
 },
+"onboard.blue": {
+"key": "onboard-blue",
+"from": "website:https://cdn.prod.website-files.com/676fc937fdd85fec9f6d06fe/678f83d89606a490a176698c_Onboard%20Webclip%20Icon.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "12736ef58bd9173a"
+},
 "onbox.ai": {
 "key": null,
 "why": "no usable logo"
@@ -18724,6 +20385,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "f7376da82b411c1c"
+},
+"one-second.com": {
+"key": "one-second-com",
+"from": "website:https://cdn.prod.website-files.com/65a42c97b0b3ef69314e4e38/673b2081847a17c9222035c4_favicon.jpg",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "df5ef5048ec3aa4e"
 },
 "one.hands.fr": {
 "key": "one-hands-fr",
@@ -18878,6 +20548,15 @@
 "shape": "tile",
 "sha": "4968469a2ba6a3fe"
 },
+"openrouter.ai": {
+"key": "openrouter-ai",
+"from": "website:https://openrouter.ai/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "ab0a97445922e369"
+},
 "opensee.io": {
 "key": "opensee-io",
 "from": "linkedin",
@@ -18944,6 +20623,15 @@
 "shape": "tile",
 "sha": "9d2541b90bc70489"
 },
+"optimiz-construction.fr": {
+"key": "optimiz-construction-fr",
+"from": "website:https://optimiz-construction.fr/_assets/images/dcc39430eb890a585fff4f4966b576f4.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "5baad33f863ee67a"
+},
 "optimpharma.com": {
 "key": "optimpharma-com",
 "from": "website:https://optimpharma.com/lovable-uploads/e6146ccc-9cfd-412d-8b54-d613c30b88ee.png",
@@ -19007,6 +20695,10 @@
 "shape": "tile",
 "sha": "4dcd2300aeeba8bc"
 },
+"ordolib.io": {
+"key": null,
+"why": "no usable logo"
+},
 "orege.com": {
 "key": "orege-com",
 "from": "linkedin",
@@ -19018,6 +20710,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "b67150de4c6adb61"
+},
+"oridahotels.com": {
+"key": "oridahotels-com",
+"from": "website:https://oridahotels.com/wp-content/uploads/2021/11/cropped-cropped-ORIDA-Favicon-192x192-1-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "83c08991b9cb95c2"
 },
 "originalfoodcourt.com": {
 "key": "originalfoodcourt-com",
@@ -19213,6 +20914,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "09eefe0ed32b5e16"
+},
+"outshift.com": {
+"key": null,
+"why": "no usable logo"
 },
 "outsight.ai": {
 "key": "outsight-ai",
@@ -19716,6 +21421,24 @@
 "shape": "tile",
 "sha": "a68443940eece3e8"
 },
+"pazapa.org": {
+"key": "pazapa-org",
+"from": "website:https://images.squarespace-cdn.com/content/v1/5a368f8e692ebe0d3d3a4b31/1513954982214-5NO7MTHCLO8JZ5577UH4/pazapalogo.png",
+"kind": "logo",
+"score": 165,
+"shape": "tile",
+"w": 96,
+"sha": "65755791c9a2b5db"
+},
+"pazzidifanta.com": {
+"key": "pazzidifanta-com",
+"from": "website:https://net-static-auto.tcccdn.com/template/pazzidifanta.com/img/favicon144.png",
+"kind": "icon",
+"score": 144,
+"shape": "plate",
+"w": 96,
+"sha": "c95a65ec31db7cc4"
+},
 "pbgmarais.com": {
 "key": "pbgmarais-com",
 "from": "linkedin",
@@ -19737,6 +21460,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "070c280b6b4d9c7c"
+},
+"pelico.ai": {
+"key": "pelico-ai",
+"from": "website:https://cdn.prod.website-files.com/6aaa59e54a05ed5fedb02372/6abe5169fa2625b9d0c21672_Frame%202147230183%20(1).png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 109,
+"sha": "9053a7c9aab264d1"
 },
 "pelikan-mobility.com": {
 "key": "pelikan-mobility-com",
@@ -19897,11 +21629,29 @@
 "shape": "tile",
 "sha": "53b9c1abd1909156"
 },
+"phacil.delivery": {
+"key": "phacil-delivery",
+"from": "website:https://phacil.delivery/favicon/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 178,
+"sha": "4424b92fa3dbfa1a"
+},
 "phaeth.com": {
 "key": "phaeth-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "4a10891774621bf0"
+},
+"phagos.com": {
+"key": "phagos-com",
+"from": "website:https://framerusercontent.com/images/oc2rPqUz5tgLB8tMqv4dqKMpwuQ.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "d9c22a34fb4051ab"
 },
 "phi-advisor.com": {
 "key": "phi-advisor-com",
@@ -19992,6 +21742,30 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "f18db39d93a7381d"
+},
+"pimento.fr": {
+"key": "pimento-fr",
+"from": "website:https://www.pimento.fr/skin/frontend/kr/skippy/images/logo.png",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "9448ec025b2abea4"
+},
+"pimpup.io": {
+"key": "pimpup-io",
+"from": "website:https://cdn.prod.website-files.com/689484f38c06da53f551aa5f/68b06d379a71fb9be5fe523f_PimpUP%20Webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "4455956a5f219f55"
+},
+"pimster.app": {
+"key": "pimster-app",
+"from": "linkedin",
+"shape": "tile",
+"sha": "cd1c94134108832c"
 },
 "pingpang.paris": {
 "key": null,
@@ -20624,6 +22398,15 @@
 "shape": "tile",
 "sha": "bb47cb4d5113c497"
 },
+"pressmium.com": {
+"key": "pressmium-com",
+"from": "website:https://pressmium.com/wp-content/uploads/2022/12/cropped-inveraraypier-28.png",
+"kind": "icon",
+"score": 219,
+"shape": "plate",
+"w": 192,
+"sha": "8008208b1bc6d4ad"
+},
 "prestachef.fr": {
 "key": "prestachef-fr",
 "from": "linkedin",
@@ -20641,6 +22424,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "2e2cb02b6ae60cda"
+},
+"presti.ai": {
+"key": "presti-ai",
+"from": "linkedin",
+"shape": "tile",
+"sha": "c0f62a1cce32df79"
 },
 "pretapousser.com": {
 "key": "pretapousser-com",
@@ -20882,6 +22671,15 @@
 "shape": "tile",
 "sha": "b4c5cdce64609a5d"
 },
+"puissante.co": {
+"key": "puissante-co",
+"from": "website:https://puissante.co/cdn/shop/files/logo.svg?height=255&v=1763723003",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 96,
+"sha": "4b926acd92ab7892"
+},
 "pullupent.com": {
 "key": "pullupent-com",
 "from": "linkedin",
@@ -20981,6 +22779,15 @@
 "shape": "tile",
 "sha": "30b200043a6651c3"
 },
+"qairn-rh.fr": {
+"key": "qairn-rh-fr",
+"from": "website:https://qairn-rh.fr/media/igensia-rh.webp",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 150,
+"sha": "75262d8f8d88025e"
+},
 "qairnel.com": {
 "key": "qairnel-com",
 "from": "linkedin",
@@ -20992,6 +22799,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "e2ab43e211c08445"
+},
+"qantev.com": {
+"key": "qantev-com",
+"from": "website:https://cdn.prod.website-files.com/6675930f015a464f70971dd1/66a147c27c8a463a3fa211b1_qantev%20webclip.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "4531f52a6b873acb"
 },
 "qantum.io": {
 "key": "qantum-io",
@@ -21010,6 +22826,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "7092dff4cd401084"
+},
+"qare.fr": {
+"key": "qare-fr",
+"from": "linkedin",
+"shape": "tile",
+"sha": "5a761fd7db0b51f8"
 },
 "qat.inria.fr": {
 "key": "qat-inria-fr",
@@ -21032,6 +22854,10 @@
 "shape": "tile",
 "sha": "11241dfa8164f423"
 },
+"qeels.io": {
+"key": null,
+"why": "no usable logo"
+},
 "qevlar.com": {
 "key": "qevlar-com",
 "from": "linkedin",
@@ -21049,6 +22875,21 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "382dcb609ec2c179"
+},
+"qivio.fr": {
+"key": "qivio-fr",
+"from": "linkedin",
+"shape": "tile",
+"sha": "b3a086ab8592f15c"
+},
+"qlip.com": {
+"key": "qlip-com",
+"from": "website:https://www.qlip.com/wp-content/uploads/sites/3/2020/04/cropped-favicon-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "c1a61bce551dbe5c"
 },
 "qlower.com": {
 "key": "qlower-com",
@@ -21112,6 +22953,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "466c3c3bfae28a8e"
+},
+"quackai.com": {
+"key": "quackai-com",
+"from": "website:https://quackai.com/assets/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "3850424739afba9b"
 },
 "quaidelaphoto.fr": {
 "key": "quaidelaphoto-fr",
@@ -21473,6 +23323,15 @@
 "w": 96,
 "sha": "e9c85f6897117f41"
 },
+"re-cap.com": {
+"key": "re-cap-com",
+"from": "website:https://cdn.prod.website-files.com/61935d19f7f8ea593cdbcf8d/6a909d618c484557736b14fc_recap-mark-square.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "abcd3ea33b56b55e"
+},
 "re-corps.com": {
 "key": "re-corps-com",
 "from": "linkedin",
@@ -21567,6 +23426,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "ebc4670f38b8a52a"
+},
+"redesk.fr": {
+"key": "redesk-fr",
+"from": "website:https://redesk.fr/cdn/shop/files/REDESK_LOGOHORIZONTAL_VERT_13.svg?v=1789408744&width=600",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 192,
+"sha": "1cb3062ac37589f1"
 },
 "redminds.fr": {
 "key": "redminds-fr",
@@ -21739,6 +23607,12 @@
 "shape": "tile",
 "sha": "8d1cf6f6d94caac0"
 },
+"renalto.fr": {
+"key": "renalto-fr",
+"from": "linkedin",
+"shape": "tile",
+"sha": "71ef6545946c85b0"
+},
 "rendelparis.com": {
 "key": "rendelparis-com",
 "from": "linkedin",
@@ -21751,11 +23625,28 @@
 "shape": "tile",
 "sha": "9b1b41fa8574d493"
 },
+"reparcar.fr": {
+"key": null,
+"why": "no usable logo"
+},
 "repeat-undies.fr": {
 "key": "repeat-undies-fr",
 "from": "linkedin",
 "shape": "tile",
 "sha": "ad3cd147e50201d2"
+},
+"repio.com": {
+"key": null,
+"why": "no usable logo"
+},
+"replit.com": {
+"key": "replit-com",
+"from": "website:https://replit.com/public/icons/favicon-prompt-192-rebrand.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "1d723d0728858d95"
 },
 "reply.com": {
 "key": "reply-com",
@@ -21870,6 +23761,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "a6918ebf5f7fa206"
+},
+"retrovrs.com": {
+"key": "retrovrs-com",
+"from": "website:https://www.retrovrs.com/_next/image?url=%2Fimages%2Flogos%2Fretro%2Fretrovrs_logo_white.png&w=384&q=75",
+"kind": "logo",
+"score": 125,
+"shape": "plate",
+"w": 192,
+"sha": "f15019ed01539ec3"
 },
 "returnforsociety.com": {
 "key": "returnforsociety-com",
@@ -22027,6 +23927,24 @@
 "shape": "tile",
 "sha": "6c7ce8baae1a8ed4"
 },
+"rinse.com": {
+"key": "rinse-com",
+"from": "website:https://static-prod.rinse.com/assets/favicon/android-icon-192x192.sha256-2df66a93e3.png",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "5859453138b9418e"
+},
+"rippling.com": {
+"key": "rippling-com",
+"from": "website:https://www.rippling.com/favicons/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "c0580e90be595b9a"
+},
 "riseup.ai": {
 "key": "riseup-ai",
 "from": "linkedin",
@@ -22063,11 +23981,26 @@
 "shape": "tile",
 "sha": "489d0248d44ece46"
 },
+"river.com": {
+"key": "river-com",
+"from": "website:https://river.com/favicons/192x192-f2d9ed96448acab5dfbc2d97e090e95c.png?vsn=d",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "a75385f507ee8d08"
+},
 "rivercell.ai": {
 "key": "rivercell-ai",
 "from": "linkedin",
 "shape": "tile",
 "sha": "3649f81228facd77"
+},
+"rizeag.com": {
+"key": "rizeag-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "b94fab48ad7ab75b"
 },
 "rizetco.com": {
 "key": "rizetco-com",
@@ -22105,6 +24038,15 @@
 "shape": "tile",
 "sha": "5698f91c73b6550b"
 },
+"rocambole.fr": {
+"key": "rocambole-fr",
+"from": "website:https://rocambole.fr/wp-content/uploads/2018/08/cropped-icone-roc-192x192.jpg",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "e76a23b93b5c5339"
+},
 "rocapi.ne": {
 "key": "rocapi-ne",
 "from": "linkedin",
@@ -22140,6 +24082,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "2541a3771bcdb7b9"
+},
+"rosaly.com": {
+"key": "rosaly-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "7e6eee5ea1be3549"
 },
 "rosetta-omics.com": {
 "key": "rosetta-omics-com",
@@ -22194,6 +24142,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "f05ca62b0e85f333"
+},
+"running-care.com": {
+"key": "running-care-com",
+"from": "website:https://www.running-care.com/wp-content/uploads/2018/09/cropped-Logo-running-care--192x192.jpg",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "c1710178baf4607b"
 },
 "ruush.com": {
 "key": "ruush-com",
@@ -22394,6 +24351,15 @@
 "shape": "tile",
 "sha": "2d5e39f4c3b382f0"
 },
+"sarwa.co": {
+"key": "sarwa-co",
+"from": "website:https://www.sarwa.co/images/sarwa_icon.svg",
+"kind": "icon",
+"score": 245,
+"shape": "plate",
+"w": 96,
+"sha": "54933f77abd938af"
+},
 "satis.com": {
 "key": "satis-com",
 "from": "linkedin",
@@ -22417,6 +24383,24 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "f76bd151f98b6661"
+},
+"savvy.com": {
+"key": "savvy-com",
+"from": "website:https://www.savvy.com/favicons/apple-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "65bcecc33362d1d7"
+},
+"sayna.ai": {
+"key": "sayna-ai",
+"from": "website:https://sayna.ai/favicon.ico",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "2b431beb7046437a"
 },
 "sayse.fr": {
 "key": "sayse-fr",
@@ -22532,6 +24516,15 @@
 "shape": "tile",
 "sha": "b0e9cf3a4808f42e"
 },
+"scio.cz": {
+"key": "scio-cz",
+"from": "website:https://www.scio.cz/dist/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "efeb315b1d03b839"
+},
 "scnd.com": {
 "key": "scnd-com",
 "from": "linkedin",
@@ -22565,6 +24558,15 @@
 "scp-bussiere.notaires.fr": {
 "key": null,
 "why": "no usable logo"
+},
+"scrambl.com": {
+"key": "scrambl-com",
+"from": "website:https://scrambl.com/images/logo/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "tile",
+"w": 96,
+"sha": "995feebdd5ef9c92"
 },
 "screencell.com": {
 "key": "screencell-com",
@@ -22675,6 +24677,15 @@
 "shape": "tile",
 "sha": "a85754dbc16d5e4a"
 },
+"selectivity.life": {
+"key": "selectivity-life",
+"from": "website:https://selectivity.life/favicon.ico",
+"kind": "icon",
+"score": 64,
+"shape": "plate",
+"w": 103,
+"sha": "767a86bd1df94033"
+},
 "selency.fr": {
 "key": "selency-fr",
 "from": "linkedin",
@@ -22686,6 +24697,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "939d620352dacbbd"
+},
+"selfr.ai": {
+"key": "selfr-ai",
+"from": "website:https://framerusercontent.com/images/9YtmeIx3h4w5aQT1de8n4H2H2t4.png",
+"kind": "icon",
+"score": 64,
+"shape": "tile",
+"w": 96,
+"sha": "2aa03284fe66f816"
 },
 "semantikmatch.com": {
 "key": "semantikmatch-com",
@@ -22707,6 +24727,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "12734df07a1e2310"
+},
+"sendcloud.fr": {
+"key": "sendcloud-fr",
+"from": "website:https://framerusercontent.com/images/prlm5ywcyJBE7DyF4DgXNRNXtg.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "9062ddfd2b063377"
 },
 "senergyt.fr": {
 "key": "senergyt-fr",
@@ -22972,6 +25001,15 @@
 "shape": "tile",
 "sha": "1dc3d113d319bc42"
 },
+"shary.it": {
+"key": "shary-it",
+"from": "website:https://shary.it/img/logo1.png",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 192,
+"sha": "0d65498500b78aeb"
+},
 "sheeos.fr": {
 "key": "sheeos-fr",
 "from": "linkedin",
@@ -23031,6 +25069,10 @@
 "shape": "tile",
 "w": 96,
 "sha": "39556b62bc67fedc"
+},
+"shiplog.mr": {
+"key": null,
+"why": "no usable logo"
 },
 "shippeo.com": {
 "key": "shippeo-com",
@@ -23115,6 +25157,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "bfc8deccc1cbd479"
+},
+"siffletdata.com": {
+"key": "siffletdata-com",
+"from": "website:https://cdn.prod.website-files.com/6745ca418d70ad1c8e2b8442/67587d1e85e9bdcaeaf5418d_sifflet-webflip.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "f8eba5bc29466012"
 },
 "sifra-energy.fr": {
 "key": "sifra-energy-fr",
@@ -23280,6 +25331,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "07fa97a733218b63"
+},
+"singa.com": {
+"key": "singa-com",
+"from": "website:https://singa.com/logo/singa192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "a593a65549707f05"
 },
 "singlespot.com": {
 "key": "singlespot-com",
@@ -23804,6 +25864,15 @@
 "shape": "tile",
 "sha": "2fea7970c10e1d53"
 },
+"sonaar.com": {
+"key": "sonaar-com",
+"from": "website:https://sonaar.com/sonaar-logo.svg",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 192,
+"sha": "a108654af3976318"
+},
 "sonarvision.fr": {
 "key": "sonarvision-fr",
 "from": "linkedin",
@@ -23886,6 +25955,15 @@
 "shape": "tile",
 "sha": "9d0193578a7987cb"
 },
+"sorore.fr": {
+"key": "sorore-fr",
+"from": "website:https://static.wixstatic.com/media/8c541f_edb0d95d6c1544989f0c3c94f3bc011f%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/8c541f_edb0d95d6c1544989f0c3c94f3bc011f%7Emv2.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "d34f57e618149f2a"
+},
 "sosenz.fr": {
 "key": "sosenz-fr",
 "from": "linkedin",
@@ -23903,6 +25981,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "e165609751cc98cf"
+},
+"soufflekitchen.com": {
+"key": "soufflekitchen-com",
+"from": "website:https://soufflekitchen.com/cdn/shop/files/logo-blanc_600x.png?v=1633328155",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 192,
+"sha": "442dcbecbb0c9a8d"
 },
 "soundcast.io": {
 "key": "soundcast-io",
@@ -23928,6 +26015,15 @@
 "shape": "tile",
 "sha": "fa54201a90e77f71"
 },
+"sowit.co": {
+"key": "sowit-co",
+"from": "website:https://sowit.co/wp-content/uploads/2024/12/cropped-Favicon-Sowit-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "49973ba4b2af53a6"
+},
 "space2be.fr": {
 "key": "space2be-fr",
 "from": "linkedin",
@@ -23945,6 +26041,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "e0c103c48a729d47"
+},
+"spacefill.com": {
+"key": "spacefill-com",
+"from": "website:https://spacefill.com/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 140,
+"sha": "d49290ab28d0547c"
 },
 "spacelocker.fr": {
 "key": "spacelocker-fr",
@@ -24243,6 +26348,12 @@
 "shape": "tile",
 "sha": "d32171e8ffa4c438"
 },
+"sqwad.fr": {
+"key": "sqwad-fr",
+"from": "linkedin",
+"shape": "tile",
+"sha": "505e8ac15c36e00d"
+},
 "srmsolutions.fr": {
 "key": "srmsolutions-fr",
 "from": "linkedin",
@@ -24333,6 +26444,10 @@
 "shape": "tile",
 "sha": "e479abeb32144801"
 },
+"starton.com": {
+"key": null,
+"why": "no usable logo"
+},
 "startparis.fr": {
 "key": "startparis-fr",
 "from": "linkedin",
@@ -24398,6 +26513,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "5627e1eb8659b464"
+},
+"steerlab.ai": {
+"key": "steerlab-ai",
+"from": "linkedin",
+"shape": "tile",
+"sha": "cb60d57101d3fa7d"
 },
 "stellarprojects.fr": {
 "key": "stellarprojects-fr",
@@ -24805,6 +26926,15 @@
 "w": 96,
 "sha": "7f50d37e304a894e"
 },
+"sunnycare.com.au": {
+"key": "sunnycare-com-au",
+"from": "website:https://sunnycare.com.au/wp-content/uploads/2025/05/SC-Submark-300x300.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "4f8da51f07f14073"
+},
 "sunr.com": {
 "key": "sunr-com",
 "from": "linkedin",
@@ -24958,6 +27088,15 @@
 "w": 96,
 "sha": "9831d89b5c853c3e"
 },
+"sweevana.com": {
+"key": "sweevana-com",
+"from": "website:https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sweevana.com&size=256",
+"kind": "google",
+"score": 64,
+"shape": "plate",
+"w": 96,
+"sha": "9b45234599ae9372"
+},
 "swile.co": {
 "key": "swile-co",
 "from": "website:https://www.swile.co/apple-icon.png?apple-icon.1cr77105ix8py.png",
@@ -25063,6 +27202,15 @@
 "w": 117,
 "sha": "cb22361d9636ca5a"
 },
+"syntetica.co": {
+"key": "syntetica-co",
+"from": "website:https://cdn.prod.website-files.com/6a2adaebf33781635094a8b2/6a32a218fbfa1446d8570e38_favicon.jpg",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "cbe25a800afeb2dd"
+},
 "synthesio.com": {
 "key": "synthesio-com",
 "from": "linkedin",
@@ -25147,6 +27295,24 @@
 "shape": "tile",
 "sha": "63da3dca9bcd4fb0"
 },
+"tailor.tech": {
+"key": "tailor-tech",
+"from": "website:https://www.tailor.tech/favicon.ico",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "b3d0f3161303a339"
+},
+"take-caire.fr": {
+"key": "take-caire-fr",
+"from": "website:https://take-caire.fr/wp-content/uploads/2023/03/cropped-TAKE-CAIRE-sans-texte_1-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "0a9a80332ec7caae"
+},
 "takeawaste.fr": {
 "key": "takeawaste-fr",
 "from": "linkedin",
@@ -25212,6 +27378,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "22ddd91c0cd1577d"
+},
+"tamisiumextractors.com": {
+"key": "tamisiumextractors-com",
+"from": "website:https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://tamisiumextractors.com&size=256",
+"kind": "google",
+"score": 100,
+"shape": "tile",
+"w": 96,
+"sha": "c222071622f76aac"
 },
 "tandemcompany.fr": {
 "key": "tandemcompany-fr",
@@ -25323,6 +27498,15 @@
 "w": 101,
 "sha": "eeaaa132775ef59a"
 },
+"teale.io": {
+"key": "teale-io",
+"from": "website:https://cdn.prod.website-files.com/66a33ecf4b24aab55c286e1a/66da559fedeb119e858a2533_teale-webclip.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "faf7b75447431dea"
+},
 "teamoty.io": {
 "key": "teamoty-io",
 "from": "linkedin",
@@ -25376,6 +27560,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "8d60f1134a8e71ef"
+},
+"techuntermagazine.com": {
+"key": "techuntermagazine-com",
+"from": "website:https://static.tildacdn.net/tild6461-3831-4134-b836-353361613137/favicon.ico",
+"kind": "icon",
+"score": 64,
+"shape": "plate",
+"w": 96,
+"sha": "722b3cceceee72be"
 },
 "tecophase.com": {
 "key": "tecophase-com",
@@ -25596,6 +27789,15 @@
 "shape": "tile",
 "sha": "b58bb89ee947221d"
 },
+"thehumind.com": {
+"key": "thehumind-com",
+"from": "website:https://thehumind.com/favicon.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "0d3faa553e4a2608"
+},
 "themia.pro": {
 "key": "themia-pro",
 "from": "linkedin",
@@ -25619,6 +27821,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "4e6753af64ddabcf"
+},
+"thepioneer.vc": {
+"key": "thepioneer-vc",
+"from": "linkedin",
+"shape": "tile",
+"sha": "53b04b0e6370b213"
 },
 "thepricehub.com": {
 "key": "thepricehub-com",
@@ -25679,6 +27887,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "1edeb98be71444d7"
+},
+"thesensiblemama.com": {
+"key": null,
+"why": "no usable logo"
 },
 "thesharedwood.com": {
 "key": "thesharedwood-com",
@@ -25791,6 +28003,15 @@
 "shape": "tile",
 "sha": "a02908fda6dfe205"
 },
+"timelapps.com": {
+"key": "timelapps-com",
+"from": "website:https://assets.zyrosite.com/YZ9xBq8b3gIbN1GP/ai-logo-YbNq7QBqLwca2z7k.svg",
+"kind": "logo",
+"score": 170,
+"shape": "plate",
+"w": 192,
+"sha": "f78f19679081356a"
+},
 "timescope.com": {
 "key": "timescope-com",
 "from": "linkedin",
@@ -25811,6 +28032,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "1ddd78e21db04e0e"
+},
+"tingzcreative.com": {
+"key": "tingzcreative-com",
+"from": "website:https://images.squarespace-cdn.com/content/v1/67c7b13e872a174fc9440a81/68845650-3b47-4aba-a9e9-00208673cdf5/Copy+of+tingz+logo.png",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 192,
+"sha": "c206fd47cdf4a038"
 },
 "tiniloo.com": {
 "key": "tiniloo-com",
@@ -26010,6 +28240,15 @@
 "shape": "tile",
 "sha": "7adbe1c1f09ad2c7"
 },
+"trashtag.org": {
+"key": "trashtag-org",
+"from": "website:https://images.squarespace-cdn.com/content/v1/5ffcdd73b68b7068339d139d/1611964264700-LEKG32R90K4ZJPZDE5T2/%23Trashtag_Social_Icon.png?format=1500w",
+"kind": "logo",
+"score": 165,
+"shape": "plate",
+"w": 96,
+"sha": "74e3bcf687d879b6"
+},
 "travelib.fr": {
 "key": "travelib-fr",
 "from": "linkedin",
@@ -26046,11 +28285,29 @@
 "shape": "tile",
 "sha": "d37e667dd0ef2e09"
 },
+"treeway.nl": {
+"key": "treeway-nl",
+"from": "website:https://treeway.nl/wp-content/uploads/2021/07/Favicon.svg",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 118,
+"sha": "a291735e270ab30c"
+},
 "treezor.com": {
 "key": "treezor-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "213e7e024386509a"
+},
+"tremau.com": {
+"key": "tremau-com",
+"from": "website:https://tremau.com/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "90569e6206a818ca"
 },
 "tresbiendaccord.com": {
 "key": "tresbiendaccord-com",
@@ -26217,6 +28474,12 @@
 "shape": "tile",
 "sha": "f23624d8f74892a6"
 },
+"twoway.finance": {
+"key": "twoway-finance",
+"from": "linkedin",
+"shape": "tile",
+"sha": "6de0da6f4014229e"
+},
 "txcube.com": {
 "key": "txcube-com",
 "from": "linkedin",
@@ -26353,11 +28616,30 @@
 "shape": "tile",
 "sha": "5995eea7c2fb0223"
 },
+"unbottled.co": {
+"key": "unbottled-co",
+"from": "website:https://unbottled.co/cdn/shop/files/logo-unbtl-noel-noir_2.png?v=1793120049&width=170",
+"kind": "logo",
+"score": 54,
+"shape": "plate",
+"w": 192,
+"sha": "8073b101422e7ee5"
+},
+"uncia.io": {
+"key": "uncia-io",
+"from": "linkedin",
+"shape": "tile",
+"sha": "8304ed7edaf04532"
+},
 "unideeparis.com": {
 "key": "unideeparis-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "014708c201c9cdf9"
+},
+"unif.ai": {
+"key": null,
+"why": "no usable logo"
 },
 "unipros.coop": {
 "key": "unipros-coop",
@@ -26403,6 +28685,19 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "3444f3750bad1741"
+},
+"unkle.fr": {
+"key": null,
+"why": "no usable logo"
+},
+"unlimitd.com": {
+"key": "unlimitd-com",
+"from": "website:https://unlimitd.com/favicons/apple-touch-icon-1024x1024.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "262301810d308296"
 },
 "unow.fr": {
 "key": "unow-fr",
@@ -26493,6 +28788,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "bbd2f54068dd3758"
+},
+"uptale.io": {
+"key": "uptale-io",
+"from": "website:https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://uptale.io&size=256",
+"kind": "google",
+"score": 100,
+"shape": "plate",
+"w": 96,
+"sha": "74e9016e12987ce4"
 },
 "upway.fr": {
 "key": "upway-fr",
@@ -26740,6 +29044,15 @@
 "shape": "tile",
 "sha": "1fcf00e900f57ca3"
 },
+"velyvelo.com": {
+"key": "velyvelo-com",
+"from": "website:https://velyvelo.com/wp-content/uploads/2023/12/cropped-cropped-0c694e79ce2097e974275324e2413508-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 97,
+"sha": "f62064925ba4abc5"
+},
 "vema.earth": {
 "key": "vema-earth",
 "from": "website:https://cdn.prod.website-files.com/66fd90e7c97a65c3da6d3520/67045d62e4e624b208e27cd3_Vema-webclip-256x256.png",
@@ -26760,6 +29073,10 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "6fd0e27dee0c6564"
+},
+"verdikt.io": {
+"key": null,
+"why": "no usable logo"
 },
 "veridian-me.com": {
 "key": "veridian-me-com",
@@ -26923,6 +29240,15 @@
 "shape": "tile",
 "sha": "4597cb4113ec9b77"
 },
+"viibe.co": {
+"key": "viibe-co",
+"from": "website:https://viibe.co/wp-content/uploads/2019/09/cropped-android-chrome-512x512-1-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "30e3c861bb36ebda"
+},
 "vilefertile.paris": {
 "key": "vilefertile-paris",
 "from": "linkedin",
@@ -27043,11 +29369,38 @@
 "shape": "tile",
 "sha": "e8553647598ebdc2"
 },
+"vitabuerp.com": {
+"key": "vitabuerp-com",
+"from": "website:https://vitabuerp.com/icon-512.png",
+"kind": "icon",
+"score": 256,
+"shape": "tile",
+"w": 96,
+"sha": "387727a3abb2a822"
+},
 "vitadx.com": {
 "key": "vitadx-com",
 "from": "linkedin",
 "shape": "tile",
 "sha": "1302f56a5dbc4834"
+},
+"vitality.com": {
+"key": "vitality-com",
+"from": "website:https://www.vitality.com/icon.svg?6c72479f5c6588bd",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "63e6fec3a19008e8"
+},
+"vitality.gg": {
+"key": "vitality-gg",
+"from": "website:https://vitality.gg/cdn/shop/files/KIOXIA_BrandLogo_WHT_CMYK_Logo_only.png?height=100&v=1785421843",
+"kind": "logo",
+"score": 160,
+"shape": "plate",
+"w": 192,
+"sha": "a105d72d4d1063c3"
 },
 "vittascience.com": {
 "key": "vittascience-com",
@@ -27088,6 +29441,15 @@
 "shape": "tile",
 "sha": "c8440bf73f3fc361"
 },
+"viziosense.com": {
+"key": "viziosense-com",
+"from": "website:https://static.wixstatic.com/media/f85327_92adf22fa82a44b3aee8e4a6194f7c95%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/f85327_92adf22fa82a44b3aee8e4a6194f7c95%7Emv2.png",
+"kind": "icon",
+"score": 192,
+"shape": "tile",
+"w": 96,
+"sha": "a1f7c3b6a0188bd6"
+},
 "vizzia.com": {
 "key": "vizzia-com",
 "from": "linkedin",
@@ -27111,6 +29473,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "63a11429253d9e94"
+},
+"vocads.com": {
+"key": "vocads-com",
+"from": "website:https://vocads.com/favicon.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "5bfaee0ec3aa03eb"
 },
 "vocalimage.app": {
 "key": "vocalimage-app",
@@ -27211,6 +29582,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "a3e764d2d366f0ff"
+},
+"voxe.org": {
+"key": "voxe-org",
+"from": "website:https://cdn.prod.website-files.com/64c3cef7814dd98e4dda8820/64ef4ede0588575be7e2cad4_fav-256.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "c15ca708d70d7fce"
 },
 "voxeo.eu": {
 "key": "voxeo-eu",
@@ -27392,6 +29772,15 @@
 "w": 96,
 "sha": "ac9114d63aa43ac6"
 },
+"watiz.io": {
+"key": "watiz-io",
+"from": "website:https://socolive44.com/wp-content/uploads/2025/07/logo-socolive.png",
+"kind": "logo?",
+"score": 120,
+"shape": "plate",
+"w": 192,
+"sha": "c162b263e494664e"
+},
 "watnowa.com": {
 "key": "watnowa-com",
 "from": "linkedin",
@@ -27427,6 +29816,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "87ea49785f3462d0"
+},
+"wayup.com": {
+"key": "wayup-com",
+"from": "website:https://www.wayup.com/cdn/assets/wayup_logos/favicon/2018/apple-icon-180x180.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "0423ec143d15141a"
 },
 "we-act.fr": {
 "key": "we-act-fr",
@@ -27725,6 +30123,10 @@
 "shape": "tile",
 "sha": "828ca3557cd1dd39"
 },
+"wello.io": {
+"key": null,
+"why": "no usable logo"
+},
 "wellobikes.fr": {
 "key": "wellobikes-fr",
 "from": "linkedin",
@@ -27794,6 +30196,15 @@
 "shape": "tile",
 "sha": "62d9b1d825f2d45b"
 },
+"whaly.com": {
+"key": "whaly-com",
+"from": "website:https://www.whaly.com/images/logo.png",
+"kind": "logo",
+"score": 141,
+"shape": "plate",
+"w": 146,
+"sha": "60159c15c8e460fe"
+},
 "what-matters.fr": {
 "key": "what-matters-fr",
 "from": "linkedin",
@@ -27817,6 +30228,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "9bdbf219cbe51226"
+},
+"whoomies.com": {
+"key": "whoomies-com",
+"from": "website:https://whoomies.com/frontend/img/favicon.svg",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "88d18f9166d0005f"
 },
 "wi-studio.com": {
 "key": "wi-studio-com",
@@ -27872,6 +30292,15 @@
 "shape": "tile",
 "sha": "912d174c1f018c94"
 },
+"wildcardmobile.com": {
+"key": "wildcardmobile-com",
+"from": "website:https://b2396399.assetcdn.net/2.0/2396399/wp-content/uploads/2021/06/cropped-wildcard_favicon-192x192.png?lossy=0&strip=1&webp=1",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 160,
+"sha": "a7671ede2f3981d7"
+},
 "wileurope.org": {
 "key": "wileurope-org",
 "from": "linkedin",
@@ -27913,6 +30342,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "f29f7cbb7625008c"
+},
+"wilov.com": {
+"key": "wilov-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "e4c3ac5c26ad7f16"
 },
 "wind.capital": {
 "key": "wind-capital",
@@ -28134,6 +30569,15 @@
 "shape": "tile",
 "sha": "6a360f2fa75f20c7"
 },
+"woodoo.com": {
+"key": "woodoo-com",
+"from": "website:https://woodoo.com/wp-content/uploads/2024/10/cropped-favicon.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "a34f102a1d7c78db"
+},
 "woorton.com": {
 "key": "woorton-com",
 "from": "linkedin",
@@ -28347,6 +30791,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "06806d6ccce4c998"
+},
+"ycombinator.com": {
+"key": "ycombinator-com",
+"from": "website:https://bookface-static.ycombinator.com/assets/ycdc/favicon-c8a914eeeba9fe6f7a863b35608b55aeedd7c1ff409c97b9ecb96b7a6c278d70.ico",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 96,
+"sha": "c72272ed872fd267"
 },
 "yeets.fr": {
 "key": "yeets-fr",
@@ -28703,6 +31156,15 @@
 "shape": "tile",
 "sha": "28e24a6d1cbc0238"
 },
+"yuzu.com": {
+"key": "yuzu-com",
+"from": "website:https://www.yuzu.com/android-icon-192x192.png",
+"kind": "icon",
+"score": 192,
+"shape": "plate",
+"w": 96,
+"sha": "69338d13431b101e"
+},
 "yuzzit.video": {
 "key": "yuzzit-video",
 "from": "linkedin",
@@ -28795,6 +31257,15 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "dcb7f70efd025ab9"
+},
+"zenpark.com": {
+"key": "zenpark-com",
+"from": "website:https://cdn-static.zenpark.com/favicons/zenpark-v2/apple-touch-icon.png",
+"kind": "icon",
+"score": 180,
+"shape": "plate",
+"w": 96,
+"sha": "4d1b69c881ab09cd"
 },
 "zenride.co": {
 "key": "zenride-co",
