@@ -6,7 +6,10 @@ cf 'l' = a single LinkedIn lead), or everyone with --all. The search asks for pa
 (the company's own contact / careers pages, job posts, press about a move); Exa returns query-focused highlights
 of each page, and street addresses are pulled from them and scored by the words around them, as in websites.py:
   + "bureaux", "office", "locaux", "nous rejoindre", "based in", job-post wording; own domain; job boards
-  - "siège social", "RCS", "capital", "domicili", company registries (pappers, societe.com, ...)
+  - "siège social", "RCS", "capital", "domicili", company registries (pappers, societe.com, ...), legal / T&C / privacy /
+    help-centre pages (excluded: they print the registered seat)
+Weights for resolve.py: own site or job post with office wording 3, other own-site / job-board hits 2,
+press, directories and listings 1.5 (they corroborate other evidence but never override it on their own).
 The best candidate per company is written to data/ref/exa_offices.json in the verified.json row format
 ({n, w, office_street, postcode, source_url, source_type, weight}); scripts/resolve.py reads it as 'research' evidence.
 
@@ -45,7 +48,9 @@ REGISTRY = re.compile(r"pappers|societe\.com|annuaire|infogreffe|verif\.com|mana
                       r"entreprises\.|sortlist|dirigeant|infonet|creditsafe|ellisphere|northdata|crunchbase|pitchbook|dealroom|tracxn|cbinsights", re.I)
 # legal notices, T&Cs and privacy pages print the registered seat, not the office
 LEGAL_URL = re.compile(r"mentions|legal|l[ée]gales?|cgu|cgv|terms|termes|conditions|privacy|confidentialit|politique|"
-                       r"imprint|impressum|rgpd|gdpr|cookie|disclaimer", re.I)
+                       r"imprint|impressum|rgpd|gdpr|cookie|disclaimer|\btos\b|charte|charter|data-protection|protection-des-donn|"
+                       r"annuaire|directory|support\.|freshdesk|zendesk|helpcenter|help-center|faq|donn[ée]es|donn%c3%a9es|"
+                       r"personal|personnel|polic(y|ies)|name=terms", re.I)
 JOBS = re.compile(r"welcometothejungle|jobs\.|careers\.|lever\.co|greenhouse\.io|ashbyhq|teamtailor|workable|recruitee|"
                   r"smartrecruiters|indeed|hellowork|jobteaser|apec\.fr|glassdoor|wttj|join\.com|personio|flatchr|"
                   r"/careers|/jobs|/carrieres|/recrutement", re.I)
@@ -122,7 +127,10 @@ def candidates(c, results):
                     continue  # an address on a third-party page that does not name the company is someone else's
                 if re.search(r'\b(cs|bp|cedex|tsa)\s*$', m.group(1), re.I):
                     continue  # "CS 92459" is a mail-routing code, not a postcode
-                seat = bool(NEG.search(near)) or bool(REGISTRY.search(h)) or bool(LEGAL_URL.search(urllib.parse.urlparse(url).path))
+                pu = urllib.parse.urlparse(url)
+                job_post = bool(re.search(r'/(jobs?|offres?|careers?)/[^/]+', pu.path))   # slugs like ".../conditions-..." are fine
+                legal_page = not job_post and bool(LEGAL_URL.search(pu.netloc + pu.path + '?' + pu.query))
+                seat = bool(NEG.search(near)) or bool(REGISTRY.search(h)) or legal_page
                 score = (2 if POS.search(ctx) else 0) - (3 if seat else 1 if NEG.search(ctx) else 0)
                 score += 2 if own else 1 if JOBS.search(url) else 0
                 addr = re.sub(r'\s+', ' ', m.group(1)).strip(' ,-')
@@ -188,7 +196,7 @@ def main():
                         'source_url': b['url'], 'source_type': b['kind'], 'is_startup': True,
                         # own site / job post with office wording = strong; a press mention or a coworking = medium
                         'weight': (3 if b['kind'] in ('website', 'jobs') and b['score'] >= 2 and not b['cowork']
-                                   else 1.5 if b['kind'] == 'directory' else 2),
+                                   else 2 if b['kind'] in ('website', 'jobs') else 1.5),   # press / directories corroborate only
                         'via': 'exa'}
             if i % 200 == 0:
                 print(f'  {i} searched · {found} offices · ${spent[0]:.2f}', flush=True)

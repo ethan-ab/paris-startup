@@ -45,19 +45,9 @@
 "e": 182
 },
 {
-"n": "Micco",
-"u": "https://micco.app/",
-"e": 9
-},
-{
 "n": "LinkCy",
 "u": "https://linkcy.io/",
 "e": 10
-},
-{
-"n": "Maekn",
-"u": "https://maekn.com/",
-"e": 15
 },
 {
 "n": "Minah",
@@ -72,11 +62,6 @@
 {
 "n": "TwoWay",
 "u": "https://twoway.finance/",
-"e": 11
-},
-{
-"n": "YoChBee",
-"u": "https://yochbee.com/",
 "e": 11
 },
 {
@@ -108,11 +93,6 @@
 "n": "Everix",
 "u": "https://everix.io/",
 "e": 5
-},
-{
-"n": "Stancer",
-"u": "https://stancer.com/",
-"e": 51
 },
 {
 "n": "Pleenk.com",
@@ -180,24 +160,9 @@
 "e": 22
 },
 {
-"n": "Mambu Payments (formerly Numeral)",
-"u": "https://mambu.com/en/payments",
-"e": 37
-},
-{
-"n": "Paymium",
-"u": "https://paymium.com/",
-"e": 12
-},
-{
 "n": "Prelude",
 "u": "https://prelude.so/",
 "e": 78
-},
-{
-"n": "STAIRWAGE",
-"u": "https://stairwage.com/",
-"e": 8
 },
 {
 "n": "Korint Insurtech",
@@ -230,19 +195,9 @@
 "e": 5
 },
 {
-"n": "Brokoli",
-"u": "https://brokoli.fr/",
-"e": 17
-},
-{
 "n": "Little John",
 "u": "https://little-john.io/",
 "e": 12
-},
-{
-"n": "Qivio Assurance",
-"u": "https://qivio.fr/",
-"e": 8
 },
 {
 "n": "Tendanz Group",
@@ -265,11 +220,6 @@
 "e": 3
 },
 {
-"n": "Owen",
-"u": "https://get-owen.com/",
-"e": 425
-},
-{
 "n": "Dalma.",
 "u": "https://dalma.co/",
 "e": 163
@@ -283,11 +233,6 @@
 "n": "astoryaVC",
 "u": "https://astorya.vc/",
 "e": 12
-},
-{
-"n": "Apana",
-"u": "https://apana.ai/",
-"e": 14
 },
 {
 "n": "Merkl",
@@ -390,11 +335,6 @@
 "e": 4
 },
 {
-"n": "Monkey Money",
-"u": "https://monkeymoney.fr/",
-"e": 4
-},
-{
 "n": "Nokenchain",
 "u": "https://nokenchain.net/",
 "e": 3
@@ -425,11 +365,6 @@
 "e": 6
 },
 {
-"n": "Tracee",
-"u": "https://traceegroup.com/",
-"e": 5
-},
-{
 "n": "RAID Square",
 "u": "https://raidsquare.com/",
 "e": 2
@@ -453,11 +388,6 @@
 "n": "Cryptolux - Votre partenaire Web3",
 "u": "https://777cryptolux.com/",
 "e": 2
-},
-{
-"n": "Ambro",
-"u": "https://ambro-crypto.fr/",
-"e": 6
 },
 {
 "n": "BLOCKAPITAL",
@@ -575,11 +505,6 @@
 "e": 2
 },
 {
-"n": "Galink",
-"u": "https://galink.com/",
-"e": 11
-},
-{
 "n": "Risk Hunter",
 "u": "https://riskhunter.io/",
 "e": 6
@@ -618,11 +543,6 @@
 "n": "Keepya",
 "u": "https://keepya.fr/",
 "e": 2
-},
-{
-"n": "Rizlum",
-"u": "https://rizlum.ai/",
-"e": 23
 },
 {
 "n": "Evidencia",
@@ -670,11 +590,6 @@
 "e": 33
 },
 {
-"n": "Evina",
-"u": "https://evina.com/",
-"e": 55
-},
-{
 "n": "SustainSoft",
 "u": "https://sustainsoft.eu/",
 "e": 19
@@ -720,11 +635,6 @@
 "e": 4
 },
 {
-"n": "LaBienveillanceFinancière",
-"u": "https://labienveillancefinanciere.fr/",
-"e": 11
-},
-{
 "n": "Capleva",
 "u": "https://capleva.com/",
 "e": 3
@@ -753,16 +663,6 @@
 "n": "EasyBourse",
 "u": "https://easybourse.com/",
 "e": 60
-},
-{
-"n": "uTip",
-"u": "https://utip.io/",
-"e": 9
-},
-{
-"n": "HedgeGuard",
-"u": "https://hedgeguard.com/",
-"e": 10
 },
 {
 "n": "Ograal, Sport Nutritionist in App",
@@ -820,19 +720,9 @@
 "e": 2
 },
 {
-"n": "Stellia.ai",
-"u": "https://stellia.ai/",
-"e": 11
-},
-{
 "n": "Konverso",
 "u": "https://konverso.ai/",
 "e": 12
-},
-{
-"n": "Formel AI",
-"u": "https://formel.ai/",
-"e": 8
 },
 {
 "n": "SafeBrain.AI",
@@ -910,11 +800,6 @@
 "e": 2
 },
 {
-"n": "Krisspy",
-"u": "https://krisspy.ai/",
-"e": 4
-},
-{
 "n": "Picteus",
 "u": "https://picteus.com/",
 "e": 2
@@ -960,19 +845,9 @@
 "e": 3
 },
 {
-"n": "Holoscope",
-"u": "https://holoscope.ai/",
-"e": 2
-},
-{
 "n": "lumenx.ai",
 "u": "https://lumenx.ai/",
 "e": 7
-},
-{
-"n": "Comand AI",
-"u": "https://comand.ai/",
-"e": 42
 },
 {
 "n": "Ask This Guy",
@@ -1050,11 +925,6 @@
 "e": 11
 },
 {
-"n": "Edgee",
-"u": "https://edgee.ai/",
-"e": 12
-},
-{
 "n": "NPco",
 "u": "https://npco.ai/",
 "e": 12
@@ -1063,11 +933,6 @@
 "n": "Catalog",
 "u": "https://gocatalog.ai/",
 "e": 25
-},
-{
-"n": "Monk AI",
-"u": "https://monk.ai/",
-"e": 26
 },
 {
 "n": "La Fraise",
@@ -1180,16 +1045,6 @@
 "e": 3
 },
 {
-"n": "Scalability",
-"u": "https://getscalability.io/",
-"e": 22
-},
-{
-"n": "Oupi Technologies",
-"u": "https://oupi.com/",
-"e": 6
-},
-{
 "n": "Figen AI",
 "u": "https://figenai.com/",
 "e": 11
@@ -1198,16 +1053,6 @@
 "n": "kairros",
 "u": "https://kairros.ai/",
 "e": 3
-},
-{
-"n": "Galileo",
-"u": "https://galileotech.fr/",
-"e": 4
-},
-{
-"n": "Mendo",
-"u": "https://mendo.cloud/",
-"e": 67
 },
 {
 "n": "TeamBrain",
@@ -1285,11 +1130,6 @@
 "e": 62
 },
 {
-"n": "Prodiges",
-"u": "https://prodiges.io/",
-"e": 6
-},
-{
 "n": "Youree",
 "u": "https://youree.io/",
 "e": 4
@@ -1298,11 +1138,6 @@
 "n": "Leony",
 "u": "https://leony.ai/",
 "e": 5
-},
-{
-"n": "Yneuro",
-"u": "https://yneuro.com/",
-"e": 24
 },
 {
 "n": "Spartera",
@@ -1450,11 +1285,6 @@
 "e": 4
 },
 {
-"n": "Galeio",
-"u": "https://galeio.fr/",
-"e": 5
-},
-{
 "n": "underlayer",
 "u": "https://underlayer.ai/",
 "e": 2
@@ -1495,16 +1325,6 @@
 "e": 2
 },
 {
-"n": "GRAND SHOOTING",
-"u": "https://grand-shooting.com/",
-"e": 35
-},
-{
-"n": "Detroit — AI Production House",
-"u": "https://detroit.paris/",
-"e": 7
-},
-{
 "n": "Arcy",
 "u": "https://arcy.app/",
 "e": 3
@@ -1518,11 +1338,6 @@
 "n": "Yavantha",
 "u": "https://yavantha.com/",
 "e": 6
-},
-{
-"n": "Polar Analytics 🐻‍❄️",
-"u": "https://polaranalytics.com/",
-"e": 36
 },
 {
 "n": "Biron",
@@ -1563,11 +1378,6 @@
 "n": "Datamensio",
 "u": "https://datamensio.com/",
 "e": 8
-},
-{
-"n": "Pisteur",
-"u": "https://pisteur.io/",
-"e": 17
 },
 {
 "n": "GAMMA, Data and advanced Analytics",
@@ -1635,11 +1445,6 @@
 "e": 32
 },
 {
-"n": "Dispr",
-"u": "https://dispr.tech/",
-"e": 6
-},
-{
 "n": "HALIRO",
 "u": "https://haliro.io/",
 "e": 3
@@ -1675,11 +1480,6 @@
 "e": 5
 },
 {
-"n": "Le Parapheur",
-"u": "https://le-parapheur.fr/",
-"e": 14
-},
-{
 "n": "Nomadia",
 "u": "https://nomadia.com/",
 "e": 259
@@ -1703,11 +1503,6 @@
 "n": "Qotid",
 "u": "https://qotid.com/",
 "e": 17
-},
-{
-"n": "Trusty",
-"u": "https://hellotrusty.io/",
-"e": 23
 },
 {
 "n": "Ofelia",
@@ -1785,11 +1580,6 @@
 "e": 5
 },
 {
-"n": "TalentPicker",
-"u": "https://talentpicker.io/",
-"e": 5
-},
-{
 "n": "RHIA Copilot",
 "u": "https://rhia.pro/",
 "e": 2
@@ -1808,11 +1598,6 @@
 "n": "OpenReferral.io",
 "u": "https://openreferral.io/",
 "e": 2
-},
-{
-"n": "Jobstory",
-"u": "https://jobstory.app/",
-"e": 5
 },
 {
 "n": "Wapply",
@@ -1853,11 +1638,6 @@
 "n": "Instarlink HR Tech @Le Lab RH",
 "u": "https://instarlink.com/",
 "e": 2
-},
-{
-"n": "StaffMe",
-"u": "https://staffme.fr/",
-"e": 298
 },
 {
 "n": "Join Labo",
@@ -1965,11 +1745,6 @@
 "e": 3
 },
 {
-"n": "Salesbytech",
-"u": "https://salesby.tech/",
-"e": 3
-},
-{
 "n": "Andoxa",
 "u": "https://andoxa.fr/",
 "e": 4
@@ -2060,16 +1835,6 @@
 "e": 31
 },
 {
-"n": "►VIDATA",
-"u": "https://vidata.io/",
-"e": 12
-},
-{
-"n": "Episto",
-"u": "https://episto.fr/",
-"e": 36
-},
-{
 "n": "Teeps",
 "u": "https://teeps.co/",
 "e": 10
@@ -2155,11 +1920,6 @@
 "e": 44
 },
 {
-"n": "FORMA",
-"u": "https://forma.legal/",
-"e": 2
-},
-{
 "n": "Wonder.Legal",
 "u": "https://wonder.legal/",
 "e": 6
@@ -2173,11 +1933,6 @@
 "n": "Lawpic",
 "u": "https://lawpic.com/",
 "e": 9
-},
-{
-"n": "Delivract",
-"u": "https://delivract.fr/",
-"e": 8
 },
 {
 "n": "Clustdoc",
@@ -2195,11 +1950,6 @@
 "e": 6
 },
 {
-"n": "Siello",
-"u": "https://siello.co/",
-"e": 18
-},
-{
 "n": "Stream Estate",
 "u": "https://stream.estate/",
 "e": 2
@@ -2215,11 +1965,6 @@
 "e": 2
 },
 {
-"n": "LA PLACE",
-"u": "https://la-place.io/",
-"e": 2
-},
-{
 "n": "Kittance",
 "u": "https://kittance.fr/",
 "e": 3
@@ -2228,11 +1973,6 @@
 "n": "GoSpot.me",
 "u": "https://gospot.me/",
 "e": 3
-},
-{
-"n": "Flexliving",
-"u": "https://flexliving.com/",
-"e": 26
 },
 {
 "n": "BailFacile",
@@ -2248,11 +1988,6 @@
 "n": "LyBox",
 "u": "https://lybox.fr/",
 "e": 3
-},
-{
-"n": "Brickmeup",
-"u": "https://brickmeup.com/",
-"e": 5
 },
 {
 "n": "Dôme immo",
@@ -2305,24 +2040,9 @@
 "e": 188
 },
 {
-"n": "Emeria",
-"u": "https://emeriagroup.com/",
-"e": 509
-},
-{
-"n": "Wellow",
-"u": "https://wellowhouse.com/",
-"e": 26
-},
-{
 "n": "Flip & Go",
 "u": "https://flipandgo.ai/",
 "e": 7
-},
-{
-"n": "Bellman",
-"u": "https://bellman.immo/",
-"e": 44
 },
 {
 "n": "Koliving",
@@ -2345,18 +2065,8 @@
 "e": 24
 },
 {
-"n": "ORIS Materials Intelligence",
-"u": "https://oris-connect.com/",
-"e": 45
-},
-{
 "n": "Renalto",
 "u": "https://renalto.fr/",
-"e": 7
-},
-{
-"n": "BIMCUBES",
-"u": "https://bimcubes.com/",
 "e": 7
 },
 {
@@ -2410,11 +2120,6 @@
 "e": 2
 },
 {
-"n": "Kompozite",
-"u": "https://kompozite.io/",
-"e": 5
-},
-{
 "n": "mashe.",
 "u": "https://mashe.fr/",
 "e": 10
@@ -2438,11 +2143,6 @@
 "n": "Octorenov",
 "u": "https://octorenov.com/",
 "e": 15
-},
-{
-"n": "e-béton",
-"u": "https://e-beton.io/",
-"e": 4
 },
 {
 "n": "La Tech du BTP",
@@ -2473,11 +2173,6 @@
 "n": "SpinalCom",
 "u": "https://spinalcom.com/",
 "e": 18
-},
-{
-"n": "leakmited",
-"u": "https://leakmited.com/",
-"e": 53
 },
 {
 "n": "Continus.io",
@@ -2600,11 +2295,6 @@
 "e": 11
 },
 {
-"n": "StrangeBee",
-"u": "https://strangebee.com/",
-"e": 83
-},
-{
 "n": "HighJack | Offensive Cybersecurity",
 "u": "https://high-jack.fr/",
 "e": 6
@@ -2615,19 +2305,9 @@
 "e": 3
 },
 {
-"n": "CyTailor",
-"u": "https://cytailor.io/",
-"e": 4
-},
-{
 "n": "Galea Cyber",
 "u": "https://galeacyber.com/",
 "e": 4
-},
-{
-"n": "Erium",
-"u": "https://erium.fr/",
-"e": 43
 },
 {
 "n": "ESENTIVE",
@@ -2690,11 +2370,6 @@
 "e": 7
 },
 {
-"n": "Notice",
-"u": "https://notice.studio/",
-"e": 2
-},
-{
 "n": "In Value",
 "u": "https://in-value.fr/",
 "e": 3
@@ -2750,24 +2425,9 @@
 "e": 19
 },
 {
-"n": "Code Busters",
-"u": "https://codebusters.fr/",
-"e": 65
-},
-{
-"n": "DevFactory Studio",
-"u": "https://devfactory.studio/",
-"e": 5
-},
-{
 "n": "Defer",
 "u": "https://digger.tools/",
 "e": 5
-},
-{
-"n": "Crosscut",
-"u": "https://crosscut.eu/",
-"e": 4
 },
 {
 "n": "ColibriTD",
@@ -2830,16 +2490,6 @@
 "e": 5
 },
 {
-"n": "XP2 Cloud",
-"u": "https://xp2cloud.com/",
-"e": 13
-},
-{
-"n": "SATELLIZ",
-"u": "https://satelliz.com/",
-"e": 9
-},
-{
 "n": "CloudShift",
 "u": "https://cloudshift.fr/",
 "e": 25
@@ -2848,11 +2498,6 @@
 "n": "Kokori.Cloud",
 "u": "https://kokori.cloud/",
 "e": 6
-},
-{
-"n": "VIVO IN PARIS",
-"u": "https://vivoinparis.com/",
-"e": 5
 },
 {
 "n": "ITCloud",
@@ -2870,11 +2515,6 @@
 "e": 3
 },
 {
-"n": "_rzilient",
-"u": "https://rzilient.club/",
-"e": 50
-},
-{
 "n": "Equitable Earth",
 "u": "https://eq-earth.com/",
 "e": 54
@@ -2883,11 +2523,6 @@
 "n": "Scaffold",
 "u": "https://filter.explorads.com/filter?ci=-7355838783480612372&h=39&i=slij8o66nei_0&q=scaffold&t=171785919",
 "e": 2
-},
-{
-"n": "App Studio",
-"u": "https://app.studio/",
-"e": 14
 },
 {
 "n": "Soap - Bubble.io Agency",
@@ -2925,11 +2560,6 @@
 "e": 4
 },
 {
-"n": "Maglia.io",
-"u": "https://maglia.io/",
-"e": 6
-},
-{
 "n": "Yellow",
 "u": "https://getyellow.io/",
 "e": 4
@@ -2953,16 +2583,6 @@
 "n": "I-pose",
 "u": "https://i-pose.fr/",
 "e": 4
-},
-{
-"n": "Hyperstack",
-"u": "https://hyperstack.studio/",
-"e": 7
-},
-{
-"n": "Postpace",
-"u": "https://postpace.io/",
-"e": 5
 },
 {
 "n": "Platformeasy",
@@ -2993,11 +2613,6 @@
 "n": "Smanck",
 "u": "https://smanck.com/",
 "e": 3
-},
-{
-"n": "MerciApp",
-"u": "https://merci-app.com/",
-"e": 31
 },
 {
 "n": "there.do",
@@ -3135,11 +2750,6 @@
 "e": 2
 },
 {
-"n": "H24 CARE",
-"u": "https://h24.care/",
-"e": 8
-},
-{
 "n": "Gynger",
 "u": "https://gyngercare.com/",
 "e": 7
@@ -3160,11 +2770,6 @@
 "e": 4
 },
 {
-"n": "Cure51",
-"u": "https://cure51.com/",
-"e": 63
-},
-{
 "n": "Galeon",
 "u": "https://galeon.care/",
 "e": 96
@@ -3173,11 +2778,6 @@
 "n": "ThIA Santé Mentale",
 "u": "https://thiasantementale.fr/",
 "e": 73
-},
-{
-"n": "Hopia",
-"u": "https://hopia.eu/",
-"e": 48
 },
 {
 "n": "Carenity",
@@ -3205,19 +2805,9 @@
 "e": 42
 },
 {
-"n": "Lola Health",
-"u": "https://lolahealth.fr/",
-"e": 19
-},
-{
 "n": "Kano.care",
 "u": "https://kano.care/",
 "e": 10
-},
-{
-"n": "Julier Medical",
-"u": "https://juliermedical.com/",
-"e": 6
 },
 {
 "n": "Olva Medical",
@@ -3260,11 +2850,6 @@
 "e": 20
 },
 {
-"n": "CERAMED",
-"u": "https://ceramed.fr/",
-"e": 9
-},
-{
 "n": "BioHive",
 "u": "https://biohive-innovations.com/",
 "e": 16
@@ -3283,11 +2868,6 @@
 "n": "SABER BIO",
 "u": "https://saber-bio.com/",
 "e": 5
-},
-{
-"n": "Eligo Bioscience",
-"u": "https://eligo.bio/",
-"e": 43
 },
 {
 "n": "SynMetabio",
@@ -3342,11 +2922,6 @@
 {
 "n": "Papilio.Bio",
 "u": "https://papilio.bio/",
-"e": 3
-},
-{
-"n": "Fovea Pharmaceuticals SA",
-"u": "https://fovea-pharma.com/",
 "e": 3
 },
 {
@@ -3410,19 +2985,9 @@
 "e": 6
 },
 {
-"n": "Uneri",
-"u": "https://uneri.co/",
-"e": 10
-},
-{
 "n": "Neiji",
 "u": "https://neiji.co/",
 "e": 2
-},
-{
-"n": "Dr Jay",
-"u": "https://drjay.ai/",
-"e": 14
 },
 {
 "n": "Franchement ça va",
@@ -3437,11 +3002,6 @@
 {
 "n": "Fokkus",
 "u": "https://fokkus.fr/",
-"e": 2
-},
-{
-"n": "La.Sphère",
-"u": "https://lasphere.co/",
 "e": 2
 },
 {
@@ -3493,16 +3053,6 @@
 "n": "WORKWISE",
 "u": "https://mind-app.io/",
 "e": 3
-},
-{
-"n": "Lift",
-"u": "https://lift-ed.fr/",
-"e": 6
-},
-{
-"n": "InSleepLab",
-"u": "https://insleeplab.fr/",
-"e": 7
 },
 {
 "n": "Guift",
@@ -3640,11 +3190,6 @@
 "e": 21
 },
 {
-"n": "IEVA",
-"u": "https://myieva.com/",
-"e": 40
-},
-{
 "n": "Napro France",
 "u": "https://napro.fr/",
 "e": 23
@@ -3683,11 +3228,6 @@
 "n": "Protera",
 "u": "https://proterabio.com/",
 "e": 10
-},
-{
-"n": "adapt",
-"u": "https://adapt.sh/",
-"e": 9
 },
 {
 "n": "Exora | Cooling Technologies",
@@ -3733,11 +3273,6 @@
 "n": "Climate For All",
 "u": "https://climateforall.ai/",
 "e": 2
-},
-{
-"n": "HOTRIVER",
-"u": "https://hotriver.fr/",
-"e": 3
 },
 {
 "n": "Ecopaths",
@@ -3805,11 +3340,6 @@
 "e": 4
 },
 {
-"n": "Versant",
-"u": "https://versant.earth/",
-"e": 12
-},
-{
 "n": "MONSAPO",
 "u": "https://monsapo.com/",
 "e": 9
@@ -3823,11 +3353,6 @@
 "n": "Climate Club",
 "u": "https://climateclub.cc/",
 "e": 49
-},
-{
-"n": "Eclipse",
-"u": "https://eclipse-flow.com/",
-"e": 32
 },
 {
 "n": "Inicio",
@@ -3905,11 +3430,6 @@
 "e": 64
 },
 {
-"n": "We Take Part",
-"u": "https://wetakepart.com/",
-"e": 2
-},
-{
 "n": "Lokalité",
 "u": "https://lokalite.io/",
 "e": 3
@@ -3943,11 +3463,6 @@
 "n": "Rize",
 "u": "https://rizeag.com/",
 "e": 2
-},
-{
-"n": "ValueCo",
-"u": "https://valuecometrics.com/",
-"e": 53
 },
 {
 "n": "Weturn",
@@ -4065,11 +3580,6 @@
 "e": 18
 },
 {
-"n": "SWAP Food",
-"u": "https://swapfood.com/",
-"e": 73
-},
-{
 "n": "cofood",
 "u": "https://cofood.kitchen/",
 "e": 2
@@ -4078,11 +3588,6 @@
 "n": "Feed.",
 "u": "https://okr.fr/",
 "e": 179
-},
-{
-"n": "ogmah",
-"u": "https://ogmah.ai/",
-"e": 4
 },
 {
 "n": "The VERY Food Co.",
@@ -4160,29 +3665,9 @@
 "e": 2
 },
 {
-"n": "Cultivate",
-"u": "https://cultivate.fr/",
-"e": 5
-},
-{
-"n": "Toasty",
-"u": "https://toasty.family/",
-"e": 32
-},
-{
-"n": "Luna",
-"u": "https://lunafood.com/",
-"e": 365
-},
-{
 "n": "CQFD - Pâtes, ravioles et sauces Bio & locales (Île-de-France)",
 "u": "https://cqfd-bio.paris/",
 "e": 8
-},
-{
-"n": "Junk Group",
-"u": "https://junkgroup.fr/",
-"e": 57
 },
 {
 "n": "CryoVera",
@@ -4190,19 +3675,9 @@
 "e": 2
 },
 {
-"n": "Chefclub",
-"u": "https://chefclub.tv/",
-"e": 64
-},
-{
 "n": "epicery",
 "u": "https://epicery.com/",
 "e": 36
-},
-{
-"n": "BUSTRONOME",
-"u": "https://bustronome.com/",
-"e": 11
 },
 {
 "n": "GREENFULLY",
@@ -4240,11 +3715,6 @@
 "e": 15
 },
 {
-"n": "Le Printemps des Terres",
-"u": "https://printempsdesterres.fr/",
-"e": 8
-},
-{
 "n": "Happer",
 "u": "https://happer.fr/",
 "e": 4
@@ -4270,29 +3740,14 @@
 "e": 2
 },
 {
-"n": "forlife. Paris",
-"u": "https://forlife-paris.com/",
-"e": 4
-},
-{
 "n": "Nébuleuse Bijoux",
 "u": "https://nebuleusebijoux.com/",
 "e": 42
 },
 {
-"n": "la marque en moins.",
-"u": "https://lamarqueenmoins.fr/",
-"e": 22
-},
-{
 "n": "Le Fil Paris",
 "u": "https://lefilparis.com/",
 "e": 6
-},
-{
-"n": "SAS AMB",
-"u": "https://https/nicsell.com/fr/domain/www.amstore.fr",
-"e": 2
 },
 {
 "n": "24S",
@@ -4335,16 +3790,6 @@
 "e": 8
 },
 {
-"n": "Heyvva Technologie",
-"u": "https://heyvva.fr/",
-"e": 7
-},
-{
-"n": "Wolbe",
-"u": "https://wolbeparis.com/",
-"e": 4
-},
-{
 "n": "ESCALES Paris",
 "u": "https://escales-paris.com/",
 "e": 54
@@ -4385,16 +3830,6 @@
 "e": 34
 },
 {
-"n": "OUEST Paris",
-"u": "https://ouest.world/",
-"e": 8
-},
-{
-"n": "Qilibri",
-"u": "https://qilibri.fr/",
-"e": 38
-},
-{
 "n": "SAMPLE",
 "u": "https://sampleapp.co/",
 "e": 13
@@ -4410,11 +3845,6 @@
 "e": 4
 },
 {
-"n": "Voggt",
-"u": "https://voggt.com/",
-"e": 23
-},
-{
 "n": "DOTmarket.eu",
 "u": "https://dotmarket.eu/",
 "e": 11
@@ -4428,11 +3858,6 @@
 "n": "Pop in Shop",
 "u": "https://popinshop.fr/",
 "e": 2
-},
-{
-"n": "SecondStep",
-"u": "https://second-step.fr/",
-"e": 3
 },
 {
 "n": "Hello Job in Paris",
@@ -4495,11 +3920,6 @@
 "e": 11
 },
 {
-"n": "Momi",
-"u": "https://momi.fr/",
-"e": 28
-},
-{
 "n": "Loewi",
 "u": "https://loewi.fr/",
 "e": 14
@@ -4535,11 +3955,6 @@
 "e": 3
 },
 {
-"n": "mybe",
-"u": "https://mybesolutions.com/",
-"e": 5
-},
-{
 "n": "FINDS",
 "u": "https://finds.solutions/",
 "e": 11
@@ -4570,11 +3985,6 @@
 "e": 2
 },
 {
-"n": "MIRROR",
-"u": "https://mirrorforfashion.com/",
-"e": 3
-},
-{
 "n": "SHOP-MAKERS",
 "u": "https://shop-makers.com/",
 "e": 6
@@ -4600,11 +4010,6 @@
 "e": 10
 },
 {
-"n": "SoCloz",
-"u": "https://socloz.com/",
-"e": 41
-},
-{
 "n": "JeudiMerci",
 "u": "https://jeudimerci.fr/",
 "e": 20
@@ -4618,11 +4023,6 @@
 "n": "Shopadvizor France",
 "u": "https://shopadvizor.com/",
 "e": 9
-},
-{
-"n": "Selectionnist",
-"u": "https://selectionnist.com/",
-"e": 3
 },
 {
 "n": "Stockline",
@@ -4663,11 +4063,6 @@
 "n": "MODELD",
 "u": "https://modeld.app/",
 "e": 2
-},
-{
-"n": "TILLI - Join The Cycle ®",
-"u": "https://tilli.com/",
-"e": 27
 },
 {
 "n": "Modest Fashion France",
@@ -4775,39 +4170,14 @@
 "e": 34
 },
 {
-"n": "Hermetica Paris",
-"u": "https://hermetica.com/",
-"e": 4
-},
-{
-"n": "Madame la Présidente",
-"u": "https://madamelapresidente.fr/",
-"e": 10
-},
-{
-"n": "Ilyine Paris",
-"u": "https://ilyineparis.com/",
-"e": 13
-},
-{
 "n": "QIRINESS",
 "u": "https://qiriness.com/",
 "e": 19
 },
 {
-"n": "Mix Beauty",
-"u": "https://mixbeauty.com/",
-"e": 33
-},
-{
 "n": "Horace",
 "u": "https://horace.com/",
 "e": 143
-},
-{
-"n": "QUINQUE",
-"u": "https://quinqueskincare.co/",
-"e": 5
 },
 {
 "n": "Laboratoire IN'OYA",
@@ -4823,11 +4193,6 @@
 "n": "Skoolup",
 "u": "https://skoolup.fr/",
 "e": 25
-},
-{
-"n": "Apolearn",
-"u": "https://apolearn.com/",
-"e": 22
 },
 {
 "n": "01Edu",
@@ -4910,16 +4275,6 @@
 "e": 2
 },
 {
-"n": "You Can Learn",
-"u": "https://youcanlearn.fr/",
-"e": 3
-},
-{
-"n": "Leazy",
-"u": "https://leazy.net/",
-"e": 2
-},
-{
 "n": "RbeanLMS",
 "u": "https://rbean.io/",
 "e": 2
@@ -4938,11 +4293,6 @@
 "n": "hihilulu",
 "u": "https://hihilulu.com/",
 "e": 44
-},
-{
-"n": "ExtraStudent",
-"u": "https://extrastudent.com/",
-"e": 5
 },
 {
 "n": "FlowlyWeb",
@@ -5015,11 +4365,6 @@
 "e": 15
 },
 {
-"n": "Odys - Travel Software",
-"u": "https://odys.travel/",
-"e": 8
-},
-{
 "n": "PerfectStay",
 "u": "https://perfectstay.com/",
 "e": 131
@@ -5038,11 +4383,6 @@
 "n": "Arie",
 "u": "https://arie.guide/",
 "e": 3
-},
-{
-"n": "VairStay",
-"u": "https://vairstay.com/",
-"e": 2
 },
 {
 "n": "Yaago",
@@ -5080,11 +4420,6 @@
 "e": 49
 },
 {
-"n": "Nomador",
-"u": "https://nomador.com/",
-"e": 8
-},
-{
 "n": "travelgreen",
 "u": "https://travelgreen.com/",
 "e": 2
@@ -5095,19 +4430,9 @@
 "e": 6
 },
 {
-"n": "EuroPass - 欧洲通",
-"u": "https://europass.paris/",
-"e": 11
-},
-{
 "n": "Caocao Mobility France",
 "u": "https://caocao.fr/",
 "e": 11
-},
-{
-"n": "Tracks",
-"u": "https://makingtracks.eu/",
-"e": 2
 },
 {
 "n": "DIGITRIPS Group",
@@ -5118,11 +4443,6 @@
 "n": "NG Travel",
 "u": "https://kappaclub.fr/",
 "e": 146
-},
-{
-"n": "Lartisien",
-"u": "https://lartisien.com/",
-"e": 94
 },
 {
 "n": "Shunter",
@@ -5138,11 +4458,6 @@
 "n": "COMIN",
 "u": "https://wearecomin.com/",
 "e": 14
-},
-{
-"n": "Experience",
-"u": "https://experience-hotel.com/",
-"e": 44
 },
 {
 "n": "Dorobo",
@@ -5180,19 +4495,9 @@
 "e": 2
 },
 {
-"n": "Food Hotel Tech",
-"u": "https://www.foodhoteltech.com/en/",
-"e": 100
-},
-{
 "n": "HÔTES",
 "u": "https://hote-s.com/",
 "e": 18
-},
-{
-"n": "Make Me Glow Hospitality",
-"u": "https://makemeglow.fr/",
-"e": 15
 },
 {
 "n": "Frenchospitality",
@@ -5285,19 +4590,9 @@
 "e": 12
 },
 {
-"n": "uMotion 🚚🌱",
-"u": "https://umotion.tech/",
-"e": 3
-},
-{
 "n": "Avacar",
 "u": "https://avacar.io/",
 "e": 4
-},
-{
-"n": "FLEXY MOOV",
-"u": "https://flexymoov.fr/",
-"e": 2
 },
 {
 "n": "LinkByCar",
@@ -5325,11 +4620,6 @@
 "e": 6
 },
 {
-"n": "Jungle Bus",
-"u": "https://junglebus.io/",
-"e": 2
-},
-{
 "n": "E-lyne",
 "u": "https://e-lyne.fr/",
 "e": 3
@@ -5348,11 +4638,6 @@
 "n": "Diwio Europe",
 "u": "https://solution.diwio.com/diwio",
 "e": 14
-},
-{
-"n": "Trusk",
-"u": "https://trusk.com/",
-"e": 201
 },
 {
 "n": "Siko Mobility",
@@ -5440,11 +4725,6 @@
 "e": 3
 },
 {
-"n": "Flotify",
-"u": "https://flotify.fr/",
-"e": 3
-},
-{
 "n": "SupplyMind AI",
 "u": "https://aisupplymind.lovable.app/",
 "e": 2
@@ -5515,11 +4795,6 @@
 "e": 59
 },
 {
-"n": "Lytid",
-"u": "https://lytid.com/",
-"e": 11
-},
-{
 "n": "Kyneon",
 "u": "https://kyneon.fr/",
 "e": 4
@@ -5535,11 +4810,6 @@
 "e": 61
 },
 {
-"n": "Aqora",
-"u": "https://aqora.io/",
-"e": 12
-},
-{
 "n": "QUANTHRONEX",
 "u": "https://quanthronex.com/",
 "e": 2
@@ -5550,11 +4820,6 @@
 "e": 2
 },
 {
-"n": "Q2B",
-"u": "https://q2b.qcware.com/",
-"e": 2
-},
-{
 "n": "Alqemist",
 "u": "https://alqemist.com/",
 "e": 4
@@ -5562,11 +4827,6 @@
 {
 "n": "QUIDDITY - Strategic resilience software",
 "u": "https://quiddity-lab.com/",
-"e": 2
-},
-{
-"n": "France Quantum",
-"u": "https://francequantum.fr/",
 "e": 2
 },
 {
@@ -5660,11 +4920,6 @@
 "e": 15
 },
 {
-"n": "ART IN SPACE",
-"u": "https://artinspace.fr/",
-"e": 3
-},
-{
 "n": "ORIGENCE",
 "u": "https://origence.tech/",
 "e": 8
@@ -5725,11 +4980,6 @@
 "e": 3
 },
 {
-"n": "Wisear",
-"u": "https://naqilogix.com/",
-"e": 8
-},
-{
 "n": "WISTIKI",
 "u": "https://wistiki.com/",
 "e": 6
@@ -5738,11 +4988,6 @@
 "n": "Willie",
 "u": "https://meetwillie.com/",
 "e": 8
-},
-{
-"n": "Netmore France",
-"u": "https://netmoregroup.com/lorawan-france",
-"e": 7
 },
 {
 "n": "TOTEiM",
@@ -5760,24 +5005,9 @@
 "e": 2
 },
 {
-"n": "Tortoise",
-"u": "https://tortoise.io/",
-"e": 13
-},
-{
 "n": "Glorytech",
 "u": "https://glorytech.io/",
 "e": 10
-},
-{
-"n": "WizyEMM",
-"u": "https://wizyemm.com/",
-"e": 18
-},
-{
-"n": "Plume Labs",
-"u": "https://plumelabs.com/",
-"e": 6
 },
 {
 "n": "Weenect",
@@ -5808,11 +5038,6 @@
 "n": "Unagi",
 "u": "https://unagi.games/",
 "e": 25
-},
-{
-"n": "Sunny Peak",
-"u": "https://symphonia-game.com/",
-"e": 10
 },
 {
 "n": "TATAKI STUDIO",
@@ -5920,11 +5145,6 @@
 "e": 4
 },
 {
-"n": "La Belle",
-"u": "https://labellegames.com/",
-"e": 102
-},
-{
 "n": "PlayNove",
 "u": "https://playnove.com/",
 "e": 3
@@ -5945,19 +5165,9 @@
 "e": 2
 },
 {
-"n": "SAVANA",
-"u": "https://savana-games.com/",
-"e": 35
-},
-{
 "n": "games2gether",
 "u": "https://games2gether.com/",
 "e": 27
-},
-{
-"n": "Flat Pixel",
-"u": "https://flatpixel.fr/",
-"e": 8
 },
 {
 "n": "New Tales",
@@ -5965,19 +5175,9 @@
 "e": 50
 },
 {
-"n": "Ketchapp",
-"u": "https://ketchappgames.com/",
-"e": 61
-},
-{
 "n": "Dotemu",
 "u": "https://dotemu.com/",
 "e": 73
-},
-{
-"n": "Ubisoft Nadeo",
-"u": "https://ubisoft.com/en-us/studio/nadeo",
-"e": 36
 },
 {
 "n": "Green Panda Games",
@@ -6015,11 +5215,6 @@
 "e": 2
 },
 {
-"n": "Lizardcube",
-"u": "https://lizardcube.com/",
-"e": 9
-},
-{
 "n": "Ramdam",
 "u": "https://ramd.am/",
 "e": 45
@@ -6030,11 +5225,6 @@
 "e": 9
 },
 {
-"n": "OKS",
-"u": "https://oks.social/",
-"e": 29
-},
-{
 "n": "HYK",
 "u": "https://hyk.media/",
 "e": 7
@@ -6043,11 +5233,6 @@
 "n": "LoopIn",
 "u": "https://loopin.fr/",
 "e": 12
-},
-{
-"n": "Magic",
-"u": "https://magic.live/",
-"e": 6
 },
 {
 "n": "Weerlive",
@@ -6130,11 +5315,6 @@
 "e": 28
 },
 {
-"n": "YouBLive",
-"u": "https://youblive.com/",
-"e": 8
-},
-{
 "n": "Clipr",
 "u": "https://clipr.co/",
 "e": 3
@@ -6143,21 +5323,6 @@
 "n": "Les Electrons Libres",
 "u": "https://lel.media/",
 "e": 11
-},
-{
-"n": "interlude",
-"u": "https://interlude.media/",
-"e": 30
-},
-{
-"n": "Master The Monster",
-"u": "https://mtm.video/",
-"e": 18
-},
-{
-"n": "LACMÉ",
-"u": "https://lacmeprod.com/",
-"e": 43
 },
 {
 "n": "OKAST 🇪🇺",
@@ -6245,11 +5410,6 @@
 "e": 5
 },
 {
-"n": "Spencer",
-"u": "https://spencer-app.com/",
-"e": 3
-},
-{
 "n": "MOSTRO.xyz",
 "u": "https://mostro.xyz/",
 "e": 6
@@ -6258,11 +5418,6 @@
 "n": "2am",
 "u": "https://2am-music.com/",
 "e": 5
-},
-{
-"n": "Diggr",
-"u": "https://wearediggr.com/",
-"e": 2
 },
 {
 "n": "Playtronica",
@@ -6278,11 +5433,6 @@
 "n": "Deezer",
 "u": "https://deezerjobs.com/",
 "e": 1101
-},
-{
-"n": "MusicDatak",
-"u": "https://musicdatak.com/",
-"e": 2
 },
 {
 "n": "Oxmose",
@@ -6318,11 +5468,6 @@
 "n": "Fatstep",
 "u": "https://fatstep.com/",
 "e": 5
-},
-{
-"n": "Inside Music",
-"u": "https://insidemusic.com/",
-"e": 15
 },
 {
 "n": "Orosound (acquired by Syntiant)",
@@ -6415,11 +5560,6 @@
 "e": 4
 },
 {
-"n": "Leets",
-"u": "https://leets.app/",
-"e": 5
-},
-{
 "n": "Sports'N Connect & Running Heroes",
 "u": "https://sportsnconnect.com/",
 "e": 23
@@ -6435,11 +5575,6 @@
 "e": 6
 },
 {
-"n": "TIVA Performance",
-"u": "https://tiva-performance.com/",
-"e": 4
-},
-{
 "n": "Weissy",
 "u": "https://weissy.net/",
 "e": 2
@@ -6447,11 +5582,6 @@
 {
 "n": "Light-Net Sports",
 "u": "https://light-net.technology/",
-"e": 2
-},
-{
-"n": "Digital Sport Santé",
-"u": "https://digitalsportsante.fr/",
 "e": 2
 },
 {
@@ -6463,11 +5593,6 @@
 "n": "SportOn",
 "u": "https://sporton.fr/",
 "e": 18
-},
-{
-"n": "Sakana",
-"u": "https://sakanasport.com/",
-"e": 29
 },
 {
 "n": "Build Your Race",
@@ -6555,18 +5680,8 @@
 "e": 2
 },
 {
-"n": "Meeps",
-"u": "https://joinmeeps.com/",
-"e": 17
-},
-{
 "n": "Heylo",
 "u": "https://heylo.me/",
-"e": 2
-},
-{
-"n": "Palz",
-"u": "https://palz.fr/",
 "e": 2
 },
 {
@@ -6605,11 +5720,6 @@
 "e": 2
 },
 {
-"n": "Discover",
-"u": "https://discoverapp.fr/",
-"e": 3
-},
-{
 "n": "Bubble BD (Heappi SAS)",
 "u": "https://appbubble.co/",
 "e": 4
@@ -6630,11 +5740,6 @@
 "e": 10
 },
 {
-"n": "Rendez-vous",
-"u": "https://rendez-vous.social/",
-"e": 32
-},
-{
 "n": "Oh My Love !",
 "u": "https://ohmylove.app/",
 "e": 7
@@ -6643,11 +5748,6 @@
 "n": "Nice to Meet You",
 "u": "https://nicetomeetyou.paris/",
 "e": 2
-},
-{
-"n": "Hani",
-"u": "https://hani.paris/",
-"e": 15
 },
 {
 "n": "CHECKIT",
@@ -7045,11 +6145,6 @@
 "e": 14
 },
 {
-"n": "RSE Challenge",
-"u": "https://rse-challenge.fr/",
-"e": 4
-},
-{
 "n": "Les Tisseurs - ESS",
 "u": "https://les-tisseurs.fr/",
 "e": 10
@@ -7080,19 +6175,9 @@
 "e": 2
 },
 {
-"n": "Sawa Care",
-"u": "https://sawa-care.io/",
-"e": 6
-},
-{
 "n": "Lola",
 "u": "https://lolacare.fr/",
 "e": 3
-},
-{
-"n": "Speakli",
-"u": "https://speakli.fr/",
-"e": 7
 },
 {
 "n": "Famillys, et la vie de famille continue !",
@@ -7180,11 +6265,6 @@
 "e": 3
 },
 {
-"n": "Little Cigogne - Plumaïa",
-"u": "https://littlecigogne.com/",
-"e": 65
-},
-{
 "n": "Noö Family",
 "u": "https://noo-family.fr/",
 "e": 2
@@ -7192,11 +6272,6 @@
 {
 "n": "Tximy",
 "u": "https://tximy.com/",
-"e": 2
-},
-{
-"n": "Griokids",
-"u": "https://griokids.com/",
 "e": 2
 },
 {
@@ -7213,16 +6288,6 @@
 "n": "SOFT KIDS",
 "u": "https://softkids.net/",
 "e": 5
-},
-{
-"n": "DoudouCare",
-"u": "https://doudoucare.com/",
-"e": 4
-},
-{
-"n": "TEAM'PARENTS",
-"u": "https://teamparents-app.com/",
-"e": 3
 },
 {
 "n": "Commune coliving",
@@ -7250,11 +6315,6 @@
 "e": 4
 },
 {
-"n": "Vétorino",
-"u": "https://vetorino.com/",
-"e": 7
-},
-{
 "n": "Happog",
 "u": "https://happog.com/",
 "e": 2
@@ -7278,11 +6338,6 @@
 "n": "Patt'Mobil",
 "u": "https://patt-mobil.fr/",
 "e": 3
-},
-{
-"n": "Eden Garde",
-"u": "https://edengarde.com/",
-"e": 5
 },
 {
 "n": "Petits Fripons",
@@ -7320,16 +6375,6 @@
 "e": 2
 },
 {
-"n": "Paperas.se",
-"u": "https://paperas.se/",
-"e": 6
-},
-{
-"n": "Notatech",
-"u": "https://notatech.fr/",
-"e": 9
-},
-{
 "n": "BROKIN",
 "u": "https://brokin.fr/",
 "e": 6
@@ -7338,21 +6383,6 @@
 "n": "ATOLL FRANCE ASSURANCES",
 "u": "https://atoll-assurances.fr/",
 "e": 26
-},
-{
-"n": "Frenchbrokers",
-"u": "https://frenchbrokers.fr/",
-"e": 3
-},
-{
-"n": "SAVADEN",
-"u": "https://savaden.fr/",
-"e": 13
-},
-{
-"n": "INBSYS International",
-"u": "https://inbsys.fr/",
-"e": 2
 },
 {
 "n": "The Companies API",
@@ -7430,11 +6460,6 @@
 "e": 3
 },
 {
-"n": "Josy",
-"u": "https://josy.am/",
-"e": 11
-},
-{
 "n": "FRAISE",
 "u": "https://teamfraise.fr/",
 "e": 37
@@ -7450,19 +6475,9 @@
 "e": 11
 },
 {
-"n": "Capitaine Pizza",
-"u": "https://capitainepizza.com/",
-"e": 5
-},
-{
 "n": "Chronofresh",
 "u": "https://chronofresh.fr/",
 "e": 206
-},
-{
-"n": "DELIVERY Eat",
-"u": "https://deliveryeat.fr/",
-"e": 6
 },
 {
 "n": "Jelo",
@@ -7495,11 +6510,6 @@
 "e": 2
 },
 {
-"n": "La Brigade",
-"u": "https://la-brigade.fr/",
-"e": 95
-},
-{
 "n": "Un Resto en Plus",
 "u": "https://unrestoenplus.com/",
 "e": 5
@@ -7520,19 +6530,9 @@
 "e": 8
 },
 {
-"n": "KRUSTTY",
-"u": "https://krustty.com/",
-"e": 5
-},
-{
 "n": "Wineater",
 "u": "https://wineater.com/",
 "e": 2
-},
-{
-"n": "Digital Restaurateur",
-"u": "https://digital-restaurateur.fr/",
-"e": 3
 },
 {
 "n": "Boost",
@@ -7610,11 +6610,6 @@
 "e": 2
 },
 {
-"n": "Paris Entertainment Company",
-"u": "https://parisentertainmentcompany.com/",
-"e": 90
-},
-{
 "n": "GL events Paris",
 "u": "https://gleventsparisvenues.com/",
 "e": 81
@@ -7623,21 +6618,6 @@
 "n": "OneMICE",
 "u": "https://onemice.com/",
 "e": 4
-},
-{
-"n": "Ebrain",
-"u": "https://ebrain.fr/",
-"e": 25
-},
-{
-"n": "VirtualTime",
-"u": "https://virtualtime.com/",
-"e": 9
-},
-{
-"n": "Urbidesk",
-"u": "https://urbidesk.com/",
-"e": 5
 },
 {
 "n": "BeeMyFlex",
@@ -7660,19 +6640,9 @@
 "e": 4
 },
 {
-"n": "SQUARE OFFICE",
-"u": "https://square-office.fr/",
-"e": 5
-},
-{
 "n": "Atriumy",
 "u": "https://atriumy.com/",
 "e": 2
-},
-{
-"n": "kabin",
-"u": "https://kabin.fr/",
-"e": 7
 },
 {
 "n": "workin.space",
@@ -7690,16 +6660,6 @@
 "e": 4
 },
 {
-"n": "Club des Office Managers",
-"u": "https://clubdesofficemanagers.com/",
-"e": 8
-},
-{
-"n": "Indepia.",
-"u": "https://indepia.fr/",
-"e": 6
-},
-{
 "n": "InFreelancing",
 "u": "https://infreelancing.com/",
 "e": 11
@@ -7708,11 +6668,6 @@
 "n": "SixièmeHomme",
 "u": "https://sixiemehomme.io/",
 "e": 5
-},
-{
-"n": "Plateforme Freelance-informatique",
-"u": "https://freelance-informatique.fr/",
-"e": 12
 },
 {
 "n": "Indep-It",
@@ -7735,11 +6690,6 @@
 "e": 3
 },
 {
-"n": "Nawaari",
-"u": "https://nawaari.com/",
-"e": 4
-},
-{
 "n": "Upperlake - Freelance sourcing",
 "u": "https://upperlake.fr/",
 "e": 2
@@ -7747,11 +6697,6 @@
 {
 "n": "JOBBRR.io",
 "u": "https://jobbrr.io/",
-"e": 4
-},
-{
-"n": "Fissa 🐆",
-"u": "https://fissa.run/",
 "e": 4
 },
 {
@@ -7855,11 +6800,6 @@
 "e": 13
 },
 {
-"n": "Ponext Portage",
-"u": "https://ponext.fr/",
-"e": 3
-},
-{
 "n": "Howthorne.",
 "u": "https://howthorne.fr/",
 "e": 2
@@ -7920,11 +6860,6 @@
 "e": 4
 },
 {
-"n": "Emblem",
-"u": "https://emblem-tech.eu/",
-"e": 3
-},
-{
 "n": "Plateforme France Industrie 4.0",
 "u": "https://pfi4.com/",
 "e": 3
@@ -7933,11 +6868,6 @@
 "n": "UpGradelle Cs",
 "u": "https://upgradelle.com/",
 "e": 2
-},
-{
-"n": "MYOTHESIS",
-"u": "https://myothesis.com/",
-"e": 3
 },
 {
 "n": "Erlé Solutions",
@@ -7963,11 +6893,6 @@
 "n": "AJELIS",
 "u": "https://ajelis.com/",
 "e": 5
-},
-{
-"n": "Kumulus Water",
-"u": "https://kumuluswater.com/",
-"e": 33
 },
 {
 "n": "AGUASMART   S.A.S",
@@ -8000,11 +6925,6 @@
 "e": 2
 },
 {
-"n": "Estuaire",
-"u": "https://estuaire.aero/",
-"e": 50
-},
-{
 "n": "L'Atelier Compte-Gouttes",
 "u": "https://compte-gouttes.fr/",
 "e": 12
@@ -8018,11 +6938,6 @@
 "n": "MULTISOURCE",
 "u": "https://multisource.eu/",
 "e": 3
-},
-{
-"n": "SafyPower",
-"u": "https://safypower.com/",
-"e": 6
 },
 {
 "n": "Nono⚡️",
@@ -8145,11 +7060,6 @@
 "e": 4
 },
 {
-"n": "Le Voice Lab",
-"u": "https://levoicelab.org/",
-"e": 2
-},
-{
 "n": "Akouo Technologies",
 "u": "https://akouo.co/",
 "e": 3
@@ -8190,11 +7100,6 @@
 "e": 7
 },
 {
-"n": "Neumann AI",
-"u": "https://neumann.ai/",
-"e": 19
-},
-{
 "n": "Un Traducteur",
 "u": "https://translatorus.com/",
 "e": 14
@@ -8208,16 +7113,6 @@
 "n": "Corpo Trad",
 "u": "https://corpotrad.fr/",
 "e": 10
-},
-{
-"n": "Cawoylel",
-"u": "https://cawoylel.com/",
-"e": 2
-},
-{
-"n": "Gleef",
-"u": "https://gleef.eu/",
-"e": 3
 },
 {
 "n": "revid.ai",
@@ -8253,11 +7148,6 @@
 "n": "Vizionary",
 "u": "https://vizionary.fr/",
 "e": 3
-},
-{
-"n": "VIDZIT",
-"u": "https://vidzit.fr/",
-"e": 12
 },
 {
 "n": "Specify",
@@ -8370,11 +7260,6 @@
 "e": 9
 },
 {
-"n": "Digital Rise",
-"u": "https://digital-rise.com/",
-"e": 5
-},
-{
 "n": "JUUMO!",
 "u": "https://juumo.fr/",
 "e": 2
@@ -8383,11 +7268,6 @@
 "n": "AVOMO VR",
 "u": "https://avomovr.fr/",
 "e": 3
-},
-{
-"n": "Tamanoir Immersive Studio",
-"u": "https://tamanoir.studio/",
-"e": 2
 },
 {
 "n": "Le Studio 3D",
@@ -8413,11 +7293,6 @@
 "n": "Luminiscence",
 "u": "https://luminiscence.com/",
 "e": 43
-},
-{
-"n": "Artpoint",
-"u": "https://artpoint.fr/",
-"e": 77
 },
 {
 "n": "Batiq",
@@ -8450,11 +7325,6 @@
 "e": 12
 },
 {
-"n": "RESET®",
-"u": "https://reset.build/",
-"e": 18
-},
-{
 "n": "TrueFalse",
 "u": "https://truefalse.fr/",
 "e": 4
@@ -8478,11 +7348,6 @@
 "n": "Turtle Studio",
 "u": "https://tortue.studio/",
 "e": 2
-},
-{
-"n": "Next Station",
-"u": "https://nextstation.com/",
-"e": 31
 },
 {
 "n": "Baking.Finance",
@@ -8535,19 +7400,9 @@
 "e": 12
 },
 {
-"n": "ESSEC MA",
-"u": "https://info.essec.edu/",
-"e": 2
-},
-{
 "n": "adVentures",
 "u": "https://adventures-studio.com/",
 "e": 9
-},
-{
-"n": "Source Ventures",
-"u": "https://sourceventures.vc/",
-"e": 48
 },
 {
 "n": "SENSEII Ventures",
@@ -8573,11 +7428,6 @@
 "n": "EPSL VC",
 "u": "https://epsl-vc.com/",
 "e": 2
-},
-{
-"n": "G. Ventures",
-"u": "https://gventures.co/",
-"e": 15
 },
 {
 "n": "Mortier Ventures",
@@ -8608,11 +7458,6 @@
 "n": "Peb School",
 "u": "https://peb-school.com/",
 "e": 2
-},
-{
-"n": "Labise",
-"u": "https://labise-lb.com/",
-"e": 20
 },
 {
 "n": "Animationclub School",
@@ -8690,11 +7535,6 @@
 "e": 131
 },
 {
-"n": "Agorad SA",
-"u": "https://agorad.fr/",
-"e": 3
-},
-{
 "n": "La Boussole par FD",
 "u": "https://digitalcurrencyindex.io/",
 "e": 6
@@ -8745,11 +7585,6 @@
 "e": 8
 },
 {
-"n": "PONI",
-"u": "https://poni.co/",
-"e": 3
-},
-{
 "n": "SYB &CO",
 "u": "https://syb-and-co.com/",
 "e": 10
@@ -8790,29 +7625,14 @@
 "e": 2
 },
 {
-"n": "Widilo Cashback",
-"u": "https://widilo.fr/",
-"e": 33
-},
-{
 "n": "Brocolis",
 "u": "https://broco.app/",
 "e": 5
 },
 {
-"n": "Wilma",
-"u": "https://wilma.cc/",
-"e": 10
-},
-{
 "n": "Startup Nursery",
 "u": "https://startupnursery.io/",
 "e": 3
-},
-{
-"n": "Corico, SAS",
-"u": "https://africafilms.tv/",
-"e": 4
 },
 {
 "n": "appYuser | appYplanet",
@@ -8823,11 +7643,6 @@
 "n": "TidyD by Ecorangement",
 "u": "https://tidyd.fr/",
 "e": 3
-},
-{
-"n": "YADAY",
-"u": "https://yaday.vc/",
-"e": 17
 },
 {
 "n": "YC Webimpact",
@@ -9055,21 +7870,6 @@
 "e": 4
 },
 {
-"n": "Master Conseil éditorial et gestion de contenus plurimédias Sorbonne",
-"u": "https://formations-lettres.sorbonne-universite.fr/fr/index/master-xb/sciences-humaines-et-sociales-shs/master-philosophie-conseil-editorial-et-gestion-des-contenus-plurimedias-mphil1l_608.html",
-"e": 3
-},
-{
-"n": "Master GESIIC",
-"u": "https://gesiic-sorbonne.fr/",
-"e": 5
-},
-{
-"n": "Clinique juridique de la Sorbonne",
-"u": "https://cliniquejuridiquedeparis.com/",
-"e": 280
-},
-{
 "n": "Courrier d'Europe - Sorbonne",
 "u": "https://sorbonnecourrierdeurope.wordpress.com/",
 "e": 9
@@ -9135,11 +7935,6 @@
 "e": 2
 },
 {
-"n": "LA CAGE paris",
-"u": "https://lacageparis.fr/",
-"e": 3
-},
-{
 "n": "Le Conteneur",
 "u": "https://leconteneur.io/",
 "e": 3
@@ -9148,11 +7943,6 @@
 "n": "Le Refettorio Paris",
 "u": "https://refettorioparis.com/",
 "e": 18
-},
-{
-"n": "Le Navire ⛵",
-"u": "https://lenavire.substack.com/",
-"e": 2
 },
 {
 "n": "Le Club Startup",
@@ -9200,11 +7990,6 @@
 "e": 4
 },
 {
-"n": "ShiftHer",
-"u": "https://shifther.fr/",
-"e": 2
-},
-{
 "n": "WOMEN IN STEM EUROPE",
 "u": "https://womeminstem.fr/",
 "e": 3
@@ -9215,19 +8000,9 @@
 "e": 9
 },
 {
-"n": "Actives",
-"u": "https://actives-women.com/",
-"e": 11
-},
-{
 "n": "Aonia Ventures",
 "u": "https://aonia.vc/",
 "e": 4
-},
-{
-"n": "Kamet Ventures",
-"u": "https://kametventures.com/",
-"e": 31
 },
 {
 "n": "Key Ventures",
@@ -9340,11 +8115,6 @@
 "e": 3
 },
 {
-"n": "keenest 🌈",
-"u": "https://keenest.co/",
-"e": 35
-},
-{
 "n": "HelloFreshr",
 "u": "https://beehuge.com/",
 "e": 2
@@ -9420,11 +8190,6 @@
 "e": 5
 },
 {
-"n": "Lazeo",
-"u": "https://lazeo.com/",
-"e": 427
-},
-{
 "n": "NeuronAIze",
 "u": "https://neuronaize.com/",
 "e": 2
@@ -9450,11 +8215,6 @@
 "e": 3
 },
 {
-"n": "Versai Studio",
-"u": "https://versai.studio/",
-"e": 2
-},
-{
 "n": "ISI PATRIMOINE",
 "u": "https://isipatrimoine.com/",
 "e": 3
@@ -9478,11 +8238,6 @@
 "n": "Dorovia Capital",
 "u": "https://neomacapitalpartners.com/",
 "e": 24
-},
-{
-"n": "Galiena Capital",
-"u": "https://galiena-capital.com/",
-"e": 15
 },
 {
 "n": "Serenit",
@@ -9515,11 +8270,6 @@
 "e": 49
 },
 {
-"n": "dach&zephir",
-"u": "https://dachzephir.com/",
-"e": 2
-},
-{
 "n": "DIAPERIS",
 "u": "https://diaperisparis.com/",
 "e": 3
@@ -9540,11 +8290,6 @@
 "e": 7
 },
 {
-"n": "Dans la tête d'un(e) CEO",
-"u": "https://creators.spotify.com/pod/show/sqalliyac5",
-"e": 2
-},
-{
 "n": "Dispo",
 "u": "https://ledispoclub.com/",
 "e": 4
@@ -9552,11 +8297,6 @@
 {
 "n": "Dhaki",
 "u": "https://dhaki.fr/",
-"e": 5
-},
-{
-"n": "OnlyOne",
-"u": "https://typeform.com/explore",
 "e": 5
 },
 {
@@ -9575,16 +8315,6 @@
 "e": 3
 },
 {
-"n": "SOLUTION NEUF",
-"u": "https://solution-neuf.fr/",
-"e": 6
-},
-{
-"n": "PARIS 9",
-"u": "https://psy95.paris/",
-"e": 3
-},
-{
 "n": "point zip",
 "u": "https://point.zip/",
 "e": 2
@@ -9593,11 +8323,6 @@
 "n": "BURO Club Paris Rond-Point des Champs Elysées",
 "u": "https://buro-club-paris-rond-point-des-champs.business.site/",
 "e": 2
-},
-{
-"n": "Le pot commun",
-"u": "https://lepotcommun.fr/",
-"e": 13
 },
 {
 "n": "FranceVerif",
@@ -9670,34 +8395,14 @@
 "e": 12
 },
 {
-"n": "croco du marais",
-"u": "https://thewellnesspro.co.uk/",
-"e": 5
-},
-{
-"n": "Sentiers du Livre",
-"u": "https://sentiersdulivre.fr/",
-"e": 3
-},
-{
 "n": "The-Programmer",
 "u": "https://the-programmer.com/",
 "e": 3
 },
 {
-"n": "Les Sentiers du Goût",
-"u": "https://sentiersdugout.com/",
-"e": 2
-},
-{
 "n": "Avalon",
 "u": "https://avalon.fr/",
 "e": 15
-},
-{
-"n": "Le Gob",
-"u": "https://legob.fr/",
-"e": 3
 },
 {
 "n": "DALTA",
@@ -9708,11 +8413,6 @@
 "n": "WIPSE - Paris Saclay Entreprises",
 "u": "https://wipse.com/",
 "e": 11
-},
-{
-"n": "Studio13Paris",
-"u": "https://studio13vierzy.com/",
-"e": 4
 },
 {
 "n": "Talented In Paris - TIP",
@@ -9730,11 +8430,6 @@
 "e": 7
 },
 {
-"n": "Canal Barboteur",
-"u": "https://canal-barboteur.com/",
-"e": 4
-},
-{
 "n": "Paris by Martin",
 "u": "https://parisbymartin.com/",
 "e": 2
@@ -9748,11 +8443,6 @@
 "n": "JFD",
 "u": "https://joinjfd.com/",
 "e": 44
-},
-{
-"n": "Finestate",
-"u": "https://finestate.eu/",
-"e": 11
 },
 {
 "n": "G8te",
@@ -9825,11 +8515,6 @@
 "e": 10
 },
 {
-"n": "D18 Paris",
-"u": "https://d18paris.com/",
-"e": 5
-},
-{
 "n": "M18 Engineering",
 "u": "https://m18.tech/",
 "e": 5
@@ -9840,11 +8525,6 @@
 "e": 19
 },
 {
-"n": "Fifteen Advisory",
-"u": "https://fifteen-advisory.com/",
-"e": 2
-},
-{
 "n": "Agence 12h34",
 "u": "https://12h34.com/",
 "e": 2
@@ -9853,11 +8533,6 @@
 "n": "LOG'ETUD",
 "u": "https://logetud.com/",
 "e": 2
-},
-{
-"n": "La 20eme chaise",
-"u": "https://la20emechaise.org/",
-"e": 6
 },
 {
 "n": "3CIF",
@@ -9895,11 +8570,6 @@
 "e": 19
 },
 {
-"n": "YouMeO by BearingPoint",
-"u": "https://youmeo.fr/",
-"e": 17
-},
-{
 "n": "Freelance • bien-être & formations",
 "u": "https://theofleury14.com/",
 "e": 2
@@ -9908,11 +8578,6 @@
 "n": "LUX STUDIO",
 "u": "https://luxstudio.fr/",
 "e": 16
-},
-{
-"n": "Comptoir du",
-"u": "https://comptoirdu16.eatbu.com/",
-"e": 12
 },
 {
 "n": "Digital 4U",
@@ -9970,11 +8635,6 @@
 "e": 3
 },
 {
-"n": "Ylos7",
-"u": "https://ylos7.com/",
-"e": 7
-},
-{
 "n": "a7i",
 "u": "https://a7i.club/",
 "e": 2
@@ -9983,11 +8643,6 @@
 "n": "Le 7ème Acte",
 "u": "https://lacompagniedu7emeacte.fr/",
 "e": 5
-},
-{
-"n": "Salon Septième Paris",
-"u": "https://salonseptiemeparis.com/",
-"e": 10
 },
 {
 "n": "NET-7",
@@ -10005,11 +8660,6 @@
 "e": 2
 },
 {
-"n": "La Fonderie du 11ème",
-"u": "https://fonderie11.eu/",
-"e": 3
-},
-{
 "n": "La Fabrique du Net",
 "u": "https://lafabriquedunet.fr/",
 "e": 4
@@ -10018,11 +8668,6 @@
 "n": "The American in Paris",
 "u": "https://theamericaninparis.com/",
 "e": 4
-},
-{
-"n": "All Mecen",
-"u": "https://allmecen.com/",
-"e": 1
 },
 {
 "n": "REFRACTIO",
@@ -10038,11 +8683,6 @@
 "n": "NoMadMusic",
 "u": "https://nomadmusic.fr/",
 "e": 3
-},
-{
-"n": "FIGS Lab",
-"u": "https://figs-lab.com/",
-"e": 12
 },
 {
 "n": "OBVIOUS",
@@ -10115,19 +8755,9 @@
 "e": 2
 },
 {
-"n": "Salesforce Women in Tech Group, Paris",
-"u": "https://trailblazercommunitygroups.com/salesforce-women-in-tech-group-paris-france",
-"e": 3
-},
-{
 "n": "Filière Intelligence Artificielle & Cancers",
 "u": "https://filiere-ia.fr/",
 "e": 10
-},
-{
-"n": "LA GALPA",
-"u": "https://lagalpa.com/",
-"e": 5
 },
 {
 "n": "Socque_Paris",
@@ -10173,11 +8803,6 @@
 "n": "Melting Spot",
 "u": "https://meltingspot.house/",
 "e": 16
-},
-{
-"n": "Greenny",
-"u": "https://greenny.io/",
-"e": 3
 },
 {
 "n": "HOLLI",
@@ -10325,11 +8950,6 @@
 "e": 2
 },
 {
-"n": "Facteur",
-"u": "https://facteur.app/",
-"e": 2
-},
-{
 "n": "Autonomous",
 "u": "https://autonomous.eu/",
 "e": 15
@@ -10338,16 +8958,6 @@
 "n": "Build It Summit",
 "u": "https://builditsummit.com/",
 "e": 2
-},
-{
-"n": "CybelAngel",
-"u": "https://cybelangel.com/",
-"e": 150
-},
-{
-"n": "HomeExchange",
-"u": "https://homeexchange.com/",
-"e": null
 },
 {
 "n": "HR Path",
@@ -10370,11 +8980,6 @@
 "e": null
 },
 {
-"n": "Padok",
-"u": "https://padok.fr/",
-"e": null
-},
-{
 "n": "Clever Cloud",
 "u": "https://clever-cloud.com/",
 "e": null
@@ -10385,39 +8990,14 @@
 "e": null
 },
 {
-"n": "Shippingbo",
-"u": "https://shippingbo.com/",
-"e": null
-},
-{
 "n": "Sendcloud France",
 "u": "https://sendcloud.fr/",
-"e": null
-},
-{
-"n": "Fretlink",
-"u": "https://fretlink.com/",
-"e": null
-},
-{
-"n": "Qover France",
-"u": "https://qover.com/",
-"e": null
-},
-{
-"n": "Bulb",
-"u": "https://bulb.fr/",
 "e": null
 },
 {
 "n": "Mon Docteur",
 "u": "https://mondocteur.fr/",
 "e": null
-},
-{
-"n": "Qare",
-"u": "https://qare.fr/",
-"e": 150
 },
 {
 "n": "Greenly",
@@ -10445,16 +9025,6 @@
 "e": null
 },
 {
-"n": "Agricool",
-"u": "https://agricool.co/",
-"e": null
-},
-{
-"n": "Asphalte",
-"u": "https://asphalte.com/",
-"e": null
-},
-{
 "n": "Seazon",
 "u": "https://seazon.fr/",
 "e": null
@@ -10465,18 +9035,8 @@
 "e": null
 },
 {
-"n": "Proprioo",
-"u": "https://proprioo.fr/",
-"e": null
-},
-{
 "n": "Flatlooker",
 "u": "https://flatlooker.com/",
-"e": null
-},
-{
-"n": "Unkle",
-"u": "https://unkle.fr/",
 "e": null
 },
 {
@@ -10530,11 +9090,6 @@
 "e": null
 },
 {
-"n": "Lhyfe",
-"u": "https://lhyfe.com/",
-"e": null
-},
-{
 "n": "Naarea",
 "u": "https://naarea.fr/",
 "e": 225
@@ -10543,11 +9098,6 @@
 "n": "Hexana",
 "u": "https://hexana.fr/",
 "e": 35
-},
-{
-"n": "Cardiologs",
-"u": "https://cardiologs.com/",
-"e": null
 },
 {
 "n": "Panakeia",
@@ -10560,18 +9110,8 @@
 "e": null
 },
 {
-"n": "Onfido France",
-"u": "https://onfido.com/",
-"e": null
-},
-{
 "n": "IDnow France",
 "u": "https://idnow.io/",
-"e": null
-},
-{
-"n": "La Growth Machine",
-"u": "https://lagrowthmachine.com/",
 "e": null
 },
 {
@@ -10600,11 +9140,6 @@
 "e": 15
 },
 {
-"n": "Vivid Money France",
-"u": "https://vivid.money/",
-"e": null
-},
-{
 "n": "Xaalys",
 "u": "https://xaalys.com/",
 "e": null
@@ -10630,21 +9165,6 @@
 "e": null
 },
 {
-"n": "Kiosque",
-"u": "https://kiosque.com/",
-"e": null
-},
-{
-"n": "Hesus",
-"u": "https://hesus.eu/",
-"e": 4
-},
-{
-"n": "Tolv",
-"u": "https://tolv.io/",
-"e": 35
-},
-{
 "n": "Pelico",
 "u": "https://pelico.ai/",
 "e": null
@@ -10663,11 +9183,6 @@
 "n": "Comet",
 "u": "https://comet.co/",
 "e": 35
-},
-{
-"n": "Livementor",
-"u": "https://livementor.com/",
-"e": null
 },
 {
 "n": "KissKissBankBank",
