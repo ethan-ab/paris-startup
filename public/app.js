@@ -171,7 +171,7 @@ function renderPanel(){
 /* ---------- card: one building, the startups inside ---------- */
 const card = $('card');
 const SRC = {manual:'a manual check', research:'job posts and press', website:'its own website', linkedin:'its LinkedIn page', cohort:'a Station F programme list', register:'the company register'};
-const FIX = 'https://github.com/ethan-ab/paris-startups/issues/new';
+const FIX = 'https://github.com/ethan-ab/paris-startup/issues/new';
 function detail(p){
   const C = ST(p.st);
   const host = (() => { try { return new URL(p.u).hostname.replace(/^www\./, ''); } catch { return ''; } })();
