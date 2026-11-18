@@ -369,7 +369,10 @@ def main():
         return out
 
     rrows = []
+    REG = load_list('register_offices.json')  # scripts/register_offices.py: open secondary establishments (free, SIRENE)
     for i, c in enumerate(kept):
+        for k_, k in enumerate((_get(REG, c)[:1] or [{}])[0].get('cands', [])[:2]):
+            rrows.append((f'g{i}_{k_}', k['office_street'], k['postcode'] or ''))
         for j, o in enumerate(research_entries(c) + corrections(c)):
             rrows.append((f'r{i}_{j}', o['office_street'], o.get('postcode') or ''))
     rgeo = L.ban_batch(rrows)
@@ -382,15 +385,14 @@ def main():
                 sfres.add(L.fold(r['name']))
                 sfres.add((r.get('website') or '').replace('https://', '').replace('http://', '').replace('www.', '').strip('/').lower())
 
-    REG = load_list('register_offices.json')  # scripts/register_offices.py: open secondary establishments (free, SIRENE)
-
     def evidence(i, c):
         ev = []  # (geo, family, weight, is_seat)
-        for o in _get(REG, c)[:1]:
-            for k in o.get('cands', [])[:2]:   # a second establishment in Paris is a real workplace; weight 2 beats a legal-notice seat (1.5)
-                ev.append(((k['ll'][0], k['ll'][1], k['office_street'], k['postcode'], 'Paris', 'housenumber', 1), 'register', 2,
-                           L.addr_key(k['office_street']) in L.DOMICILIATION))
         dom = lambda g: L.addr_key(g[2]) in L.DOMICILIATION
+        for o in _get(REG, c)[:1]:
+            for k_, k in enumerate(o.get('cands', [])[:2]):   # a second establishment in Paris is a real workplace; weight 2 beats a legal-notice seat (1.5)
+                g = rgeo.get(f'g{i}_{k_}')   # BAN geocode: the register's own coordinates can be ~100 m off
+                if good(g):
+                    ev.append((g, 'register', 2, dom(g)))
         rs = research_entries(c)
         for j, o in enumerate(rs + corrections(c)):
             g = rgeo.get(f'r{i}_{j}')
