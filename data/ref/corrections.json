@@ -1,3 +1,11 @@
 [
-{"name": "Alpic", "website": "alpic.ai", "office_street": "4 Cité de Paradis", "postcode": "75010", "city": "Paris", "note": "Office confirmed by the team (Nov 2026); 229 rue Saint-Honoré is only the registered seat."}
+{
+"name": "Alpic",
+"website": "alpic.ai",
+"office_street": "4 Cité de Paradis",
+"postcode": "75010",
+"city": "Paris",
+"note": "Office confirmed by the team (Nov 2026); 229 rue Saint-Honoré is only the registered seat. Team size 15 confirmed by the team (Nov 2026).",
+"employees": 15
+}
 ]

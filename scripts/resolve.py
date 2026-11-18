@@ -499,6 +499,9 @@ def main():
         lk = LK.get((c.get('domain') or '').replace('www.', '').lower()) or {}
         li_emp = linkedin_headcount(lk.get('li_employees'), lk.get('li_size_band'))
         emp = li_emp or (ve[0] if ve else c.get('employees'))
+        man_emp = [o['employees'] for o in corrections(c) if o.get('employees')]   # team size confirmed by hand: always wins
+        if man_emp:
+            emp, ve = man_emp[0], [man_emp[0]]
         if li_emp or ve:
             ve = ve or [li_emp]
         rd = c.get('last_round') or {}
