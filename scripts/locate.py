@@ -287,7 +287,7 @@ if __name__ == '__main__':
     main()
 
 
-def sirene_match_all(c, office_pc):
+def sirene_match_all(c, office_pc, meta=None):
     """All open establishments (Paris + inner ring) of the legal entity matching this brand.
     -> [{'lat','lng','street','postcode','city','siege'}] with establishments in the office postcode first."""
     name = c['name'] or ''
@@ -320,5 +320,7 @@ def sirene_match_all(c, office_pc):
                         'postcode': e.get('code_postal'), 'city': (e.get('libelle_commune') or '').title(),
                         'siege': e is siege or bool(e.get('est_siege'))})
         out.sort(key=lambda e: (0 if office_pc and e['postcode'] == office_pc else 1, e['siege']))
+        if meta is not None:
+            meta.update({'legal': r.get('nom_complet'), 'naf': r.get('activite_principale'), 'created': r.get('date_creation'), 'siren': r.get('siren')})
         return out
     return []
