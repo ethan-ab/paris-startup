@@ -48,8 +48,17 @@ def main():
     if os.path.exists(sf):
         with open(sf) as f:
             lines += [f"{r['name']} | {r['website']}" for r in json.load(f) if r.get('website')]
+    sff = os.path.join(ROOT, 'data', 'seed', 'stationf_found.txt')  # startups named on stationf.co (scripts/stationf.py)
+    sf_lines = []
+    if os.path.exists(sff):
+        sf_lines = [l for l in open(sff).read().splitlines() if '|' in l and not l.startswith('#')]
     with ThreadPoolExecutor(8) as ex:
         recs = list(ex.map(build, lines))
+        sf_recs = list(ex.map(build, sf_lines))
+    for r in sf_recs:
+        r['stationf_found'] = True  # not hand-picked: still goes through the startup filters
+    seen = {r['domain'] for r in recs}
+    recs += [r for r in sf_recs if r['domain'] not in seen]
     with open(os.path.join(ROOT, 'data', 'raw', 'seed_companies.json'), 'w') as f:
         json.dump(recs, f, ensure_ascii=False, indent=0)
     print(len(recs), 'seeds ·', sum(bool(r.get('description')) for r in recs), 'with description ·', sum(bool(r.get('employees')) for r in recs), 'with team size')

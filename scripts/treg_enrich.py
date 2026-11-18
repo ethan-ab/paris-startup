@@ -80,6 +80,9 @@ def work(dom):
         locs = raw.get('locations') or o2.get('locations') or []
         rec['locations'] = [l if isinstance(l, str) else ', '.join(str(v) for v in l.values() if v) for l in locs]
         rec['li_website'] = raw.get('website')
+        rec['li_founded'] = raw.get('founded')
+        rec['li_industries'] = raw.get('industries')
+        rec['li_type'] = raw.get('organization_type')
     os.makedirs(CACHE, exist_ok=True)
     with open(p, 'w') as f:
         json.dump(rec, f, ensure_ascii=False)
@@ -96,6 +99,11 @@ def main():
         d = re.sub(r'^https?://(www\.)?', '', r.get('u') or '').split('/')[0].lower()
         if d and 'linkedin.com' not in d and d not in doms:
             doms.append(d)
+    sp = os.path.join(ROOT, 'data', 'raw', 'seed_companies.json')
+    if os.path.exists(sp):
+        for r in json.load(open(sp)):
+            if r.get('domain') and r['domain'] not in doms:
+                doms.append(r['domain'])
     if '--limit' in sys.argv:
         doms = doms[:int(sys.argv[sys.argv.index('--limit') + 1])]
     print(len(doms), 'domains · budget $', BUDGET, flush=True)

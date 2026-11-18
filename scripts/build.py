@@ -5,14 +5,18 @@ Writes public/index.html + public/app.js (static site, live OpenFreeMap tiles) a
 artifact/paris-startup-atlas.html: one self-contained page with an offline basemap baked in (data/basemap.json).
 Usage: python3 scripts/build.py [--artifact]
 """
-import datetime, json, os, re, sys, urllib.request
+import base64, datetime, json, os, re, sys, urllib.parse, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, 'scripts'))
+from rounds import apply as apply_rounds  # noqa: E402  recent funding rounds from data/ref/rounds.json
 
 
 def main():
     with open(os.path.join(ROOT, 'data', 'startups.json')) as f:
         rows = json.load(f)
+    attach_logos(rows)
+    apply_rounds(rows)
     with open(os.path.join(ROOT, 'src', 'index.template.html')) as f:
         html = f.read()
     data = json.dumps(rows, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
@@ -28,10 +32,44 @@ def main():
         g.write(f.read())
     print(len(rows), 'startups · public/index.html', len(html) // 1024, 'KB')
     if '--artifact' in sys.argv:
-        build_artifact(html)
+        build_artifact(html, rows)
 
 
-def build_artifact(html):
+def attach_logos(rows):
+    """lg = file key in public/logos/ (from scripts/logos.py), for startups whose logo was found."""
+    path = os.path.join(ROOT, 'data', 'logos.json')
+    idx = json.load(open(path)) if os.path.exists(path) else {}
+    n = 0
+    for r in rows:
+        try:
+            d = (urllib.parse.urlparse(r.get('u') or '').hostname or '').lower().removeprefix('www.')
+        except ValueError:
+            d = ''
+        k = (idx.get(d) or {}).get('key')
+        if k and os.path.exists(os.path.join(ROOT, 'public', 'logos', k + '.webp')):
+            r['lg'] = k
+            n += 1
+    print(f'logos: {n}/{len(rows)} startups')
+
+
+def inline_logos(rows, budget=4_000_000):
+    """The artifact cannot fetch public/logos/, so the logos travel inside the page as data URIs (biggest teams first)."""
+    out, size = {}, 0
+    for r in sorted(rows, key=lambda r: -(r.get('e') or 0)):
+        k = r.get('lg')
+        if not k or k in out:
+            continue
+        with open(os.path.join(ROOT, 'public', 'logos', k + '.webp'), 'rb') as f:
+            uri = 'data:image/webp;base64,' + base64.b64encode(f.read()).decode()
+        if size + len(uri) > budget:
+            break
+        out[k] = uri
+        size += len(uri) + len(k) + 6
+    print(f'artifact logos: {len(out)} inlined, {size // 1024} KB')
+    return json.dumps(out, separators=(',', ':'))
+
+
+def build_artifact(html, rows):
     with open(os.path.join(ROOT, 'data', 'basemap.json')) as f:
         basemap = f.read()
     css_path = os.path.join(ROOT, 'data', 'cache', 'maplibre-gl-4.7.1.css')
@@ -48,7 +86,7 @@ def build_artifact(html):
     h = h.replace('</head>\n<body>', '').replace('</body>\n</html>', '')
     h = re.sub(r'<link rel="preconnect" href="https://tiles.openfreemap.org"[^>]*>\n', '', h)
     h = h.replace('<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">', '<style>' + mlcss + '</style>')
-    h = h.replace('<script src="app.js"></script>', '<script>window.BASEMAP=' + basemap + ';window.CONTEXT=' + context() + ';</script>\n<script>' + app.replace('</script', '<\\/script') + '</script>')
+    h = h.replace('<script src="app.js"></script>', '<script>window.BASEMAP=' + basemap + ';window.CONTEXT=' + context() + ';window.LOGOS=' + inline_logos(rows) + ';</script>\n<script>' + app.replace('</script', '<\\/script') + '</script>')
     os.makedirs(os.path.join(ROOT, 'artifact'), exist_ok=True)
     out = os.path.join(ROOT, 'artifact', 'paris-startup-atlas.html')
     with open(out, 'w') as f:
