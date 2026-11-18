@@ -518,6 +518,10 @@ def main():
             'll': [round(loc['ll'][0], 6), round(loc['ll'][1], 6)], 'k': 'office' if loc['cf'] in 'vl' else 'seat',
             'cf': loc['cf'], 'v': loc['via'], 'ev': loc['ev'],
         }
+        if rec['v'] == 'register':   # the register's own coordinates can be hundreds of metres off: use BAN's point for the same address
+            h_ = L.ban_index().get((L.addr_key(rec['a']), rec['pc']))
+            if h_:
+                rec['ll'] = [round(h_[2], 6), round(h_[3], 6)]
         m = sf_mention(c)
         if m:
             pr = m['programmes'][0]

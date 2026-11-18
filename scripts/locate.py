@@ -324,3 +324,43 @@ def sirene_match_all(c, office_pc, meta=None):
             meta.update({'legal': r.get('nom_complet'), 'naf': r.get('activite_principale'), 'created': r.get('date_creation'), 'siren': r.get('siren')})
         return out
     return []
+
+
+# ---------- BAN address dump: coordinates + cadastral parcel of every address (free open data) ----------
+import csv, gzip  # noqa: E402
+
+_ban, _communes = {}, {}
+
+
+def _fetch_ban(url, path):
+    if not os.path.exists(path):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        for attempt in range(6):
+            try:
+                with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=120) as r:
+                    data = r.read()
+                with open(path, 'wb') as f:
+                    f.write(data)
+                break
+            except Exception:  # noqa: BLE001
+                if attempt == 5:
+                    raise
+                time.sleep(3 * (attempt + 1))
+    return path
+
+
+def ban_index():
+    """{(addr_key, postcode): (insee, [parcel ids], lat, lon)} for Paris and the inner ring; also fills _communes {postcode: {insee}}."""
+    if _ban:
+        return _ban
+    for d in ('75', '92', '93', '94'):
+        p = _fetch_ban(f'https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/adresses-{d}.csv.gz', os.path.join(ROOT, 'data', 'cache', 'ban', f'adresses-{d}.csv.gz'))
+        with gzip.open(p, 'rt', encoding='utf-8') as f:
+            for r in csv.DictReader(f, delimiter=';'):
+                if not r['numero']:
+                    continue
+                _communes.setdefault(r['code_postal'], set()).add(r['code_insee'])
+                k = (addr_key(f"{r['numero']} {r['rep']} {r['nom_voie']}"), r['code_postal'])
+                if k not in _ban or (r['cad_parcelles'] and not _ban[k][1]):
+                    _ban[k] = (r['code_insee'], r['cad_parcelles'].split('|') if r['cad_parcelles'] else [], float(r['lat']), float(r['lon']))
+    return _ban
