@@ -22,6 +22,7 @@ UA = 'paris-startup-map/1.0 (building lookup)'
 Z = 14
 RANK = {'unknown': -1, 'early': 0, 'growth': 1, 'scale': 2}
 TMPL = None
+METHOD = {}
 
 
 def tile_url():
@@ -111,6 +112,110 @@ def find(lat, lon):
     return (tx, ty, int(i))
 
 
+# ---------- cadastre: the building an address really belongs to ----------
+# BAN (adresse.data.gouv.fr) lists the cadastral parcel of every address; the cadastre (cadastre.data.gouv.fr) gives the parcel polygon.
+# Both are free open data. The building of a startup = the basemap footprint that covers most of its parcel, not "nearest to a point
+# that often sits in the street or a courtyard".
+import csv, gzip, re, io
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import locate as L  # noqa: E402
+
+_ban = {}
+_parcels = {}
+
+
+def _fetch(url, path):
+    if not os.path.exists(path):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        for attempt in range(4):
+            try:
+                with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=120) as r, open(path, 'wb') as f:
+                    f.write(r.read())
+                break
+            except Exception:  # noqa: BLE001
+                if attempt == 3:
+                    raise
+    return path
+
+
+def ban_index():
+    """{(addr_key, postcode): (insee, [parcel ids], lat, lon)} for Paris and the inner ring; also fills _communes {postcode: {insee}}."""
+    if _ban:
+        return _ban
+    for d in ('75', '92', '93', '94'):
+        p = _fetch(f'https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/adresses-{d}.csv.gz', os.path.join(ROOT, 'data', 'cache', 'ban', f'adresses-{d}.csv.gz'))
+        with gzip.open(p, 'rt', encoding='utf-8') as f:
+            for r in csv.DictReader(f, delimiter=';'):
+                if not r['numero']:
+                    continue
+                _communes.setdefault(r['code_postal'], set()).add(r['code_insee'])
+                k = (L.addr_key(f"{r['numero']} {r['rep']} {r['nom_voie']}"), r['code_postal'])
+                if k not in _ban or (r['cad_parcelles'] and not _ban[k][1]):
+                    _ban[k] = (r['code_insee'], r['cad_parcelles'].split('|') if r['cad_parcelles'] else [], float(r['lat']), float(r['lon']))
+    return _ban
+
+
+_communes = {}
+
+
+def parcels(insee):
+    if insee not in _parcels:
+        import gzip as gz
+        p = _fetch(f'https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/{insee[:2]}/{insee}/cadastre-{insee}-parcelles.json.gz',
+                   os.path.join(ROOT, 'data', 'cache', 'cadastre', f'{insee}-parcelles.json.gz'))
+        with gz.open(p, 'rt', encoding='utf-8') as f:
+            pm = {ft['properties']['id']: shape(ft['geometry']) for ft in json.load(f)['features']}
+        _parcels[insee] = (pm, STRtree(list(pm.values())), list(pm.values()))
+    return _parcels[insee]
+
+
+def parcel_at(insees, lat, lon):
+    pt = Point(lon, lat)
+    for insee in insees:
+        pm, tree, geoms = parcels(insee)
+        for i in tree.query(pt):
+            if geoms[i].contains(pt):
+                return geoms[i]
+    return None
+
+
+def parcel_building(p):
+    """-> ((tx, ty, i), how) for a startup row: the basemap building covering most of the parcel of its address; or (None, why).
+    The parcel comes from BAN (cad_parcelles), else from the parcel under BAN's coordinate for that address, else under the pin."""
+    hit = ban_index().get((L.addr_key(p.get('a')), p.get('pc')))
+    par, how = None, 'parcel'
+    if hit and hit[1]:
+        pm = parcels(hit[0])[0]
+        geoms = [pm[i] for i in hit[1] if i in pm]
+        if geoms:
+            from shapely.ops import unary_union
+            par = unary_union(geoms)
+    if par is None and hit:
+        par, how = parcel_at([hit[0]], hit[2], hit[3]), 'parcel-from-ban-point'
+    if par is None:
+        par, how = parcel_at(sorted(_communes.get(p.get('pc'), [])), p['ll'][0], p['ll'][1]), 'parcel-from-pin'
+    if par is None:
+        return None, 'no-parcel'
+    c = par.centroid
+    tx, ty = txy(c.x, c.y)
+    polys, meta, tree = tile(tx, ty)
+    if not tree:
+        return None, 'no-building'
+    best = None
+    for i in tree.query(par):
+        inter = polys[i].intersection(par).area
+        if inter <= 0:
+            continue
+        if inter / polys[i].area < 0.4 and inter / par.area < 0.25:   # the neighbour's building clipping the parcel edge
+            continue
+        score = (inter, meta[i][0] or 10)
+        if not best or score > best[0]:
+            best = (score, i)
+    if not best:
+        return None, 'no-building'
+    return (tx, ty, int(best[1])), how
+
+
 def rnd(geom):
     def r(coords):
         return [[round(x, 6), round(y, 6)] for x, y in coords]
@@ -132,10 +237,14 @@ def main():
     with open(path) as f:
         rows = json.load(f)
     groups, solo = {}, 0
+    METHOD.clear()
     for i, p in enumerate(rows):
         if p.get('cp') == 'Station F':  # one campus, one building: all its halls together
             groups.setdefault(('stationf', 0, 0), []).append(i); continue
-        k = find(p['ll'][0], p['ll'][1])
+        k, how = parcel_building(p)
+        if k is None:
+            k = find(p['ll'][0], p['ll'][1]); how = 'nearest (' + how + ')' if k else 'point (' + how + ')'
+        METHOD[how] = METHOD.get(how, 0) + 1
         if k is None:
             k = ('pt', i, 0); solo += 1
         groups.setdefault(k, []).append(i)
@@ -172,6 +281,7 @@ def main():
         json.dump({'type': 'FeatureCollection', 'features': feats}, f, separators=(',', ':'))
     with open(path, 'w') as f:
         json.dump(rows, f, ensure_ascii=False, indent=0)
+    print('building found by:', METHOD)
     print(len(rows), 'startups in', len(feats), 'buildings ·', solo, 'without a footprint nearby ·',
           max(len(v) for v in groups.values()), 'in the busiest building ·',
           os.path.getsize(os.path.join(ROOT, 'data', 'buildings.json')) // 1024, 'KB')

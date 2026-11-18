@@ -55,7 +55,7 @@ DOMICILIATION = {
 
 def addr_key(s):
     k = fold(s)
-    k = re.sub(r'^(\d+)\s*(bis|ter|b)?\s*', r'\1 ', k)
+    k = re.sub(r'^(\d+)\s*(?:(?:bis|ter|b)\b)?\s*', r'\1 ', k)   # drop a bis/ter/b suffix (not the "b" of "boulevard")
     k = re.sub(r'\b(av|ave)\b', 'avenue', k)
     k = re.sub(r'\b(bd|blvd)\b', 'boulevard', k)
     k = re.sub(r'\bfrancois i(er)?\b', 'francois 1er', k)
