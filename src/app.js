@@ -36,10 +36,52 @@ const center = f => { const r = f.geometry.type === 'Polygon' ? f.geometry.coord
   let x = 0, y = 0; r.forEach(c => { x += c[0]; y += c[1]; }); return [x / r.length, y / r.length]; };
 B.forEach(f => { f._c = center(f); });
 
+/* ---------- startups a visitor added: kept in this browser (localStorage) until reviewed ---------- */
+const STORE = 'psa.added.v1';
+const AREA = {}; S.forEach(p => { if (p.pc && p.area && !AREA[p.pc]) AREA[p.pc] = p.area; });
+const ZONE = [2.15, 48.78, 2.52, 48.94]; // Paris and the inner suburbs, lng/lat
+const inZone = (lat, lng) => lng >= ZONE[0] && lng <= ZONE[2] && lat >= ZONE[1] && lat <= ZONE[3];
+const stageOf = e => !e ? 'unknown' : e < 50 ? 'early' : e < 250 ? 'growth' : 'scale';
+const str = (v, max) => typeof v === 'string' ? v.trim().slice(0, max) : '';
+const int = (v, lo, hi) => Number.isInteger(v) && v >= lo && v <= hi ? v : undefined;
+const okRing = r => Array.isArray(r) && r.length >= 4 && r.length <= 400 && r.every(c => Array.isArray(c) && c.length === 2 && c.every(Number.isFinite));
+function cleanMine(r){
+  if (!r || !Array.isArray(r.ll) || r.ll.length !== 2 || !r.ll.every(Number.isFinite) || !inZone(r.ll[0], r.ll[1])) return null;
+  const secs = new Set(S.filter(q => !q.mine).map(q => q.s));
+  const p = {n:str(r.n, 80), u:str(r.u, 300), d:str(r.d, 250), s:secs.has(r.s) ? r.s : '', a:str(r.a, 200), pc:str(r.pc, 10), area:str(r.area, 60),
+    ll:[r.ll[0], r.ll[1]], k:'office', t:Number.isFinite(r.t) ? r.t : 0, mine:true};
+  const e = int(r.e, 1, 100000), y = int(r.y, 1990, 2100);
+  if (e) p.e = e; if (y) p.y = y;
+  p.st = stageOf(p.e);
+  if (r.fp && okRing(r.fp.ring)) p.fp = {ring:r.fp.ring, h:Number.isFinite(r.fp.h) ? Math.min(Math.max(r.fp.h, 3), 300) : 15};
+  return p.n.length >= 2 && p.s ? p : null;
+}
+/* point in polygon (outer rings), lng/lat */
+function inRing(x, y, ring){ let c = false; for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) { const [xi, yi] = ring[i], [xj, yj] = ring[j];
+  if ((yi > y) !== (yj > y) && x < (xj - xi) * (y - yi) / (yj - yi) + xi) c = !c; } return c; }
+const polys = g => g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : [];
+const contains = (g, ll) => polys(g).some(pg => inRing(ll[1], ll[0], pg[0]));
+let nextB = B.reduce((m, f) => Math.max(m, f.properties.b), -1) + 1;
+/* attach a startup to a building: one that already hosts startups, else the footprint we found for it, else a small block */
+function house(p){
+  let f = B.find(f => !f.gone && contains(f.geometry, p.ll));
+  if (!f) {
+    const lat = p.ll[0], lng = p.ll[1], dy = 9 / 111320, dx = 9 / (111320 * Math.cos(lat * Math.PI / 180));
+    if (!p.fp) p.fp = {ring:[[lng-dx,lat-dy],[lng+dx,lat-dy],[lng+dx,lat+dy],[lng-dx,lat+dy],[lng-dx,lat-dy]].map(c => c.map(v => +v.toFixed(6))), h:18};
+    f = {type:'Feature', properties:{b:nextB++, h:p.fp.h, mh:0, s:[]}, geometry:{type:'Polygon', coordinates:[p.fp.ring]}, mine:true};
+    f._c = center(f); B.push(f); byB.set(f.properties.b, f);
+  }
+  f.properties.s.push(p.i); p.b = f.properties.b;
+}
+const indexOne = p => { p._s = fold([p.n, p.d, p.s, p.a, p.area, p.cp, p.pc, p.sf && SFTXT[p.sf.s], p.sf && p.sf.p].join(' ')); p._slug = slug(p.n); };
+try { (JSON.parse(localStorage.getItem(STORE) || '[]') || []).map(cleanMine).filter(Boolean).forEach(p => { p.i = S.length; S.push(p); indexOne(p); house(p); }); } catch {}
+const saveMine = () => { try { localStorage.setItem(STORE, JSON.stringify(S.filter(p => p.mine && !p.gone)
+  .map(p => ({n:p.n, u:p.u, d:p.d, s:p.s, e:p.e, y:p.y, a:p.a, pc:p.pc, area:p.area, ll:p.ll, t:p.t, fp:p.fp})))); } catch {} };
+
 /* ---------- state ---------- */
 const active = new Set(Object.keys(STAGE));
 let query = '', fSec = '', showSeat = false, selB = null, openI = null, hovB = null;
-const visible = p => (active.has(p.st) || (p.st === 'unknown' && active.size === 3)) && (showSeat || p.k === 'office') && (!fSec || p.s === fSec) && (!query || p._s.includes(query));
+const visible = p => !p.gone && (active.has(p.st) || (p.st === 'unknown' && active.size === 3)) && (showSeat || p.k === 'office') && (!fSec || p.s === fSec) && (!query || p._s.includes(query));
 const bySize = (a, b) => (b.e || 0) - (a.e || 0) || a.n.localeCompare(b.n, 'fr');
 
 /* ---------- base map: OpenFreeMap vector tiles, quieted down; neutral 3D buildings ---------- */
@@ -143,9 +185,9 @@ function apply(){
 }
 
 /* ---------- panel ---------- */
-const offices = S.filter(p => p.k === 'office');
+const offices = S.filter(p => p.k === 'office' && !p.mine);
 $('stages').innerHTML = Object.entries(STAGE).map(([k, C]) =>
-  `<button class="pill" type="button" data-k="${k}" aria-pressed="true" style="--c:var(${C.c})" title="${C.label}: ${C.hint}"><i></i>${C.short} <em>${nf.format(offices.filter(p => p.st === k).length)}</em></button>`).join('');
+  `<button class="pill" type="button" data-k="${k}" aria-pressed="true" style="--c:var(${C.c})" title="${C.label}: ${C.hint}"><i></i>${C.short} <em></em></button>`).join('');
 $('stages').querySelectorAll('.pill').forEach(b => b.onclick = () => {
   const k = b.dataset.k, only = active.size === 1 && active.has(k);
   if (only) Object.keys(STAGE).forEach(x => active.add(x)); else { active.clear(); active.add(k); }
@@ -153,7 +195,14 @@ $('stages').querySelectorAll('.pill').forEach(b => b.onclick = () => {
   shown = 40; apply();
 });
 const secs = [...new Set(S.map(p => p.s))].sort((a, b) => offices.filter(p => p.s === b).length - offices.filter(p => p.s === a).length);
-secs.forEach(v => { const o = document.createElement('option'); o.value = v; o.textContent = `${v} (${nf.format(offices.filter(p => p.s === v).length)})`; $('fSec').appendChild(o); });
+secs.forEach(v => { const o = document.createElement('option'); o.value = v; $('fSec').appendChild(o); });
+/* stage and sector counts (offices only); rerun when a startup is added or removed */
+function counts(){
+  const off = S.filter(p => p.k === 'office' && !p.gone);
+  $('stages').querySelectorAll('.pill').forEach(b => { b.querySelector('em').textContent = nf.format(off.filter(p => p.st === b.dataset.k).length); });
+  [...$('fSec').options].slice(1).forEach(o => { o.textContent = `${o.value} (${nf.format(off.filter(p => p.s === o.value).length)})`; });
+}
+counts();
 $('fSec').onchange = e => { fSec = e.target.value; shown = 40; apply(); if (fSec) fitVisible(); };
 $('seat').onchange = e => { showSeat = e.target.checked; apply(); };
 let qt; $('q').addEventListener('input', e => { clearTimeout(qt); qt = setTimeout(() => { query = fold(e.target.value.trim()); listOpen = !!query || listOpen; shown = 40; apply(); }, 120); });
@@ -172,7 +221,7 @@ function renderPanel(){
   R.hidden = false;
   vis.sort(bySize);
   R.innerHTML = (vis.length ? vis.slice(0, shown).map(p => `<button class="res${p.i === openI ? ' on' : ''}" type="button" data-i="${p.i}" style="--c:var(${ST(p.st).c})">
-      ${logo(p, 'sm')}<div><b>${esc(p.n)}</b><span>${esc([p.s, p.cp || p.area].filter(Boolean).join(' · '))}</span></div><small>${p.e ? nf.format(p.e) : ''}</small></button>`).join('')
+      ${logo(p, 'sm')}<div><b>${esc(p.n)}</b><span>${p.mine ? '<em class="mine-tag">Yours</em> ' : ''}${esc([p.s, p.cp || p.area].filter(Boolean).join(' · '))}</span></div><small>${p.e ? nf.format(p.e) : ''}</small></button>`).join('')
     : `<div class="none">No startup matches. Try another word or clear a filter.</div>`) +
     (vis.length > shown ? `<button class="more" type="button">Show ${nf.format(Math.min(200, vis.length - shown))} more</button>` : '');
   wireLogos(R);
@@ -182,6 +231,7 @@ function renderPanel(){
 
 /* ---------- card: one building, the startups inside ---------- */
 const card = $('card');
+card.addEventListener('click', e => { const b = e.target.closest('[data-rm]'); if (b) removeMine(S[+b.dataset.rm]); });
 const SRC = {manual:'a manual check', research:'job posts and press', website:'its own website', linkedin:'its LinkedIn page', cohort:'a Station F programme list', register:'the company register'};
 const FIX = 'https://github.com/ethan-ab/paris-startup/issues/new';
 function detail(p, hero){
@@ -194,6 +244,15 @@ function detail(p, hero){
   const conf = p.cf === 'v' ? ['ok', 'Verified office', `Source: ${ev.join(' + ')}`]
     : p.cf === 'l' ? ['mid', 'Likely office', `Only source: ${ev[0]}`]
     : ['warn', 'Unconfirmed address', `From ${ev[0]} only. The team may work elsewhere.`];
+  if (p.mine) return `${hero ? '' : `<div class="meta"><span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span></div>`}
+    ${p.d ? `<p class="desc">${esc(p.d)}</p>` : ''}
+    ${facts.length ? `<div class="facts">${facts.map(([k, v]) => `<div><span>${k}</span><b>${esc(v)}</b></div>`).join('')}</div>` : ''}
+    <div class="where mid"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+      <div><b>${esc(where || 'Pinned on the map')}</b><span>Office added by you</span></div></div>
+    <div class="yours"><b>Added by you</b>Only on your map for now (saved in this browser). Send it for review to add it to the atlas for everyone.
+      <div class="acts"><a class="send" href="${esc(reviewHref(p))}" target="_blank" rel="noopener">Send for review ↗</a><button class="rm" type="button" data-rm="${p.i}">Remove</button></div></div>
+    <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a class="btn pri" href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}
+      <a class="btn" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.n + ', ' + where)}" target="_blank" rel="noopener">Directions</a></div>`;
   const fix = `${FIX}?title=${encodeURIComponent('Office: ' + p.n)}&body=${encodeURIComponent(`${p.n} (${p.u || ''})\nMap says: ${where}\nActual office: `)}`;
   return `${hero ? '' : `<div class="meta"><span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span></div>`}
     ${p.d ? `<p class="desc">${esc(p.d)}${p.d.length >= 259 ? '…' : ''}</p>` : ''}
@@ -273,9 +332,9 @@ function bAt(pt, r){
   const fs = map.queryRenderedFeatures([[pt.x - r, pt.y - r], [pt.x + r, pt.y + r]], {layers:['sb-3d']});
   return fs.length ? fs[0].properties.b : null;
 }
-map.on('click', e => { const b = bAt(e.point, coarse ? 10 : 3); if (b != null) { showCard(b, null, false); renderPanel(); } else if (selB !== null) closeCard(); });
+map.on('click', e => { if (picking) { pinMk.setLngLat(e.lngLat); return; } const b = bAt(e.point, coarse ? 10 : 3); if (b != null) { showCard(b, null, false); renderPanel(); } else if (selB !== null) closeCard(); });
 map.on('mousemove', e => {
-  const b = coarse ? null : bAt(e.point, 2);
+  const b = coarse || picking ? null : bAt(e.point, 2);
   if (b !== hovB) { if (hovB !== null) map.setFeatureState({source:'sb', id:hovB}, {hov:false}); hovB = b; if (b !== null) map.setFeatureState({source:'sb', id:b}, {hov:true}); }
   map.getCanvas().style.cursor = b !== null ? 'pointer' : '';
   if (b === null) { tip.hidden = true; return; }
@@ -289,10 +348,193 @@ $('zin').onclick = () => map.zoomIn({duration:300});
 $('zout').onclick = () => map.zoomOut({duration:300});
 $('tilt').onclick = () => { const flat = map.getPitch() > 5; map.easeTo({pitch:flat ? 0 : 58, bearing:flat ? 0 : -22, duration:700}); $('tilt').textContent = flat ? '3D' : '2D'; };
 $('home').onclick = () => { closeCard(); map.flyTo({...HOME(), duration:1100}); $('tilt').textContent = '2D'; };
-addEventListener('keydown', e => { if (e.key === 'Escape') closeCard(); });
+addEventListener('keydown', e => {
+  if (e.key !== 'Escape') return;
+  if (picking) return cancelPick();
+  if (!modal.hidden) return hitsEl.hidden ? closeForm() : hideHits();
+  closeCard();
+});
+
+/* ---------- add a startup: form → lights up its building on the map right away ---------- */
+const modal = $('modal'), form = $('adForm'), locEl = $('adLoc'), hitsEl = $('adHits');
+const GEO = 'https://data.geopf.fr/geocodage'; // French national address base (BAN), CORS-enabled
+$('adSec').insertAdjacentHTML('beforeend', [...new Set(S.filter(p => !p.mine).map(p => p.s))].sort((a, b) => a.localeCompare(b)).map(v => `<option>${esc(v)}</option>`).join(''));
+let draft = null, lastFocus = null;   // draft: {ll:[lat,lng], a, pc, area}
+const toSpot = f => {
+  const [lng, lat] = f.geometry.coordinates, pr = f.properties || {}, pc = String(pr.postcode || '');
+  if (!inZone(lat, lng)) return null;
+  const n = /^75(\d{3})$/.exec(pc), arr = n ? (+n[1] === 116 ? 16 : +n[1]) : 0;
+  return {ll:[+lat.toFixed(6), +lng.toFixed(6)], a:pr.name || '', pc, area:AREA[pc] || (arr ? `${arr}${arr === 1 ? 'er' : 'e'}` : pr.city || '')};
+};
+async function geo(path){
+  const ctl = new AbortController(), t = setTimeout(() => ctl.abort(), 5000);
+  try { const r = await fetch(GEO + path, {signal:ctl.signal}); if (!r.ok) throw new Error(r.status); return ((await r.json()).features || []).map(toSpot).filter(Boolean); }
+  finally { clearTimeout(t); }
+}
+const geocode = q => geo(`/search?q=${encodeURIComponent(q)}&limit=8&lat=48.8566&lon=2.3522`);
+const reverse = ll => geo(`/reverse?lat=${ll[0]}&lon=${ll[1]}&limit=1`);
+const nearestArea = ll => { let best = null, bd = 1e9; S.forEach(p => { if (p.mine || !p.area) return; const d = (p.ll[0]-ll[0])**2 + ((p.ll[1]-ll[1]) * .66)**2; if (d < bd) { bd = d; best = p; } }); return best ? {pc:best.pc, area:best.area} : {pc:'', area:''}; };
+
+let toastT = 0;
+function toast(t){ const el = $('toast'); el.textContent = t; el.hidden = false; clearTimeout(toastT); toastT = setTimeout(() => { el.hidden = true; }, 3500); }
+function setSpot(){
+  $('adSpot').hidden = !draft;
+  $('adSpot').textContent = draft ? `Pinned: ${[draft.a, draft.area].filter(Boolean).join(' · ') || 'on the map'}` : '';
+  $('adPick').textContent = draft ? 'Move pin' : 'Pick on map';
+}
+function stageHint(){
+  const e = parseInt($('adTeam').value, 10), st = e > 0 ? stageOf(e) : null;
+  $('adStage').innerHTML = st ? `<i style="--c:var(${STAGE[st].c})"></i>Shows as ${STAGE[st].label.toLowerCase()} (${STAGE[st].hint})` : '';
+}
+$('adTeam').addEventListener('input', stageHint);
+function openForm(){
+  if (picking) endPick();
+  lastFocus = document.activeElement;
+  form.reset(); draft = null; setSpot(); hideHits(); stageHint();
+  $('adMsg').className = 'msg'; $('adMsg').textContent = ''; $('adGo').disabled = false;
+  modal.hidden = false; $('adName').focus();
+}
+function closeForm(){ modal.hidden = true; hideHits(); lastFocus && lastFocus.focus && lastFocus.focus({preventScroll:true}); }
+$('addBtn').onclick = openForm;
+$('adClose').onclick = closeForm;
+modal.addEventListener('click', e => { if (e.target === modal) closeForm(); });
+
+/* address autocomplete */
+let hits = [], hitOn = -1, geoTimer = 0, geoSeq = 0;
+function hideHits(){ hits = []; hitOn = -1; hitsEl.hidden = true; hitsEl.textContent = ''; locEl.setAttribute('aria-expanded', 'false'); locEl.removeAttribute('aria-activedescendant'); }
+function paintHits(){
+  hitsEl.innerHTML = hits.map((h, j) => `<li role="option" id="adHit${j}" aria-selected="${j === hitOn}">${esc(h.a)}<small>${esc([h.pc, h.area].filter(Boolean).join(' · '))}</small></li>`).join('');
+  hitsEl.querySelectorAll('li').forEach((li, j) => li.onmousedown = e => { e.preventDefault(); chooseHit(hits[j]); });
+  hitsEl.hidden = !hits.length; locEl.setAttribute('aria-expanded', String(!!hits.length));
+  if (hitOn >= 0) locEl.setAttribute('aria-activedescendant', 'adHit' + hitOn); else locEl.removeAttribute('aria-activedescendant');
+}
+function chooseHit(h){ draft = h; locEl.value = h.a; hideHits(); setSpot(); }
+function searchAddress(){
+  clearTimeout(geoTimer);
+  const q = locEl.value.trim(), seq = ++geoSeq;
+  if (q.length < 3) return hideHits();
+  geoTimer = setTimeout(async () => {
+    try { const r = await geocode(q); if (seq === geoSeq && document.activeElement === locEl) { hits = r.slice(0, 5); hitOn = -1; paintHits(); } }
+    catch { if (seq === geoSeq) hideHits(); }
+  }, 250);
+}
+locEl.addEventListener('input', () => { draft = null; setSpot(); searchAddress(); });
+locEl.addEventListener('focus', () => { if (!draft) searchAddress(); });
+locEl.addEventListener('keydown', e => {
+  if (hitsEl.hidden || !hits.length) return;
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); hitOn = (hitOn + (e.key === 'ArrowDown' ? 1 : hits.length - 1)) % hits.length; paintHits(); }
+  else if (e.key === 'Enter') { e.preventDefault(); chooseHit(hits[Math.max(0, hitOn)]); }
+});
+locEl.addEventListener('blur', () => setTimeout(hideHits, 120));
+
+/* pick the office on the map with a draggable pin */
+let picking = false, pinMk = null;
+const pinSvg = col => `<svg class="newpin" viewBox="0 0 30 40" width="30" height="40" aria-hidden="true"><path d="M15 39S2.5 24.5 2.5 14.5a12.5 12.5 0 0 1 25 0C27.5 24.5 15 39 15 39z" fill="${col}" stroke="#fff" stroke-width="2.5"/><circle cx="15" cy="14.5" r="4.5" fill="#fff"/></svg>`;
+function startPick(){
+  hideHits(); modal.hidden = true; picking = true; closeCard(); tip.hidden = true;
+  $('pkName').textContent = $('adName').value.trim() || 'Your startup';
+  $('picker').hidden = false; $('addBtn').hidden = true; document.body.classList.add('picking');
+  if (!pinMk) pinMk = new maplibregl.Marker({element:document.createElement('div'), anchor:'bottom', draggable:true});
+  pinMk.getElement().innerHTML = pinSvg(ST(stageOf(parseInt($('adTeam').value, 10) || 0)).hex);
+  const at = draft ? [draft.ll[1], draft.ll[0]] : map.getCenter().toArray();
+  pinMk.setLngLat(at).addTo(map);
+  map.easeTo({center:at, zoom:Math.max(map.getZoom(), 16.2), pitch:Math.min(map.getPitch(), 30), duration:600});
+  $('pkOk').focus({preventScroll:true});
+}
+function endPick(){ picking = false; $('picker').hidden = true; $('addBtn').hidden = false; document.body.classList.remove('picking'); pinMk && pinMk.remove(); }
+function cancelPick(){ endPick(); modal.hidden = false; $('adPick').focus(); }
+async function confirmPick(){
+  const {lng, lat} = pinMk.getLngLat();
+  if (!inZone(lat, lng)) { toast('Move the pin to Paris or the inner suburbs'); return; }
+  const ll = [+lat.toFixed(6), +lng.toFixed(6)], spot = draft = {ll, a:'', ...nearestArea(ll)};
+  endPick(); modal.hidden = false; setSpot(); $('adPick').focus();
+  try {   // fill in the street and postcode when the address service is reachable
+    const [r] = await reverse(ll);
+    if (r && draft === spot) { Object.assign(spot, {a:r.a, pc:r.pc, area:r.area}); if (!locEl.value.trim()) locEl.value = r.a; setSpot(); }
+  } catch {}
+}
+$('adPick').onclick = startPick;
+$('pkCancel').onclick = cancelPick;
+$('pkOk').onclick = confirmPick;
+
+form.addEventListener('submit', async e => {
+  e.preventDefault();
+  const f = new FormData(form), msg = $('adMsg'), go = $('adGo');
+  const err = t => { msg.className = 'msg err'; msg.textContent = t; };
+  if (f.get('website')) return; // honeypot
+  const v = k => String(f.get(k) || '').trim();
+  const name = v('name'), loc = v('address'), sec = v('sector'), url = v('url'), team = v('team'), year = v('year');
+  if (name.length < 2) return err('Add the name of the startup.');
+  if (!draft && !loc) return err('Add the office address, or pick it on the map.');
+  if (!sec) return err('Choose a sector.');
+  if (team && !(+team >= 1 && +team <= 100000 && Number.isInteger(+team))) return err('Team size should be a whole number.');
+  if (year && !(+year >= 1990 && +year <= new Date().getFullYear() && Number.isInteger(+year))) return err('Founding year looks off.');
+  if (url && !/^https?:\/\/[^\s.]+\.[^\s]+$/i.test(url)) return err('Website should start with https://');
+  if (!draft) {
+    go.disabled = true; msg.className = 'msg'; msg.textContent = 'Finding the address…';
+    try { draft = (await geocode(loc))[0] || null; } catch { draft = null; }
+    go.disabled = false; msg.textContent = '';
+    if (!draft) return err("Couldn't find that address around Paris. Pick a suggestion, or place it on the map.");
+  }
+  const p = cleanMine({n:name, u:url, d:v('desc'), s:sec, e:team ? +team : undefined, y:year ? +year : undefined,
+    a:draft.a || loc, pc:draft.pc, area:draft.area, ll:draft.ll, t:Date.now()});
+  if (!p) return err('Add the name of the startup.');
+  go.disabled = true;
+  await addStartup(p);
+});
+
+/* the real footprint of the building under the office, read from the basemap's own 3D buildings */
+function footprint(ll){
+  if (!ready || !map.getLayer('building-3d')) return null;
+  const pt = map.project([ll[1], ll[0]]);
+  for (const f of map.queryRenderedFeatures([[pt.x - 3, pt.y - 3], [pt.x + 3, pt.y + 3]], {layers:['building-3d']})) {
+    const pg = polys(f.geometry).find(pg => inRing(ll[1], ll[0], pg[0]));
+    if (pg && pg[0].length <= 400) {
+      const pr = f.properties || {};
+      return {ring:pg[0].map(c => [+c[0].toFixed(6), +c[1].toFixed(6)]), h:Math.min(Math.max(+(pr.render_height ?? pr.h) || 15, 3), 300)};
+    }
+  }
+  return null;
+}
+const settle = () => new Promise(res => { if (!ready) return res(); const t = setTimeout(res, 3500); map.once('idle', () => { clearTimeout(t); res(); }); });
+async function addStartup(p){
+  modal.hidden = true; hideHits(); closeCard();
+  // make sure nothing hides it
+  Object.keys(STAGE).forEach(k => active.add(k)); $('stages').querySelectorAll('.pill').forEach(x => x.setAttribute('aria-pressed', 'true'));
+  query = ''; $('q').value = ''; fSec = ''; $('fSec').value = '';
+  // look straight down on the spot so the building under it can be read off the basemap
+  if (ready && !B.some(f => !f.gone && contains(f.geometry, p.ll))) {
+    map.jumpTo({center:[p.ll[1], p.ll[0]], zoom:17.2, pitch:0, bearing:0});
+    await settle();
+    p.fp = footprint(p.ll) || undefined;
+  }
+  p.i = S.length; S.push(p); indexOne(p); house(p); saveMine();
+  if (ready) map.getSource('sb').setData(BUILDINGS);
+  counts(); apply(); pick(p.i);
+  $('adGo').disabled = false;
+  toast(`${p.n} is on the map`);
+}
+function removeMine(p){
+  if (!p || !p.mine || p.gone) return;
+  const f = byB.get(p.b);
+  p.gone = true; saveMine(); closeCard();
+  if (f) {
+    f.properties.s = f.properties.s.filter(k => k !== p.i);
+    if (f.mine && !f.properties.s.length) { f.gone = true; B.splice(B.indexOf(f), 1); byB.delete(f.properties.b); }
+    if (ready) map.getSource('sb').setData(BUILDINGS);
+  }
+  counts(); apply();
+  toast(`Removed ${p.n}`);
+}
+function reviewHref(p){
+  const where = [p.a, p.pc, p.area].filter(Boolean).join(', ');
+  const body = [`**Startup**: ${p.n}`, p.u && `**Website**: ${p.u}`, `**Office**: ${where} (${p.ll[0]}, ${p.ll[1]})`, `**Sector**: ${p.s}`,
+    p.e && `**Team size**: ${p.e}`, p.y && `**Founded**: ${p.y}`, p.d && `**What it does**: ${p.d}`].filter(Boolean).join('\n\n');
+  return `${FIX}?labels=new-startup&title=${encodeURIComponent('Add: ' + p.n)}&body=${encodeURIComponent(body)}`;
+}
 
 apply();
 
 /* Read-only hooks for end-to-end tests. */
-window.__psa = {map, startups:S, buildings:B, isReady:() => ready, visibleBuildings:() => visB.length, selected:() => selB};
+window.__psa = {map, startups:S, buildings:B, isReady:() => ready, visibleBuildings:() => visB.length, selected:() => selB, picking:() => picking};
 })();
