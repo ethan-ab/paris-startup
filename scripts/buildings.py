@@ -93,14 +93,22 @@ def find(lat, lon):
     for i in tree.query(pt):
         if polys[i].contains(pt):
             return (tx, ty, int(i))
+    # The point is usually on the street side of the address, not inside the footprint. Take every building within 25 m, then among
+    # those about as close as the nearest one (+6 m) prefer the biggest tall one: sheds and courtyard annexes are rarely the office.
     dlat, dlon = metres_to_deg(lat)
-    i = tree.nearest(pt)
-    if i is not None:
-        # distance in metres (approx.)
+    near = []
+    for i in tree.query(pt.buffer(26 * dlat)):
         q = polys[i].exterior.interpolate(polys[i].exterior.project(pt)) if polys[i].geom_type == 'Polygon' else None
-        if q is not None and math.hypot((q.x - lon) / dlon, (q.y - lat) / dlat) <= 25:
-            return (tx, ty, int(i))
-    return None
+        if q is None:
+            continue
+        d = math.hypot((q.x - lon) / dlon, (q.y - lat) / dlat)
+        if d <= 25:
+            near.append((d, i))
+    if not near:
+        return None
+    d0 = min(near)[0]
+    d, i = max((c for c in near if c[0] <= d0 + 6), key=lambda c: polys[c[1]].area * (meta[c[1]][0] or 10))
+    return (tx, ty, int(i))
 
 
 def rnd(geom):
