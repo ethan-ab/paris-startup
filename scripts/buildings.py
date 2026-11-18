@@ -121,43 +121,31 @@ import csv, gzip, re, io
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import locate as L  # noqa: E402
 
-_ban = {}
 _parcels = {}
+_last = {}
 
 
 def _fetch(url, path):
     if not os.path.exists(path):
         os.makedirs(os.path.dirname(path), exist_ok=True)
-        for attempt in range(4):
+        import time
+        for attempt in range(6):
             try:
-                with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=120) as r, open(path, 'wb') as f:
-                    f.write(r.read())
+                with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=120) as r:
+                    data = r.read()
+                with open(path, 'wb') as f:
+                    f.write(data)
                 break
-            except Exception:  # noqa: BLE001
-                if attempt == 3:
+            except Exception:  # noqa: BLE001  (connection resets happen; back off and retry)
+                if attempt == 5:
                     raise
+                time.sleep(3 * (attempt + 1))
     return path
 
 
-def ban_index():
-    """{(addr_key, postcode): (insee, [parcel ids], lat, lon)} for Paris and the inner ring; also fills _communes {postcode: {insee}}."""
-    if _ban:
-        return _ban
-    for d in ('75', '92', '93', '94'):
-        p = _fetch(f'https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/adresses-{d}.csv.gz', os.path.join(ROOT, 'data', 'cache', 'ban', f'adresses-{d}.csv.gz'))
-        with gzip.open(p, 'rt', encoding='utf-8') as f:
-            for r in csv.DictReader(f, delimiter=';'):
-                if not r['numero']:
-                    continue
-                _communes.setdefault(r['code_postal'], set()).add(r['code_insee'])
-                k = (L.addr_key(f"{r['numero']} {r['rep']} {r['nom_voie']}"), r['code_postal'])
-                if k not in _ban or (r['cad_parcelles'] and not _ban[k][1]):
-                    _ban[k] = (r['code_insee'], r['cad_parcelles'].split('|') if r['cad_parcelles'] else [], float(r['lat']), float(r['lon']))
-    return _ban
 
-
-_communes = {}
-_last = {}
+ban_index = L.ban_index
+_communes = L._communes   # filled by ban_index()
 
 
 def parcels(insee):
@@ -268,6 +256,8 @@ def main():
             h, mh = max([m[0] for _, m in parts] or [20]), 0
         elif k[0] == 'parcel':  # building not on the basemap yet: the parcel itself, a modest 12 m block
             poly, h, mh = grow(PARCEL[k[1]], lat0, -1.0), 12, 0
+            if poly.is_empty or poly.area < 0.5 * PARCEL[k[1]].area:   # tiny parcel: shrinking it would erase it
+                poly = PARCEL[k[1]]
         elif k[0] == 'pt':  # no footprint nearby: a small 7 m block on the point
             dlat, dlon = metres_to_deg(lat0)
             poly = Point(lon0, lat0).buffer(7 * dlat, quad_segs=2)

@@ -388,7 +388,9 @@ def main():
     def evidence(i, c):
         ev = []  # (geo, family, weight, is_seat)
         dom = lambda g: L.addr_key(g[2]) in L.DOMICILIATION
-        for o in _get(REG, c)[:1]:
+        m_ = sf_mention(c)
+        at_sf = L.fold(c['name']) in sfres or (c.get('domain') or '').replace('www.', '').lower() in sfres or (m_ and (m_['programmes'][0].get('date') or '') >= '2025-07')
+        for o in ([] if at_sf else _get(REG, c)[:1]):   # a current Station F team keeps its campus pin (a second establishment is not proof it left)
             for k_, k in enumerate(o.get('cands', [])[:2]):   # a second establishment in Paris is a real workplace; weight 2 beats a legal-notice seat (1.5)
                 g = rgeo.get(f'g{i}_{k_}')   # BAN geocode: the register's own coordinates can be ~100 m off
                 if good(g):
@@ -499,6 +501,11 @@ def main():
         lk = LK.get((c.get('domain') or '').replace('www.', '').lower()) or {}
         li_emp = linkedin_headcount(lk.get('li_employees'), lk.get('li_size_band'))
         emp = li_emp or (ve[0] if ve else c.get('employees'))
+        manual_emp = False
+        man_emp = [o['employees'] for o in corrections(c) if o.get('employees')]   # team size confirmed by hand: always wins
+        if man_emp:
+            emp, ve = man_emp[0], [man_emp[0]]
+            manual_emp = True
         if li_emp or ve:
             ve = ve or [li_emp]
         rd = c.get('last_round') or {}
@@ -506,11 +513,15 @@ def main():
             'n': SEEDNAME.get((c.get('domain') or '').replace('www.', ''), c['name']).strip(), 'u': c['url'], 'd': re.sub(r'\s+', ' ', (c.get('description') or '')).strip()[:260],
             'y': c.get('founded'), 'e': emp, 'f': c.get('funding_total'),
             'rd': ' · '.join(x for x in (rd.get('name'), (rd.get('date') or '')[:4]) if x) or None,
-            's': sector(c), 'st': stage(emp), 'eh': 'linkedin' if ve else ('register' if c.get('seed') and emp else 'exa' if emp else None),
+            's': sector(c), 'st': stage(emp), 'eh': 'manual' if manual_emp else 'linkedin' if ve else ('register' if c.get('seed') and emp else 'exa' if emp else None),
             'a': clean_street(loc['street']), 'pc': loc['pc'], 'area': area(loc['pc'], loc['city']),
             'll': [round(loc['ll'][0], 6), round(loc['ll'][1], 6)], 'k': 'office' if loc['cf'] in 'vl' else 'seat',
             'cf': loc['cf'], 'v': loc['via'], 'ev': loc['ev'],
         }
+        if rec['v'] == 'register':   # the register's own coordinates can be hundreds of metres off: use BAN's point for the same address
+            h_ = L.ban_index().get((L.addr_key(rec['a']), rec['pc']))
+            if h_:
+                rec['ll'] = [round(h_[2], 6), round(h_[3], 6)]
         m = sf_mention(c)
         if m:
             pr = m['programmes'][0]
