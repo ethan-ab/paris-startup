@@ -45,11 +45,6 @@
 "e": 10
 },
 {
-"n": "Minah",
-"u": "https://minah.io/",
-"e": 4
-},
-{
 "n": "Nomaban",
 "u": "https://nomaban.com/",
 "e": 3
@@ -218,11 +213,6 @@
 "n": "Merkl",
 "u": "https://merkl.xyz/",
 "e": 20
-},
-{
-"n": "Candide",
-"u": "https://candide.dev/",
-"e": 5
 },
 {
 "n": "Altme",
@@ -6983,6 +6973,11 @@
 "n": "revid.ai",
 "u": "https://revid.ai/",
 "e": 5
+},
+{
+"n": "Cordoba Ai",
+"u": "https://cordobamedia.co/",
+"e": 25
 },
 {
 "n": "Paria.tv",

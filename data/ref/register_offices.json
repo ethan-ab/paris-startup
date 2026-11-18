@@ -1,0 +1,2930 @@
+[
+{
+"n": "A51",
+"w": "a51tx.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "6 Rue Jean Calvin",
+"postcode": "75005",
+"ll": [
+48.8418031266047,
+2.34886568647204
+]
+}
+]
+},
+{
+"n": "Actionable",
+"w": "actionable.live",
+"current": "30 Rue Blondel 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "19 Rue Beranger",
+"postcode": "75003",
+"ll": [
+48.8664019843645,
+2.363412016700405
+]
+}
+]
+},
+{
+"n": "ADYOUNEED",
+"w": "adyouneed.com",
+"current": "40 Rue des Blancs Manteaux 75004",
+"cf": "l",
+"cands": [
+{
+"office_street": "49 Rue De Provence",
+"postcode": "75009",
+"ll": [
+48.874106527471,
+2.33500842672893
+]
+}
+]
+},
+{
+"n": "Aenitis Technologies",
+"w": "aenitis.fr",
+"current": "16 Rue de la Grange aux Belles 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "Saint Louis 1 Avenue Claude Vellefaux",
+"postcode": "75010",
+"ll": [
+48.8728256074284,
+2.36975132651102
+]
+}
+]
+},
+{
+"n": "Aive",
+"w": "aive.com",
+"current": "121 Avenue Mozart 75016",
+"cf": "l",
+"cands": [
+{
+"office_street": "72 Rue Dulong",
+"postcode": "75017",
+"ll": [
+48.886356914607,
+2.31505528801136
+]
+}
+]
+},
+{
+"n": "Alki",
+"w": "alki.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "23 Rue Des Gravilliers",
+"postcode": "75003",
+"ll": [
+48.863769633,
+2.3568064813
+]
+}
+]
+},
+{
+"n": "Alma",
+"w": "getalma.eu",
+"current": "11 Rue Le Marois 75016",
+"cf": "u",
+"cands": [
+{
+"office_street": "79 Boulevard Diderot",
+"postcode": "75012",
+"ll": [
+48.847516841,
+2.387012171
+]
+}
+]
+},
+{
+"n": "Alouette AI",
+"w": "alouette.ai",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "40 Avenue Bosquet",
+"postcode": "75007",
+"ll": [
+48.856549328,
+2.304306569
+]
+}
+]
+},
+{
+"n": "Alpagga",
+"w": "alpagga.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "233 Rue De La Croix Nivert",
+"postcode": "75015",
+"ll": [
+48.8350509951952,
+2.28996355593415
+]
+}
+]
+},
+{
+"n": "Artiris",
+"w": "artiris-photo.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "28 Rue Pierre Semard",
+"postcode": "75009",
+"ll": [
+48.8787311263047,
+2.34817731742462
+]
+}
+]
+},
+{
+"n": "Baback",
+"w": "baback.co",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "41 Rue La Condamine",
+"postcode": "75017",
+"ll": [
+48.88623099242447,
+2.3222750018414526
+]
+}
+]
+},
+{
+"n": "Beavr",
+"w": "beavrdesign.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "Magasin Sur Rue 8 Rue De Clery",
+"postcode": "75002",
+"ll": [
+48.8675210598675,
+2.34491636047409
+]
+}
+]
+},
+{
+"n": "Bitstack",
+"w": "bitstack-app.com",
+"current": "5 Rue Eugène Freyssinet 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "24 Rue Feydeau",
+"postcode": "75002",
+"ll": [
+48.8699237433271,
+2.34026632484532
+]
+}
+]
+},
+{
+"n": "Blockpulse",
+"w": "blockpulse.eu",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 B Rue Saint-Gilles",
+"postcode": "75003",
+"ll": [
+48.857846397,
+2.3661525185
+]
+}
+]
+},
+{
+"n": "Bobo Paris",
+"w": "boboparis.com",
+"current": "27 Rue Meslay 75003",
+"cf": "u",
+"cands": [
+{
+"office_street": "12 B Rue De L'Etoile",
+"postcode": "75017",
+"ll": [
+48.877140092,
+2.2957589052
+]
+},
+{
+"office_street": "6 Rue Corvetto",
+"postcode": "75008",
+"ll": [
+48.8774399569124,
+2.31498201242863
+]
+}
+]
+},
+{
+"n": "Brickmeup",
+"w": "brickmeup.com",
+"current": "4 Rue Marie-Éléonore de Bellefond 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "198 Avenue De France",
+"postcode": "75013",
+"ll": [
+48.8360308687701,
+2.37188303265102
+]
+}
+]
+},
+{
+"n": "Brokoli",
+"w": "brokoli.fr",
+"current": "9 Rue Jacques Hillairet 75012",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Rue Du 8 Mai 1945",
+"postcode": "92110",
+"ll": [
+48.8976757232516,
+2.30971118779722
+]
+}
+]
+},
+{
+"n": "Cashbee",
+"w": "cashbee.fr",
+"current": "36 Rue Taitbout 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "4 Rue Thorel",
+"postcode": "75002",
+"ll": [
+48.869513228,
+2.3490603565
+]
+}
+]
+},
+{
+"n": "Centeon",
+"w": "centeon.bio",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "111 Avenue De France",
+"postcode": "75013",
+"ll": [
+48.8301610581948,
+2.37676671022618
+]
+},
+{
+"office_street": "Biolabs Hot. Dieu Site Broussais Bat 96 Rue Didot",
+"postcode": "75014",
+"ll": [
+48.827590454,
+2.3147193326
+]
+}
+]
+},
+{
+"n": "ChapsVision",
+"w": "chapsvision.com",
+"current": "105 Rue du Faubourg Saint-Honoré 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "24 Rue De La Pepiniere",
+"postcode": "75008",
+"ll": [
+48.8753063570194,
+2.32018649040901
+]
+},
+{
+"office_street": "5 Rue Feydeau",
+"postcode": "75002",
+"ll": [
+48.869849765799,
+2.34153085150164
+]
+},
+{
+"office_street": "19 Rue De La Paix",
+"postcode": "75002",
+"ll": [
+48.8698803813984,
+2.33163986124425
+]
+},
+{
+"office_street": "46 Rue Saint-Lazare",
+"postcode": "75009",
+"ll": [
+48.876967041911,
+2.33484510088484
+]
+}
+]
+},
+{
+"n": "CircularPlace",
+"w": "circularplace.fr",
+"current": "59 Rue De Ponthieu 75008",
+"cf": "u",
+"cands": [
+{
+"office_street": "8 Rue Pierre Wacquant",
+"postcode": "92190",
+"ll": [
+48.8199784663904,
+2.22844180361879
+]
+}
+]
+},
+{
+"n": "Cityscoot",
+"w": "cityscoot.eu",
+"current": "8 Rue Bayen 75017",
+"cf": "l",
+"cands": [
+{
+"office_street": "37 Rue Des Acacias",
+"postcode": "75017",
+"ll": [
+48.8774263251287,
+2.29259686314067
+]
+},
+{
+"office_street": "65 Avenue Francois Vincent Raspail",
+"postcode": "94110",
+"ll": [
+48.8074479696039,
+2.34003710129203
+]
+},
+{
+"office_street": "50 Rue Ardoin",
+"postcode": "93400",
+"ll": [
+48.9116263169106,
+2.32509114619495
+]
+},
+{
+"office_street": "Parc Des Docks Batiment 563 50 Rue Ardoin",
+"postcode": "93400",
+"ll": [
+48.9116263169106,
+2.32509114619495
+]
+},
+{
+"office_street": "51 Rue De Presles",
+"postcode": "93300",
+"ll": [
+48.9081677280689,
+2.39568975238659
+]
+}
+]
+},
+{
+"n": "CODESPAR",
+"w": "codespar.dev",
+"current": "28T Rue Belgrand 75020",
+"cf": "l",
+"cands": [
+{
+"office_street": "4 Cite De Londres",
+"postcode": "75009",
+"ll": [
+48.876479508,
+2.3294442765
+]
+}
+]
+},
+{
+"n": "COHL",
+"w": "cohl.io",
+"current": "25 Rue Henry Monnier 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "69 Boulevard Victor Hugo",
+"postcode": "93400",
+"ll": [
+48.9088607974379,
+2.32906813754713
+]
+}
+]
+},
+{
+"n": "Danim",
+"w": "danim.com",
+"current": "86 Boulevard de Magenta 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "2 Rue Gabriel Laumain",
+"postcode": "75010",
+"ll": [
+48.8733950434571,
+2.35010254069715
+]
+}
+]
+},
+{
+"n": "DeepTech Innov",
+"w": "deeptechinnov.fr",
+"current": "149 Avenue du Maine 75014",
+"cf": "l",
+"cands": [
+{
+"office_street": "35 Rue De La Folie-Mericourt",
+"postcode": "75011",
+"ll": [
+48.8633298337401,
+2.37255833595064
+]
+}
+]
+},
+{
+"n": "Devialet",
+"w": "devialet.com",
+"current": "126 Rue Reaumur 75002",
+"cf": "u",
+"cands": [
+{
+"office_street": "12 Rue Linois",
+"postcode": "75015",
+"ll": [
+48.848043573,
+2.2828192984
+]
+},
+{
+"office_street": "Palais Garnier Place De L'Opera",
+"postcode": "75009",
+"ll": [
+48.872040104,
+2.331695994
+]
+},
+{
+"office_street": "Immeuble Watt 16-32 Rue Henri Regnault",
+"postcode": "92400",
+"ll": [
+48.8937210536848,
+2.24383626614681
+]
+}
+]
+},
+{
+"n": "DFNS",
+"w": "dfns.co",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "5 Parvis Alan Turing",
+"postcode": "75013",
+"ll": [
+48.834490428,
+2.3702741308
+]
+}
+]
+},
+{
+"n": "Diggers Factory",
+"w": "diggersfactory.com",
+"current": "15 Rue de la Fontaine au Roi 75011",
+"cf": "l",
+"cands": [
+{
+"office_street": "78 Quai De Jemmapes",
+"postcode": "75010",
+"ll": [
+48.8720470404761,
+2.36523901368638
+]
+}
+]
+},
+{
+"n": "Dimpl",
+"w": "dimpl.io",
+"current": "126 Rue Réaumur 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "57 Rue Charles Laffitte",
+"postcode": "92200",
+"ll": [
+48.879484304,
+2.271825844
+]
+}
+]
+},
+{
+"n": "Dive",
+"w": "divemagazine.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "C/O Flex-O 69 Boulevard Haussmann",
+"postcode": "75008",
+"ll": [
+48.87391995547679,
+2.324845935852445
+]
+}
+]
+},
+{
+"n": "Dust",
+"w": "dust.tt",
+"current": "52 Rue de la Verrerie 75004",
+"cf": "l",
+"cands": [
+{
+"office_street": "36 Rue Guyard Delalain",
+"postcode": "93300",
+"ll": [
+48.9103054009789,
+2.3889583878269
+]
+}
+]
+},
+{
+"n": "edtake",
+"w": "edtake.com",
+"current": "29 Avenue de la Grande Armée 75116",
+"cf": "l",
+"cands": [
+{
+"office_street": "11 Boulevard Suchet",
+"postcode": "75016",
+"ll": [
+48.860005994,
+2.2666056097
+]
+}
+]
+},
+{
+"n": "Educademy",
+"w": "educademy.fr",
+"current": "39 Avenue Franklin D. Roosevelt 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "101-109 101 Rue Jean Jaures",
+"postcode": "92300",
+"ll": [
+48.8949557722815,
+2.29589470933946
+]
+}
+]
+},
+{
+"n": "Edusign",
+"w": "edusign.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Rue Eugene Freyssinet",
+"postcode": "75013",
+"ll": [
+48.832573959,
+2.3716240266
+]
+}
+]
+},
+{
+"n": "Enodia Therapeutics",
+"w": "enodiatx.com",
+"current": "26 Rue Bosquet 75007",
+"cf": "l",
+"cands": [
+{
+"office_street": "Batiment The Hive - Innovation Center 125 Rue Edouard Vaillant",
+"postcode": "94800",
+"ll": [
+48.793439402988,
+2.34979944394126
+]
+}
+]
+},
+{
+"n": "EONA-X",
+"w": "eona-x.eu",
+"current": "21 Avenue de Messine 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "130 Rue De Lourmel",
+"postcode": "75015",
+"ll": [
+48.8416032137903,
+2.28472896813319
+]
+}
+]
+},
+{
+"n": "Epigene Labs",
+"w": "epigenelabs.com",
+"current": "9 Rue des Filles Saint-Thomas 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "Sta F5 Parvis Alan Turing",
+"postcode": "75013",
+"ll": [
+48.834350435,
+2.3712902255
+]
+}
+]
+},
+{
+"n": "FAB-DIS",
+"w": "fabdis.fr",
+"current": "17 Rue de l'Amiral Hamelin 75116",
+"cf": "l",
+"cands": [
+{
+"office_street": "198 Avenue De France",
+"postcode": "75013",
+"ll": [
+48.8360308687701,
+2.37188303265102
+]
+}
+]
+},
+{
+"n": "Famileat",
+"w": "famileat.fr",
+"current": "15 Avenue Trudaine 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "76 Rue Marguerite De Rochechouart",
+"postcode": "75009",
+"ll": [
+48.882072379,
+2.3467352512
+]
+}
+]
+},
+{
+"n": "fliit",
+"w": "fliit.fr",
+"current": "26 Rue du Colonel Pierre Avia 75015",
+"cf": "l",
+"cands": [
+{
+"office_street": "43 Rue Du Colonel Pierre Avia",
+"postcode": "75015",
+"ll": [
+48.8283311479558,
+2.27324464594709
+]
+}
+]
+},
+{
+"n": "Flink France",
+"w": "goflink.com",
+"current": "4 Rue de Marivaux 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "18 Rue Reaumur",
+"postcode": "75003",
+"ll": [
+48.865001051,
+2.3586901457
+]
+},
+{
+"office_street": "28 Rue Brunel",
+"postcode": "75017",
+"ll": [
+48.877506982,
+2.2884517883
+]
+},
+{
+"office_street": "71 Rue De Bagnolet",
+"postcode": "75020",
+"ll": [
+48.857981263,
+2.3997008966
+]
+},
+{
+"office_street": "123 Boulevard Brune",
+"postcode": "75014",
+"ll": [
+48.825571041,
+2.3172284857
+]
+},
+{
+"office_street": "5 Rue Des Lilas",
+"postcode": "93100",
+"ll": [
+48.869418488,
+2.4309702434
+]
+},
+{
+"office_street": "122 Rue Marcel Hartmann",
+"postcode": "94200",
+"ll": [
+48.807933895,
+2.3812862368
+]
+},
+{
+"office_street": "12 Rue Felix Faure",
+"postcode": "75015",
+"ll": [
+48.838998142,
+2.2849472903
+]
+},
+{
+"office_street": "40 Rue Albert 1Er",
+"postcode": "92600",
+"ll": [
+48.914168430894,
+2.28279617312887
+]
+},
+{
+"office_street": "38 Rue Le Peletier",
+"postcode": "75009",
+"ll": [
+48.875264787,
+2.3398834142
+]
+}
+]
+},
+{
+"n": "Flowlity",
+"w": "flowlity.com",
+"current": "4 Square Alban Satragne 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "96 B Boulevard Raspail",
+"postcode": "75006",
+"ll": [
+48.846183588,
+2.3281487598
+]
+},
+{
+"office_street": "64 Rue De Saintonge",
+"postcode": "75003",
+"ll": [
+48.8639700480838,
+2.36520254724337
+]
+}
+]
+},
+{
+"n": "Folk",
+"w": "folk.app",
+"current": "53 Rue de Cléry 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "15 Rue Raynouard",
+"postcode": "75016",
+"ll": [
+48.8570431705312,
+2.28336790271873
+]
+}
+]
+},
+{
+"n": "Foodvisor",
+"w": "foodvisor.io",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "21 Rue Du Fbg St Antoine",
+"postcode": "75011",
+"ll": [
+48.852693409,
+2.3713905352
+]
+}
+]
+},
+{
+"n": "Footbar",
+"w": "footbar.com",
+"current": "6 Rue Claude Farrère 75016",
+"cf": "l",
+"cands": [
+{
+"office_street": "6 Rue Claude Farrere",
+"postcode": "75016",
+"ll": [
+48.843739776,
+2.2533942837
+]
+}
+]
+},
+{
+"n": "Formality",
+"w": "formality.com",
+"current": "19 Rue Poissonnière 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "20 Rue Des Petits Hotels",
+"postcode": "75010",
+"ll": [
+48.87750103580928,
+2.353621026673943
+]
+}
+]
+},
+{
+"n": "Franklin Pet Food",
+"w": "franklinpetfood.com",
+"current": "1 Rue Manuel 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "2 Boulevard Montmartre",
+"postcode": "75009",
+"ll": [
+48.8716963047225,
+2.34287509641838
+]
+}
+]
+},
+{
+"n": "Freeda",
+"w": "freeda.so",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "13 Rue De Turbigo",
+"postcode": "75002",
+"ll": [
+48.8639821840847,
+2.34904512415792
+]
+}
+]
+},
+{
+"n": "Goodays",
+"w": "goodays.co",
+"current": "12B Rue de la Victoire 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "21 Rue La Boetie",
+"postcode": "75008",
+"ll": [
+48.8739879949575,
+2.31688128394734
+]
+}
+]
+},
+{
+"n": "Gyneika",
+"w": "gyneika.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "19 Rue Alexandre Antonini",
+"postcode": "92110",
+"ll": [
+48.9075235981318,
+2.30510492325088
+]
+}
+]
+},
+{
+"n": "HALOGENE",
+"w": "halogene.com",
+"current": "74 Rue du Faubourg Saint-Denis 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "3 Rue Du Faubourg Saint-Martin",
+"postcode": "75010",
+"ll": [
+48.869403952,
+2.3556244856
+]
+},
+{
+"office_street": "53 Boulevard De Strasbourg",
+"postcode": "75010",
+"ll": [
+48.872684493,
+2.3559124691
+]
+}
+]
+},
+{
+"n": "HermineIA",
+"w": "hermineia.fr",
+"current": "9 Rue de la Source 75016",
+"cf": "l",
+"cands": [
+{
+"office_street": "28 Boulevard De La Bastille",
+"postcode": "75012",
+"ll": [
+48.84932766189,
+2.36841812087167
+]
+}
+]
+},
+{
+"n": "Humapro",
+"w": "humapro.fr",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "55 Boulevard Vincent Auriol",
+"postcode": "75013",
+"ll": [
+48.834571363,
+2.3702896375
+]
+}
+]
+},
+{
+"n": "HYGITECH",
+"w": "hygitech.com",
+"current": "25 Rue Bleue 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "109 B Avenue Charles De Gaulle",
+"postcode": "92200",
+"ll": [
+48.88130065,
+2.2702666809
+]
+}
+]
+},
+{
+"n": "Hyperstack",
+"w": "hyperstack.studio",
+"current": "82 Avenue du Maine 75014",
+"cf": "l",
+"cands": [
+{
+"office_street": "28 Rue Du Chemin Vert",
+"postcode": "75011",
+"ll": [
+48.8583255534414,
+2.37266886045022
+]
+}
+]
+},
+{
+"n": "HyVibe",
+"w": "hyvibe.audio",
+"current": "51 Rue de Maubeuge 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "4 Quai Des Celestins",
+"postcode": "75004",
+"ll": [
+48.851788547,
+2.3618550134
+]
+}
+]
+},
+{
+"n": "Idylle",
+"w": "idylle-labs.com",
+"current": "30 Rue de Campo-Formio 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "14 Rue De La Beaune",
+"postcode": "93100",
+"ll": [
+48.8618195121905,
+2.43590347540966
+]
+}
+]
+},
+{
+"n": "Immersiv",
+"w": "immersiv.com.au",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "15 Boulevard De La Madeleine",
+"postcode": "75001",
+"ll": [
+48.869273369,
+2.326289741
+]
+}
+]
+},
+{
+"n": "ImVitro",
+"w": "im-vitro.com",
+"current": "130 Rue de Lourmel 75015",
+"cf": "l",
+"cands": [
+{
+"office_street": "96 B Boulevard Raspail",
+"postcode": "75006",
+"ll": [
+48.846183588,
+2.3281487598
+]
+}
+]
+},
+{
+"n": "innerskin",
+"w": "innerskin.com",
+"current": "5 Rue Clément Marot 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "59 Rue Des Francs Bourgeois",
+"postcode": "75004",
+"ll": [
+48.8598699748226,
+2.35707393332713
+]
+}
+]
+},
+{
+"n": "InSpek",
+"w": "inspek-solutions.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "25 Rue De La Gare De Reuilly",
+"postcode": "75012",
+"ll": [
+48.841568867,
+2.3950365934
+]
+},
+{
+"office_street": "5 Rue Gardenat Lapostol",
+"postcode": "92150",
+"ll": [
+48.8724051274863,
+2.22253556418454
+]
+}
+]
+},
+{
+"n": "Ironflow Batteries",
+"w": "ironflow-batteries.com",
+"current": "11 Rue Pierre et Marie Curie 75005",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Rue Noel Pons",
+"postcode": "92000",
+"ll": [
+48.9056646599208,
+2.21938791092362
+]
+}
+]
+},
+{
+"n": "iSpheres",
+"w": "ispheres.com",
+"current": "67 Rue Saint-Jacques 75005",
+"cf": "u",
+"cands": [
+{
+"office_street": "198 Avenue De France",
+"postcode": "75013",
+"ll": [
+48.8360308687701,
+2.37188303265102
+]
+}
+]
+},
+{
+"n": "Joli Closet",
+"w": "jolicloset.com",
+"current": "41B Rue Claude Terrasse 75016",
+"cf": "l",
+"cands": [
+{
+"office_street": "Les Bureaux De La Colline",
+"postcode": "92210",
+"ll": [
+48.8417819333274,
+2.22008589929969
+]
+}
+]
+},
+{
+"n": "Kactus",
+"w": "kactus.com",
+"current": "13 Rue des Petits Hôtels 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "26 Rue De Berri",
+"postcode": "75008",
+"ll": [
+48.8731604914802,
+2.30591870840199
+]
+}
+]
+},
+{
+"n": "Kids&Mamas",
+"w": "kidsnmamas.com",
+"current": "31 Rue De La Montagne De La Fage 75015",
+"cf": "u",
+"cands": [
+{
+"office_street": "80 Avenue De La Marne",
+"postcode": "92120",
+"ll": [
+48.8129375695705,
+2.30414136944006
+]
+}
+]
+},
+{
+"n": "KIOSK Paris",
+"w": "kiosk-paris.com",
+"current": "24 Rue Henri Poincaré 75020",
+"cf": "l",
+"cands": [
+{
+"office_street": "137 Boulevard De Sebastopol",
+"postcode": "75002",
+"ll": [
+48.8686021213337,
+2.35352699822916
+]
+}
+]
+},
+{
+"n": "Kol",
+"w": "kol-app.com",
+"current": "18 Rue Sainte-Foy 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "26 Rue Bosquet",
+"postcode": "75007",
+"ll": [
+48.855928984,
+2.3056126248
+]
+},
+{
+"office_street": "42 Rue Sedaine",
+"postcode": "75011",
+"ll": [
+48.856939055,
+2.3751836134
+]
+},
+{
+"office_street": "23 Rue Nationale",
+"postcode": "75013",
+"ll": [
+48.823422959,
+2.3682829884
+]
+}
+]
+},
+{
+"n": "Kumulus",
+"w": "kumulus.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "12 Rue De Chambery",
+"postcode": "75015",
+"ll": [
+48.831517419,
+2.3038984641
+]
+}
+]
+},
+{
+"n": "Kushim",
+"w": "kushim.co.jp",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "32 Rue Des Jeuneurs",
+"postcode": "75002",
+"ll": [
+48.869618645,
+2.3446461257
+]
+},
+{
+"office_street": "9 Rue Du Delta",
+"postcode": "75009",
+"ll": [
+48.882348327,
+2.3483585713
+]
+}
+]
+},
+{
+"n": "L'ÉCLAIR DE GÉNIE",
+"w": "leclairdegenieshop.com",
+"current": "32 Rue Notre-Dame des Victoires 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "107 Rue Reaumur 122 Rue Montmartre",
+"postcode": "75002",
+"ll": [
+48.867923994,
+2.3438380575
+]
+},
+{
+"office_street": "9 Rue Notre-Dame Des Victoires",
+"postcode": "75002",
+"ll": [
+48.867747864,
+2.3415056182
+]
+},
+{
+"office_street": "18 Rue De La Banque",
+"postcode": "75002",
+"ll": [
+48.868003677,
+2.3410879622
+]
+},
+{
+"office_street": "2 2 B Et 4 Rue Vivienne 6 Rue Des Petits Champs",
+"postcode": "75002",
+"ll": [
+48.866668295,
+2.3392379558
+]
+},
+{
+"office_street": "Depot Legal-Galerie Des Fresque Place Louis Armand",
+"postcode": "75012",
+"ll": [
+48.8447274717129,
+2.37522223540554
+]
+},
+{
+"office_street": "Gare Du Nord 18 Rue De Dunkerque",
+"postcode": "75010",
+"ll": [
+48.8810235470895,
+2.35382193060042
+]
+},
+{
+"office_street": "131 Rue Du Faubourg Saint-Antoine",
+"postcode": "75011",
+"ll": [
+48.8511253737846,
+2.3776675296594
+]
+},
+{
+"office_street": "58 Avenue Augustin Dumont",
+"postcode": "92240",
+"ll": [
+48.81697796505272,
+2.3040759433616054
+]
+}
+]
+},
+{
+"n": "La Fourche",
+"w": "ackerherz.de",
+"current": "15 Rue Clavel 75019",
+"cf": "l",
+"cands": [
+{
+"office_street": "208 Rue Saint-Maur",
+"postcode": "75010",
+"ll": [
+48.872877754913,
+2.37111660642074
+]
+}
+]
+},
+{
+"n": "Label Phi",
+"w": "labelphi.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "Station F 5 Parvis Alan Turing",
+"postcode": "75013",
+"ll": [
+48.8344889906212,
+2.37027445467624
+]
+}
+]
+},
+{
+"n": "Lasqo",
+"w": "lasqo.ai",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "53 Rue De La Chaussee D'Antin",
+"postcode": "75009",
+"ll": [
+48.8758041749009,
+2.33193367636135
+]
+}
+]
+},
+{
+"n": "Layan",
+"w": "layan.eu",
+"current": "198 Avenue de France 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "10 Rue D'Aguesseau",
+"postcode": "92100",
+"ll": [
+48.844829896,
+2.2359996935
+]
+}
+]
+},
+{
+"n": "Le Castor",
+"w": "lecastor.co",
+"current": "9 Rue de la Ferme de Savy 75020",
+"cf": "l",
+"cands": [
+{
+"office_street": "29 Rue De La Grange Aux Belles",
+"postcode": "75010",
+"ll": [
+48.875052571,
+2.36672368
+]
+}
+]
+},
+{
+"n": "le gramme",
+"w": "legramme.com",
+"current": "4 Rue d'Astorg 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "123 Rue Vieille Du Temple",
+"postcode": "75003",
+"ll": [
+48.861239712,
+2.3630164275
+]
+}
+]
+},
+{
+"n": "leakmited",
+"w": "leakmited.com",
+"current": "12 Rue la Fayette 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "14 Rue Archereau",
+"postcode": "75019",
+"ll": [
+48.8898164896409,
+2.37280599714614
+]
+}
+]
+},
+{
+"n": "Les stocks du Marais",
+"w": "lesstocksdumarais.com",
+"current": "166 Avenue Parmentier 75010",
+"cf": "u",
+"cands": [
+{
+"office_street": "7 Rue Saint-Merri",
+"postcode": "75004",
+"ll": [
+48.859180817,
+2.3531711776
+]
+},
+{
+"office_street": "58 Rue De La Roquette",
+"postcode": "75011",
+"ll": [
+48.855083921,
+2.3736268166
+]
+}
+]
+},
+{
+"n": "Lift",
+"w": "lift-ed.fr",
+"current": "81 Rue Saint-Louis en l'Île 75004",
+"cf": "l",
+"cands": [
+{
+"office_street": "65 Rue La Boetie",
+"postcode": "75008",
+"ll": [
+48.872981647359,
+2.31154668155062
+]
+}
+]
+},
+{
+"n": "Liveo",
+"w": "liveo-event.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "20 Rue Dieumegard",
+"postcode": "93400",
+"ll": [
+48.9074238932781,
+2.33750502533659
+]
+}
+]
+},
+{
+"n": "Logbook",
+"w": "logbook.education",
+"current": "8 Rue Marie-Eleonore De Bellefond 75009",
+"cf": "u",
+"cands": [
+{
+"office_street": "2 Rue Du Bel Air",
+"postcode": "92190",
+"ll": [
+48.8149552974856,
+2.22495826124571
+]
+}
+]
+},
+{
+"n": "LumApps",
+"w": "lumapps.com",
+"current": "23 Rue Louis Le Grand 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "11Bis 15 Rue De La Baume",
+"postcode": "75008",
+"ll": [
+48.874739967,
+2.3123633698
+]
+}
+]
+},
+{
+"n": "Maison F Paris",
+"w": "maisonf.com",
+"current": "42 Rue de Verneuil 75007",
+"cf": "l",
+"cands": [
+{
+"office_street": "12 Rue Commines",
+"postcode": "75003",
+"ll": [
+48.86194178,
+2.3658348492
+]
+}
+]
+},
+{
+"n": "Manager.one",
+"w": "manager.one",
+"current": "7 Boulevard Haussmann 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "22 Avenue De La Grande Armee",
+"postcode": "75017",
+"ll": [
+48.8754115245658,
+2.29102986458178
+]
+}
+]
+},
+{
+"n": "Matcha",
+"w": "getmatcha.tech",
+"current": "4 Rue Gabriel Lame 75012",
+"cf": "u",
+"cands": [
+{
+"office_street": "91 Rue De Provence",
+"postcode": "75009",
+"ll": [
+48.8742159234594,
+2.33096388231973
+]
+},
+{
+"office_street": "2 Rue Des Fontaines Du Temple 183 Rue Du Temple",
+"postcode": "75003",
+"ll": [
+48.8654770016202,
+2.3602899555071
+]
+}
+]
+},
+{
+"n": "Medoucine",
+"w": "medoucine.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "14 Rue Des Reculettes",
+"postcode": "75013",
+"ll": [
+48.832332152193,
+2.35123092636173
+]
+}
+]
+},
+{
+"n": "Meet in Class",
+"w": "meetinclass.com",
+"current": "95 Avenue Parmentier 75011",
+"cf": "l",
+"cands": [
+{
+"office_street": "50 Rue De Clichy",
+"postcode": "75009",
+"ll": [
+48.8802398074639,
+2.32905848238712
+]
+}
+]
+},
+{
+"n": "Meet My Mama",
+"w": "meetmymama.com",
+"current": "25 Rue du Petit Musc 75004",
+"cf": "l",
+"cands": [
+{
+"office_street": "Batiment D2 18 Rue D'Arras",
+"postcode": "92000",
+"ll": [
+48.9002854365914,
+2.22612450561176
+]
+}
+]
+},
+{
+"n": "Memo Bank",
+"w": "memo.bank",
+"current": "4 Place de Budapest 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "2 Rue De Laborde",
+"postcode": "75008",
+"ll": [
+48.8758686795435,
+2.32260777805605
+]
+}
+]
+},
+{
+"n": "Mercio",
+"w": "mercio.io",
+"current": "6 Place de la Madeleine 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "61 Rue Des Petits Champs",
+"postcode": "75001",
+"ll": [
+48.8673137236073,
+2.33423393125671
+]
+}
+]
+},
+{
+"n": "MILO",
+"w": "getmilo.fr",
+"current": "2 Rue De Sontay 75016",
+"cf": "u",
+"cands": [
+{
+"office_street": "20 Rue Rabelais",
+"postcode": "93100",
+"ll": [
+48.8627729575748,
+2.43784576600269
+]
+}
+]
+},
+{
+"n": "Mistral AI",
+"w": "mistral.ai",
+"current": "15 Rue des Halles 75001",
+"cf": "l",
+"cands": [
+{
+"office_street": "92 Rue Des Poissonniers",
+"postcode": "75018",
+"ll": [
+48.8918002138469,
+2.35266273964304
+]
+}
+]
+},
+{
+"n": "Moneybounce",
+"w": "moneybounce.fr",
+"current": "26 Rue de Montholon 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "58 Rue De La Victoire",
+"postcode": "75009",
+"ll": [
+48.875615601,
+2.3341967329
+]
+}
+]
+},
+{
+"n": "Moodwork",
+"w": "moodwork.com",
+"current": "50 Rue de Paradis 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "29 Rue Des Petites Ecuries",
+"postcode": "75010",
+"ll": [
+48.873661508,
+2.3513112588
+]
+}
+]
+},
+{
+"n": "My Job Glasses",
+"w": "myjobglasses.com",
+"current": "22 Rue Oberkampf 75011",
+"cf": "l",
+"cands": [
+{
+"office_street": "22 B Rue Des Taillandiers",
+"postcode": "75011",
+"ll": [
+48.855083706,
+2.3749616321
+]
+}
+]
+},
+{
+"n": "Neoplants",
+"w": "neoplants.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "47 Rue Du Docteur Leonce Basset",
+"postcode": "93400",
+"ll": [
+48.914833638,
+2.3359432252
+]
+}
+]
+},
+{
+"n": "Neptune Elements",
+"w": "neptuneelements.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "27 Rue Du Chemin Vert",
+"postcode": "75011",
+"ll": [
+48.8587903400901,
+2.37297845456198
+]
+}
+]
+},
+{
+"n": "Neurobus",
+"w": "neurobus.ai",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "90 Rue De Levis",
+"postcode": "75017",
+"ll": [
+48.8847686939725,
+2.31176159802815
+]
+}
+]
+},
+{
+"n": "Nopillo",
+"w": "nopillo.com",
+"current": "51 Rue Sainte-Anne 75002",
+"cf": "u",
+"cands": [
+{
+"office_street": "41 Rue Reinhardt",
+"postcode": "92100",
+"ll": [
+48.83458308,
+2.2347275616
+]
+}
+]
+},
+{
+"n": "Noïa Labs",
+"w": "noialabs.ai",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "C/O Klam 33 Rue Du Louvre",
+"postcode": "75002",
+"ll": [
+48.86623503481003,
+2.3434130248713907
+]
+}
+]
+},
+{
+"n": "NukkAI",
+"w": "nukk.ai",
+"current": "38 Rue des Cinq Diamants 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "22 Rue Paulin Mery",
+"postcode": "75013",
+"ll": [
+48.8298245619599,
+2.35319735274379
+]
+}
+]
+},
+{
+"n": "Omini",
+"w": "ominiclinic.ro",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "Doccity 5 Rue Gardenat Lapostol",
+"postcode": "92150",
+"ll": [
+48.8724051274863,
+2.22253556418454
+]
+}
+]
+},
+{
+"n": "One",
+"w": "one.hands.fr",
+"current": "57 Rue de Turbigo 75003",
+"cf": "l",
+"cands": [
+{
+"office_street": "316 Route De L'Empereur",
+"postcode": "92500",
+"ll": [
+48.859553734,
+2.1883291937
+]
+}
+]
+},
+{
+"n": "Ontruck",
+"w": "ontruck.io",
+"current": "93 Boulevard Haussmann 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "9 Boulevard Des Italiens",
+"postcode": "75002",
+"ll": [
+48.871470588935,
+2.33863290023547
+]
+}
+]
+},
+{
+"n": "Optimiz Construction",
+"w": "optimiz-construction.fr",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "2 Rue Breguet",
+"postcode": "75011",
+"ll": [
+48.8563594301492,
+2.37126998264332
+]
+}
+]
+},
+{
+"n": "Orakl Oncology",
+"w": "orakl-oncology.com",
+"current": "116 Rue Edouard Vaillant 94800",
+"cf": "l",
+"cands": [
+{
+"office_street": "Batiment Recherche De La Faculte De Me 63 Rue Gabriel Peri",
+"postcode": "94270",
+"ll": [
+48.8115952257573,
+2.35256894465955
+]
+}
+]
+},
+{
+"n": "Orbital",
+"w": "getorbital.ai",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "16 Rue Montmartre",
+"postcode": "75001",
+"ll": [
+48.863927987,
+2.3457032519
+]
+}
+]
+},
+{
+"n": "ORIA Bioscience",
+"w": "oriabs.com",
+"current": "8 Rue Méchain 75014",
+"cf": "l",
+"cands": [
+{
+"office_street": "Pepiniere Paris Sante Cochin Rdc 29 Rue Du Faubourg Saint-Jacques",
+"postcode": "75014",
+"ll": [
+48.8364571050482,
+2.33996954243095
+]
+}
+]
+},
+{
+"n": "Oriono",
+"w": "oriono.fr",
+"current": "111 Avenue Victor Hugo 75116",
+"cf": "l",
+"cands": [
+{
+"office_street": "53 Boulevard De La Republique",
+"postcode": "92100",
+"ll": [
+48.8323907669449,
+2.24976394461941
+]
+}
+]
+},
+{
+"n": "Panora",
+"w": "panora.co",
+"current": "12 Rue Martel 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "Chez Tengo 5 Rue Joseph Sansboeuf",
+"postcode": "75008",
+"ll": [
+48.8756134523955,
+2.32279942170591
+]
+}
+]
+},
+{
+"n": "Paylead",
+"w": "paylead.fr",
+"current": "58B Rue de la Chaussée d'Antin 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "53 Rue La Boetie",
+"postcode": "75008",
+"ll": [
+48.873212076,
+2.3132091989
+]
+}
+]
+},
+{
+"n": "Pazzi",
+"w": "pazzidifanta.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "42 Rue Rambuteau Et 5 Passage Des Menetriers",
+"postcode": "75003",
+"ll": [
+48.861536985,
+2.3531149359
+]
+}
+]
+},
+{
+"n": "Phacil",
+"w": "phacil.delivery",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "5 Rue Eugene Freyssinet",
+"postcode": "75013",
+"ll": [
+48.832573959,
+2.3716240266
+]
+}
+]
+},
+{
+"n": "Phagos",
+"w": "phagos.com",
+"current": "5 Rue Eugène Freyssinet 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "Doccity Suresnes 5 Rue Gardenat Lapostol",
+"postcode": "92150",
+"ll": [
+48.8724051274863,
+2.22253556418454
+]
+}
+]
+},
+{
+"n": "Plezi",
+"w": "plezi.co",
+"current": "38 Rue du Temple 75004",
+"cf": "l",
+"cands": [
+{
+"office_street": "64-66 Wework Coeur Marais 64 Rue Des Archives",
+"postcode": "75003",
+"ll": [
+48.86162903,
+2.3587710466
+]
+}
+]
+},
+{
+"n": "Qard.",
+"w": "qardapi.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Rue Eugene Freyssinet",
+"postcode": "75013",
+"ll": [
+48.832573959,
+2.3716240266
+]
+}
+]
+},
+{
+"n": "RainPath",
+"w": "rainpath.ai",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Rue Gardenat Lapostol",
+"postcode": "92150",
+"ll": [
+48.8724051274863,
+2.22253556418454
+]
+}
+]
+},
+{
+"n": "RARE Paris",
+"w": "rare-paris.com",
+"current": "121 Avenue des Champs Élysées 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "42 Rue Des Dames",
+"postcode": "75017",
+"ll": [
+48.884186227,
+2.3230138519
+]
+}
+]
+},
+{
+"n": "Re-Corps",
+"w": "re-corps.com",
+"current": "197 Boulevard Saint-Germain 75007",
+"cf": "l",
+"cands": [
+{
+"office_street": "16 A Boulevard De Reuilly",
+"postcode": "75012",
+"ll": [
+48.838908288,
+2.3912781918
+]
+}
+]
+},
+{
+"n": "Recupere Metals",
+"w": "recupere-metals.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Rue Noel Pons",
+"postcode": "92000",
+"ll": [
+48.9056646599208,
+2.21938791092362
+]
+}
+]
+},
+{
+"n": "Relief",
+"w": "reliefapp.ai",
+"current": "4 Rue du Vertbois 75003",
+"cf": "l",
+"cands": [
+{
+"office_street": "85 Rue Damremont",
+"postcode": "75018",
+"ll": [
+48.8938017273842,
+2.33632894627772
+]
+}
+]
+},
+{
+"n": "Repair and run",
+"w": "repairandrun.com",
+"current": "64 Boulevard Voltaire 75011",
+"cf": "l",
+"cands": [
+{
+"office_street": "89 Rue Du Faubourg Saint-Martin",
+"postcode": "75010",
+"ll": [
+48.873012682,
+2.3577407667
+]
+},
+{
+"office_street": "1 Rue De L'Arc De Triomphe",
+"postcode": "75017",
+"ll": [
+48.876329636,
+2.2939012475
+]
+},
+{
+"office_street": "Rue De Chalon Rue De Chalon",
+"postcode": "75012",
+"ll": [
+48.844974637,
+2.3758984041
+]
+}
+]
+},
+{
+"n": "Revolv",
+"w": "revolv.ai",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "1 Passage De La Main D'Or",
+"postcode": "75011",
+"ll": [
+48.8510271084823,
+2.3776221982902
+]
+}
+]
+},
+{
+"n": "Rousseau & Co",
+"w": "rousseauandco.fr",
+"current": "50 Avenue Foch 75016",
+"cf": "u",
+"cands": [
+{
+"office_street": "20 Rue De La Rochefoucauld",
+"postcode": "92100",
+"ll": [
+48.846050936,
+2.2411374656
+]
+}
+]
+},
+{
+"n": "Scaleway",
+"w": "scaleway.com",
+"current": "11B Rue Roquépine 75008",
+"cf": "l",
+"cands": [
+{
+"office_street": "16 Rue De La Ville L'Eveque",
+"postcode": "75008",
+"ll": [
+48.871595984,
+2.3203829392
+]
+}
+]
+},
+{
+"n": "Seiza",
+"w": "seiza.co",
+"current": "30 Rue du Chemin Vert 75011",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Rue Theodore De Banville",
+"postcode": "75017",
+"ll": [
+48.881405213,
+2.2996699522
+]
+}
+]
+},
+{
+"n": "Shipfox",
+"w": "shipfox.io",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Parvis Alan Turing",
+"postcode": "75013",
+"ll": [
+48.8344889906212,
+2.37027445467624
+]
+}
+]
+},
+{
+"n": "Skin & Out",
+"w": "skinandout.fr",
+"current": "27 Rue du Chemin Vert 75011",
+"cf": "l",
+"cands": [
+{
+"office_street": "8 Rue Du Chevalier De Saint-George",
+"postcode": "75001",
+"ll": [
+48.8683501193347,
+2.3249838692945
+]
+}
+]
+},
+{
+"n": "Smart Immune",
+"w": "smart-immune.com",
+"current": "29 Rue du Faubourg Saint-Jacques 75014",
+"cf": "l",
+"cands": [
+{
+"office_street": "14 Rue De La Republique",
+"postcode": "92150",
+"ll": [
+48.8605739791292,
+2.22175702720127
+]
+}
+]
+},
+{
+"n": "SmartHab",
+"w": "smarthab.fr/index.php/home-en",
+"current": "15 Avenue d'Eylau 75116",
+"cf": "l",
+"cands": [
+{
+"office_street": "4E Etage 14 Rue Chaptal",
+"postcode": "92300",
+"ll": [
+48.8874619491199,
+2.28561791843706
+]
+}
+]
+},
+{
+"n": "SnapCall",
+"w": "snapcall.io",
+"current": "55 Boulevard Vincent Auriol 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "5 Parvis Alan Turing",
+"postcode": "75013",
+"ll": [
+48.834490428,
+2.3702741308
+]
+}
+]
+},
+{
+"n": "Sorare",
+"w": "sorare.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "23 Rue Blondel",
+"postcode": "75002",
+"ll": [
+48.868850151,
+2.3524274227
+]
+},
+{
+"office_street": "26 Rue De Montholon",
+"postcode": "75009",
+"ll": [
+48.8766636779003,
+2.34589128026062
+]
+}
+]
+},
+{
+"n": "Sova",
+"w": "sova-care.com",
+"current": "34 Rue Laffitte 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "27 B Rue Miollis",
+"postcode": "75015",
+"ll": [
+48.845497946,
+2.302970446
+]
+}
+]
+},
+{
+"n": "Starbolt",
+"w": "starbolt.co",
+"current": "1 Rue Philidor 75020",
+"cf": "u",
+"cands": [
+{
+"office_street": "Tronchet -1 21 Place De La Madeleine",
+"postcode": "75008",
+"ll": [
+48.8710338379573,
+2.32404163562534
+]
+}
+]
+},
+{
+"n": "Stonly",
+"w": "stonly.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "u",
+"cands": [
+{
+"office_street": "55 Boulevard Vincent Auriol",
+"postcode": "75013",
+"ll": [
+48.834571363,
+2.3702896375
+]
+}
+]
+},
+{
+"n": "StudiAva",
+"w": "studiava.com",
+"current": "57 Boulevard Anatole France 93300",
+"cf": "l",
+"cands": [
+{
+"office_street": "3 Place Alice Guy",
+"postcode": "75014",
+"ll": [
+48.8267866282361,
+2.31322090046813
+]
+}
+]
+},
+{
+"n": "Stych",
+"w": "stych.fr",
+"current": "76 Boulevard de Magenta 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "95 Rue De Patay",
+"postcode": "75013",
+"ll": [
+48.827091331,
+2.3720915366
+]
+}
+]
+},
+{
+"n": "SUN ZU Lab",
+"w": "sunzulab.com",
+"current": "49 Rue du Faubourg Saint-Martin 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "7 Rue De Madrid",
+"postcode": "75008",
+"ll": [
+48.878369087,
+2.3211277931
+]
+}
+]
+},
+{
+"n": "Take a waste",
+"w": "takeawaste.fr",
+"current": "24 Rue de Clichy 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "41 Rue De Croulebarbe",
+"postcode": "75013",
+"ll": [
+48.8322870393851,
+2.35054148501442
+]
+}
+]
+},
+{
+"n": "Tandem Paris",
+"w": "join-tandem.fr",
+"current": "33 Rue du Sentier 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "Patchwork Montholon 26 Rue De Montholon",
+"postcode": "75009",
+"ll": [
+48.8766636779003,
+2.34589128026062
+]
+}
+]
+},
+{
+"n": "Tomo",
+"w": "jointomo.com",
+"current": "3 Rue de l'Arrivée 75015",
+"cf": "l",
+"cands": [
+{
+"office_street": "11 Rue Chabanais",
+"postcode": "75002",
+"ll": [
+48.867610039,
+2.3369037627
+]
+},
+{
+"office_street": "16 Rue Gregoire De Tours",
+"postcode": "75006",
+"ll": [
+48.853062644,
+2.3378030175
+]
+}
+]
+},
+{
+"n": "Topograph",
+"w": "topograph.co",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "12 Rue Du Sentier",
+"postcode": "75002",
+"ll": [
+48.8690010568183,
+2.34584435954684
+]
+}
+]
+},
+{
+"n": "TrayVisor",
+"w": "trayvisor.com",
+"current": "5 Parvis Alan Turing 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "14 Rue Eugene Freyssinet",
+"postcode": "75013",
+"ll": [
+48.835264841,
+2.3695339994
+]
+}
+]
+},
+{
+"n": "Troopy",
+"w": "digdeo.fr",
+"current": "22 Rue Le Sueur 75016",
+"cf": "u",
+"cands": [
+{
+"office_street": "50 Rue Ardoin",
+"postcode": "93400",
+"ll": [
+48.9116263169106,
+2.32509114619495
+]
+}
+]
+},
+{
+"n": "ULYS",
+"w": "ulys-europe.eu",
+"current": "23 Rue Claude Bernard 75005",
+"cf": "l",
+"cands": [
+{
+"office_street": "33 Rue Galilee",
+"postcode": "75016",
+"ll": [
+48.869436424,
+2.2949975137
+]
+}
+]
+},
+{
+"n": "Ulysse",
+"w": "swll.to",
+"current": "240 Rue Saint-Martin 75003",
+"cf": "l",
+"cands": [
+{
+"office_street": "68 Rue Des Archives",
+"postcode": "75003",
+"ll": [
+48.861979206478,
+2.35918533567474
+]
+}
+]
+},
+{
+"n": "VirtualTime",
+"w": "virtualtime.com",
+"current": "72 Boulevard Voltaire 75011",
+"cf": "l",
+"cands": [
+{
+"office_street": "38 Rue D'Aboukir",
+"postcode": "75002",
+"ll": [
+48.867084346,
+2.344983367
+]
+},
+{
+"office_street": "33 Rue Vavin",
+"postcode": "75006",
+"ll": [
+48.843139761,
+2.3295233291
+]
+}
+]
+},
+{
+"n": "Weendeal",
+"w": "weendeal.com",
+"current": "120 Avenue du Général Leclerc 75014",
+"cf": "l",
+"cands": [
+{
+"office_street": "17 Rue De Turbigo",
+"postcode": "75002",
+"ll": [
+48.8640884456641,
+2.34956689657473
+]
+}
+]
+},
+{
+"n": "Welgo",
+"w": "welgo-bike.com",
+"current": "23 Rue Claude Rodier 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "34 Rue Des Lyonnais",
+"postcode": "75005",
+"ll": [
+48.8388011851195,
+2.34592364432835
+]
+}
+]
+},
+{
+"n": "Wink",
+"w": "wink-app.com",
+"current": "21 Rue de Cléry 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "55 Boulevard Vincent Auriol",
+"postcode": "75013",
+"ll": [
+48.834571363,
+2.3702896375
+]
+}
+]
+},
+{
+"n": "WinSide",
+"w": "winside.co",
+"current": "15 Rue de Milan 75009",
+"cf": "l",
+"cands": [
+{
+"office_street": "12 Rue Laugier",
+"postcode": "75017",
+"ll": [
+48.8800124881585,
+2.29727366018725
+]
+}
+]
+},
+{
+"n": "WizVille",
+"w": "wizville.com",
+"current": "8 Rue Martel 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "29 Rue Des Petites Ecuries",
+"postcode": "75010",
+"ll": [
+48.8736624057959,
+2.35131090679624
+]
+}
+]
+},
+{
+"n": "Women in AI",
+"w": "womeninai.co",
+"current": "55 Boulevard Vincent Auriol 75013",
+"cf": "l",
+"cands": [
+{
+"office_street": "9 Rue Des Colonnes",
+"postcode": "75002",
+"ll": [
+48.8697434780056,
+2.33937906979887
+]
+}
+]
+},
+{
+"n": "Woorton",
+"w": "woorton.com",
+"current": "18 Rue Sainte-Foy 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "32 Rue De Trevise",
+"postcode": "75009",
+"ll": [
+48.8748975439369,
+2.34608559119216
+]
+}
+]
+},
+{
+"n": "Word Class",
+"w": "wordclass.net",
+"current": "12 Rue Vivienne 75002",
+"cf": "l",
+"cands": [
+{
+"office_street": "37-39 37 Avenue Ledru-Rollin",
+"postcode": "75012",
+"ll": [
+48.847877804,
+2.3704133801
+]
+}
+]
+},
+{
+"n": "Yade",
+"w": "yade-paris.fr",
+"current": "34 Rue Scheffer 75116",
+"cf": "l",
+"cands": [
+{
+"office_street": "60 Rue Vieille Du Temple",
+"postcode": "75003",
+"ll": [
+48.8589292798398,
+2.35930854626272
+]
+}
+]
+},
+{
+"n": "Yokitup",
+"w": "yokitup.com",
+"current": "32 Boulevard de Strasbourg 75010",
+"cf": "l",
+"cands": [
+{
+"office_street": "24 Boulevard Saint-Denis",
+"postcode": "75010",
+"ll": [
+48.8697293100176,
+2.35325228269627
+]
+}
+]
+},
+{
+"n": "YUJ PARIS",
+"w": "yuj.fr",
+"current": "5B Rue Kepler 75116",
+"cf": "l",
+"cands": [
+{
+"office_street": "68 Rue Jean-Jacques Rousseau",
+"postcode": "75001",
+"ll": [
+48.864316402,
+2.3442057416
+]
+},
+{
+"office_street": "2 Rue Gounod",
+"postcode": "75017",
+"ll": [
+48.882742128,
+2.30098696
+]
+},
+{
+"office_street": "162 Rue D'Aguesseau",
+"postcode": "92100",
+"ll": [
+48.836080491,
+2.2375633739
+]
+},
+{
+"office_street": "9 Rue Magellan",
+"postcode": "75008",
+"ll": [
+48.870321704,
+2.2998176065
+]
+},
+{
+"office_street": "69 Rue Eugene Freyssinet",
+"postcode": "75013",
+"ll": [
+48.833937028165,
+2.3703730463209
+]
+},
+{
+"office_street": "55 Rue Decamps",
+"postcode": "75016",
+"ll": [
+48.8628350880243,
+2.2769054565173
+]
+}
+]
+},
+{
+"n": "Zei",
+"w": "zei-world.com",
+"current": "62 Rue Pelleport 75020",
+"cf": "l",
+"cands": [
+{
+"office_street": "39 Rue Du Caire",
+"postcode": "75002",
+"ll": [
+48.8677356579552,
+2.34963552640426
+]
+}
+]
+}
+]

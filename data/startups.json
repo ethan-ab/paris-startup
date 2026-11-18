@@ -1849,25 +1849,24 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "6 Rue Jean Calvin",
+"pc": "75005",
+"area": "5e · Latin Quarter",
 "ll": [
-48.8341,
-2.3711
+48.841803,
+2.348866
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "Entrepreneur First Program",
 "y": "2025"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "AALIA.TECH",
@@ -2418,18 +2417,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "30 Rue Blondel",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "19 Rue Beranger",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.868904,
-2.352715
+48.866402,
+2.363412
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -3259,18 +3258,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "40 Rue des Blancs Manteaux",
-"pc": "75004",
-"area": "4e · Marais & islands",
+"a": "49 Rue De Provence",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.859789,
-2.355013
+48.874107,
+2.335008
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -3328,18 +3327,19 @@
 "s": "Deeptech & Hardware",
 "st": "early",
 "eh": "linkedin",
-"a": "16 Rue de la Grange aux Belles",
+"a": "1 Avenue Claude Vellefaux",
 "pc": "75010",
 "area": "10e · Canal Saint-Martin",
 "ll": [
-48.875185,
-2.367361
+48.872826,
+2.369751
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"website"
 ]
 },
 {
@@ -4875,18 +4875,19 @@
 "s": "Software & SaaS",
 "st": "growth",
 "eh": "linkedin",
-"a": "121 Avenue Mozart",
-"pc": "75016",
-"area": "16e · Passy & Auteuil",
+"a": "72 Rue Dulong",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.850194,
-2.267077
+48.886357,
+2.315055
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"research"
 ]
 },
 {
@@ -5589,25 +5590,24 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "23 Rue Des Gravilliers",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.8341,
-2.3711
+48.86377,
+2.356806
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2022"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "All Mecen",
@@ -5788,15 +5788,15 @@
 "y": 1987,
 "s": "Fintech & Insurance",
 "st": "unknown",
-"a": "11 Rue Le Marois",
-"pc": "75016",
-"area": "16e · Passy & Auteuil",
+"a": "79 Boulevard Diderot",
+"pc": "75012",
+"area": "12e · Bercy & Nation",
 "ll": [
-48.839098,
-2.262015
+48.847517,
+2.387012
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -5908,20 +5908,19 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "40 Avenue Bosquet",
+"pc": "75007",
+"area": "7e · Invalides",
 "ll": [
-48.8341,
-2.3711
+48.856549,
+2.304307
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
-],
-"cp": "Station F"
+"register"
+]
 },
 {
 "n": "Alpagga",
@@ -5932,25 +5931,24 @@
 "s": "Food & Agri",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "233 Rue De La Croix Nivert",
+"pc": "75015",
+"area": "15e · Vaugirard & Beaugrenelle",
 "ll": [
-48.8341,
-2.3711
+48.835051,
+2.289964
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Future 40 2022",
 "y": "2022"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Alpha Dogs House",
@@ -8353,25 +8351,24 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "28 Rue Pierre Semard",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.8341,
-2.3711
+48.878731,
+2.348177
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "EDHEC Program (Alumni)",
 "y": "2020"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Artpoint",
@@ -10351,25 +10348,24 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "41 Rue La Condamine",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.8341,
-2.3711
+48.886231,
+2.322275
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2022"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Babbler",
@@ -11569,25 +11565,24 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "8 Rue De Clery",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.8341,
-2.3711
+48.867521,
+2.344916
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2022"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "bebook, marketplace for business communities",
@@ -13053,25 +13048,24 @@
 "s": "Fintech & Insurance",
 "st": "growth",
 "eh": "linkedin",
-"a": "5 Rue Eugène Freyssinet",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "24 Rue Feydeau",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.832574,
-2.371624
+48.869924,
+2.340266
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "Founders Program",
 "y": "2023"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Bixoto",
@@ -13543,20 +13537,19 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "5 B Rue Saint-Gilles",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.834508,
-2.370634
+48.857846,
+2.366153
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
-],
-"cp": "Station F"
+"register"
+]
 },
 {
 "n": "Blonk Group",
@@ -13952,15 +13945,15 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "exa",
-"a": "27 Rue Meslay",
-"pc": "75003",
-"area": "3e · Haut-Marais",
+"a": "12 B Rue De L'Etoile",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.867733,
-2.35969
+48.87714,
+2.295759
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -14838,18 +14831,18 @@
 "s": "Real Estate & Construction",
 "st": "early",
 "eh": "exa",
-"a": "4 Rue Marie-Éléonore de Bellefond",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "198 Avenue De France",
+"pc": "75013",
+"area": "13e · Paris Rive Gauche",
 "ll": [
-48.877537,
-2.348759
+48.836031,
+2.371883
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -15110,18 +15103,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "exa",
-"a": "9 Rue Jacques Hillairet",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
+"a": "5 Rue Du 8 Mai 1945",
+"pc": "92110",
+"area": "Paris",
 "ll": [
-48.84255,
-2.387055
+48.897676,
+2.309711
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -16507,6 +16500,28 @@
 ]
 },
 {
+"n": "Candide",
+"u": "https://candide.dev/",
+"d": "Developers from across the globe use Candide Atelier to build on Safe Accounts and tap into a network of third-party gas sponsorship to ultimately supercharge their user growth",
+"e": 5,
+"s": "Fintech & Insurance",
+"st": "early",
+"eh": "exa",
+"a": "320 Rue Saint-Honore",
+"pc": "75001",
+"area": "1er · Louvre",
+"ll": [
+48.865357,
+2.331243
+],
+"k": "seat",
+"cf": "u",
+"v": "register",
+"ev": [
+"register"
+]
+},
+{
 "n": "Candix",
 "u": "https://candix.com/",
 "d": "Candix connects ambitious engineers with startups gaining serious momentum.",
@@ -17407,18 +17422,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "linkedin",
-"a": "36 Rue Taitbout",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "4 Rue Thorel",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.873368,
-2.335408
+48.869513,
+2.34906
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -17770,25 +17785,24 @@
 "s": "Climate & Energy",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
+"a": "111 Avenue De France",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.830161,
+2.376767
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Marble Founders in Residence",
 "y": "2024"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "CENTQUATRE-PARIS",
@@ -18400,18 +18414,18 @@
 "s": "Consumer & Commerce",
 "st": "scale",
 "eh": "linkedin",
-"a": "105 Rue du Faubourg Saint-Honoré",
+"a": "24 Rue De La Pepiniere",
 "pc": "75008",
 "area": "8e · Champs-Élysées",
 "ll": [
-48.872443,
-2.311471
+48.875306,
+2.320186
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -19221,15 +19235,15 @@
 "s": "Climate & Energy",
 "st": "early",
 "eh": "linkedin",
-"a": "59 Rue De Ponthieu",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "8 Rue Pierre Wacquant",
+"pc": "92190",
+"area": "Paris",
 "ll": [
-48.872152,
-2.304933
+48.819978,
+2.228442
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -19434,18 +19448,18 @@
 "s": "Mobility & Logistics",
 "st": "growth",
 "eh": "linkedin",
-"a": "8 Rue Bayen",
+"a": "37 Rue Des Acacias",
 "pc": "75017",
 "area": "17e · Batignolles",
 "ll": [
-48.879184,
-2.295295
+48.877426,
+2.292597
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -20295,12 +20309,12 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "35 Rue Marguerite De Rochechouart",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "151 Avenue Jean Jaures",
+"pc": "75019",
+"area": "19e · Buttes-Chaumont & La Villette",
 "ll": [
-48.878448,
-2.344975
+48.88705,
+2.385859
 ],
 "k": "seat",
 "cf": "u",
@@ -20731,18 +20745,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "exa",
-"a": "28T Rue Belgrand",
-"pc": "75020",
-"area": "20e · Belleville",
+"a": "4 Cite De Londres",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.864644,
-2.402568
+48.87648,
+2.329444
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -20931,18 +20945,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "25 Rue Henry Monnier",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "69 Boulevard Victor Hugo",
+"pc": "93400",
+"area": "Paris",
 "ll": [
-48.880514,
-2.337482
+48.908861,
+2.329068
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -22526,29 +22540,6 @@
 "v": "website",
 "ev": [
 "website"
-]
-},
-{
-"n": "Cordoba Ai",
-"u": "https://cordobamedia.co/",
-"d": "Cordoba AI is the Sovereign Production OS transforming generative content into Broadcast-Grade deliverables. ​We bridge the gap between raw AI potential and professional requirements. We industrialize the workflow to: ​🔹 Orchestrate: We manage complex multi-ag",
-"y": 2025,
-"e": 25,
-"s": "AI & Data",
-"st": "early",
-"eh": "exa",
-"a": "37 Rue Des Mathurins",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.873232,
-2.324693
-],
-"k": "seat",
-"cf": "u",
-"v": "register",
-"ev": [
-"register"
 ]
 },
 {
@@ -25042,18 +25033,19 @@
 "s": "AI & Data",
 "st": "growth",
 "eh": "linkedin",
-"a": "86 Boulevard de Magenta",
+"a": "2 Rue Gabriel Laumain",
 "pc": "75010",
 "area": "10e · Canal Saint-Martin",
 "ll": [
-48.87675,
-2.355899
+48.873395,
+2.350103
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"research"
 ]
 },
 {
@@ -26263,18 +26255,18 @@
 "s": "Deeptech & Hardware",
 "st": "early",
 "eh": "linkedin",
-"a": "149 Avenue du Maine",
-"pc": "75014",
-"area": "14e · Montparnasse",
+"a": "35 Rue De La Folie-Mericourt",
+"pc": "75011",
+"area": "11e · Oberkampf & Bastille",
 "ll": [
-48.833839,
-2.32468
+48.86333,
+2.372558
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -27226,15 +27218,15 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "126 Rue Reaumur",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "12 Rue Linois",
+"pc": "75015",
+"area": "15e · Vaugirard & Beaugrenelle",
 "ll": [
-48.868228,
-2.343954
+48.848044,
+2.282819
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -27279,17 +27271,18 @@
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.83449,
+2.370274
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
+"register",
 "cohort"
 ],
 "sf": {
-"s": "past",
+"s": "here",
 "p": "Future 40",
 "y": "2023"
 },
@@ -27501,18 +27494,18 @@
 "s": "Media, Gaming & Sport",
 "st": "growth",
 "eh": "linkedin",
-"a": "15 Rue de la Fontaine au Roi",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
+"a": "78 Quai De Jemmapes",
+"pc": "75010",
+"area": "10e · Canal Saint-Martin",
 "ll": [
-48.868535,
-2.369829
+48.872047,
+2.365239
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -27999,18 +27992,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "exa",
-"a": "126 Rue Réaumur",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "57 Rue Charles Laffitte",
+"pc": "92200",
+"area": "Paris",
 "ll": [
-48.868199,
-2.343941
+48.879484,
+2.271826
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -28236,25 +28229,24 @@
 "y": 2026,
 "s": "Software & SaaS",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "69 Boulevard Haussmann",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.8341,
-2.3711
+48.87392,
+2.324846
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Future 40 2021",
 "y": "2021"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Diversification",
@@ -29735,18 +29727,18 @@
 "s": "AI & Data",
 "st": "growth",
 "eh": "linkedin",
-"a": "52 Rue de la Verrerie",
-"pc": "75004",
-"area": "4e · Marais & islands",
+"a": "36 Rue Guyard Delalain",
+"pc": "93300",
+"area": "Paris",
 "ll": [
-48.858167,
-2.352557
+48.910305,
+2.388958
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -31159,18 +31151,18 @@
 "s": "Education & Travel",
 "st": "early",
 "eh": "linkedin",
-"a": "29 Avenue de la Grande Armée",
-"pc": "75116",
+"a": "11 Boulevard Suchet",
+"pc": "75016",
 "area": "16e · Passy & Auteuil",
 "ll": [
-48.875114,
-2.289709
+48.860006,
+2.266606
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -31183,18 +31175,18 @@
 "s": "Education & Travel",
 "st": "early",
 "eh": "exa",
-"a": "39 Avenue Franklin D. Roosevelt",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "101 Rue Jean Jaures",
+"pc": "92300",
+"area": "Paris",
 "ll": [
-48.867908,
-2.309905
+48.894956,
+2.295895
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -33093,18 +33085,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "26 Rue Bosquet",
-"pc": "75007",
-"area": "7e · Invalides",
+"a": "125 Rue Edouard Vaillant",
+"pc": "94800",
+"area": "Paris",
 "ll": [
-48.855938,
-2.30563
+48.793439,
+2.349799
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -33585,18 +33577,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "21 Avenue de Messine",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "130 Rue De Lourmel",
+"pc": "75015",
+"area": "15e · Vaugirard & Beaugrenelle",
 "ll": [
-48.876849,
-2.311602
+48.841603,
+2.284729
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -33707,18 +33699,19 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "9 Rue des Filles Saint-Thomas",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "Sta F5 Parvis Alan Turing",
+"pc": "75013",
+"area": "13e · Paris Rive Gauche",
 "ll": [
-48.868824,
-2.338924
+48.83435,
+2.37129
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"cohort"
 ],
 "sf": {
 "s": "moved",
@@ -36035,18 +36028,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "17 Rue de l'Amiral Hamelin",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
+"a": "198 Avenue De France",
+"pc": "75013",
+"area": "13e · Paris Rive Gauche",
 "ll": [
-48.867054,
-2.292082
+48.836031,
+2.371883
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -36611,18 +36604,18 @@
 "s": "Food & Agri",
 "st": "early",
 "eh": "linkedin",
-"a": "15 Avenue Trudaine",
+"a": "76 Rue Marguerite De Rochechouart",
 "pc": "75009",
 "area": "9e · Opéra & SoPi",
 "ll": [
-48.881495,
-2.345006
+48.882072,
+2.346735
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ],
 "sf": {
 "s": "moved",
@@ -38671,18 +38664,18 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "exa",
-"a": "26 Rue du Colonel Pierre Avia",
+"a": "43 Rue Du Colonel Pierre Avia",
 "pc": "75015",
 "area": "15e · Vaugirard & Beaugrenelle",
 "ll": [
-48.829604,
-2.275083
+48.828331,
+2.273245
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -38718,18 +38711,18 @@
 "s": "Software & SaaS",
 "st": "scale",
 "eh": "linkedin",
-"a": "4 Rue de Marivaux",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "18 Rue Reaumur",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.870611,
-2.337443
+48.865001,
+2.35869
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -38894,18 +38887,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "4 Square Alban Satragne",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
+"a": "96 B Boulevard Raspail",
+"pc": "75006",
+"area": "6e · Saint-Germain",
 "ll": [
-48.875782,
-2.355146
+48.846184,
+2.328149
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -39068,18 +39061,18 @@
 "s": "AI & Data",
 "st": "growth",
 "eh": "linkedin",
-"a": "53 Rue de Cléry",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "15 Rue Raynouard",
+"pc": "75016",
+"area": "16e · Passy & Auteuil",
 "ll": [
-48.868873,
-2.349073
+48.857043,
+2.283368
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -39332,25 +39325,24 @@
 "s": "Food & Agri",
 "st": "early",
 "eh": "exa",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "21 Rue Du Fbg St Antoine",
+"pc": "75011",
+"area": "11e · Oberkampf & Bastille",
 "ll": [
-48.8341,
-2.3711
+48.852693,
+2.371391
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Future 40",
 "y": "2019"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Footbar",
@@ -39363,17 +39355,18 @@
 "s": "Media, Gaming & Sport",
 "st": "early",
 "eh": "exa",
-"a": "6 Rue Claude Farrère",
+"a": "6 Rue Claude Farrere",
 "pc": "75016",
 "area": "16e · Passy & Auteuil",
 "ll": [
-48.842643,
-2.253149
+48.84374,
+2.253394
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
+"register",
 "linkedin"
 ]
 },
@@ -39552,18 +39545,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "19 Rue Poissonnière",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "20 Rue Des Petits Hotels",
+"pc": "75010",
+"area": "10e · Canal Saint-Martin",
 "ll": [
-48.869467,
-2.347693
+48.877501,
+2.353621
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -40004,18 +39997,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "exa",
-"a": "1 Rue Manuel",
+"a": "2 Boulevard Montmartre",
 "pc": "75009",
 "area": "9e · Opéra & SoPi",
 "ll": [
-48.878174,
-2.340857
+48.871696,
+2.342875
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -40122,20 +40115,19 @@
 "s": "Real Estate & Construction",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "13 Rue De Turbigo",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.8341,
-2.3711
+48.863982,
+2.349045
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
-],
-"cp": "Station F"
+"register"
+]
 },
 {
 "n": "Freedom Portage",
@@ -43314,18 +43306,19 @@
 "s": "Software & SaaS",
 "st": "growth",
 "eh": "linkedin",
-"a": "12B Rue de la Victoire",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "21 Rue La Boetie",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.875124,
-2.33974
+48.873988,
+2.316881
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"research"
 ]
 },
 {
@@ -44932,25 +44925,24 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "exa",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "19 Rue Alexandre Antonini",
+"pc": "92110",
+"area": "Paris",
 "ll": [
-48.8341,
-2.3711
+48.907524,
+2.305105
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "FemTech Batch 3",
 "y": "2023"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "GYNELIA SANTE FEMMES",
@@ -45230,18 +45222,19 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "exa",
-"a": "74 Rue du Faubourg Saint-Denis",
+"a": "3 Rue Du Faubourg Saint-Martin",
 "pc": "75010",
 "area": "10e · Canal Saint-Martin",
 "ll": [
-48.873106,
-2.35472
+48.869404,
+2.355624
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"research"
 ]
 },
 {
@@ -46511,18 +46504,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "9 Rue de la Source",
-"pc": "75016",
-"area": "16e · Passy & Auteuil",
+"a": "28 Boulevard De La Bastille",
+"pc": "75012",
+"area": "12e · Bercy & Nation",
 "ll": [
-48.851184,
-2.268346
+48.849328,
+2.368418
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -48322,25 +48315,24 @@
 "e": 0,
 "s": "Software & SaaS",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
+"a": "55 Boulevard Vincent Auriol",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.834571,
+2.37029
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Station F",
 "y": "2021"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Humind",
@@ -48691,18 +48683,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "25 Rue Bleue",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "109 B Avenue Charles De Gaulle",
+"pc": "92200",
+"area": "Paris",
 "ll": [
-48.875907,
-2.345284
+48.881301,
+2.270267
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -48926,18 +48918,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "exa",
-"a": "82 Avenue du Maine",
-"pc": "75014",
-"area": "14e · Montparnasse",
+"a": "28 Rue Du Chemin Vert",
+"pc": "75011",
+"area": "11e · Oberkampf & Bastille",
 "ll": [
-48.838403,
-2.322112
+48.858326,
+2.372669
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -49076,18 +49068,18 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "exa",
-"a": "51 Rue de Maubeuge",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "4 Quai Des Celestins",
+"pc": "75004",
+"area": "4e · Marais & islands",
 "ll": [
-48.879135,
-2.347376
+48.851789,
+2.361855
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -49904,18 +49896,18 @@
 "s": "Deeptech & Hardware",
 "st": "early",
 "eh": "exa",
-"a": "30 Rue de Campo-Formio",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "14 Rue De La Beaune",
+"pc": "93100",
+"area": "Paris",
 "ll": [
-48.834785,
-2.359656
+48.86182,
+2.435903
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -50428,25 +50420,24 @@
 "s": "Real Estate & Construction",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "15 Boulevard De La Madeleine",
+"pc": "75001",
+"area": "1er · Louvre",
 "ll": [
-48.8341,
-2.3711
+48.869273,
+2.32629
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Future 40 2024",
 "y": "2019"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Immersiv.io",
@@ -50852,18 +50843,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "130 Rue de Lourmel",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
+"a": "96 B Boulevard Raspail",
+"pc": "75006",
+"area": "6e · Saint-Germain",
 "ll": [
-48.841627,
-2.284948
+48.846184,
+2.328149
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ],
 "sf": {
 "s": "moved",
@@ -51336,18 +51327,18 @@
 "s": "Health & Bio",
 "st": "growth",
 "eh": "linkedin",
-"a": "5 Rue Clément Marot",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "59 Rue Des Francs Bourgeois",
+"pc": "75004",
+"area": "4e · Marais & islands",
 "ll": [
-48.866928,
-2.304187
+48.85987,
+2.357074
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -51740,25 +51731,24 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "25 Rue De La Gare De Reuilly",
+"pc": "75012",
+"area": "12e · Bercy & Nation",
 "ll": [
-48.8341,
-2.3711
+48.841569,
+2.395037
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "ChemtechxAI",
 "y": "2025"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Inspir3d Studio",
@@ -52862,18 +52852,18 @@
 "s": "Climate & Energy",
 "st": "early",
 "eh": "exa",
-"a": "11 Rue Pierre et Marie Curie",
-"pc": "75005",
-"area": "5e · Latin Quarter",
+"a": "5 Rue Noel Pons",
+"pc": "92000",
+"area": "Paris",
 "ll": [
-48.844496,
-2.344017
+48.905665,
+2.219388
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -53144,15 +53134,15 @@
 "s": "Deeptech & Hardware",
 "st": "early",
 "eh": "exa",
-"a": "67 Rue Saint-Jacques",
-"pc": "75005",
-"area": "5e · Latin Quarter",
+"a": "198 Avenue De France",
+"pc": "75013",
+"area": "13e · Paris Rive Gauche",
 "ll": [
-48.850044,
-2.34526
+48.836031,
+2.371883
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -54963,18 +54953,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "linkedin",
-"a": "41B Rue Claude Terrasse",
-"pc": "75016",
-"area": "16e · Passy & Auteuil",
+"a": "Les Bureaux De La Colline",
+"pc": "92210",
+"area": "Paris",
 "ll": [
-48.838,
-2.261493
+48.841782,
+2.220086
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -55889,18 +55879,18 @@
 "s": "Software & SaaS",
 "st": "growth",
 "eh": "linkedin",
-"a": "13 Rue des Petits Hôtels",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
+"a": "26 Rue De Berri",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.877366,
-2.353677
+48.87316,
+2.305919
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -57182,15 +57172,15 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "exa",
-"a": "31 Rue De La Montagne De La Fage",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
+"a": "80 Avenue De La Marne",
+"pc": "92120",
+"area": "Paris",
 "ll": [
-48.838462,
-2.27823
+48.812938,
+2.304141
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -57376,18 +57366,18 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "exa",
-"a": "24 Rue Henri Poincaré",
-"pc": "75020",
-"area": "20e · Belleville",
+"a": "137 Boulevard De Sebastopol",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.870664,
-2.401315
+48.868602,
+2.353527
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -57818,18 +57808,18 @@
 "s": "Consumer & Commerce",
 "st": "growth",
 "eh": "exa",
-"a": "18 Rue Sainte-Foy",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "26 Rue Bosquet",
+"pc": "75007",
+"area": "7e · Invalides",
 "ll": [
-48.868702,
-2.351206
+48.855929,
+2.305613
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -58594,25 +58584,24 @@
 "s": "AI & Data",
 "st": "growth",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "12 Rue De Chambery",
+"pc": "75015",
+"area": "15e · Vaugirard & Beaugrenelle",
 "ll": [
-48.8341,
-2.3711
+48.831517,
+2.303898
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2024"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Kumulus Water",
@@ -58696,25 +58685,24 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "32 Rue Des Jeuneurs",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.8341,
-2.3711
+48.869619,
+2.344646
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2020"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "kwarto.",
@@ -59343,18 +59331,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "exa",
-"a": "32 Rue Notre-Dame des Victoires",
+"a": "107 Rue Reaumur 122 Rue Montmartre",
 "pc": "75002",
 "area": "2e · Bourse & Sentier",
 "ll": [
-48.868276,
-2.341891
+48.867924,
+2.343838
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -60048,18 +60036,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "linkedin",
-"a": "15 Rue Clavel",
-"pc": "75019",
-"area": "19e · Buttes-Chaumont & La Villette",
+"a": "208 Rue Saint-Maur",
+"pc": "75010",
+"area": "10e · Canal Saint-Martin",
 "ll": [
-48.875027,
-2.38434
+48.872878,
+2.371117
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -60711,14 +60699,14 @@
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.834489,
+2.370274
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "cp": "Station F"
 },
@@ -61304,25 +61292,24 @@
 "y": 2024,
 "s": "Consumer & Commerce",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "53 Rue De La Chaussee D'Antin",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.8341,
-2.3711
+48.875804,
+2.331934
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "STATION F Founders Program",
 "y": "2024"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "LaSuite",
@@ -61381,18 +61368,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "198 Avenue de France",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "10 Rue D'Aguesseau",
+"pc": "92100",
+"area": "Paris",
 "ll": [
-48.836136,
-2.371785
+48.84483,
+2.236
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -61753,18 +61740,18 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "linkedin",
-"a": "9 Rue de la Ferme de Savy",
-"pc": "75020",
-"area": "20e · Belleville",
+"a": "29 Rue De La Grange Aux Belles",
+"pc": "75010",
+"area": "10e · Canal Saint-Martin",
 "ll": [
-48.871866,
-2.383202
+48.875053,
+2.366724
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -62036,18 +62023,18 @@
 "s": "Media, Gaming & Sport",
 "st": "early",
 "eh": "exa",
-"a": "4 Rue d'Astorg",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "123 Rue Vieille Du Temple",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.872178,
-2.319408
+48.86124,
+2.363016
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -63234,18 +63221,18 @@
 "s": "Climate & Energy",
 "st": "growth",
 "eh": "exa",
-"a": "12 Rue la Fayette",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "14 Rue Archereau",
+"pc": "75019",
+"area": "19e · Buttes-Chaumont & La Villette",
 "ll": [
-48.873354,
-2.334697
+48.889816,
+2.372806
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -64855,15 +64842,15 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "exa",
-"a": "166 Avenue Parmentier",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
+"a": "7 Rue Saint-Merri",
+"pc": "75004",
+"area": "4e · Marais & islands",
 "ll": [
-48.871457,
-2.370143
+48.859181,
+2.353171
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -65555,18 +65542,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "exa",
-"a": "81 Rue Saint-Louis en l'Île",
-"pc": "75004",
-"area": "4e · Marais & islands",
+"a": "65 Rue La Boetie",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.852811,
-2.353688
+48.872982,
+2.311547
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -66437,20 +66424,19 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "exa",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "20 Rue Dieumegard",
+"pc": "93400",
+"area": "Paris",
 "ll": [
-48.8341,
-2.3711
+48.907424,
+2.337505
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
-],
-"cp": "Station F"
+"register"
+]
 },
 {
 "n": "LiveTonight",
@@ -67037,15 +67023,15 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "8 Rue Marie-Eleonore De Bellefond",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "2 Rue Du Bel Air",
+"pc": "92190",
+"area": "Paris",
 "ll": [
-48.877609,
-2.348426
+48.814955,
+2.224958
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -68050,18 +68036,18 @@
 "s": "Education & Travel",
 "st": "scale",
 "eh": "linkedin",
-"a": "23 Rue Louis Le Grand",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "15 Rue De La Baume",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.870339,
-2.333848
+48.87474,
+2.312363
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ],
 "sf": {
 "s": "moved",
@@ -69577,18 +69563,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "exa",
-"a": "42 Rue de Verneuil",
-"pc": "75007",
-"area": "7e · Invalides",
+"a": "12 Rue Commines",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.858204,
-2.328571
+48.861942,
+2.365835
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -70075,18 +70061,18 @@
 "s": "Fintech & Insurance",
 "st": "growth",
 "eh": "linkedin",
-"a": "7 Boulevard Haussmann",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "22 Avenue De La Grande Armee",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.87227,
-2.337053
+48.875412,
+2.29103
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -70845,15 +70831,15 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "linkedin",
-"a": "4 Rue Gabriel Lame",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
+"a": "91 Rue De Provence",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.833858,
-2.388341
+48.874216,
+2.330964
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -71489,25 +71475,24 @@
 "d": "Founders Program: Medoucine’s objective is to enable everyone to take the full benefits of alternative and complementary medicine thanks to a network of verified practitioners, from osteopathy to acupuncture , hypnosis and many more. Like Doctolib the platform",
 "s": "Software & SaaS",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
+"a": "14 Rue Des Reculettes",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.832332,
+2.351231
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2019"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "MedVir",
@@ -71591,18 +71576,18 @@
 "s": "Education & Travel",
 "st": "early",
 "eh": "linkedin",
-"a": "95 Avenue Parmentier",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
+"a": "50 Rue De Clichy",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.866271,
-2.373615
+48.88024,
+2.329058
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -71614,18 +71599,18 @@
 "s": "Food & Agri",
 "st": "early",
 "eh": "linkedin",
-"a": "25 Rue du Petit Musc",
-"pc": "75004",
-"area": "4e · Marais & islands",
+"a": "18 Rue D'Arras",
+"pc": "92000",
+"area": "Paris",
 "ll": [
-48.852854,
-2.364321
+48.900285,
+2.226125
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ],
 "sf": {
 "s": "moved",
@@ -71996,18 +71981,18 @@
 "s": "Fintech & Insurance",
 "st": "growth",
 "eh": "linkedin",
-"a": "4 Place de Budapest",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "2 Rue De Laborde",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.877217,
-2.327393
+48.875869,
+2.322608
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -72214,18 +72199,19 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "linkedin",
-"a": "6 Place de la Madeleine",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "61 Rue Des Petits Champs",
+"pc": "75001",
+"area": "1er · Louvre",
 "ll": [
-48.868944,
-2.324536
+48.867314,
+2.334234
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"research"
 ]
 },
 {
@@ -72963,15 +72949,15 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "exa",
-"a": "2 Rue De Sontay",
-"pc": "75016",
-"area": "16e · Passy & Auteuil",
+"a": "20 Rue Rabelais",
+"pc": "93100",
+"area": "Paris",
 "ll": [
-48.87019,
-2.284815
+48.862773,
+2.437846
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -73088,6 +73074,29 @@
 "ll": [
 48.862796,
 2.340963
+],
+"k": "seat",
+"cf": "u",
+"v": "register",
+"ev": [
+"register"
+]
+},
+{
+"n": "Minah",
+"u": "https://minah.io/",
+"d": "Minah opens access to African private debt through French-law bonds - combining European legal protection with African yields of 10–25% per year. Our infrastructure is on-chain: regulated flows and tokenized bonds that let us connect both traditional finance a",
+"y": 2024,
+"e": 4,
+"s": "Fintech & Insurance",
+"st": "early",
+"eh": "exa",
+"a": "Cs",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.878332,
+2.312163
 ],
 "k": "seat",
 "cf": "u",
@@ -73724,18 +73733,18 @@
 "s": "AI & Data",
 "st": "scale",
 "eh": "linkedin",
-"a": "15 Rue des Halles",
-"pc": "75001",
-"area": "1er · Louvre",
+"a": "92 Rue Des Poissonniers",
+"pc": "75018",
+"area": "18e · Montmartre",
 "ll": [
-48.860147,
-2.346209
+48.8918,
+2.352663
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -74667,18 +74676,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "exa",
-"a": "26 Rue de Montholon",
+"a": "58 Rue De La Victoire",
 "pc": "75009",
 "area": "9e · Opéra & SoPi",
 "ll": [
-48.876632,
-2.345831
+48.875616,
+2.334197
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -74961,18 +74970,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "50 Rue de Paradis",
+"a": "29 Rue Des Petites Ecuries",
 "pc": "75010",
 "area": "10e · Canal Saint-Martin",
 "ll": [
-48.875618,
-2.349542
+48.873662,
+2.351311
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -76334,18 +76343,19 @@
 "s": "Software & SaaS",
 "st": "scale",
 "eh": "linkedin",
-"a": "22 Rue Oberkampf",
+"a": "22 B Rue Des Taillandiers",
 "pc": "75011",
 "area": "11e · Oberkampf & Bastille",
 "ll": [
-48.863469,
-2.369607
+48.855084,
+2.374962
 ],
 "k": "office",
-"cf": "l",
-"v": "research",
+"cf": "v",
+"v": "register",
 "ev": [
-"research"
+"register",
+"linkedin"
 ],
 "sf": {
 "s": "moved",
@@ -78328,25 +78338,24 @@
 "d": "Envie d’ajouter une touche de nature et de bien-être à votre quotidien ? Neptune Elements propose des algues bretonnes récoltées avec soin, pour une alimentation saine et pleine de saveurs.",
 "s": "Food & Agri",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "27 Rue Du Chemin Vert",
+"pc": "75011",
+"area": "11e · Oberkampf & Bastille",
 "ll": [
-48.8341,
-2.3711
+48.85879,
+2.372978
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "EDHEC",
 "y": "2023"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Nerdit",
@@ -78646,20 +78655,19 @@
 "s": "Deeptech & Hardware",
 "st": "early",
 "eh": "exa",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "90 Rue De Levis",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.8341,
-2.3711
+48.884769,
+2.311762
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
-],
-"cp": "Station F"
+"register"
+]
 },
 {
 "n": "NeuroReflexivity",
@@ -80032,15 +80040,15 @@
 "s": "Real Estate & Construction",
 "st": "growth",
 "eh": "linkedin",
-"a": "51 Rue Sainte-Anne",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "41 Rue Reinhardt",
+"pc": "92100",
+"area": "Paris",
 "ll": [
-48.867494,
-2.336012
+48.834583,
+2.234728
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -80767,25 +80775,24 @@
 "y": 2026,
 "s": "Software & SaaS",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "33 Rue Du Louvre",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.8341,
-2.3711
+48.866235,
+2.343413
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "Future 40 2026",
 "y": "2026"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "NRJx",
@@ -80939,18 +80946,18 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "linkedin",
-"a": "38 Rue des Cinq Diamants",
+"a": "22 Rue Paulin Mery",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.82849,
-2.350271
+48.829825,
+2.353197
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -82335,25 +82342,24 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "5 Rue Gardenat Lapostol",
+"pc": "92150",
+"area": "Paris",
 "ll": [
-48.8341,
-2.3711
+48.872405,
+2.222536
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Future 40 2019",
 "y": "2021"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Omni",
@@ -82635,18 +82641,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "exa",
-"a": "57 Rue de Turbigo",
-"pc": "75003",
-"area": "3e · Haut-Marais",
+"a": "316 Route De L'Empereur",
+"pc": "92500",
+"area": "Paris",
 "ll": [
-48.865661,
-2.356501
+48.859554,
+2.188329
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -83138,18 +83144,18 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "exa",
-"a": "93 Boulevard Haussmann",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "9 Boulevard Des Italiens",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.87474,
-2.318724
+48.871471,
+2.338633
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -83696,25 +83702,24 @@
 "s": "Real Estate & Construction",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "2 Rue Breguet",
+"pc": "75011",
+"area": "11e · Oberkampf & Bastille",
 "ll": [
-48.8341,
-2.3711
+48.856359,
+2.37127
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Future 40 2023",
 "y": "2023"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "OptimPharma",
@@ -83848,18 +83853,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "116 Rue Edouard Vaillant",
-"pc": "94800",
-"area": "Villejuif",
+"a": "63 Rue Gabriel Peri",
+"pc": "94270",
+"area": "Paris",
 "ll": [
-48.79306,
-2.357915
+48.811595,
+2.352569
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -83919,25 +83924,24 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "16 Rue Montmartre",
+"pc": "75001",
+"area": "1er · Louvre",
 "ll": [
-48.8341,
-2.3711
+48.863928,
+2.345703
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "Founders Program Fall 2025",
 "y": "2025"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "ORBITAL VIEWS",
@@ -84026,18 +84030,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "8 Rue Méchain",
+"a": "29 Rue Du Faubourg Saint-Jacques",
 "pc": "75014",
 "area": "14e · Montparnasse",
 "ll": [
-48.835595,
-2.340885
+48.836457,
+2.33997
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -84121,18 +84125,18 @@
 "s": "Deeptech & Hardware",
 "st": "early",
 "eh": "linkedin",
-"a": "111 Avenue Victor Hugo",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
+"a": "53 Boulevard De La Republique",
+"pc": "92100",
+"area": "Paris",
 "ll": [
-48.868509,
-2.282921
+48.832391,
+2.249764
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -85945,18 +85949,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "linkedin",
-"a": "12 Rue Martel",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
+"a": "5 Rue Joseph Sansboeuf",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.87433,
-2.353295
+48.875613,
+2.322799
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -87069,18 +87073,18 @@
 "s": "Fintech & Insurance",
 "st": "growth",
 "eh": "linkedin",
-"a": "58B Rue de la Chaussée d'Antin",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "53 Rue La Boetie",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.874767,
-2.332616
+48.873212,
+2.313209
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -87191,25 +87195,24 @@
 "y": 2021,
 "s": "Software & SaaS",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "42 Rue Rambuteau Et 5 Passage Des Menetriers",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.8341,
-2.3711
+48.861537,
+2.353115
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2020"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "pbg",
@@ -87936,21 +87939,21 @@
 "d": "Envoyez votre ordonnance via Phacil. Retrait en pharmacie ou livraison rapide en 2h de vos médicaments et parapharmacie au meilleur prix",
 "s": "Health & Bio",
 "st": "unknown",
-"a": "5 Parvis Alan Turing",
+"a": "5 Rue Eugene Freyssinet",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.832574,
+2.371624
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "here",
 "p": "Founders Program",
 "y": "2020"
 },
@@ -87988,25 +87991,24 @@
 "s": "Consumer & Commerce",
 "st": "growth",
 "eh": "linkedin",
-"a": "5 Rue Eugène Freyssinet",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "5 Rue Gardenat Lapostol",
+"pc": "92150",
+"area": "Paris",
 "ll": [
-48.832574,
-2.371624
+48.872405,
+2.222536
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "HealthTech program (with Sanofi)",
 "y": "2026"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Phenix",
@@ -89509,18 +89511,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "38 Rue du Temple",
-"pc": "75004",
-"area": "4e · Marais & islands",
+"a": "64 Rue Des Archives",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.859748,
-2.354362
+48.861629,
+2.358771
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -92780,18 +92782,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "exa",
-"a": "5 Parvis Alan Turing",
+"a": "5 Rue Eugene Freyssinet",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.832574,
+2.371624
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ],
 "cp": "Station F"
 },
@@ -94481,25 +94483,24 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "5 Rue Gardenat Lapostol",
+"pc": "92150",
+"area": "Paris",
 "ll": [
-48.8341,
-2.3711
+48.872405,
+2.222536
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "Future 40 2026",
 "y": "2026"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "RAISE",
@@ -94778,18 +94779,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "exa",
-"a": "121 Avenue des Champs Élysées",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
+"a": "42 Rue Des Dames",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.872382,
-2.298284
+48.884186,
+2.323014
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -94847,18 +94848,18 @@
 "s": "Media, Gaming & Sport",
 "st": "early",
 "eh": "exa",
-"a": "197 Boulevard Saint-Germain",
-"pc": "75007",
-"area": "7e · Invalides",
+"a": "16 A Boulevard De Reuilly",
+"pc": "75012",
+"area": "12e · Bercy & Nation",
 "ll": [
-48.855151,
-2.327527
+48.838908,
+2.391278
 ],
 "k": "office",
 "cf": "l",
-"v": "website",
+"v": "register",
 "ev": [
-"website"
+"register"
 ]
 },
 {
@@ -95110,20 +95111,19 @@
 "s": "Climate & Energy",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "5 Rue Noel Pons",
+"pc": "92000",
+"area": "Paris",
 "ll": [
-48.8341,
-2.3711
+48.905665,
+2.219388
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
-],
-"cp": "Station F"
+"register"
+]
 },
 {
 "n": "ReCut",
@@ -95745,18 +95745,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "4 Rue du Vertbois",
-"pc": "75003",
-"area": "3e · Haut-Marais",
+"a": "85 Rue Damremont",
+"pc": "75018",
+"area": "18e · Montmartre",
 "ll": [
-48.86662,
-2.360085
+48.893802,
+2.336329
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -95941,17 +95941,18 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "linkedin",
-"a": "64 Boulevard Voltaire",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
+"a": "89 Rue Du Faubourg Saint-Martin",
+"pc": "75010",
+"area": "10e · Canal Saint-Martin",
 "ll": [
-48.861627,
-2.373373
+48.873013,
+2.357741
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
+"register",
 "linkedin"
 ]
 },
@@ -96909,25 +96910,24 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "register",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "1 Passage De La Main D'Or",
+"pc": "75011",
+"area": "11e · Oberkampf & Bastille",
 "ll": [
-48.8341,
-2.3711
+48.851027,
+2.377622
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "Founders Program Fall 2025",
 "y": "2025"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Revox",
@@ -97819,15 +97819,15 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "exa",
-"a": "50 Avenue Foch",
-"pc": "75016",
-"area": "16e · Passy & Auteuil",
+"a": "20 Rue De La Rochefoucauld",
+"pc": "92100",
+"area": "Paris",
 "ll": [
-48.873261,
-2.284753
+48.846051,
+2.241137
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -99470,18 +99470,18 @@
 "s": "Software & SaaS",
 "st": "scale",
 "eh": "linkedin",
-"a": "11B Rue Roquépine",
+"a": "16 Rue De La Ville L'Eveque",
 "pc": "75008",
 "area": "8e · Champs-Élysées",
 "ll": [
-48.87324,
-2.318649
+48.871596,
+2.320383
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -100408,18 +100408,18 @@
 "s": "Software & SaaS",
 "st": "growth",
 "eh": "linkedin",
-"a": "30 Rue du Chemin Vert",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
+"a": "5 Rue Theodore De Banville",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.858418,
-2.372973
+48.881405,
+2.29967
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -101923,13 +101923,14 @@
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.834489,
+2.370274
 ],
 "k": "office",
-"cf": "l",
-"v": "cohort",
+"cf": "v",
+"v": "register",
 "ev": [
+"register",
 "cohort"
 ],
 "sf": {
@@ -103473,18 +103474,19 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "linkedin",
-"a": "27 Rue du Chemin Vert",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
+"a": "8 Rue Du Chevalier De Saint-George",
+"pc": "75001",
+"area": "1er · Louvre",
 "ll": [
-48.858587,
-2.373083
+48.86835,
+2.324984
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"research"
 ]
 },
 {
@@ -103967,18 +103969,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "exa",
-"a": "29 Rue du Faubourg Saint-Jacques",
-"pc": "75014",
-"area": "14e · Montparnasse",
+"a": "14 Rue De La Republique",
+"pc": "92150",
+"area": "Paris",
 "ll": [
-48.836953,
-2.338545
+48.860574,
+2.221757
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -104184,18 +104186,18 @@
 "s": "Real Estate & Construction",
 "st": "early",
 "eh": "exa",
-"a": "15 Avenue d'Eylau",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
+"a": "14 Rue Chaptal",
+"pc": "92300",
+"area": "Paris",
 "ll": [
-48.864271,
-2.284958
+48.887462,
+2.285618
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -104468,24 +104470,26 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "linkedin",
-"a": "55 Boulevard Vincent Auriol",
+"a": "5 Parvis Alan Turing",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.83516,
-2.369397
+48.83449,
+2.370274
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"cohort"
 ],
 "sf": {
-"s": "moved",
+"s": "here",
 "p": "ZenDesk",
 "y": "2019"
-}
+},
+"cp": "Station F"
 },
 {
 "n": "Snapdesk",
@@ -105308,25 +105312,24 @@
 "s": "Software & SaaS",
 "st": "growth",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "23 Rue Blondel",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.8341,
-2.3711
+48.86885,
+2.352427
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Founders Program",
 "y": "2022"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Sorella Care",
@@ -105558,18 +105561,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "34 Rue Laffitte",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "27 B Rue Miollis",
+"pc": "75015",
+"area": "15e · Vaugirard & Beaugrenelle",
 "ll": [
-48.873687,
-2.337995
+48.845498,
+2.30297
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -107363,15 +107366,15 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "exa",
-"a": "1 Rue Philidor",
-"pc": "75020",
-"area": "20e · Belleville",
+"a": "21 Place De La Madeleine",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.850527,
-2.407691
+48.871034,
+2.324042
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -108167,25 +108170,24 @@
 "s": "Software & SaaS",
 "st": "growth",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
+"a": "55 Boulevard Vincent Auriol",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.8341,
-2.3711
+48.834571,
+2.37029
 ],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
+"k": "office",
+"cf": "l",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "past",
+"s": "moved",
 "p": "Future 40 2019 or STATION F programmes not explicitly stated on this page",
 "y": "2022"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Stootie",
@@ -108668,18 +108670,18 @@
 "s": "Education & Travel",
 "st": "early",
 "eh": "linkedin",
-"a": "57 Boulevard Anatole France",
-"pc": "93300",
-"area": "Aubervilliers",
+"a": "3 Place Alice Guy",
+"pc": "75014",
+"area": "14e · Montparnasse",
 "ll": [
-48.919426,
-2.382549
+48.826787,
+2.313221
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -109090,18 +109092,18 @@
 "s": "Mobility & Logistics",
 "st": "scale",
 "eh": "linkedin",
-"a": "76 Boulevard de Magenta",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
+"a": "95 Rue De Patay",
+"pc": "75013",
+"area": "13e · Paris Rive Gauche",
 "ll": [
-48.875787,
-2.356761
+48.827091,
+2.372092
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -109331,18 +109333,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "linkedin",
-"a": "49 Rue du Faubourg Saint-Martin",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
+"a": "7 Rue De Madrid",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
 "ll": [
-48.871126,
-2.356652
+48.878369,
+2.321128
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -110839,18 +110841,19 @@
 "s": "Climate & Energy",
 "st": "early",
 "eh": "linkedin",
-"a": "24 Rue de Clichy",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "41 Rue De Croulebarbe",
+"pc": "75013",
+"area": "13e · Paris Rive Gauche",
 "ll": [
-48.878792,
-2.329816
+48.832287,
+2.350541
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"website"
 ]
 },
 {
@@ -111178,18 +111181,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "exa",
-"a": "33 Rue du Sentier",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "26 Rue De Montholon",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.869759,
-2.346098
+48.876664,
+2.345891
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -114305,18 +114308,18 @@
 "s": "Health & Bio",
 "st": "early",
 "eh": "linkedin",
-"a": "3 Rue de l'Arrivée",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
+"a": "11 Rue Chabanais",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.843658,
-2.322901
+48.86761,
+2.336904
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -114480,25 +114483,24 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "12 Rue Du Sentier",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.8341,
-2.3711
+48.869001,
+2.345844
 ],
 "k": "office",
 "cf": "l",
-"v": "cohort",
+"v": "register",
 "ev": [
-"cohort"
+"register"
 ],
 "sf": {
-"s": "here",
+"s": "moved",
 "p": "Future 40 2026",
 "y": "2026"
-},
-"cp": "Station F"
+}
 },
 {
 "n": "Tortoise",
@@ -114999,20 +115001,19 @@
 "s": "Food & Agri",
 "st": "early",
 "eh": "linkedin",
-"a": "5 Parvis Alan Turing",
+"a": "14 Rue Eugene Freyssinet",
 "pc": "75013",
 "area": "13e · Paris Rive Gauche",
 "ll": [
-48.834508,
-2.370634
+48.835265,
+2.369534
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
-],
-"cp": "Station F"
+"register"
+]
 },
 {
 "n": "Trazler",
@@ -115372,15 +115373,15 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "linkedin",
-"a": "22 Rue Le Sueur",
-"pc": "75016",
-"area": "16e · Passy & Auteuil",
+"a": "50 Rue Ardoin",
+"pc": "93400",
+"area": "Paris",
 "ll": [
-48.875355,
-2.287365
+48.911626,
+2.325091
 ],
-"k": "seat",
-"cf": "u",
+"k": "office",
+"cf": "l",
 "v": "register",
 "ev": [
 "register"
@@ -116357,18 +116358,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "linkedin",
-"a": "23 Rue Claude Bernard",
-"pc": "75005",
-"area": "5e · Latin Quarter",
+"a": "33 Rue Galilee",
+"pc": "75016",
+"area": "16e · Passy & Auteuil",
 "ll": [
-48.839275,
-2.348302
+48.869436,
+2.294998
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -116381,18 +116382,18 @@
 "s": "Education & Travel",
 "st": "growth",
 "eh": "linkedin",
-"a": "240 Rue Saint-Martin",
+"a": "68 Rue Des Archives",
 "pc": "75003",
 "area": "3e · Haut-Marais",
 "ll": [
-48.864499,
-2.353264
+48.861979,
+2.359185
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -119479,18 +119480,18 @@
 "s": "Deeptech & Hardware",
 "st": "early",
 "eh": "exa",
-"a": "72 Boulevard Voltaire",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
+"a": "38 Rue D'Aboukir",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.861281,
-2.373954
+48.867084,
+2.344983
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -121735,18 +121736,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "exa",
-"a": "120 Avenue du Général Leclerc",
-"pc": "75014",
-"area": "14e · Montparnasse",
+"a": "17 Rue De Turbigo",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.825128,
-2.325766
+48.864088,
+2.349567
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -122024,18 +122025,18 @@
 "s": "Mobility & Logistics",
 "st": "early",
 "eh": "linkedin",
-"a": "23 Rue Claude Rodier",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "34 Rue Des Lyonnais",
+"pc": "75005",
+"area": "5e · Latin Quarter",
 "ll": [
-48.878843,
-2.342936
+48.838801,
+2.345924
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -123269,18 +123270,18 @@
 "s": "Consumer & Commerce",
 "st": "early",
 "eh": "linkedin",
-"a": "21 Rue de Cléry",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "55 Boulevard Vincent Auriol",
+"pc": "75013",
+"area": "13e · Paris Rive Gauche",
 "ll": [
-48.868117,
-2.346445
+48.834571,
+2.37029
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -123292,18 +123293,18 @@
 "s": "AI & Data",
 "st": "early",
 "eh": "exa",
-"a": "15 Rue de Milan",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
+"a": "12 Rue Laugier",
+"pc": "75017",
+"area": "17e · Batignolles",
 "ll": [
-48.878742,
-2.327852
+48.880012,
+2.297274
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -123724,18 +123725,19 @@
 "s": "Software & SaaS",
 "st": "growth",
 "eh": "linkedin",
-"a": "8 Rue Martel",
+"a": "29 Rue Des Petites Ecuries",
 "pc": "75010",
 "area": "10e · Canal Saint-Martin",
 "ll": [
-48.873938,
-2.353064
+48.873662,
+2.351311
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
-"linkedin"
+"register",
+"research"
 ]
 },
 {
@@ -123962,18 +123964,18 @@
 "s": "AI & Data",
 "st": "scale",
 "eh": "linkedin",
-"a": "55 Boulevard Vincent Auriol",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
+"a": "9 Rue Des Colonnes",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.83516,
-2.369397
+48.869743,
+2.339379
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -124109,18 +124111,18 @@
 "s": "Fintech & Insurance",
 "st": "early",
 "eh": "linkedin",
-"a": "18 Rue Sainte-Foy",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "32 Rue De Trevise",
+"pc": "75009",
+"area": "9e · Opéra & SoPi",
 "ll": [
-48.868702,
-2.351206
+48.874898,
+2.346086
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -124156,18 +124158,18 @@
 "s": "AI & Data",
 "st": "growth",
 "eh": "exa",
-"a": "12 Rue Vivienne",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
+"a": "37 Avenue Ledru-Rollin",
+"pc": "75012",
+"area": "12e · Bercy & Nation",
 "ll": [
-48.86763,
-2.339462
+48.847878,
+2.370413
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -124881,18 +124883,18 @@
 "s": "Software & SaaS",
 "st": "early",
 "eh": "exa",
-"a": "34 Rue Scheffer",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
+"a": "60 Rue Vieille Du Temple",
+"pc": "75003",
+"area": "3e · Haut-Marais",
 "ll": [
-48.861921,
-2.282331
+48.858929,
+2.359309
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
@@ -125639,18 +125641,18 @@
 "s": "Food & Agri",
 "st": "early",
 "eh": "linkedin",
-"a": "32 Boulevard de Strasbourg",
+"a": "24 Boulevard Saint-Denis",
 "pc": "75010",
 "area": "10e · Canal Saint-Martin",
 "ll": [
-48.871886,
-2.355928
+48.869729,
+2.353252
 ],
 "k": "office",
 "cf": "l",
-"v": "research",
+"v": "register",
 "ev": [
-"research"
+"register"
 ]
 },
 {
@@ -126383,17 +126385,18 @@
 "s": "Education & Travel",
 "st": "early",
 "eh": "linkedin",
-"a": "5B Rue Kepler",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
+"a": "68 Rue Jean-Jacques Rousseau",
+"pc": "75001",
+"area": "1er · Louvre",
 "ll": [
-48.869742,
-2.297203
+48.864316,
+2.344206
 ],
 "k": "office",
-"cf": "l",
-"v": "linkedin",
+"cf": "v",
+"v": "register",
 "ev": [
+"register",
 "linkedin"
 ]
 },
@@ -126798,18 +126801,18 @@
 "s": "Climate & Energy",
 "st": "growth",
 "eh": "linkedin",
-"a": "62 Rue Pelleport",
-"pc": "75020",
-"area": "20e · Belleville",
+"a": "39 Rue Du Caire",
+"pc": "75002",
+"area": "2e · Bourse & Sentier",
 "ll": [
-48.866443,
-2.40298
+48.867736,
+2.349636
 ],
 "k": "office",
 "cf": "l",
-"v": "linkedin",
+"v": "register",
 "ev": [
-"linkedin"
+"register"
 ]
 },
 {
