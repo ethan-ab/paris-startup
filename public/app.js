@@ -18,8 +18,19 @@ const slug = n => fold(n).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const nf = new Intl.NumberFormat('en-US');
 const money = v => !v ? '' : v >= 1e9 ? `$${(v/1e9).toFixed(1)}B` : v >= 1e6 ? `$${(v/1e6).toFixed(v >= 1e8 ? 0 : 1)}M` : `$${Math.round(v/1e3)}K`;
 const mobile = () => innerWidth <= 760;
+/* logos: self-hosted plates (scripts/logos.py) or, in the offline artifact, inlined data URIs; a monogram sits underneath */
+const LOGOS = window.LOGOS || null;
+const logoSrc = k => !k ? '' : LOGOS ? (LOGOS[k] || '') : `logos/${k}.webp`;
+const initials = n => { const w = String(n).replace(/[^\p{L}\p{N}]+/gu, ' ').trim().split(' ').filter(Boolean);
+  return ((w[0] || '?')[0] + (w.length > 1 ? w[1][0] : (w[0] || '')[1] || '')).toUpperCase(); };
+const logo = (p, size) => { const C = ST(p.st), src = logoSrc(p.lg);
+  return `<span class="lg lg-${size}${p.k === 'office' ? '' : ' u'}" style="--c:var(${C.c});--cs:var(${C.cs});--ci:var(${C.ci})" aria-hidden="true"><b>${esc(initials(p.n))}</b>${
+    src ? `<img src="${esc(src)}" alt="" loading="lazy" decoding="async">` : ''}</span>`; };
+const wireLogos = root => root.querySelectorAll('.lg img').forEach(im => { im.onerror = () => im.remove(); if (im.complete && !im.naturalWidth) im.remove(); });
 const S = STARTUPS, B = BUILDINGS.features;
-S.forEach((p, i) => { p.i = i; p._s = fold([p.n, p.d, p.s, p.a, p.area, p.cp, p.pc].join(' ')); p._slug = slug(p.n); });
+const SFTXT = {here:'station f', moved:'left station f alumni moved', past:'station f alumni'};
+S.forEach((p, i) => { p.i = i; p._s = fold([p.n, p.d, p.s, p.a, p.area, p.cp, p.pc, p.sf && SFTXT[p.sf.s], p.sf && p.sf.p].join(' ')); p._slug = slug(p.n); });
+const LEFT_SF = S.filter(p => p.sf && p.sf.s === 'moved').length;
 const byB = new Map(B.map(f => [f.properties.b, f]));
 const center = f => { const r = f.geometry.type === 'Polygon' ? f.geometry.coordinates[0] : f.geometry.coordinates[0][0];
   let x = 0, y = 0; r.forEach(c => { x += c[0]; y += c[1]; }); return [x / r.length, y / r.length]; };
@@ -62,7 +73,7 @@ function house(p){
   }
   f.properties.s.push(p.i); p.b = f.properties.b;
 }
-const indexOne = p => { p._s = fold([p.n, p.d, p.s, p.a, p.area, p.cp, p.pc].join(' ')); p._slug = slug(p.n); };
+const indexOne = p => { p._s = fold([p.n, p.d, p.s, p.a, p.area, p.cp, p.pc, p.sf && SFTXT[p.sf.s], p.sf && p.sf.p].join(' ')); p._slug = slug(p.n); };
 try { (JSON.parse(localStorage.getItem(STORE) || '[]') || []).map(cleanMine).filter(Boolean).forEach(p => { p.i = S.length; S.push(p); indexOne(p); house(p); }); } catch {}
 const saveMine = () => { try { localStorage.setItem(STORE, JSON.stringify(S.filter(p => p.mine && !p.gone)
   .map(p => ({n:p.n, u:p.u, d:p.d, s:p.s, e:p.e, y:p.y, a:p.a, pc:p.pc, area:p.area, ll:p.ll, t:p.t, fp:p.fp})))); } catch {} };
@@ -210,9 +221,10 @@ function renderPanel(){
   R.hidden = false;
   vis.sort(bySize);
   R.innerHTML = (vis.length ? vis.slice(0, shown).map(p => `<button class="res${p.i === openI ? ' on' : ''}" type="button" data-i="${p.i}" style="--c:var(${ST(p.st).c})">
-      <i class="${p.k === 'office' ? '' : 'u'}"></i><div><b>${esc(p.n)}</b><span>${p.mine ? '<em class="mine-tag">Yours</em> ' : ''}${esc([p.s, p.cp || p.area].filter(Boolean).join(' · '))}</span></div><small>${p.e ? nf.format(p.e) : ''}</small></button>`).join('')
+      ${logo(p, 'sm')}<div><b>${esc(p.n)}</b><span>${p.mine ? '<em class="mine-tag">Yours</em> ' : ''}${esc([p.s, p.cp || p.area].filter(Boolean).join(' · '))}</span></div><small>${p.e ? nf.format(p.e) : ''}</small></button>`).join('')
     : `<div class="none">No startup matches. Try another word or clear a filter.</div>`) +
     (vis.length > shown ? `<button class="more" type="button">Show ${nf.format(Math.min(200, vis.length - shown))} more</button>` : '');
+  wireLogos(R);
   R.querySelectorAll('.res').forEach(b => b.onclick = () => { pick(+b.dataset.i); if (mobile()) { listOpen = false; renderPanel(); } });
   const m = R.querySelector('.more'); if (m) m.onclick = () => { shown += 200; renderPanel(); };
 }
@@ -222,31 +234,37 @@ const card = $('card');
 card.addEventListener('click', e => { const b = e.target.closest('[data-rm]'); if (b) removeMine(S[+b.dataset.rm]); });
 const SRC = {manual:'a manual check', research:'job posts and press', website:'its own website', linkedin:'its LinkedIn page', cohort:'a Station F programme list', register:'the company register'};
 const FIX = 'https://github.com/ethan-ab/paris-startup/issues/new';
-function detail(p){
+function detail(p, hero){
   const C = ST(p.st);
   const host = (() => { try { return new URL(p.u).hostname.replace(/^www\./, ''); } catch { return ''; } })();
-  const team = p.e ? nf.format(p.e) + ' people' + (p.eh === 'linkedin' ? ' on LinkedIn' : p.eh === 'register' ? ' (register band)' : '') : '';
-  const rows = [['Founded', p.y], ['Team', team], ['Raised', money(p.f)], ['Last round', p.rd]].filter(r => r[1]);
+  const team = p.e ? nf.format(p.e) + (p.eh === 'register' ? ' (band)' : '') : '';
+  const facts = [['Founded', p.y], ['Team', team], ['Raised', money(p.f)], ['Last round', p.rd, p.rs]].filter(r => r[1]);
   const where = [p.a, p.pc && (/^75/.test(p.pc) ? `${p.pc} Paris` : p.pc)].filter(Boolean).join(', ');
   const ev = (p.ev || [p.v]).map(k => SRC[k] || k);
-  const how = p.cf === 'v' ? `Verified office: ${esc(where)}. Source: ${esc(ev.join(' + '))}.`
-    : p.cf === 'l' ? `Likely office: ${esc(where)}. Only source: ${esc(ev[0])}.`
-    : `Unconfirmed: ${esc(where)} comes from ${esc(ev[0])} only. The team may work elsewhere.`;
-  if (p.mine) return `<span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span>
-    ${p.d ? `<p>${esc(p.d)}</p>` : ''}
-    ${rows.length ? `<dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}</dl>` : ''}
-    <div class="src">Office: ${esc(where || 'pinned on the map')}.</div>
+  const conf = p.cf === 'v' ? ['ok', 'Verified office', `Source: ${ev.join(' + ')}`]
+    : p.cf === 'l' ? ['mid', 'Likely office', `Only source: ${ev[0]}`]
+    : ['warn', 'Unconfirmed address', `From ${ev[0]} only. The team may work elsewhere.`];
+  if (p.mine) return `${hero ? '' : `<div class="meta"><span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span></div>`}
+    ${p.d ? `<p class="desc">${esc(p.d)}</p>` : ''}
+    ${facts.length ? `<div class="facts">${facts.map(([k, v]) => `<div><span>${k}</span><b>${esc(v)}</b></div>`).join('')}</div>` : ''}
+    <div class="where mid"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+      <div><b>${esc(where || 'Pinned on the map')}</b><span>Office added by you</span></div></div>
     <div class="yours"><b>Added by you</b>Only on your map for now (saved in this browser). Send it for review to add it to the atlas for everyone.
       <div class="acts"><a class="send" href="${esc(reviewHref(p))}" target="_blank" rel="noopener">Send for review ↗</a><button class="rm" type="button" data-rm="${p.i}">Remove</button></div></div>
-    <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}</div>`;
+    <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a class="btn pri" href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}
+      <a class="btn" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.n + ', ' + where)}" target="_blank" rel="noopener">Directions</a></div>`;
   const fix = `${FIX}?title=${encodeURIComponent('Office: ' + p.n)}&body=${encodeURIComponent(`${p.n} (${p.u || ''})\nMap says: ${where}\nActual office: `)}`;
-  return `<span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span>
-    ${p.d ? `<p>${esc(p.d)}${p.d.length >= 259 ? '…' : ''}</p>` : ''}
-    ${rows.length ? `<dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('')}</dl>` : ''}
-    <div class="src ${p.cf === 'u' ? 'warn' : ''}">${how}</div>
-    <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}
-      <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.n + ', ' + where)}" target="_blank" rel="noopener">Directions ↗</a>
-      <a href="${esc(fix)}" target="_blank" rel="noopener">Wrong office? ↗</a></div>`;
+  return `${hero ? '' : `<div class="meta"><span class="tag" style="--ci:var(${C.ci});--cs:var(${C.cs})">${C.label}</span></div>`}
+    ${p.d ? `<p class="desc">${esc(p.d)}${p.d.length >= 259 ? '…' : ''}</p>` : ''}
+    ${facts.length ? `<div class="facts">${facts.map(([k, v, href]) => `<div><span>${k}</span><b>${/^https?:\/\//i.test(href || '') ? `<a href="${esc(href)}" target="_blank" rel="noopener" title="Source">${esc(v)} ↗</a>` : esc(v)}</b></div>`).join('')}</div>` : ''}
+    <div class="where ${conf[0]}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+      <div><b>${esc(where || 'Address unknown')}</b><span>${conf[1]} · ${esc(conf[2])}</span></div></div>
+    ${p.sf ? `<div class="sfline ${p.sf.s}">${p.sf.s === 'here' ? `At Station F · ${esc(p.sf.p)}${p.sf.y ? ' (' + esc(p.sf.y) + ')' : ''}`
+      : p.sf.s === 'moved' ? `Moved out of Station F · was in ${esc(p.sf.p)}${p.sf.y ? ' (' + esc(p.sf.y) + ')' : ''}`
+      : `Was at Station F (${esc(p.sf.p)}${p.sf.y ? ', ' + esc(p.sf.y) : ''}) · current office not confirmed`}</div>` : ''}
+    <div class="links">${/^https?:\/\//i.test(p.u || '') ? `<a class="btn pri" href="${esc(p.u)}" target="_blank" rel="noopener">${esc(host)} ↗</a>` : ''}
+      <a class="btn" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.n + ', ' + where)}" target="_blank" rel="noopener">Directions</a>
+      <a class="fix" href="${esc(fix)}" target="_blank" rel="noopener">Wrong office?</a></div>`;
 }
 function showCard(b, i, fly){
   const f = byB.get(b); if (!f) return;
@@ -259,16 +277,27 @@ function showCard(b, i, fly){
   const addr = (() => { const c = {}; list.forEach(p => { if (p.a) c[p.a] = (c[p.a] || 0) + 1; }); return Object.entries(c).sort((x, y) => y[1] - x[1])[0]?.[0] || ''; })();
   const place = lead.cp || [addr, lead.area].filter(Boolean).join(' · ');
   const counts = [...Object.keys(STAGE), 'unknown'].map(k => [k, list.filter(p => p.st === k).length]).filter(x => x[1]);
-  card.innerHTML = `<div class="ch"><div class="eyebrow">${esc(place)}</div>
-      <h2>${list.length === 1 ? esc(lead.n) : `${nf.format(list.length)} startups in this building`}</h2>
-      ${list.length > 1 ? `<div class="sbar">${counts.map(([k, n]) => `<i style="--c:var(${ST(k).c});flex-grow:${n}" title="${ST(k).label}: ${n}"></i>`).join('')}</div>` : ''}
-      <button class="x" type="button" aria-label="Close">×</button></div>
-    ${list.map(p => `<div class="co"><button type="button" data-i="${p.i}" aria-expanded="${p.i === i}" style="--c:var(${ST(p.st).c})">
-        <i class="${p.k === 'office' ? '' : 'u'}"></i><div><b>${esc(p.n)}</b><span>${esc(p.s)}</span></div><small>${p.e ? nf.format(p.e) : ''}</small></button>
-        <div class="det" ${p.i === i ? '' : 'hidden'}>${p.i === i ? detail(p) : ''}</div></div>`).join('')}`;
+  const LC = ST(lead.st);
+  card.innerHTML = list.length === 1
+    ? `<div class="ch hero"><div class="eyebrow">${esc(place)}</div>
+        <div class="hrow">${logo(lead, 'lg')}<div class="ht"><h2>${esc(lead.n)}</h2>
+          <div class="sub"><span class="tag" style="--ci:var(${LC.ci});--cs:var(${LC.cs})">${LC.label}</span><span>${esc(lead.s)}</span></div></div></div>
+        <button class="x" type="button" aria-label="Close">×</button></div>
+      <div class="det solo">${detail(lead, true)}</div>`
+    : `<div class="ch"><div class="eyebrow">${esc(place)}</div>
+        <h2>${nf.format(list.length)} startups in this building</h2>
+        <div class="sbar">${counts.map(([k, n]) => `<i style="--c:var(${ST(k).c});flex-grow:${n}" title="${ST(k).label}: ${n}"></i>`).join('')}</div>
+        <button class="x" type="button" aria-label="Close">×</button></div>
+      ${lead.cp === 'Station F' && LEFT_SF ? `<div class="co"><button type="button" class="alumni"><span class="lg lg-sm u" aria-hidden="true"><b>→</b></span><div><b>${nf.format(LEFT_SF)} startups have left Station F</b><span>Show where they moved</span></div><small></small><em class="chev" aria-hidden="true"></em></button></div>` : ''}
+      ${list.map(p => `<div class="co"><button type="button" data-i="${p.i}" aria-expanded="${p.i === i}">
+          ${logo(p, 'sm')}<div><b>${esc(p.n)}</b><span>${esc(p.s)}</span></div><small>${p.e ? nf.format(p.e) : ''}</small><em class="chev" aria-hidden="true"></em></button>
+          <div class="det" ${p.i === i ? '' : 'hidden'}>${p.i === i ? detail(p) : ''}</div></div>`).join('')}`;
+  wireLogos(card);
   card.hidden = false;
   card.querySelector('.x').onclick = closeCard;
-  card.querySelectorAll('.co>button').forEach(btn => btn.onclick = () => {
+  const alumni = card.querySelector('.alumni');
+  if (alumni) alumni.onclick = () => { $('q').value = 'left station f'; query = 'left station f'; listOpen = true; shown = 40; closeCard(); apply(); fitVisible(); };
+  card.querySelectorAll('.co>button:not(.alumni)').forEach(btn => btn.onclick = () => {
     const k = +btn.dataset.i, d = btn.nextElementSibling, open = d.hidden;
     card.querySelectorAll('.det').forEach(x => { x.hidden = true; x.previousElementSibling.setAttribute('aria-expanded', 'false'); });
     if (open) { d.innerHTML = detail(S[k]); d.hidden = false; btn.setAttribute('aria-expanded', 'true'); openI = k; setHash(S[k]); } else { openI = null; }

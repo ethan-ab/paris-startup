@@ -55905,5 +55905,1198 @@
 "xydrobe.com": [],
 "yeshome.fr": [],
 "zebratruth.com": [],
-"zkailabs.com": []
+"zkailabs.com": [],
+"212qa.com": [],
+"4401.earth": [],
+"50intech.com": [],
+"ai-mergence.com": [],
+"abundantearth.coop": [],
+"actiondesk.io": [],
+"about.ada.com": [],
+"adn-paris.fr": [
+{
+"addr": "110 rue de Turenne",
+"postcode": "75003",
+"city": "Paris",
+"score": 1,
+"page": "https://adn-paris.fr/en-us/pages/cgv",
+"kind": "office"
+}
+],
+"adyen.com": [],
+"aereo.com": [],
+"afrobloomy.com": [],
+"airbnb.com": [],
+"airwaybill.com": [],
+"albatros.coop": [],
+"alki.com": [],
+"allphins.com": [
+{
+"addr": "4 rue Jules Lefebvre",
+"postcode": "75009",
+"city": "Paris",
+"score": 2,
+"page": "https://allphins.com/about",
+"kind": "office"
+}
+],
+"aloty.ai": [],
+"alpagga.com": [],
+"altfair.fr": [],
+"handmadebyamalia.blogspot.com": [],
+"amalia.io": [],
+"americanexpress.com": [],
+"andyapp.io": [],
+"animeo.fr": [
+{
+"addr": "11 bis rue Rabelais —",
+"postcode": "93100",
+"city": "Montreuil",
+"score": 2,
+"page": "https://animeo.fr/",
+"kind": "office"
+}
+],
+"arianee.com": [
+{
+"addr": "8 rue de la Ville l'Évêque",
+"postcode": "75008",
+"city": "Paris",
+"score": -1,
+"page": "https://arianee.com/mentions-legales",
+"kind": "office"
+},
+{
+"addr": "61 rue de Lyon",
+"postcode": "75012",
+"city": "Paris",
+"score": -4,
+"page": "https://arianee.com/mentions-legales",
+"kind": "seat"
+}
+],
+"artiris-photo.com": [],
+"asana.com": [],
+"athana.com": [],
+"atlanspace.com": [],
+"atmocooling.com": [],
+"atomico.com": [],
+"axel-loc.com": [],
+"baback.co": [],
+"backacia.com": [
+{
+"addr": "29 B Rue d'Astorg",
+"postcode": "75008",
+"city": "Paris",
+"score": 1,
+"page": "https://backacia.com/pages/cgv-cgu",
+"kind": "office"
+},
+{
+"addr": "39 avenue Franklin D. Roosevelt",
+"postcode": "75008",
+"city": "PARIS",
+"score": -1,
+"page": "https://backacia.com/pages/cgv-cgu",
+"kind": "office"
+}
+],
+"balderton.com": [],
+"ballin.com": [],
+"bampa.fr": [],
+"batchcooking.com": [],
+"beautymix-konstanz.de": [],
+"beauteinee.fr": [
+{
+"addr": "135 Boulevard Haussmann",
+"postcode": "75008",
+"city": "Paris",
+"score": 2,
+"page": "https://beauteinee.fr/",
+"kind": "office"
+}
+],
+"beavrdesign.com": [],
+"beemenergy.com": [],
+"benchling.com": [],
+"bigblue.co": [],
+"bio-fluff.com": [],
+"bfl.ai": [],
+"blazarcapital.com": [],
+"mybleen.com": [],
+"bloomineral.com": [],
+"bluco.com": [],
+"blyynd.com": [],
+"bnbchain.org": [],
+"bolt.eu": [],
+"booxi.com": [],
+"brokeandabroad.com": [],
+"bubble.io": [],
+"bumpy.com": [],
+"capio.se": [],
+"carboculture.com": [],
+"carbonsaver.org": [],
+"carbonx.com": [],
+"caregame.com": [],
+"cede-labs-landing.webflow.io": [
+{
+"addr": "229 Rue Saint Honore",
+"postcode": "75001",
+"city": "Paris",
+"score": 2,
+"page": "https://cede-labs-landing.webflow.io/",
+"kind": "office"
+}
+],
+"cegid.com": [
+{
+"addr": "27 ter avenue Général Leclerc",
+"postcode": "92100",
+"city": "Boulogne-Billancourt",
+"score": 0,
+"page": "https://www.cegid.com/global/contact/",
+"kind": "office"
+},
+{
+"addr": "1 Rue Eugène et Armand Peugeot",
+"postcode": "92500",
+"city": "Rueil-Malmaison",
+"score": 0,
+"page": "https://www.cegid.com/global/contact/",
+"kind": "office"
+}
+],
+"celsiusenergy.com": [
+{
+"addr": "1 Rue Henri Becquerel",
+"postcode": "92140",
+"city": "Clamart",
+"score": 0,
+"page": "https://celsiusenergy.com/contact/",
+"kind": "office"
+}
+],
+"centeon.bio": [],
+"chance.cc": [],
+"chari.com": [],
+"cherry-pick.com": [],
+"chift.eu": [],
+"circl.lu": [],
+"claap.io": [
+{
+"addr": "14 avenue du Général de Gaulle",
+"postcode": "94160",
+"city": "Saint-Mandé",
+"score": 1,
+"page": "https://claap.io/legal/privacy-policy",
+"kind": "office"
+}
+],
+"clarity.fm": [],
+"claudecode.pro": [],
+"cleanmob.com": [
+{
+"addr": "20 B RUE LOUIS – PHILIPPE",
+"postcode": "92200",
+"city": "NEUILLY-SUR-SEINE",
+"score": -4,
+"page": "https://cleanmob.com/mentions-legales",
+"kind": "seat"
+},
+{
+"addr": "13 rue Rieux",
+"postcode": "92100",
+"city": "Boulogne-Billancourt",
+"score": -4,
+"page": "https://cleanmob.com/mentions-legales",
+"kind": "seat"
+}
+],
+"cleverconnect.com": [],
+"clipdrop.co": [],
+"clubhouse.com": [],
+"helloclue.com": [],
+"cocoon-immo.io": [],
+"cocoworker.com": [],
+"codecademy.com": [],
+"cohere.com": [],
+"coinbase.com": [],
+"consultaway.com": [
+{
+"addr": "5 Parvis Alan Turing",
+"postcode": "75013",
+"city": "Paris",
+"score": 2,
+"page": "https://consultaway.com/",
+"kind": "office"
+},
+{
+"addr": "72 ter Boulevard Bourdon",
+"postcode": "92200",
+"city": "Neuilly sur Seine",
+"score": -4,
+"page": "https://www.consultaway.com/fr/mentions-legales/",
+"kind": "seat"
+}
+],
+"count.co": [],
+"craftydelivers.com": [],
+"crown.com": [],
+"cuvee-privee.com": [
+{
+"addr": "23 boulevard Beaumarchais",
+"postcode": "75004",
+"city": "Paris",
+"score": 2,
+"page": "https://cuvee-privee.com/pages/contact",
+"kind": "office"
+},
+{
+"addr": "30 Boulevard de Sébastopol",
+"postcode": "75004",
+"city": "Paris",
+"score": -4,
+"page": "https://cuvee-privee.com/pages/mentions-legales",
+"kind": "seat"
+}
+],
+"cypheme.com": [
+{
+"addr": "5 Parvis Alan Turing",
+"postcode": "75013",
+"city": "Paris",
+"score": 2,
+"page": "https://cypheme.com/",
+"kind": "office"
+}
+],
+"dameproducts.com": [],
+"dashery.com": [],
+"databricks.com": [],
+"dealguard.it.com": [],
+"deel.com": [],
+"deepseek.com": [],
+"deliveroo.com.hk": [],
+"deltablock.io": [
+{
+"addr": "66 Avenue des Champs-Élysées",
+"postcode": "75008",
+"city": "Paris",
+"score": 2,
+"page": "https://deltablock.io/",
+"kind": "office"
+},
+{
+"addr": "5 Parvis Alan Turing",
+"postcode": "75013",
+"city": "Paris",
+"score": 2,
+"page": "https://deltablock.io/",
+"kind": "office"
+}
+],
+"demooz.com": [
+{
+"addr": "116 rue Victor Hugo",
+"postcode": "92300",
+"city": "Levallois-Perret",
+"score": 2,
+"page": "https://demooz.com/",
+"kind": "office"
+}
+],
+"depoly.co": [],
+"dfns.com": [],
+"differs.io": [],
+"digitall.com": [],
+"divemagazine.com": [],
+"onediversified.com": [],
+"dokit.org": [],
+"dropbox.com": [],
+"dropcontact.com": [],
+"easymile.com": [],
+"care-ecohesens.com": [],
+"eevy.fr": [
+{
+"addr": "60 rue François 1er",
+"postcode": "75008",
+"city": "Paris",
+"score": 1,
+"page": "https://eevy.fr/fr/imprint",
+"kind": "office"
+}
+],
+"elendi.ai": [
+{
+"addr": "5 Parvis Alan Turing",
+"postcode": "75012",
+"city": "PARIS - FR",
+"score": 1,
+"page": "https://elendi.ai/",
+"kind": "office"
+},
+{
+"addr": "1 rue de Stockholm",
+"postcode": "75008",
+"city": "PARIS - FR",
+"score": -3,
+"page": "https://elendi.ai/",
+"kind": "seat"
+}
+],
+"elevenlabs.io": [],
+"elix.nl": [],
+"enakl.com": [],
+"enerbrain.com": [],
+"enrise.com": [],
+"entoureo.fr": [],
+"episto.co": [],
+"epopia.com": [],
+"eqtgroup.com": [],
+"esahubble.org": [],
+"escapad.coop": [],
+"etacts.com": [],
+"esa.int": [],
+"eventbrite.com": [],
+"ex9.tech": [],
+"exotec.com": [],
+"extralab.fr": [],
+"facil-iti.com": [
+{
+"addr": "49 rue de Ponthieu",
+"postcode": "75008",
+"city": "Paris",
+"score": 1,
+"page": "https://facil-iti.com/en/legal/website/legal-notice/index.html",
+"kind": "office"
+}
+],
+"agencefactio.com": [],
+"fairjungle.com": [],
+"famileat.fr": [],
+"figma.com": [],
+"finense.fr": [
+{
+"addr": "10 rue de la bourse",
+"postcode": "75002",
+"city": "Paris",
+"score": -1,
+"page": "https://www.finense.fr/cgu/",
+"kind": "office"
+}
+],
+"fiscalnote.com": [],
+"fitle.com": [
+{
+"addr": "198 Avenue de France",
+"postcode": "75013",
+"city": "Paris",
+"score": 2,
+"page": "https://fitle.com/contact-fitle/",
+"kind": "office"
+}
+],
+"flaneer.com": [],
+"flatmates.com.au": [],
+"flushy.co": [],
+"food7go.com": [],
+"archildrens.org": [],
+"four40partners.com": [],
+"frakihabara.com": [],
+"framer.com": [],
+"francedigitale.org": [
+{
+"addr": "12 rue Vivienne",
+"postcode": "75002",
+"city": "Paris",
+"score": -1,
+"page": "https://francedigitale.org/mentionslegales",
+"kind": "office"
+}
+],
+"fructifi.com": [],
+"futurzhr.com": [],
+"fuzed.com": [],
+"gatling.io": [],
+"generalmagic.inc": [],
+"geovelo.app": [
+{
+"addr": "8 rue de la Ville l’Evêque",
+"postcode": "75008",
+"city": "Paris",
+"score": -4,
+"page": "https://geovelo.app/fr/legal-notice/",
+"kind": "seat"
+}
+],
+"germinal.com": [],
+"github.com": [],
+"glossier.com": [],
+"glovoapp.com": [],
+"glowssary.app": [],
+"godraft.gg": [],
+"gokaden.xyz": [],
+"goldenblocks.fr": [
+{
+"addr": "110 Rue du Maréchal de Lattre de Tassigny",
+"postcode": "94240",
+"city": "Email de contact",
+"score": -1,
+"page": "https://goldenblocks.fr/conditions-generales-de-vente",
+"kind": "seat"
+}
+],
+"deepmind.google": [],
+"google.com": [],
+"granularmarketing.com": [],
+"getgrasp.com": [],
+"greenspector.com": [],
+"gynica.com": [],
+"halogenvc.com": [],
+"harvestr.io": [
+{
+"addr": "14 avenue du Général De Gaulle",
+"postcode": "94160",
+"city": "Saint-Mandé",
+"score": 1,
+"page": "https://harvestr.io/legal/terms-and-conditions",
+"kind": "office"
+}
+],
+"hectar.co": [],
+"hellomarcel.be": [],
+"hellomybot.io": [],
+"heronai.com": [],
+"holler.live": [],
+"holyowly.fr": [],
+"hopinlimo.com": [],
+"hopways.com": [],
+"ateliers-horsnormes.fr": [],
+"houseparty.com": [],
+"huawei.com": [],
+"hubspot.com": [
+{
+"addr": "91 Boulevard Haussmann",
+"postcode": "75008",
+"city": "Paris",
+"score": 2,
+"page": "https://www.hubspot.com/company/contact",
+"kind": "office"
+}
+],
+"humapro.fr": [],
+"thehumind.com": [],
+"humusfarm.com": [],
+"hydragonix.com": [],
+"iad.la": [],
+"ictyos.com": [
+{
+"addr": "25 rue Lécuyer",
+"postcode": "93400",
+"city": "SAINT-OUEN-SUR-SEINE",
+"score": 0,
+"page": "https://ictyos.com/pages/contact",
+"kind": "office"
+}
+],
+"ifit.com": [],
+"immersiv.com.au": [],
+"included.vc": [],
+"inspiraction.ro": [],
+"intercom.com": [],
+"intimatelyyouboudoir.com.au": [],
+"iqm.com": [],
+"isai.com": [],
+"isaraerospace.com": [],
+"iterationx.com": [],
+"embajadoresizettle.com": [],
+"jami.net": [],
+"lovejamii.com": [],
+"jellysmack.com": [
+{
+"addr": "7 Rue de Madrid",
+"postcode": "75008",
+"city": "Paris",
+"score": 0,
+"page": "https://jellysmack.com/office-locations/",
+"kind": "office"
+}
+],
+"jeste.co": [],
+"jobday-sciences.be": [],
+"joovence.com": [],
+"kahoot.com": [],
+"kapten-son.com": [],
+"kara.ai": [],
+"karamel.eu": [],
+"katalyz.co": [],
+"kazidomi.com": [],
+"keypup.io": [],
+"kimaventures.com": [],
+"kntx.ventures": [],
+"klarkteknik.com": [],
+"klarna.com": [],
+"kolibrigames.com": [],
+"kolverr.com": [],
+"konexionetwork.com": [],
+"koyeb.com": [
+{
+"addr": "9, Rue des longs près",
+"postcode": "92100",
+"city": "Boulogne-Billancourt",
+"score": 1,
+"page": "https://koyeb.com/docs/legal/terms",
+"kind": "office"
+}
+],
+"kry.se": [],
+"kumulus.com": [],
+"kunto.fr": [
+{
+"addr": "14 rue Saint Jean",
+"postcode": "75017",
+"city": "Paris",
+"score": 1,
+"page": "https://kunto.fr/cgu",
+"kind": "office"
+}
+],
+"kushim.co.jp": [],
+"laba.com": [],
+"labtoo.com": [],
+"lasqo.ai": [],
+"leadbees.io": [],
+"leanear.io": [
+{
+"addr": "66 avenue des Champs‑Élysées",
+"postcode": "75008",
+"city": "Paris",
+"score": 1,
+"page": "https://leanear.io/en/mentions-legales/",
+"kind": "office"
+},
+{
+"addr": "5 Parvis Alan Turing",
+"postcode": "75013",
+"city": "Paris",
+"score": 0,
+"page": "https://leanear.io/en/contact/",
+"kind": "office"
+}
+],
+"leazy.de": [],
+"lecko.fr": [],
+"lecturer.fr": [],
+"leeway.net": [],
+"legora.com": [],
+"lesdetermines.fr": [],
+"lifeprotect.net.au": [],
+"li.me": [],
+"listenup.com": [],
+"livna-education.fr": [],
+"lizy.be": [],
+"localista.com.au": [],
+"lokki.rent": [],
+"loola.pl": [],
+"link.lovable.dev": [],
+"lumapps.com": [],
+"lumeen.com": [],
+"thesensiblemama.com": [],
+"lintendance.co": [],
+"majamaja.com": [
+{
+"addr": "5 Parvis Alan Turing",
+"postcode": "75013",
+"city": "Paris",
+"score": 0,
+"page": "https://majamaja.com/contact/",
+"kind": "office"
+}
+],
+"make.com": [],
+"mapstr.com": [
+{
+"addr": "43 rue Pierre Valette",
+"postcode": "92240",
+"city": "Malakoff",
+"score": -4,
+"page": "https://mapstr.com/mentions-legales",
+"kind": "seat"
+}
+],
+"mariemas.com": [
+{
+"addr": "41 Rue de Richelieu",
+"postcode": "75001",
+"city": "Paris",
+"score": 2,
+"page": "https://mariemas.com/",
+"kind": "office"
+}
+],
+"masterclass.com": [],
+"matricis.ai": [],
+"meatable.com": [],
+"medoucine.com": [],
+"memorality.com": [],
+"memorizer.ai": [
+{
+"addr": "49 rue de Ponthieu",
+"postcode": "75008",
+"city": "Paris",
+"score": -1,
+"page": "https://memorizer.ai/fr/cgu",
+"kind": "office"
+},
+{
+"addr": "4ter rue Claude Monet",
+"postcode": "92100",
+"city": "Boulogne-Billancourt",
+"score": -4,
+"page": "https://memorizer.ai/fr/cgu",
+"kind": "seat"
+}
+],
+"merca.team": [],
+"mgnm.com.au": [],
+"micco.com.vn": [],
+"microxpace.com": [],
+"mimesys-project.it": [],
+"mindflowspeedreading.com": [],
+"miro.com": [],
+"mithrilsecurity.io": [],
+"modernatx.com": [],
+"moncamionavecchauffeur.com": [
+{
+"addr": "7 Place du 11 Novembre 1918",
+"postcode": "93000",
+"city": "Bobigny",
+"score": 2,
+"page": "https://moncamionavecchauffeur.com/",
+"kind": "office"
+},
+{
+"addr": "5 Parvis Alan Turing",
+"postcode": "75013",
+"city": "Paris",
+"score": 2,
+"page": "https://moncamionavecchauffeur.com/",
+"kind": "office"
+}
+],
+"mooonai.com": [],
+"moriartymedia.com": [],
+"moshi.com": [],
+"motionsociety.io": [],
+"moustacheai.com": [
+{
+"addr": "9 rue des Colonnes",
+"postcode": "75002",
+"city": "Paris",
+"score": -2,
+"page": "https://moustacheai.com/legal-notice/",
+"kind": "seat"
+}
+],
+"multiversecomputing.com": [],
+"munki.audio": [
+{
+"addr": "281 rue Saint-Jacques",
+"postcode": "75005",
+"city": "Paris",
+"score": -4,
+"page": "https://munki.audio/mentions-legales/",
+"kind": "seat"
+}
+],
+"mydigitalbuildings.com": [
+{
+"addr": "3 place de Fontenoy – TSA 80751",
+"postcode": "75334",
+"city": "Paris Cedex",
+"score": -1,
+"page": "https://mydigitalbuildings.com/mentions-legales",
+"kind": "office"
+}
+],
+"moss-paris.com": [],
+"n26.com": [],
+"naarica.in": [],
+"naliacosmetics.com": [],
+"naodevils.de": [],
+"natakallam.com": [],
+"navee.asia": [],
+"misstausendgedanken.blogspot.com": [],
+"nebius.com": [],
+"neighbours-inc.com": [],
+"neptuneelements.com": [],
+"nespresso.com": [],
+"netronline.com": [],
+"itsmyne.club": [],
+"nopli.eu": [],
+"notion.com": [],
+"null.community": [],
+"nym.com": [],
+"ohmboa.com": [],
+"okarito.co.nz": [],
+"ominiclinic.ro": [],
+"onboard.blue": [],
+"one-second.com": [],
+"openrouter.ai": [],
+"optimiz-construction.fr": [],
+"oracle.com": [],
+"ordolib.io": [],
+"oridahotels.com": [],
+"outshift.com": [],
+"ovhcloud.com": [],
+"o-tacos.ma": [],
+"usepalm.com": [],
+"pattymccord.com": [],
+"payper.com": [],
+"pazapa.org": [],
+"pazzidifanta.com": [],
+"pexip.com": [
+{
+"addr": "10 Avenue Kleber",
+"postcode": "75016",
+"city": "Paris",
+"score": 0,
+"page": "https://www.pexip.com/contact",
+"kind": "office"
+}
+],
+"phacil.delivery": [],
+"phagos.com": [
+{
+"addr": "5 Rue Gardenat Lapostol",
+"postcode": "92150",
+"city": "Suresnes France",
+"score": 2,
+"page": "https://phagos.com/",
+"kind": "office"
+}
+],
+"anujagupta.blogspot.com": [],
+"philipcolbert.com": [],
+"phospho.at": [],
+"pimento.fr": [],
+"pimpup.io": [],
+"pioneers.org": [],
+"podium.com": [],
+"podspace.com": [],
+"pressmium.com": [],
+"processout.com": [],
+"tryprofound.com": [],
+"puissante.co": [
+{
+"addr": "139 Rue d'Aboukir",
+"postcode": "75002",
+"city": "Paris",
+"score": 0,
+"page": "https://puissante.co/pages/mentions-legales",
+"kind": "office"
+}
+],
+"qairn-rh.fr": [],
+"qantev.com": [
+{
+"addr": "3 Cité Paradis",
+"postcode": "75010",
+"city": "Paris",
+"score": 2,
+"page": "https://qantev.com/contact",
+"kind": "office"
+}
+],
+"qeels.io": [],
+"qlip.com": [],
+"quackai.com": [],
+"quobly.io": [],
+"raidium.eu": [],
+"rapidsos.com": [],
+"re-cap.com": [],
+"reddit.com": [],
+"redesk.fr": [],
+"reparcar.fr": [],
+"repio.com": [],
+"replit.com": [],
+"resilience.com": [],
+"retrovrs.com": [],
+"rinse.com": [],
+"rippling.com": [],
+"river.com": [],
+"rize.cool": [
+{
+"addr": "131 Boulevard de Ménilmontant",
+"postcode": "75011",
+"city": "Paris",
+"score": 2,
+"page": "https://rize.cool/",
+"kind": "office"
+}
+],
+"robinhood.com": [],
+"rocambole.fr": [],
+"roche.com": [],
+"running-care.com": [],
+"sarwa.co": [],
+"savvy.com": [],
+"sayna.ai": [],
+"scale.com": [],
+"scalia.nl": [],
+"scio.cz": [],
+"scoutbee.com": [],
+"scrambl.com": [],
+"sekoia.com": [],
+"selectivity.life": [],
+"selfr.ai": [],
+"seloger.com": [],
+"sennder.com": [
+{
+"addr": "24 rue Petrelle",
+"postcode": "75009",
+"city": "Paris",
+"score": 0,
+"page": "https://sennder.com/",
+"kind": "office"
+},
+{
+"addr": "50 rue de Paradis",
+"postcode": "75010",
+"city": "Paris",
+"score": 0,
+"page": "https://sennder.com/contact",
+"kind": "office"
+}
+],
+"shary.it": [],
+"shopify.com": [],
+"siffletdata.com": [],
+"sigfox.com": [],
+"simundia.com": [
+{
+"addr": "176 avenue Charles de Gaulle",
+"postcode": "92200",
+"city": "Neuilly-sur-Seine",
+"score": -2,
+"page": "https://simundia.com/cgu-experts",
+"kind": "office"
+}
+],
+"singa.com": [],
+"sinovationventures.com": [],
+"sketchfab.com": [],
+"skyboygames.com": [],
+"slack.com": [],
+"smallgiantgames.com": [],
+"smartzer.com": [],
+"snap.com": [],
+"snowflake.com": [],
+"sonaar.com": [],
+"sorore.fr": [],
+"soufflekitchen.com": [
+{
+"addr": "1 AVENUE DE LA MOTTE PICQUET",
+"postcode": "75007",
+"city": "PARIS",
+"score": -2,
+"page": "https://soufflekitchen.com/policies/legal-notice",
+"kind": "office"
+}
+],
+"sowit.co": [],
+"spacefill.com": [
+{
+"addr": "8 rue Livingstone",
+"postcode": "75018",
+"city": "Paris",
+"score": 0,
+"page": "https://spacefill.com/",
+"kind": "office"
+}
+],
+"gimletmedia.com": [],
+"sqreen.com": [],
+"squareup.com": [],
+"squaremind.com": [
+{
+"addr": "15 rue Yves Toudic",
+"postcode": "75010",
+"city": "Paris",
+"score": 0,
+"page": "https://squaremind.com/legals/terms-and-conditions",
+"kind": "office"
+}
+],
+"stability.ai": [],
+"stage11theater.blogspot.com": [],
+"stargate.com": [],
+"starton.com": [],
+"startup.com": [],
+"timelyai.com": [],
+"stripe.com": [],
+"sunnycare.com.au": [],
+"supercell.com": [],
+"sweevana.com": [],
+"syntetica.co": [],
+"synthesia.com": [],
+"tailor.tech": [],
+"take-caire.fr": [
+{
+"addr": "5 rue Camille Desmoulins",
+"postcode": "75011",
+"city": "Paris",
+"score": 1,
+"page": "https://take-caire.fr/mentions-legales/",
+"kind": "office"
+},
+{
+"addr": "9 rue Remy Dumoncel",
+"postcode": "75014",
+"city": "Paris",
+"score": -3,
+"page": "https://take-caire.fr/conditions-generales-dutilisation/",
+"kind": "seat"
+}
+],
+"tamisiumextractors.com": [],
+"taster.com": [
+{
+"addr": "47 Boulevard de Courcelles",
+"postcode": "75008",
+"city": "Paris",
+"score": -2,
+"page": "https://taster.com/mentions-legales.html",
+"kind": "seat"
+}
+],
+"taxfix.de": [],
+"teale.io": [
+{
+"addr": "6 Rue Auber",
+"postcode": "75009",
+"city": "Paris",
+"score": 2,
+"page": "https://teale.io/nous-contacter",
+"kind": "office"
+},
+{
+"addr": "8 avenue Franklin Roosevelt",
+"postcode": "75008",
+"city": "Paris",
+"score": 0,
+"page": "https://teale.io/",
+"kind": "office"
+},
+{
+"addr": "60 rue la Boétie",
+"postcode": "75008",
+"city": "PARIS",
+"score": -1,
+"page": "https://teale.io/cgu",
+"kind": "office"
+}
+],
+"vitality.gg": [
+{
+"addr": "102 Boulevard de Sébastopol",
+"postcode": "75003",
+"city": "Paris",
+"score": -1,
+"page": "https://vitality.gg/fr-na/policies/contact-information",
+"kind": "office"
+}
+],
+"techuntermagazine.com": [],
+"teebike.ooo": [],
+"tesla.com": [],
+"startupcommunityway.com": [],
+"threedium.io": [],
+"timelapps.com": [],
+"tingzcreative.com": [],
+"tink.com": [],
+"totalenergies.com": [],
+"touchlab.co": [],
+"traderepublic.com": [],
+"trashtag.org": [],
+"treeway.nl": [],
+"tremau.com": [
+{
+"addr": "5, PARVIS ALAN TURING",
+"postcode": "75013",
+"city": "PARIS",
+"score": 2,
+"page": "https://tremau.com/contact-us/",
+"kind": "office"
+}
+],
+"turgo.ai": [],
+"twilio.com": [],
+"2-way.it": [],
+"uipath.com": [],
+"unbottled.co": [
+{
+"addr": "108 rue d’Aboukir",
+"postcode": "75002",
+"city": "Paris",
+"score": 1,
+"page": "https://unbottled.co/pages/cgv",
+"kind": "office"
+},
+{
+"addr": "60 rue de la Boétie",
+"postcode": "75008",
+"city": "PARIS",
+"score": -1,
+"page": "https://unbottled.co/pages/cgv",
+"kind": "office"
+},
+{
+"addr": "7 Place de l’Hôtel de Ville",
+"postcode": "93600",
+"city": "Aulnay-sous-Bois",
+"score": -4,
+"page": "https://unbottled.co/pages/cgv",
+"kind": "seat"
+},
+{
+"addr": "7 place de l'Hotel de Ville",
+"postcode": "93600",
+"city": "AULNAY-SOUS-BOIS",
+"score": -4,
+"page": "https://unbottled.co/pages/mentions-legales-et-politique-de-confidentialite",
+"kind": "seat"
+}
+],
+"unif.ai": [],
+"unity.com": [],
+"unkle.com": [],
+"uptale.io": [],
+"urbansportsclub.com": [
+{
+"addr": "26 rue de Montholon",
+"postcode": "75009",
+"city": "Paris",
+"score": 0,
+"page": "https://urbansportsclub.com/fr/impressum",
+"kind": "office"
+}
+],
+"velyvelo.com": [
+{
+"addr": "77 Avenue Aristide Briand",
+"postcode": "94110",
+"city": "Arcueil",
+"score": 2,
+"page": "https://velyvelo.com/aide-contact",
+"kind": "office"
+}
+],
+"vemadocs.com": [],
+"verdikt.io": [],
+"viibe.co": [
+{
+"addr": "28 Rue de Mogador",
+"postcode": "75009",
+"city": "Paris",
+"score": 1,
+"page": "https://viibe.co/legal-notice",
+"kind": "office"
+}
+],
+"vitabuerp.com": [],
+"vitality.com": [],
+"vivino.com": [],
+"viziosense.com": [
+{
+"addr": "55 Rue La Boétie",
+"postcode": "75008",
+"city": "Paris",
+"score": 2,
+"page": "https://viziosense.com/",
+"kind": "office"
+}
+],
+"vocads.com": [],
+"voxe.org": [
+{
+"addr": "6 rue du Sentier",
+"postcode": "75002",
+"city": "Paris",
+"score": 0,
+"page": "https://voxe.org/",
+"kind": "office"
+},
+{
+"addr": "36 rue vieille du temple",
+"postcode": "75004",
+"city": "Paris",
+"score": -2,
+"page": "https://voxe.org/legal/mentions-legales",
+"kind": "seat"
+}
+],
+"watiz.io": [],
+"wayup.com": [],
+"weekend.fund": [],
+"wellohello.co.uk": [],
+"whaly.com": [],
+"whoomies.com": [],
+"wildcardmobile.com": [],
+"wildsense.ai": [],
+"wise.com": [],
+"wishupon.app": [],
+"woodoo.com": [
+{
+"addr": "229 Rue Saint Honoré",
+"postcode": "75001",
+"city": "PARIS",
+"score": 1,
+"page": "https://woodoo.com/legal-notice/",
+"kind": "office"
+}
+],
+"workelo.eu": [
+{
+"addr": "9 rue des Colonnes",
+"postcode": "75002",
+"city": "Paris",
+"score": -2,
+"page": "https://www.workelo.eu/mentions-l%C3%A9gales",
+"kind": "office"
+}
+],
+"xampla.com": [],
+"ycombinator.com": [],
+"yapily.com": [],
+"yogafactory.com": [],
+"yuzu.com": [],
+"zapier.com": [],
+"zenly.com": [],
+"zephalto.com": [],
+"abstraktmg.com": [],
+"oyealva.com": [],
+"cleavr.com": [],
+"coconutsilo.com": [],
+"curagroep.com": [],
+"daftar.com": [],
+"evotis.be": [],
+"goji.io": [],
+"habsplus.com": [],
+"invertixbcn.com": [],
+"gojinko.com": [],
+"nexoft.asia": [],
+"kuli.com": [],
+"nextlevel.ai": [],
+"onbox.hu": [],
+"orbital.com": [],
+"withpronto.com": [],
+"referly.so": [],
+"repost.com": [],
+"revolv.com": [],
+"shiplog.mr": [],
+"spacio.co.uk": [],
+"sphinxhq.com": [],
+"mcpserver.design": [],
+"zebratruth.ai": []
 }

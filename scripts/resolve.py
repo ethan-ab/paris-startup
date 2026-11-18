@@ -282,8 +282,17 @@ def main():
             pass
         except Exception:  # noqa: BLE001
             pass
+    SFM = {}   # every startup named on stationf.co (scripts/stationf.py): latest programme + date
+    sfm_p = os.path.join(ROOT, 'data', 'ref', 'stationf_mentions.json')
+    if os.path.exists(sfm_p):
+        for m in json.load(open(sfm_p)):
+            for k in {L.fold(m['name']), (m.get('domain') or '').lower()} - {''}:
+                SFM[k] = m
+    def sf_mention(c):
+        return SFM.get((c.get('domain') or '').replace('www.', '').lower()) or SFM.get(L.fold(c.get('name')))
     VER = load_list('verified.json')       # Exa Agent verification: LinkedIn headcount, is_startup, sourced office
     COR = load_list('corrections.json')    # manual corrections: always win
+    EXA = load_list('exa_offices.json')    # one Exa web search per startup (scripts/exa_offices.py): careers pages, job posts, press
 
     def _get(idx, c):
         seen, out = set(), []
@@ -304,6 +313,17 @@ def main():
     kept = []
     drop = {'old': 0, 'big': 0, 'not_startup': 0}
     for c in companies:
+        if c.get('stationf_found'):
+            m = sf_mention(c) or {}
+            if not c.get('description'):
+                c['description'] = m.get('description')
+            lk = LK.get(c.get('domain') or '') or {}
+            emp = lk.get('li_employees') or 0
+            if (emp > 1500 or (lk.get('li_founded') or 3000) < 2005
+                    or re.search(r'venture capital|investment|private equity|capital markets', lk.get('li_industries') or '', re.I)
+                    or not_startup(c)):
+                drop['not_startup'] += 1; continue
+            kept.append(c); continue
         if c.get('seed') or override(c) or corrections(c):
             kept.append(c); continue
         if c.get('founded') and c['founded'] < 2005:
@@ -343,7 +363,7 @@ def main():
 
     def research_entries(c):
         out = []
-        for o in [override(c)] + verified(c):
+        for o in [override(c)] + verified(c) + _get(EXA, c):
             if o and o.get('office_street'):
                 out.append(o)
         return out
@@ -374,7 +394,7 @@ def main():
                 ev.append((g, 'manual', 100, False)); continue
             st = (o.get('source_type') or '').lower()
             legal = st == 'legal' or LEGALISH.search(o.get('source_url') or '')
-            ev.append((g, 'research', 1.5 if legal else 2 if st == 'linkedin' else 3, dom(g)))
+            ev.append((g, 'research', o.get('weight') or (1.5 if legal else 2 if st == 'linkedin' else 3), dom(g)))
         for j, w in enumerate(web.get(c['domain'], [])):
             g = geo.get(f'w{i}_{j}')
             if good(g):
@@ -391,8 +411,12 @@ def main():
             g = geo.get(f'li{i}')
             if good(g):
                 ev.append((g, 'linkedin', 2, dom(g)))
-        if L.fold(c['name']) in sfres or (c.get('domain') or '').replace('www.', '').lower() in sfres:
-            ev.append((SF, 'cohort', 1, False))
+        m = sf_mention(c)
+        recent = m and (m['programmes'][0].get('date') or '') >= '2025-07'
+        if L.fold(c['name']) in sfres or (c.get('domain') or '').replace('www.', '').lower() in sfres or recent:
+            ev.append((SF, 'cohort', 1.5, False))      # current programmes (H2 2025 onwards): likely still on campus
+        elif m:
+            ev.append((SF, 'cohort', 0.5, False))      # an older programme says where they WERE, not where they are
         return ev
 
     def near(g, h):
@@ -438,7 +462,7 @@ def main():
     with ThreadPoolExecutor(8) as ex:
         sir = dict(zip(need, ex.map(lambda i: L.sirene_match_all(kept[i], kept[i]['_li'][2]), need)))
 
-    out, stats = [], {}
+    out, stats, unlocated = [], {}, []
     for i, c in enumerate(kept):
         if i in outside or i in notstart:
             continue
@@ -461,6 +485,7 @@ def main():
         key = (loc or {}).get('cf', 'none') + '/' + (loc or {}).get('via', '')
         stats[key] = stats.get(key, 0) + 1
         if not loc:
+            unlocated.append({'n': c['name'], 'u': c.get('url') or c.get('domain') or '', 'e': c.get('employees')})
             continue
         ve = [v.get('linkedin_employees') for v in verified(c) if v.get('linkedin_employees')]
         lk = LK.get((c.get('domain') or '').replace('www.', '').lower()) or {}
@@ -478,6 +503,12 @@ def main():
             'll': [round(loc['ll'][0], 6), round(loc['ll'][1], 6)], 'k': 'office' if loc['cf'] in 'vl' else 'seat',
             'cf': loc['cf'], 'v': loc['via'], 'ev': loc['ev'],
         }
+        m = sf_mention(c)
+        if m:
+            pr = m['programmes'][0]
+            at_sf = L.addr_key(rec['a']) in ('5 parvis alan turing', '5 rue eugene freyssinet')
+            status = ('here' if at_sf else 'moved') if loc['cf'] in 'vl' else 'past'
+            rec['sf'] = {'s': status, 'p': (pr.get('programme') or '')[:80], 'y': (pr.get('date') or '')[:4]}
         cp = CAMPUS.get(L.addr_key(rec['a']))
         if cp:
             rec['cp'] = cp
@@ -499,6 +530,8 @@ def main():
     out.sort(key=lambda r: r['n'].lower())
     with open(os.path.join(ROOT, 'data', 'startups.json'), 'w') as f:
         json.dump(out, f, ensure_ascii=False, indent=0)
+    with open(os.path.join(RAW, 'unlocated.json'), 'w') as f:   # kept companies with no address at all (exa_offices.py --unlocated)
+        json.dump(unlocated, f, ensure_ascii=False, indent=0)
     from collections import Counter
     print(len(out), 'on file ·', Counter(r['k'] for r in out), '· Station F:', len(sf))
     print(Counter(r['s'] for r in out).most_common())

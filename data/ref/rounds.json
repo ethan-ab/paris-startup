@@ -1,0 +1,1460 @@
+[
+{
+"n": "VSORA",
+"domain": "vsora.com",
+"round": "Growth Equity",
+"amount": null,
+"currency": null,
+"date": "2026-07-01",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-6-healthtech-biotech-q2-elixir-aircraft-eur45m-led-5-deals-for-eur71-2m/"
+},
+{
+"n": "Amarris",
+"domain": "amarris.fr",
+"round": "Growth Equity",
+"amount": 15000000.0,
+"currency": "EUR",
+"date": "2026-07-03",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-6-healthtech-biotech-q2-elixir-aircraft-eur45m-led-5-deals-for-eur71-2m/"
+},
+{
+"n": "Destia",
+"domain": "destia.fr",
+"round": "Growth Equity",
+"amount": null,
+"currency": null,
+"date": "2026-07-03",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-6-healthtech-biotech-q2-elixir-aircraft-eur45m-led-5-deals-for-eur71-2m/"
+},
+{
+"n": "Elixir Aircraft",
+"domain": "elixir-aircraft.com",
+"round": "Growth Equity",
+"amount": 45000000.0,
+"currency": "EUR",
+"date": "2026-07-03",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-6-healthtech-biotech-q2-elixir-aircraft-eur45m-led-5-deals-for-eur71-2m/"
+},
+{
+"n": "HTDS",
+"domain": "htds.fr",
+"round": "Growth Equity",
+"amount": null,
+"currency": null,
+"date": "2026-07-03",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-6-healthtech-biotech-q2-elixir-aircraft-eur45m-led-5-deals-for-eur71-2m/"
+},
+{
+"n": "Loumo",
+"domain": "loumo.fr",
+"round": "Seed",
+"amount": 1000000.0,
+"currency": "EUR",
+"date": "2026-07-03",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-6-healthtech-biotech-q2-elixir-aircraft-eur45m-led-5-deals-for-eur71-2m/"
+},
+{
+"n": "Tallano Technologies",
+"domain": "tallano.eu",
+"round": "Growth Equity",
+"amount": 10000000.0,
+"currency": "EUR",
+"date": "2026-07-03",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-6-healthtech-biotech-q2-elixir-aircraft-eur45m-led-5-deals-for-eur71-2m/"
+},
+{
+"n": "Aria",
+"domain": "aria.finance",
+"round": "Series A",
+"amount": 7000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Bohr Energie",
+"domain": "bohr-energie.fr",
+"round": "Series A",
+"amount": 10000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Click&Care",
+"domain": "clickandcare.fr",
+"round": "Seed",
+"amount": 5000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Cyllene Therapeutics",
+"domain": "cyllene-tx.com",
+"round": "Series C",
+"amount": 33000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "En Carta Diagnostics",
+"domain": "encartadiagnostics.com",
+"round": "Seed",
+"amount": 3000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Gradium",
+"domain": "gradium.ai",
+"round": "Seed",
+"amount": 26300000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Naaia",
+"domain": "naaia.ai",
+"round": "Series A",
+"amount": 6000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Panora",
+"domain": "panora.co",
+"round": "Seed",
+"amount": 4400000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Rivage",
+"domain": "rivage.immo",
+"round": "Seed",
+"amount": 1500000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Skello",
+"domain": "skello.io",
+"round": "Growth Equity",
+"amount": 150000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "W Platform",
+"domain": "w-platform.fr",
+"round": "Seed",
+"amount": 1000000.0,
+"currency": "EUR",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "ZML",
+"domain": "zml.ai",
+"round": "Seed",
+"amount": 20000000.0,
+"currency": "USD",
+"date": "2026-07-10",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-13-skello-eur150m-led-12-deals-for-eur264-4m/"
+},
+{
+"n": "Engo",
+"domain": "engoeyewear.com",
+"round": "Series A",
+"amount": 5100000.0,
+"currency": "EUR",
+"date": "2026-07-17",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-20-eu-vcs-ai-syntetica-eur25-8m-led-5-deals-for-eur52-3m/"
+},
+{
+"n": "Mio",
+"domain": "mio.xyz",
+"round": "Pre-seed",
+"amount": 1900000.0,
+"currency": "EUR",
+"date": "2026-07-17",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-20-eu-vcs-ai-syntetica-eur25-8m-led-5-deals-for-eur52-3m/"
+},
+{
+"n": "NeoCem",
+"domain": "neocem.com",
+"round": "Series B",
+"amount": 17000000.0,
+"currency": "EUR",
+"date": "2026-07-17",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-20-eu-vcs-ai-syntetica-eur25-8m-led-5-deals-for-eur52-3m/"
+},
+{
+"n": "Stracker",
+"domain": "stracker.tech",
+"round": "Seed",
+"amount": 2500000.0,
+"currency": "EUR",
+"date": "2026-07-17",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-20-eu-vcs-ai-syntetica-eur25-8m-led-5-deals-for-eur52-3m/"
+},
+{
+"n": "Syntetica",
+"domain": "syntetica.co",
+"round": "Series A",
+"amount": 30000000.0,
+"currency": "USD",
+"date": "2026-07-17",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-july-20-eu-vcs-ai-syntetica-eur25-8m-led-5-deals-for-eur52-3m/"
+},
+{
+"n": "Arrakis Technologies",
+"domain": "arrakistechnologies.ai",
+"round": "Series A",
+"amount": 30000000.0,
+"currency": "USD",
+"date": "2026-07-24",
+"src": "https://frenchtechjournal.com/french-tech-funding-wire-july-27-drysdale-soars-arrakis-technologies-eur25-8m-led-7-deals-for-eur77-3m"
+},
+{
+"n": "Ascendance Flight Technologies",
+"domain": "ascendance-ft.com",
+"round": "Series B",
+"amount": 14000000.0,
+"currency": "EUR",
+"date": "2026-07-24",
+"src": "https://frenchtechjournal.com/french-tech-funding-wire-july-27-drysdale-soars-arrakis-technologies-eur25-8m-led-7-deals-for-eur77-3m"
+},
+{
+"n": "Brenus Pharma",
+"domain": "brenus-pharma.com",
+"round": "Series A",
+"amount": 11000000.0,
+"currency": "EUR",
+"date": "2026-07-24",
+"src": "https://frenchtechjournal.com/french-tech-funding-wire-july-27-drysdale-soars-arrakis-technologies-eur25-8m-led-7-deals-for-eur77-3m"
+},
+{
+"n": "Carsup",
+"domain": "carsup.io",
+"round": "Series B",
+"amount": 12000000.0,
+"currency": "EUR",
+"date": "2026-07-24",
+"src": "https://frenchtechjournal.com/french-tech-funding-wire-july-27-drysdale-soars-arrakis-technologies-eur25-8m-led-7-deals-for-eur77-3m"
+},
+{
+"n": "Hekat Fluidics",
+"domain": "hekat.com",
+"round": "Seed",
+"amount": 2400000.0,
+"currency": "EUR",
+"date": "2026-07-24",
+"src": "https://frenchtechjournal.com/french-tech-funding-wire-july-27-drysdale-soars-arrakis-technologies-eur25-8m-led-7-deals-for-eur77-3m"
+},
+{
+"n": "Recupere Metals",
+"domain": "recupere-metals.com",
+"round": "Seed",
+"amount": 5000000.0,
+"currency": "EUR",
+"date": "2026-07-24",
+"src": "https://frenchtechjournal.com/french-tech-funding-wire-july-27-drysdale-soars-arrakis-technologies-eur25-8m-led-7-deals-for-eur77-3m"
+},
+{
+"n": "Womed",
+"domain": "womedtech.com",
+"round": "Seed",
+"amount": 7100000.0,
+"currency": "EUR",
+"date": "2026-07-24",
+"src": "https://frenchtechjournal.com/french-tech-funding-wire-july-27-drysdale-soars-arrakis-technologies-eur25-8m-led-7-deals-for-eur77-3m"
+},
+{
+"n": "AMDB Security Pro",
+"domain": "amdbsecuritypro.com",
+"round": "Seed",
+"amount": 2680000.0,
+"currency": "EUR",
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "Apolownia",
+"domain": "apolownia.com",
+"round": "Seed",
+"amount": 1000000.0,
+"currency": "EUR",
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "Chargepoly",
+"domain": "chargepoly.com",
+"round": "Growth Equity",
+"amount": 23000000.0,
+"currency": "EUR",
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "Eurodia",
+"domain": "eurodia.com",
+"round": "Growth Equity",
+"amount": 18000000.0,
+"currency": "EUR",
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "Krème",
+"domain": "kreme-paris.com",
+"round": "Undisclosed",
+"amount": null,
+"currency": null,
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "Reboat",
+"domain": "reboat.com",
+"round": "Seed",
+"amount": null,
+"currency": null,
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "Shiplog",
+"domain": "useshiplog.com",
+"round": "Pre-seed",
+"amount": 930000.0,
+"currency": "USD",
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "SkinBit",
+"domain": "skinbit.co",
+"round": "Seed",
+"amount": 6000000.0,
+"currency": "USD",
+"date": "2026-08-14",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-august-17-chargepoly-eur23m-led-10-deals-for-eur61m/"
+},
+{
+"n": "ColibriTD",
+"domain": "colibritd.com",
+"round": "Seed",
+"amount": 4000000.0,
+"currency": "EUR",
+"date": "2026-08-24",
+"src": "https://dealroom.co/news/147332-colibritd-closes-4m-seed-round-for-quantum-simulation-platform/"
+},
+{
+"n": "ArcSpace",
+"domain": "arc-space.com",
+"round": "Seed",
+"amount": 2000000.0,
+"currency": "EUR",
+"date": "2026-08-26",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-september-7-hugging-face-jackpot-lupin-dental-eur15m-led-8-deals-for-eur46-6m/"
+},
+{
+"n": "Blacknut",
+"domain": "blacknut.com",
+"round": "Seed",
+"amount": 2400000,
+"currency": "EUR",
+"date": "2026-09-04",
+"src": "https://lespepitestech.com/node/34368"
+},
+{
+"n": "Huscarl",
+"domain": "huscarl.io",
+"round": "Seed",
+"amount": 4820000,
+"currency": "EUR",
+"date": "2026-09-04",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-september-7-hugging-face-jackpot-lupin-dental-eur15m-led-8-deals-for-eur46-6m/"
+},
+{
+"n": "Korben Robots",
+"domain": "korbenforpeople.com",
+"round": "Seed",
+"amount": 10200000,
+"currency": "EUR",
+"date": "2026-09-04",
+"src": "https://lespepitestech.com/node/34368"
+},
+{
+"n": "Lupin Dental",
+"domain": "lupindental.com",
+"round": "Series A",
+"amount": 15000000,
+"currency": "EUR",
+"date": "2026-09-04",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-september-7-hugging-face-jackpot-lupin-dental-eur15m-led-8-deals-for-eur46-6m/"
+},
+{
+"n": "Lys Therapeutics",
+"domain": "lys-tx.com",
+"round": "Growth equity",
+"amount": 13000000,
+"currency": "EUR",
+"date": "2026-09-04",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-september-7-hugging-face-jackpot-lupin-dental-eur15m-led-8-deals-for-eur46-6m/"
+},
+{
+"n": "Sensing Atmospheric Intelligence",
+"domain": "sensing-ai.eu",
+"round": "Undisclosed",
+"amount": null,
+"currency": null,
+"date": "2026-09-04",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-september-7-hugging-face-jackpot-lupin-dental-eur15m-led-8-deals-for-eur46-6m/"
+},
+{
+"n": "Swiftask",
+"domain": "swiftask.ai",
+"round": "Seed",
+"amount": 1550000,
+"currency": "EUR",
+"date": "2026-09-04",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-september-7-hugging-face-jackpot-lupin-dental-eur15m-led-8-deals-for-eur46-6m/"
+},
+{
+"n": "Viraj Aero",
+"domain": "viraj-aero.com",
+"round": "Seed",
+"amount": 2700000,
+"currency": "EUR",
+"date": "2026-09-04",
+"src": "https://lespepitestech.com/node/34368"
+},
+{
+"n": "Mistral AI",
+"domain": "mistral.ai",
+"round": "Series D",
+"amount": 3000000000,
+"currency": "EUR",
+"date": "2026-09-08",
+"src": "https://www.blogdumoderateur.com/mistral-ai-levee-fonds-3-milliards-euros/"
+},
+{
+"n": "Olenbee",
+"domain": "olenbee.com",
+"round": "Seed",
+"amount": 7000000,
+"currency": "EUR",
+"date": "2026-09-08",
+"src": "https://fintech.global/2026/09/08/olenbee-raises-e7m-to-scale-real-time-perks-tech/"
+},
+{
+"n": "The Exploration Company",
+"domain": "exploration.space",
+"round": "Series C",
+"amount": 387000000,
+"currency": "EUR",
+"date": "2026-09-08",
+"src": "https://www.frenchweb.fr/the-exploration-company-annonce-une-levee-de-387-millions-deuros-pour-nyx-et-storm/463327"
+},
+{
+"n": "Actionable",
+"domain": "actionable.live",
+"round": "Series A",
+"amount": 8600000,
+"currency": "EUR",
+"date": "2026-09-09",
+"src": "https://lespepitestech.com/blog/2026/09/15/348-milliards-deuros-deuros-leves-par-les-startups-francaises-semaine-37-2026"
+},
+{
+"n": "Arlequin AI",
+"domain": "arlq.ai",
+"round": "Series A",
+"amount": 28000000,
+"currency": "EUR",
+"date": "2026-09-10",
+"src": "https://www.cbnews.fr/node/103032"
+},
+{
+"n": "Bob! Desk",
+"domain": "bob-desk.fr",
+"round": "Seed",
+"amount": 2500000,
+"currency": "EUR",
+"date": "2026-09-11",
+"src": "https://lespepitestech.com/blog/2026/09/15/348-milliards-deuros-deuros-leves-par-les-startups-francaises-semaine-37-2026"
+},
+{
+"n": "Ed.ai",
+"domain": "ed.ai",
+"round": "Seed",
+"amount": 5000000,
+"currency": "EUR",
+"date": "2026-09-11",
+"src": "https://vestbee.com/insights/articles/top-european-funding-rounds-closed-in-september-2026"
+},
+{
+"n": "Implicity",
+"domain": "implicity.com",
+"round": "Growth equity",
+"amount": 35000000,
+"currency": "EUR",
+"date": "2026-09-11",
+"src": "https://lespepitestech.com/blog/2026/09/15/348-milliards-deuros-deuros-leves-par-les-startups-francaises-semaine-37-2026"
+},
+{
+"n": "Outline",
+"domain": "outlineapp.ai",
+"round": "Seed",
+"amount": 3000000,
+"currency": "USD",
+"date": "2026-09-11",
+"src": "https://www.crowdfundinsider.com/2026/09/307786-french-fintech-firm-outline-secures-new-funding-for-ai-enabled-financial-planning-solutions/"
+},
+{
+"n": "Paradigme",
+"domain": "paradigme.fr",
+"round": "Series A",
+"amount": 1200000,
+"currency": "EUR",
+"date": "2026-09-11",
+"src": "https://lespepitestech.com/blog/2026/09/15/348-milliards-deuros-deuros-leves-par-les-startups-francaises-semaine-37-2026"
+},
+{
+"n": "Delos",
+"domain": "delos.so",
+"round": "Series A",
+"amount": 10000000,
+"currency": "EUR",
+"date": "2026-09-16",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "Hackuity",
+"domain": "hackuity.io",
+"round": "Series B",
+"amount": 13500000,
+"currency": "EUR",
+"date": "2026-09-16",
+"src": "https://lespepitestech.com/blog/2026/09/21/802-millions-deuros-leves-par-les-startups-francaises-semaine-38-2026"
+},
+{
+"n": "Opio",
+"domain": "opio.fi",
+"round": "Seed",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-09-16",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "AbTx",
+"domain": "abtx-bio.com",
+"round": "Seed",
+"amount": 1700000,
+"currency": "EUR",
+"date": "2026-09-17",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "AAIS",
+"domain": "aais.ai",
+"round": "Seed",
+"amount": 2200000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://lespepitestech.com/blog/2026/09/21/802-millions-deuros-leves-par-les-startups-francaises-semaine-38-2026"
+},
+{
+"n": "BlueSecure",
+"domain": "bluesecure.fr",
+"round": "Seed",
+"amount": 1000000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://lespepitestech.com/blog/2026/09/21/802-millions-deuros-leves-par-les-startups-francaises-semaine-38-2026"
+},
+{
+"n": "Bravi",
+"domain": "bravi.app",
+"round": "Seed",
+"amount": 1500000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "Kaiko",
+"domain": "kaiko.com",
+"round": "Series B",
+"amount": 49500000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://lespepitestech.com/blog/2026/09/21/802-millions-deuros-leves-par-les-startups-francaises-semaine-38-2026"
+},
+{
+"n": "Kompa",
+"domain": "kompa.pro",
+"round": "Seed",
+"amount": 1500000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "Laboratoires uma",
+"domain": "umawell.fr",
+"round": "Seed",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "Treewater",
+"domain": "treewater.fr",
+"round": "Seed",
+"amount": 2000000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "Wasoria",
+"domain": "wasoria.fr",
+"round": "Seed",
+"amount": 1500000,
+"currency": "EUR",
+"date": "2026-09-18",
+"src": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537"
+},
+{
+"n": "Kheops",
+"domain": "kheops.io",
+"round": "Series A",
+"amount": 12000000,
+"currency": "EUR",
+"date": "2026-09-21",
+"src": "https://www.frenchweb.fr/rubrique/investissements?page=3"
+},
+{
+"n": "Biolevate",
+"domain": "biolevate.com",
+"round": "Series A",
+"amount": 30000000,
+"currency": "EUR",
+"date": "2026-09-22",
+"src": "https://www.frenchweb.fr/highlife-biolevate-wealthcome-pres-de-189-millions-deuros-leves-dans-la-french-tech-cette-semaine/463698"
+},
+{
+"n": "Primo",
+"domain": "getprimo.com",
+"round": "Series A",
+"amount": 6900000,
+"currency": "EUR",
+"date": "2026-09-22",
+"src": "https://www.frenchweb.fr/highlife-biolevate-wealthcome-pres-de-189-millions-deuros-leves-dans-la-french-tech-cette-semaine/463698"
+},
+{
+"n": "Lightspring",
+"domain": "light-spring.com",
+"round": "Seed",
+"amount": 3100000,
+"currency": "EUR",
+"date": "2026-09-23",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "Wealthcome",
+"domain": "wealthcome.fr",
+"round": "Series B",
+"amount": 15000000,
+"currency": "EUR",
+"date": "2026-09-24",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "AlphaYoda",
+"domain": "alphayoda.com",
+"round": "Pre-seed",
+"amount": 900000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "Graneet",
+"domain": "graneet.com",
+"round": "Series B",
+"amount": 7000000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "HighLife",
+"domain": "highlifemedical.com",
+"round": "Undisclosed",
+"amount": 90000000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "Incepto Medical",
+"domain": "incepto-medical.com",
+"round": "Series C",
+"amount": 14000000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "Iopole",
+"domain": "iopole.com",
+"round": "Seed",
+"amount": 3000000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "LégiPilot",
+"domain": "legipilot.com",
+"round": "Seed",
+"amount": 500000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://www.frenchweb.fr/highlife-biolevate-wealthcome-pres-de-189-millions-deuros-leves-dans-la-french-tech-cette-semaine/463698"
+},
+{
+"n": "Reecall",
+"domain": "reecall.com",
+"round": "Undisclosed",
+"amount": 3500000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "RelaiSanté",
+"domain": "relaisante.com",
+"round": "Seed",
+"amount": 6000000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "Zeliq",
+"domain": "zeliq.com",
+"round": "Seed",
+"amount": 7000000,
+"currency": "EUR",
+"date": "2026-09-25",
+"src": "https://lespepitestech.com/blog/2026/09/28/1936-millions-deuros-leves-par-les-startups-francaises-semaine-39-2026"
+},
+{
+"n": "Marble",
+"domain": "checkmarble.com",
+"round": "Series A",
+"amount": 6500000,
+"currency": "EUR",
+"date": "2026-09-29",
+"src": "https://fintech.global/2026/09/29/marble-lands-e6-5m-to-automate-fraud-and-aml-compliance/"
+},
+{
+"n": "Rayon",
+"domain": "rayon.design",
+"round": "Series A",
+"amount": 10000000,
+"currency": "EUR",
+"date": "2026-09-29",
+"src": "https://tech.eu/2026/09/29/rayon-raises-eur10m-series-a-to-expand-ai-powered-interior-design-platform/"
+},
+{
+"n": "Shadow Santé",
+"domain": "shadow.eco",
+"round": "Seed",
+"amount": 1500000,
+"currency": "EUR",
+"date": "2026-09-29",
+"src": "https://nordic9.com/news/shadow-sante-raised-15m-seed-via-paris-busine/"
+},
+{
+"n": "Inbolt",
+"domain": "inbolt.fr",
+"round": "Series B",
+"amount": 11000000,
+"currency": "EUR",
+"date": "2026-09-30",
+"src": "https://tech.eu/2026/09/30/inbolt-raises-eur11m-to-bring-real-time-vision-and-intelligence-to-industrial-robots/"
+},
+{
+"n": "Amoéba",
+"domain": "amoeba-biocide.com",
+"round": "Undisclosed",
+"amount": 7900000,
+"currency": "EUR",
+"date": "2026-10-05",
+"src": "https://lespepitestech.com/node/34597"
+},
+{
+"n": "C-Clerc",
+"domain": "c-clerc.fr",
+"round": "Seed",
+"amount": 1200000,
+"currency": "EUR",
+"date": "2026-10-05",
+"src": "https://lespepitestech.com/node/34597"
+},
+{
+"n": "Joe AI",
+"domain": "getjoe-ai.com",
+"round": "Seed",
+"amount": 2000000,
+"currency": "EUR",
+"date": "2026-10-05",
+"src": "https://lespepitestech.com/node/34597"
+},
+{
+"n": "Revalue",
+"domain": "revalue.eco",
+"round": "Seed",
+"amount": 2200000,
+"currency": "EUR",
+"date": "2026-10-05",
+"src": "https://lespepitestech.com/node/34597"
+},
+{
+"n": "SoonGo",
+"domain": "soongo.co",
+"round": "Seed",
+"amount": 2200000,
+"currency": "EUR",
+"date": "2026-10-05",
+"src": "https://lespepitestech.com/node/34597"
+},
+{
+"n": "Spash",
+"domain": "spash.com",
+"round": "Series A",
+"amount": 2000000,
+"currency": "EUR",
+"date": "2026-10-05",
+"src": "https://lespepitestech.com/node/34597"
+},
+{
+"n": "Spiko",
+"domain": "spiko.io",
+"round": "Series B",
+"amount": 90000000,
+"currency": "USD",
+"date": "2026-10-06",
+"src": "https://www.finsmes.com/2026/10/spiko-raises-90m-in-series-b-funding.html"
+},
+{
+"n": "Cleavr",
+"domain": "cleavr.fr",
+"round": "Seed",
+"amount": 8000000,
+"currency": "EUR",
+"date": "2026-10-08",
+"src": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906"
+},
+{
+"n": "Fleuret AI",
+"domain": "fleuret.ai",
+"round": "Pre-seed",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-10-08",
+"src": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906"
+},
+{
+"n": "Rivercell",
+"domain": "rivercell.ai",
+"round": "Seed",
+"amount": 25000000,
+"currency": "USD",
+"date": "2026-10-08",
+"src": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906"
+},
+{
+"n": "Verso",
+"domain": "askverso.ai",
+"round": "Seed",
+"amount": 6000000,
+"currency": "USD",
+"date": "2026-10-08",
+"src": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906"
+},
+{
+"n": "Vocca",
+"domain": "vocca.ai",
+"round": "Series A",
+"amount": 20000000,
+"currency": "USD",
+"date": "2026-10-08",
+"src": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906"
+},
+{
+"n": "WhiteLab Genomics",
+"domain": "whitelabgx.com",
+"round": "Series B",
+"amount": 26000000,
+"currency": "USD",
+"date": "2026-10-08",
+"src": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906"
+},
+{
+"n": "Wiremind",
+"domain": "wiremind.io",
+"round": "Undisclosed",
+"amount": 35000000,
+"currency": "EUR",
+"date": "2026-10-12",
+"src": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906"
+},
+{
+"n": "AlloBrain",
+"domain": "allobrain.com",
+"round": "Seed",
+"amount": 6300000,
+"currency": "EUR",
+"date": "2026-10-13",
+"src": "https://lespepitestech.com/node/34684"
+},
+{
+"n": "Edonia",
+"domain": "edonia.eu",
+"round": "Series A",
+"amount": 15000000,
+"currency": "EUR",
+"date": "2026-10-13",
+"src": "https://lespepitestech.com/node/34684"
+},
+{
+"n": "Netsec",
+"domain": "netsec.it",
+"round": "Undisclosed",
+"amount": 9000000,
+"currency": "EUR",
+"date": "2026-10-13",
+"src": "https://lespepitestech.com/node/34684"
+},
+{
+"n": "Vasco",
+"domain": "vasco-impact.com",
+"round": "Seed",
+"amount": 1700000,
+"currency": "EUR",
+"date": "2026-10-13",
+"src": "https://lespepitestech.com/node/34684"
+},
+{
+"n": "Vates",
+"domain": "vates.tech",
+"round": "Undisclosed",
+"amount": 30000000,
+"currency": "EUR",
+"date": "2026-10-13",
+"src": "https://lespepitestech.com/node/34684"
+},
+{
+"n": "Voltaback",
+"domain": "voltaback.com",
+"round": "Seed",
+"amount": 2800000,
+"currency": "EUR",
+"date": "2026-10-13",
+"src": "https://lespepitestech.com/node/34684"
+},
+{
+"n": "VoltR",
+"domain": "voltr.tech",
+"round": "Series A",
+"amount": 16000000,
+"currency": "EUR",
+"date": "2026-10-13",
+"src": "https://lespepitestech.com/node/34684"
+},
+{
+"n": "Dougs",
+"domain": "dougs.fr",
+"round": "Undisclosed",
+"amount": 50000000,
+"currency": "EUR",
+"date": "2026-10-15",
+"src": "https://www.frenchweb.fr/dougs-leve-50-millions-deuros-aupres-dexpedition-growth-capital-pour-changer-dechelle/463938"
+},
+{
+"n": "Archeon Medical",
+"domain": "archeon-medical.com",
+"round": "Series A",
+"amount": 7500000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Bruxless",
+"domain": "bruxless.com",
+"round": "Undisclosed",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "CarbonFarm",
+"domain": "carbonfarm.tech",
+"round": "Series A",
+"amount": 7000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Epyr",
+"domain": "epyr.co",
+"round": "Series A",
+"amount": 15000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Goodweek",
+"domain": "goodweek.com",
+"round": "Seed",
+"amount": 10700000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "H&B Materials",
+"domain": "hbmaterials.fr",
+"round": "Pre-seed",
+"amount": 2100000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "HyLight",
+"domain": "hylight.aero",
+"round": "Series A",
+"amount": 13000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Koddex",
+"domain": "koddex.io",
+"round": "Seed",
+"amount": 3000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Le Zèbre",
+"domain": "lezebre.io",
+"round": "Seed",
+"amount": null,
+"currency": null,
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Sintermat",
+"domain": "sinter-mat.com",
+"round": "Series B",
+"amount": 6000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "UZ.IP",
+"domain": "uz-ip.tech",
+"round": "Seed",
+"amount": 1000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Wavo",
+"domain": "wavo.fr",
+"round": "Undisclosed",
+"amount": 10000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Webyn",
+"domain": "webyn.ai",
+"round": "Seed",
+"amount": 7000000,
+"currency": "EUR",
+"date": "2026-10-20",
+"src": "https://lespepitestech.com/blog/2026/10/20/1088-millions-deuros-leves-par-les-startups-francaises-semaine-42-2026"
+},
+{
+"n": "Pigment",
+"domain": "pigment.com",
+"round": "Series E",
+"amount": 250000000,
+"currency": "USD",
+"date": "2026-10-21",
+"src": "https://vestbee.com/insights/articles/pigment-raises-250-m"
+},
+{
+"n": "Bageera",
+"domain": "bageera.ai",
+"round": "Series A",
+"amount": 10000000,
+"currency": "EUR",
+"date": "2026-10-26",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "Cardiawave",
+"domain": "cardiawave.com",
+"round": "Undisclosed",
+"amount": 5000000,
+"currency": "EUR",
+"date": "2026-10-27",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "Elax Énergie",
+"domain": "elaxenergie.com",
+"round": "Series A",
+"amount": 30000000,
+"currency": "EUR",
+"date": "2026-10-27",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "Flying Whales",
+"domain": "flying-whales.com",
+"round": "Series D",
+"amount": 90000000,
+"currency": "EUR",
+"date": "2026-10-27",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "Lift",
+"domain": "lift-ed.fr",
+"round": "Seed",
+"amount": null,
+"currency": null,
+"date": "2026-10-27",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "Pesia",
+"domain": "pesia.fr",
+"round": "Seed",
+"amount": 500000,
+"currency": "EUR",
+"date": "2026-10-27",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "Reduck",
+"domain": "reduck.ai",
+"round": "Pre-seed",
+"amount": 2700000,
+"currency": "EUR",
+"date": "2026-10-27",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "Weflayr",
+"domain": "weflayr.com",
+"round": "Pre-seed",
+"amount": 2200000,
+"currency": "EUR",
+"date": "2026-10-27",
+"src": "https://lespepitestech.com/node/34865"
+},
+{
+"n": "AQQI",
+"domain": "aqqi.com",
+"round": "Pre-seed",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-10-30",
+"src": "https://lespepitestech.com/node/34953"
+},
+{
+"n": "Aíma",
+"domain": "aima-diagnostics.com",
+"round": "Seed",
+"amount": 2200000,
+"currency": "EUR",
+"date": "2026-10-30",
+"src": "https://lespepitestech.com/node/34953"
+},
+{
+"n": "Bleu Robotics",
+"domain": "bleu-robotics.com",
+"round": "Pre-seed",
+"amount": 5000000,
+"currency": "EUR",
+"date": "2026-10-30",
+"src": "https://lespepitestech.com/node/34953"
+},
+{
+"n": "Dyameo",
+"domain": "dyameo.com",
+"round": "Seed",
+"amount": 3000000,
+"currency": "EUR",
+"date": "2026-10-30",
+"src": "https://lespepitestech.com/node/34953"
+},
+{
+"n": "Entroview",
+"domain": "entroview.com",
+"round": "Undisclosed",
+"amount": null,
+"currency": null,
+"date": "2026-10-30",
+"src": "https://lespepitestech.com/node/34953"
+},
+{
+"n": "Pint",
+"domain": "pint.fr",
+"round": "Seed",
+"amount": 1700000,
+"currency": "EUR",
+"date": "2026-10-30",
+"src": "https://lespepitestech.com/node/34953"
+},
+{
+"n": "Wormsensing",
+"domain": "wormsensing.com",
+"round": "Series A",
+"amount": 9500000,
+"currency": "EUR",
+"date": "2026-10-30",
+"src": "https://lespepitestech.com/node/34953"
+},
+{
+"n": "Gallium Defense",
+"domain": "gallium-defense.com",
+"round": "Seed",
+"amount": 7100000,
+"currency": "EUR",
+"date": "2026-11-02",
+"src": "https://tech.eu/2026/11/02/gallium-defense-raises-eur71m-to-make-drone-detection-cheaper-and-scalable//"
+},
+{
+"n": "Resilience Care",
+"domain": "resilience.care",
+"round": "Growth Equity",
+"amount": 48000000,
+"currency": "EUR",
+"date": "2026-11-05",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-new-template-resilience-cares-eur48m-led-11-deals-for-eur81-8m/"
+},
+{
+"n": "AICE Power",
+"domain": "aicepower.com",
+"round": "Seed",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-11-06",
+"src": "https://lespepitestech.com/node/35052"
+},
+{
+"n": "Gimii",
+"domain": "gimii.fr",
+"round": "Seed",
+"amount": 1500000,
+"currency": "EUR",
+"date": "2026-11-06",
+"src": "https://lespepitestech.com/node/35052"
+},
+{
+"n": "Granit",
+"domain": "getgranit.ai",
+"round": "Seed",
+"amount": 5000000,
+"currency": "EUR",
+"date": "2026-11-06",
+"src": "https://lespepitestech.com/node/35052"
+},
+{
+"n": "Physicl",
+"domain": "physicl.ai",
+"round": "Seed",
+"amount": 10000000,
+"currency": "USD",
+"date": "2026-11-06",
+"src": "https://thenextweb.com/news/physicl-10m-seed-physical-ai-training-data"
+},
+{
+"n": "Playa Rent",
+"domain": "playa-rent.fr",
+"round": "Seed",
+"amount": 800000,
+"currency": "EUR",
+"date": "2026-11-06",
+"src": "https://lespepitestech.com/node/35052"
+},
+{
+"n": "QRU",
+"domain": "qru.pet",
+"round": "Seed",
+"amount": 1650000,
+"currency": "EUR",
+"date": "2026-11-06",
+"src": "https://lespepitestech.com/node/35052"
+},
+{
+"n": "Sedipec",
+"domain": "sedipec.com",
+"round": "Growth Equity",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-11-06",
+"src": "https://lespepitestech.com/node/35052"
+},
+{
+"n": "Shaarp",
+"domain": "shaarp.ai",
+"round": "Pre-seed",
+"amount": 400000,
+"currency": "EUR",
+"date": "2026-11-06",
+"src": "https://lespepitestech.com/node/35052"
+},
+{
+"n": "Heal.dev",
+"domain": "heal.dev",
+"round": "Seed",
+"amount": 4000000,
+"currency": "EUR",
+"date": "2026-11-10",
+"src": "https://quasa.io/fr/media/heal-dev-leve-4-m-pour-traquer-les-bugs-que-la-revue-de-code-rate"
+},
+{
+"n": "triPica",
+"domain": "tripica.com",
+"round": "Growth Equity",
+"amount": 12400000,
+"currency": "EUR",
+"date": "2026-11-10",
+"src": "https://www.eu-startups.com/2026/11/paris-based-tripica-raises-e12-4-million-to-simplify-billing-for-europes-evolving-energy-and-telecom-markets/"
+},
+{
+"n": "Gama",
+"domain": "gamaspace.com",
+"round": "Seed",
+"amount": 15000000,
+"currency": "EUR",
+"date": "2026-11-12",
+"src": "https://tech.eu/2026/11/12/gama-secures-eur15m-to-tackle-the-growing-power-demands-of-satellites/"
+},
+{
+"n": "Orakl Oncology",
+"domain": "orakl-oncology.com",
+"round": "Series A",
+"amount": 30000000,
+"currency": "EUR",
+"date": "2026-11-12",
+"src": "https://www.frenchtechjournal.com/french-tech-funding-wire-november-16-orakl-oncologys-eur30m-led-9-deals-for-eur75-6m/"
+},
+{
+"n": "Armor Check",
+"domain": "armor-check.fr",
+"round": "Seed",
+"amount": 1000000,
+"currency": "EUR",
+"date": "2026-11-13",
+"src": "https://lespepitestech.com/node/35148"
+},
+{
+"n": "Humbird",
+"domain": "humbird.fr",
+"round": "Seed",
+"amount": 1100000,
+"currency": "EUR",
+"date": "2026-11-13",
+"src": "https://lespepitestech.com/node/35148"
+},
+{
+"n": "NGPES",
+"domain": "ngpes.com",
+"round": "Bridge",
+"amount": 5000000,
+"currency": "EUR",
+"date": "2026-11-13",
+"src": "https://lespepitestech.com/node/35148"
+},
+{
+"n": "Wagyz",
+"domain": null,
+"round": "Undisclosed",
+"amount": 6000000,
+"currency": "EUR",
+"date": "2026-11-13",
+"src": "https://www.maddyness.com/2026/11/13/les-startups-francaises-ont-leve-118-millions-deuros-cette-semaine-2/"
+},
+{
+"n": "Well",
+"domain": "wellapp.ai",
+"round": "Pre-seed",
+"amount": 3600000,
+"currency": "EUR",
+"date": "2026-11-13",
+"src": "https://frenchweb.fr/breaking-news/well-lance-son-assistant-ia-sur-whatsapp-et-annonce-une-levee-de-3-6-millions-d-euros/311dda84-d953-4de4-8526-9db6d5b373e3"
+},
+{
+"n": "Genesis AI",
+"domain": "genesis-ai.company",
+"round": "Series A",
+"amount": 500000000,
+"currency": "USD",
+"date": "2026-11-17",
+"src": "https://www.maddyness.com/2026/11/17/robotique-genesis-ai-boucle-une-serie-a-dun-demi-milliard-de-dollars-aupres-de-nvidia-samsung-et-zoom/"
+},
+{
+"n": "Previsia",
+"domain": null,
+"round": "Undisclosed",
+"amount": 3800000,
+"currency": "EUR",
+"date": "2026-11-17",
+"src": "https://tech.eu/2026/11/17/previsia-raises-eur38m-to-bring-ai-powered-risk-prevention-to-businesses-across-europe"
+},
+{
+"n": "Remanence",
+"domain": null,
+"round": "Seed",
+"amount": 30000000,
+"currency": "USD",
+"date": "2026-11-17",
+"src": "https://tech.eu/2026/11/17/synthesia-and-datadog-ceos-back-french-ai-startup-remanence"
+}
+]
