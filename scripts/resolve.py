@@ -292,6 +292,7 @@ def main():
         return SFM.get((c.get('domain') or '').replace('www.', '').lower()) or SFM.get(L.fold(c.get('name')))
     VER = load_list('verified.json')       # Exa Agent verification: LinkedIn headcount, is_startup, sourced office
     COR = load_list('corrections.json')    # manual corrections: always win
+    EXA = load_list('exa_offices.json')    # one Exa web search per startup (scripts/exa_offices.py): careers pages, job posts, press
 
     def _get(idx, c):
         seen, out = set(), []
@@ -362,7 +363,7 @@ def main():
 
     def research_entries(c):
         out = []
-        for o in [override(c)] + verified(c):
+        for o in [override(c)] + verified(c) + _get(EXA, c):
             if o and o.get('office_street'):
                 out.append(o)
         return out
@@ -393,7 +394,7 @@ def main():
                 ev.append((g, 'manual', 100, False)); continue
             st = (o.get('source_type') or '').lower()
             legal = st == 'legal' or LEGALISH.search(o.get('source_url') or '')
-            ev.append((g, 'research', 1.5 if legal else 2 if st == 'linkedin' else 3, dom(g)))
+            ev.append((g, 'research', o.get('weight') or (1.5 if legal else 2 if st == 'linkedin' else 3), dom(g)))
         for j, w in enumerate(web.get(c['domain'], [])):
             g = geo.get(f'w{i}_{j}')
             if good(g):
@@ -461,7 +462,7 @@ def main():
     with ThreadPoolExecutor(8) as ex:
         sir = dict(zip(need, ex.map(lambda i: L.sirene_match_all(kept[i], kept[i]['_li'][2]), need)))
 
-    out, stats = [], {}
+    out, stats, unlocated = [], {}, []
     for i, c in enumerate(kept):
         if i in outside or i in notstart:
             continue
@@ -484,6 +485,7 @@ def main():
         key = (loc or {}).get('cf', 'none') + '/' + (loc or {}).get('via', '')
         stats[key] = stats.get(key, 0) + 1
         if not loc:
+            unlocated.append({'n': c['name'], 'u': c.get('url') or c.get('domain') or '', 'e': c.get('employees')})
             continue
         ve = [v.get('linkedin_employees') for v in verified(c) if v.get('linkedin_employees')]
         lk = LK.get((c.get('domain') or '').replace('www.', '').lower()) or {}
@@ -528,6 +530,8 @@ def main():
     out.sort(key=lambda r: r['n'].lower())
     with open(os.path.join(ROOT, 'data', 'startups.json'), 'w') as f:
         json.dump(out, f, ensure_ascii=False, indent=0)
+    with open(os.path.join(RAW, 'unlocated.json'), 'w') as f:   # kept companies with no address at all (exa_offices.py --unlocated)
+        json.dump(unlocated, f, ensure_ascii=False, indent=0)
     from collections import Counter
     print(len(out), 'on file ·', Counter(r['k'] for r in out), '· Station F:', len(sf))
     print(Counter(r['s'] for r in out).most_common())
