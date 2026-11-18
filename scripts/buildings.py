@@ -23,6 +23,7 @@ Z = 14
 RANK = {'unknown': -1, 'early': 0, 'growth': 1, 'scale': 2}
 TMPL = None
 METHOD = {}
+PARCEL = {}
 
 
 def tile_url():
@@ -156,6 +157,7 @@ def ban_index():
 
 
 _communes = {}
+_last = {}
 
 
 def parcels(insee):
@@ -196,6 +198,7 @@ def parcel_building(p):
         par, how = parcel_at(sorted(_communes.get(p.get('pc'), [])), p['ll'][0], p['ll'][1]), 'parcel-from-pin'
     if par is None:
         return None, 'no-parcel'
+    _last['par'] = par
     c = par.centroid
     tx, ty = txy(c.x, c.y)
     polys, meta, tree = tile(tx, ty)
@@ -241,7 +244,10 @@ def main():
     for i, p in enumerate(rows):
         if p.get('cp') == 'Station F':  # one campus, one building: all its halls together
             groups.setdefault(('stationf', 0, 0), []).append(i); continue
+        _last.clear()
         k, how = parcel_building(p)
+        if k is None and how == 'no-building' and _last.get('par') is not None and _last['par'].area * 111320 * 73000 < 6000:
+            PARCEL[i] = _last['par']; k, how = ('parcel', i, 0), 'parcel-only'   # address found, building missing from the basemap: draw the parcel
         if k is None:
             k = find(p['ll'][0], p['ll'][1]); how = 'nearest (' + how + ')' if k else 'point (' + how + ')'
         METHOD[how] = METHOD.get(how, 0) + 1
@@ -260,6 +266,8 @@ def main():
             from shapely.ops import unary_union
             poly = grow(unary_union([q for q, _ in parts]) if parts else fp, lat0, 0.4)
             h, mh = max([m[0] for _, m in parts] or [20]), 0
+        elif k[0] == 'parcel':  # building not on the basemap yet: the parcel itself, a modest 12 m block
+            poly, h, mh = grow(PARCEL[k[1]], lat0, -1.0), 12, 0
         elif k[0] == 'pt':  # no footprint nearby: a small 7 m block on the point
             dlat, dlon = metres_to_deg(lat0)
             poly = Point(lon0, lat0).buffer(7 * dlat, quad_segs=2)
