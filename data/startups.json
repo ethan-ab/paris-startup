@@ -20192,6 +20192,30 @@
 "b": 0
 },
 {
+"n": "Elephant in the room",
+"u": "https://elephantintheroom.ai/en",
+"d": "Elephant in the Room is a Company Brain platform that connects company data, processes and unwritten knowledge in a knowledge graph, powering business agents with richer context and fewer tokens for faster, more relevant results at lower cost.",
+"y": 2026,
+"e": 2,
+"s": "AI & Data",
+"st": "early",
+"eh": "manual",
+"a": "16 Rue de Vézelay",
+"pc": "75008",
+"area": "8e · Champs-Élysées",
+"ll": [
+48.87864,
+2.313921
+],
+"k": "office",
+"cf": "v",
+"v": "manual",
+"ev": [
+"manual"
+],
+"b": 1874
+},
+{
 "n": "Eleya",
 "u": "https://eleya.eu/",
 "d": "Predict how your market reacts before you ship.",
@@ -73496,6 +73520,30 @@
 "linkedin"
 ],
 "b": 373
+},
+{
+"n": "Tsuga",
+"u": "https://tsuga.com/",
+"d": "Tsuga is a bring-your-own-cloud observability platform for logs, metrics, traces, and APM. Your data stays in your cloud while we manage the rest.",
+"y": 2024,
+"e": 60,
+"s": "AI & Data",
+"st": "growth",
+"eh": "manual",
+"a": "99 Avenue Achille Peretti",
+"pc": "92200",
+"area": "Neuilly-Sur-Seine",
+"ll": [
+48.883569,
+2.272084
+],
+"k": "office",
+"cf": "v",
+"v": "manual",
+"ev": [
+"manual"
+],
+"b": 281
 },
 {
 "n": "Tuesday Quest",
