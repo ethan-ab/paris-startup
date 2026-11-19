@@ -96,6 +96,10 @@ NOT_TECH_DOMAINS = {r['w'] for r in _NT if r.get('w')}
 NOT_TECH_NAMES = {L.fold(r['n']) for r in _NT if r.get('n') and not r.get('w')}
 
 
+# Team sizes checked by hand (LinkedIn sometimes points at a subsidiary's or a stale page): {n, w, e, src, note}
+HEADCOUNT = {r['w']: r['e'] for r in json.load(open(os.path.join(ROOT, 'data', 'ref', 'headcounts.json'))) if r.get('w') and r.get('e')}
+
+
 def not_tech(c):
     return ((c.get('domain') or '').replace('www.', '').lower() in NOT_TECH_DOMAINS
             or L.fold(c.get('name')) in NOT_TECH_NAMES)
@@ -514,6 +518,9 @@ def main():
         emp = li_emp or (ve[0] if ve else c.get('employees'))
         manual_emp = False
         man_emp = [o['employees'] for o in corrections(c) if o.get('employees')]   # team size confirmed by hand: always wins
+        hc = HEADCOUNT.get((c.get('domain') or '').replace('www.', '').lower())
+        if hc and not man_emp:
+            man_emp = [hc]
         if man_emp:
             emp, ve = man_emp[0], [man_emp[0]]
             manual_emp = True

@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
-"""Remove the companies listed in data/ref/not_tech.json from the published dataset without rerunning the pipeline.
+"""Apply the hand-reviewed fixes to the published dataset without rerunning the pipeline.
+
+1. Remove the companies listed in data/ref/not_tech.json.
+2. Set the team size (e), stage (st) and source (eh = manual) from data/ref/headcounts.json ({n, w, e, src, note},
+   keyed by website domain), for companies whose LinkedIn headcount was wrong.
 
 data/ref/not_tech.json lists companies that are not tech startups (restaurants, consumer brands, agencies, consultancies,
 brokers, associations, spam...), keyed by website domain (w) or name (n), with a code (c) and a short reason (r).
 resolve.py reads the same file, so a full rerun drops them too. This script applies it to data/startups.json in place
 and reindexes data/buildings.json (startup indices in "s", counts, lead stage; buildings left empty are removed).
+resolve.py reads both files too.
 Usage: python3 scripts/prune.py && python3 scripts/build.py
 """
 import json, os, sys, urllib.parse
@@ -12,6 +17,10 @@ import json, os, sys, urllib.parse
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'scripts'))
 RANK = {'unknown': 0, 'early': 1, 'growth': 2, 'scale': 3}
+
+
+def stage(n):  # same bands as resolve.py
+    return 'unknown' if not n else 'early' if n < 50 else 'growth' if n < 250 else 'scale'
 
 
 def domain(u):
@@ -39,6 +48,12 @@ def main():
     keep = [i for i, r in enumerate(rows) if domain(r.get('u')) not in doms and fold(r['n']) not in names]
     new = {old: j for j, old in enumerate(keep)}
     out = [rows[i] for i in keep]
+    hc = {r['w']: r['e'] for r in json.load(open(os.path.join(ROOT, 'data', 'ref', 'headcounts.json'))) if r.get('w') and r.get('e')}
+    changed = 0
+    for r in out:
+        e = hc.get(domain(r.get('u')))
+        if e and (r.get('e') != e or r.get('eh') != 'manual'):
+            r.update(e=e, st=stage(e), eh='manual'); changed += 1
     bld = json.load(open(bp))
     feats = []
     for ft in bld['features']:
@@ -55,7 +70,7 @@ def main():
         json.dump(out, f, ensure_ascii=False, indent=0)
     with open(bp, 'w') as f:
         json.dump(bld, f, separators=(',', ':'))
-    print(f'{len(rows) - len(out)} removed · {len(out)} startups · {len(feats)} buildings')
+    print(f'{len(rows) - len(out)} removed · {changed} team sizes set by hand · {len(out)} startups · {len(feats)} buildings')
 
 
 if __name__ == '__main__':
