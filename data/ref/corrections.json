@@ -304,5 +304,23 @@
 "city": "Paris",
 "source_url": "https://api-avis-situation-sirene.insee.fr/identification/pdf/94223058200010",
 "note": "Office check Nov 2026: SIRENE lists a Sorbonne legal-clinic association at Centre Panthéon, 12 place du Panthéon (21 is not supported). Moderate confidence."
+},
+{
+"name": "Tsuga",
+"website": "tsuga.com",
+"office_street": "99 Avenue Achille Peretti",
+"postcode": "92200",
+"city": "Neuilly-sur-Seine",
+"note": "Added from the page (GitHub issue #13, Nov 2026). Team size 60.",
+"employees": 60
+},
+{
+"name": "Elephant in the room",
+"website": "elephantintheroom.ai",
+"office_street": "16 Rue de Vézelay",
+"postcode": "75008",
+"city": "Paris",
+"note": "Added from the page (GitHub issue #12, Nov 2026). Team size 2.",
+"employees": 2
 }
 ]

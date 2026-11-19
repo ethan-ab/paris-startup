@@ -4826,6 +4826,15 @@
 "w": 192,
 "sha": "4c30acd94d4817d9"
 },
+"elephantintheroom.ai": {
+"key": "elephantintheroom-ai",
+"from": "website:https://elephantintheroom.ai/favicon-light.png",
+"kind": "icon",
+"score": 256,
+"shape": "plate",
+"w": 108,
+"sha": "7931448974c2c407"
+},
 "eleya.eu": {
 "key": "eleya-eu",
 "from": "linkedin",
@@ -17363,6 +17372,12 @@
 "from": "linkedin",
 "shape": "tile",
 "sha": "7f635d1b740b69e2"
+},
+"tsuga.com": {
+"key": "tsuga-com",
+"from": "linkedin",
+"shape": "tile",
+"sha": "e2489809d28b8ec9"
 },
 "tuesdayquest.com": {
 "key": "tuesdayquest-com",

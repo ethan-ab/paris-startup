@@ -38,6 +38,8 @@ team size → stage, founding year, website, one-liner). The startup lights up i
 startups, otherwise the map reads the real footprint of the building under the address from the basemap, otherwise a small block is drawn.
 Added startups are saved in the visitor's browser (`localStorage`, key `psa.added.v1`) and can be removed; **Send for review** opens a
 pre-filled GitHub issue (label `new-startup`) so it can be checked and added to `data/startups.json`.
+To add one: append its row to `data/startups.json` (office in `data/ref/corrections.json` too), then run
+`scripts/add_buildings.py` (places only rows without a building, reindexes the rest), `scripts/logos.py`, `scripts/build.py`.
 
 ## Data fields (`data/startups.json`)
 `n` name · `u` website · `d` description · `y` founded · `e` team size · `f` total raised (USD) · `rd` last round · `s` sector · `st` stage
