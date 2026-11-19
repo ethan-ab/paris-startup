@@ -7,5 +7,302 @@
 "city": "Paris",
 "note": "Office confirmed by the team (Nov 2026); 229 rue Saint-Honoré is only the registered seat. Team size 15 confirmed by the team (Nov 2026).",
 "employees": 15
+},
+{
+"name": "Lucca",
+"website": "lucca.fr",
+"office_street": "151 avenue de France",
+"postcode": "75013",
+"city": "Paris",
+"source_url": "https://it.kompass.com/c/lucca/fr0867282/",
+"note": "Office check Nov 2026: Kompass and jaarrekening list 151 av de France 75013 (CB Insights/Xerfi say 13 rue Martin Bernard); 157 not found. Moderate confidence, undated."
+},
+{
+"name": "Voodoo",
+"website": "voodoo.io",
+"office_street": "52 rue du Louvre",
+"postcode": "75001",
+"city": "Paris",
+"source_url": "https://officesnapshots.com/2024/10/28/voodoo-offices-paris/",
+"note": "Office check Nov 2026: Voodoo's Paris head office (about 5,800 m2, 2021) is in the renovated La Poste du Louvre building, 52 rue du Louvre; the 59 rue Jean-Jacques Rousseau address is an older one."
+},
+{
+"name": "ChapsVision",
+"website": "chapsvision.com",
+"office_street": "44 rue Saint-Lazare",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.jll.com/fr-fr/client-stories/chapsvision-installe-son-siege-a-paris-9eme-et-unifie-ses-equipes",
+"note": "Office check Nov 2026: JLL case study: ChapsVision's new Paris HQ is the SOCO building, 44 rue Saint-Lazare (5,100 m2), move mid-October (year not stated); legal seat is Suresnes."
+},
+{
+"name": "Swile",
+"website": "swile.co",
+"office_street": "20 rue de Navarin",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.pappers.fr/entreprise/898001672",
+"note": "Office check Nov 2026: Pappers lists an active Paris establishment at 20 rue de Navarin created 01/02/2025; earlier Paris sites (37 av. Trudaine) closed Oct 2025; legal seat is Montpellier."
+},
+{
+"name": "Doctrine",
+"website": "doctrine.fr",
+"office_street": "36 rue de Saint-Pétersbourg",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://www.deskeo.com/en/blog/community/new-offices-doctrine/",
+"note": "Office check Nov 2026: Deskeo (Apr 2023) says Doctrine moved from the 17th to a 1,300 m2 office in the 8th; CB Insights gives 36 rue de Saint-Pétersbourg. Current 190 rue Championnet (18e) appears outdated. Street number unverified by Doctrine itself."
+},
+{
+"name": "ALIAD (Air Liquide Venture Capital)",
+"website": "airliquide.com",
+"office_street": "75 quai d'Orsay",
+"postcode": "75007",
+"city": "Paris",
+"source_url": "https://www.engagement-jeunes.com/fr/detail-offre/39418711/stage-air-liquide-analyste-venture-capital-h-f.html",
+"note": "Office check Nov 2026: 2026 ALIAD internship postings locate the team at 75 quai d'Orsay; 91 av. Ledru-Rollin appears only in older/mixed postings; job-board evidence only."
+},
+{
+"name": "Legora",
+"website": "legora.com",
+"office_street": "24 rue de Mogador",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://legora.com/newsroom/legora-opens-in-madrid-milan-and-paris-and-establishes-london-engineering-base-as-european-customer-demand-accelerates",
+"note": "Office check Nov 2026: Paris office at Morning Mogador, 24 rue de Mogador (reported by the map owner, Nov 2026); Legora opened its Paris office in 2026. Station F was only a programme-list mention."
+},
+{
+"name": "Welcome to the Jungle",
+"website": "welcometothejungle.com",
+"office_street": "10 rue Saint-Fiacre",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://welcometothejungle.com/fr/companies/wttj/bureaux-teletravail",
+"note": "Office check Nov 2026: WTTJ's own offices page titles the Paris office 10 rue Saint-Fiacre; older pages show rue du Mail."
+},
+{
+"name": "AB Tasty",
+"website": "abtasty.com",
+"office_street": "8 rue Sainte-Cécile",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.cbinsights.com/company/ab-tasty",
+"note": "Office check Nov 2026: CB Insights gives 8 rue Sainte-Cécile and a WTTJ job says Paris office in 9th; INSEE seat 64-66 rue des Archives is the registered address."
+},
+{
+"name": "Getaround",
+"website": "getaround.com",
+"office_street": "35 rue Greneta",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://fr.mappy.com/poi/61a2f1d02b94821ce55bc0ba",
+"note": "Office check Nov 2026: Getaround letter dated Nov 2024 and directories give 35 rue Greneta 75002; 151 rue Saint-Denis not supported."
+},
+{
+"name": "leboncoin",
+"website": "leboncoincorporate.com",
+"office_street": "85 rue du Faubourg Saint-Martin",
+"postcode": "75010",
+"city": "Paris",
+"source_url": "https://sandbox-cmsimport.colliers.com/en-fr/news/paris/ufo-nouveau-siege-du-groupe-leboncoin",
+"note": "Office check Nov 2026: 24 rue des Jeûneurs is the legal seat; operational HQ is the Faubourg Saint-Martin site (INSEE/CB Insights, WTTJ 5,500 m2 building); not confirmed by a 2026 source."
+},
+{
+"name": "Owkin",
+"website": "owkin.com",
+"office_street": "14 boulevard Poissonnière",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://www.owkin.com/contact",
+"note": "Office check Nov 2026: Owkin contact page lists Paris office at 14/16 bd Poissonnière; 8 rue Maria Helena Vieira Da Silva (75014) is listed only as the Paris Lab (BioLab Campus Broussais)."
+},
+{
+"name": "Heetch",
+"website": "heetch.com",
+"office_street": "198 bis Rue Lafayette",
+"postcode": "75010",
+"city": "Paris",
+"source_url": "https://www.heetch.com/mentions-legales",
+"note": "Office check Nov 2026: Heetch's own legal notice gives head office 198 bis rue Lafayette 75010 Paris (current page); 14 rue Saint-Jean not corroborated."
+},
+{
+"name": "Front",
+"website": "front.com",
+"office_street": "35 Rue Greneta",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/frontapp-807582218",
+"note": "Office check Nov 2026: SIRENE/Societe.com: FRONTAPP SARL (Front's French entity) moved from 32 rue René Boulanger to 35 rue Greneta, 6th floor, 75002 by DAU of 04/03/2026."
+},
+{
+"name": "Ornikar",
+"website": "ornikar.com",
+"office_street": "170 Boulevard de la Villette",
+"postcode": "75019",
+"city": "Paris",
+"source_url": "https://www.ornikar.com/a-propos/mentions-legales",
+"note": "Office check Nov 2026: Ornikar's legal notice (2026) gives 170 boulevard de la Villette 75019; a signage firm confirms Ornikar offices in Paris 19e; staff are mostly remote with monthly visits to the Paris premises. Map's 172 not corroborated."
+},
+{
+"name": "Meilleurtaux",
+"website": "meilleurtaux.com",
+"office_street": "36 Rue de Saint-Pétersbourg",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/mentions-legales.html",
+"note": "Office check Nov 2026: Meilleurtaux legal notice and Pappers show seat and main establishment at 36 rue de Saint-Pétersbourg 75008; 95 rue d'Amsterdam is the address of sister entities (Meilleurtaux Placement, Santé)."
+},
+{
+"name": "SEVETYS",
+"website": "sevetys.fr",
+"office_street": "19 Place Françoise Dorin",
+"postcode": "75017",
+"city": "Paris",
+"source_url": "https://nous-rejoindre.sevetys.fr/mentions-legales/",
+"note": "Office check Nov 2026: Sevetys (VET DEV) legal notice dated March 2026 and privacy page give head office at 19 place Françoise Dorin 75017; 48 bd Jean Jaurès (Clichy) is not a head-office address."
+},
+{
+"name": "O’Tacos",
+"website": "o-tacos.ma",
+"office_street": "106 Avenue Marx Dormoy",
+"postcode": "92120",
+"city": "Montrouge",
+"source_url": "https://www.o-tacos.fr/mentions-legales/",
+"note": "Office check Nov 2026: O'Tacos Corporation's own legal notice gives seat at Cap Sud, 106 Marx Dormoy (Montrouge, RCS Nanterre); no Station F evidence."
+},
+{
+"name": "Spendesk",
+"website": "spendesk.com",
+"office_street": "7 Rue de Madrid",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://www.spendesk.com/contact-us/",
+"note": "Office check Nov 2026: Spendesk's contact page and legal notice list 7 rue de Madrid 75008 as the Paris office; 51 rue de Londres is an older address."
+},
+{
+"name": "Réseau Mampreneures France",
+"website": "reseau-mampreneures.org",
+"office_street": "117 Rue de Charenton",
+"postcode": "75012",
+"city": "Paris",
+"source_url": "https://reseau-mampreneures.org/mentions-legales/",
+"note": "Office check Nov 2026: Own legal notice and privacy page give seat at 117 rue de Charenton 75012 (map's 112 not found)."
+},
+{
+"name": "Qare",
+"website": "qare.fr",
+"office_street": "10 Rue de Penthièvre",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://cdn-public.qare.fr/mentionsLegales.pdf",
+"note": "Office check Nov 2026: Qare's legal notice and CGUV (2025) give head office and customer-service address at 10 rue de Penthièvre 75008; 46 rue Notre-Dame des Victoires is not current."
+},
+{
+"name": "La Ruche qui dit Oui !",
+"website": "laruchequiditoui.fr",
+"office_street": "226 Boulevard Voltaire",
+"postcode": "75011",
+"city": "Paris",
+"source_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/equanum-la-ruche-qui-dit-oui-528203755",
+"note": "Office check Nov 2026: SIRENE: Equanum (La Ruche qui dit Oui !) seat is 226 bd Voltaire 75011 since 31/03/2023; the 2 rue de la Roquette establishment was closed then."
+},
+{
+"name": "Homa Games",
+"website": "homagames.com",
+"office_street": "18 Boulevard de Bonne Nouvelle",
+"postcode": "75010",
+"city": "Paris",
+"source_url": "https://fichesociete.fr/entreprise/homa-games-853547644",
+"note": "Office check Nov 2026: Register shows the WeWork establishment at 7 rue de Madrid closed 29/10/2026 and a new seat/establishment at 18 bd de Bonne Nouvelle 75010 created 01/11/2026; job posts (Oct 2026) say the Paris HQ is a private office in a WeWork building (venue inferred from the WeWork domiciliation, exact WeWork site not named)."
+},
+{
+"name": "Alsid",
+"website": "tenable.com",
+"office_street": "26 Rue de Montholon",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://entreprises.lefigaro.fr/tenable-network-security-france-75/entreprise-812249548",
+"note": "Office check Nov 2026: Tenable Network Security France (Alsid's French entity) moved its seat on 27 Dec 2024 from 3-5 rue Saint-Georges to 3rd floor Patchwork Montholon, 26 rue de Montholon 75009; older directories (5 rue Davy, 106 bd Haussmann) are outdated."
+},
+{
+"name": "Pigment",
+"website": "pigment.com",
+"office_street": "8 Rue Sainte-Cécile",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://entreprises.lefigaro.fr/strana-93/entreprise-852785914",
+"note": "Office check Nov 2026: BODACC/JAL notice: Pigment moved its seat from 86-90 rue Notre-Dame de Nazareth 75003 to 8-12 rue Sainte-Cécile 75009 effective 13 May 2025, confirmed by later 2025-2026 capital notices."
+},
+{
+"name": "Cohere",
+"website": "cohere.com",
+"office_street": "4 Rue de Marivaux",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://www.usine-digitale.fr/article/cohere-choisit-paris-comme-centre-nevralgique-pour-ses-activites-en-europe.N2237761",
+"note": "Office check Nov 2026: Usine Digitale (15 Sep 2025) says Cohere opened its Paris EMEA office rue de Marivaux (2e); Cohere France SAS register seat is 4 rue de Marivaux 75002; no evidence of a Station F presence."
+},
+{
+"name": "Sendcloud France",
+"website": "sendcloud.fr",
+"office_street": "2 Rue Jules Lefebvre",
+"postcode": "75009",
+"city": "Paris",
+"source_url": "https://entreprises.lefigaro.fr/sendcloud-75/entreprise-832682215",
+"note": "Office check Nov 2026: Register notice: Sendcloud SAS moved its seat from 20 bd Montmartre (to 2020) then 18 rue Pasquier to 2-4 rue Jules Lefebvre 75009 effective 03/01/2022, still listed as its Paris location in 2026 directories."
+},
+{
+"name": "Le Village by CA Paris",
+"website": "levillagebyca.com",
+"office_street": "55 Rue La Boétie",
+"postcode": "75008",
+"city": "Paris",
+"source_url": "https://www.societe.com/societe/le-village-by-ca-paris-799022900.html",
+"note": "Office check Nov 2026: JAL notice: the seat/establishment moved from 48 to 55 rue La Boétie 75008 per AGE of 04/05/2024; the website's legal notice (2020) still shows 48 rue La Boétie."
+},
+{
+"name": "Tiller by SumUp",
+"website": "sumup.fr",
+"office_street": "8 Rue de Sofia",
+"postcode": "75018",
+"city": "Paris",
+"source_url": "https://www.pappers.fr/entreprise/sumup-801111030",
+"note": "Office check Nov 2026: Register: 42 rue Louis Blanc closed 15/05/2026; a new establishment at 8 rue de Sofia 75018 (Morning Sofia coworking) was created 01/05/2026, while the seat 173 rue de Courcelles is a HelloDom domiciliation."
+},
+{
+"name": "QAPA, la solution digitale Adecco",
+"website": "qapa.fr",
+"office_street": "32 Avenue de l'Opéra",
+"postcode": "75002",
+"city": "Paris",
+"source_url": "https://qapa.fr/politique-des-cookies/",
+"note": "Office check Nov 2026: QAPA's own cookie policy (Aug 2025) gives its seat at 32 avenue de l'Opéra 75002 (register move of 31/03/2023 from 37/39 rue de Surène); 105 rue Réaumur is not supported."
+},
+{
+"name": "Marble",
+"website": "checkmarble.com",
+"office_street": "3 Boulevard de Sébastopol",
+"postcode": "75001",
+"city": "Paris",
+"source_url": "https://www.checkmarble.com/privacy",
+"note": "Office check Nov 2026: Marble's own privacy page gives Marble SAS, 3 blvd de Sébastopol 75001 Paris as postal address (a 2026 profile agrees); no evidence of Station F."
+},
+{
+"name": "Emeria",
+"website": "emeriagroup.com",
+"office_street": "18 Place des Reflets",
+"postcode": "92400",
+"city": "Courbevoie",
+"source_url": "https://emeriagroup.com/fr/mentions-legales",
+"note": "Office check Nov 2026: Emeria's own legal notice gives siège social 18-19 place des Reflets, Tour Aurore, 92400 Courbevoie (RCS Nanterre)."
+},
+{
+"name": "Clinique juridique de la Sorbonne",
+"website": "cliniquejuridiquedeparis.com",
+"office_street": "12 place du Panthéon",
+"postcode": "75005",
+"city": "Paris",
+"source_url": "https://api-avis-situation-sirene.insee.fr/identification/pdf/94223058200010",
+"note": "Office check Nov 2026: SIRENE lists a Sorbonne legal-clinic association at Centre Panthéon, 12 place du Panthéon (21 is not supported). Moderate confidence."
 }
 ]

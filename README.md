@@ -18,6 +18,8 @@ Same stack as [paris-city](https://github.com/ethan-ab/paris-city): vanilla JS +
 | 3c. Not tech | `scripts/prune.py` | `data/ref/not_tech.json` lists ~2,060 companies reviewed one by one as not tech startups (restaurants, consumer brands, shops, agencies, consultancies, brokers and property developers, associations, closed or spam pages), by website domain or name with a code and reason. `resolve.py` drops them; `prune.py` removes them from the published `startups.json` and reindexes `buildings.json` without rerunning the pipeline (delete a removed company's logo from `public/logos/` and `data/logos.json` too). |
 | 5. Build | `scripts/build.py [--artifact]` | Writes `public/` (Vercel) and a self-contained `artifact/` page with an offline basemap. |
 
+Hand-checked offices go in `data/ref/corrections.json` (they always win in `resolve.py`). Without the network caches a full resolve rebuilds a different dataset, so `scripts/apply_corrections.py` patches only the corrected rows (and drops names added to `data/ref/exclude.txt`); then run `scripts/buildings.py` and `scripts/build.py`.
+
 `scripts/locate.py` holds the shared helpers (address parsing, BAN batch geocoding, SIRENE matching, domiciliation list).
 All network calls are cached in `data/cache/` (git-ignored); `data/startups.json` is the published dataset.
 
