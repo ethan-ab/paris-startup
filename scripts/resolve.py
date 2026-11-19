@@ -90,6 +90,15 @@ TRADITIONAL = re.compile(r"\b(mutuelle|mutual insurer|maisons? de retraite|nursi
 BIGTECH = re.compile(r"(fintech|finance|néobanque|neobank|insur|tech|digital|numérique|data|cloud|mobile|web|internet|e-commerce|ecommerce|crypto|games?\b|SaaS|AI-|IA )", re.I)
 NOT_A_COMPANY = {'station f', '42 paris', '42', 'hec paris', 'essec', 'schoolab'} | {
     L.fold(l) for l in open(os.path.join(ROOT, 'data', 'ref', 'exclude.txt')).read().splitlines() if l.strip() and not l.startswith('#')}
+# Reviewed one by one: not tech startups (restaurants, consumer brands, agencies, consultancies, brokers, associations, spam...)
+_NT = json.load(open(os.path.join(ROOT, 'data', 'ref', 'not_tech.json')))
+NOT_TECH_DOMAINS = {r['w'] for r in _NT if r.get('w')}
+NOT_TECH_NAMES = {L.fold(r['n']) for r in _NT if r.get('n') and not r.get('w')}
+
+
+def not_tech(c):
+    return ((c.get('domain') or '').replace('www.', '').lower() in NOT_TECH_DOMAINS
+            or L.fold(c.get('name')) in NOT_TECH_NAMES)
 
 
 def not_startup(c):
@@ -313,6 +322,8 @@ def main():
     kept = []
     drop = {'old': 0, 'big': 0, 'not_startup': 0}
     for c in companies:
+        if not_tech(c) and not corrections(c):
+            drop['not_startup'] += 1; continue
         if c.get('stationf_found'):
             m = sf_mention(c) or {}
             if not c.get('description'):
