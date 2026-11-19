@@ -1,1 +1,11186 @@
-[]
+[
+{
+"n": "/ut7",
+"w": "ut7.fr",
+"c": "agency",
+"r": "cooperative of developers"
+},
+{
+"n": "1.75 Paris",
+"w": "175paris.com",
+"c": "shop",
+"r": "hotel/apartments"
+},
+{
+"n": "10 HEURES 10",
+"w": "10-heures-10.com",
+"c": "brand",
+"r": "lighting label"
+},
+{
+"n": "1001mots",
+"w": "1001mots.org",
+"c": "nonprofit",
+"r": "literacy association"
+},
+{
+"n": "115K",
+"w": "115k.fr",
+"c": "broker",
+"r": "VC fund"
+},
+{
+"n": "11e District",
+"w": "11edistrict.com",
+"c": "agency",
+"r": "audiovisual production"
+},
+{
+"n": "11h16",
+"w": "11h16.com",
+"c": "agency",
+"r": "3D creative studio"
+},
+{
+"n": "123 Soleil",
+"w": "123soleil.io",
+"c": "agency",
+"r": "outsourced staff"
+},
+{
+"n": "12plus",
+"w": "12plus.fr",
+"c": "other",
+"r": "shipping discount reseller, little info"
+},
+{
+"n": "14my",
+"w": "14my.fr",
+"c": "agency",
+"r": "design agency"
+},
+{
+"n": "15DIXIÈME",
+"w": "15dixieme.fr",
+"c": "brand",
+"r": "custom furniture maker"
+},
+{
+"n": "16PARIS",
+"w": "16paris.fr",
+"c": "agency",
+"r": "model agency"
+},
+{
+"n": "1703",
+"w": "1703.art",
+"c": "agency",
+"r": "digital art hub services"
+},
+{
+"n": "17H10 Paris",
+"w": "17h10.com",
+"c": "brand",
+"r": "apparel label"
+},
+{
+"n": "1843",
+"w": "1843.fr",
+"c": "agency",
+"r": "IT services ESN"
+},
+{
+"n": "19-03",
+"w": "19-03.com",
+"c": "agency",
+"r": "creative consulting agency"
+},
+{
+"n": "1min30",
+"w": "1min30.com",
+"c": "agency",
+"r": "inbound marketing agency"
+},
+{
+"n": "1to1 Paris",
+"w": "1to1.paris",
+"c": "agency",
+"r": "post-production studio"
+},
+{
+"n": "20 Questions to the World",
+"w": "20questionstotheworld.com",
+"c": "agency",
+"r": "audiovisual studio"
+},
+{
+"n": "211",
+"w": "211.paris",
+"c": "food",
+"r": "venue/restaurant"
+},
+{
+"n": "212",
+"w": "212qa.com",
+"c": "trade",
+"r": "car dealer"
+},
+{
+"n": "22h22",
+"w": "22h22.net",
+"c": "agency",
+"r": "film production"
+},
+{
+"n": "25/8 PR Agency",
+"w": "25by8.com",
+"c": "agency",
+"r": "PR agency"
+},
+{
+"n": "2API Paris 2020",
+"w": "",
+"c": "nonprofit",
+"r": "student event"
+},
+{
+"n": "2D atelier",
+"w": "2datelier.com",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "2FACTORY",
+"w": "2factory.com",
+"c": "agency",
+"r": "motion design agency"
+},
+{
+"n": "2G2L Paris - Fashion Design & Consulting",
+"w": "2g2l.com",
+"c": "consulting",
+"r": "fashion design consulting"
+},
+{
+"n": "2h ailleurs",
+"w": "2hailleurs.com",
+"c": "shop",
+"r": "immersive experience venue"
+},
+{
+"n": "37.2 Paris",
+"w": "37-2paris.com",
+"c": "agency",
+"r": "creative management agency"
+},
+{
+"n": "38.2",
+"w": "38-2.fr",
+"c": "shop",
+"r": "medical centers network"
+},
+{
+"n": "38Riv Jazz Club Paris",
+"w": "38riv.com",
+"c": "food",
+"r": "jazz club"
+},
+{
+"n": "3D MAQ",
+"w": "3dmaqsas.com",
+"c": "trade",
+"r": "3D printing service"
+},
+{
+"n": "3eme Cercle",
+"w": "3ecercle.fr",
+"c": "shop",
+"r": "event venue gallery"
+},
+{
+"n": "3WAgency",
+"w": "3wa.agency",
+"c": "agency",
+"r": "web dev agency"
+},
+{
+"n": "40/60 - UX design & développement",
+"w": "40-60studio.com",
+"c": "agency",
+"r": "design and dev agency"
+},
+{
+"n": "42Entrepreneurs",
+"w": "42entrepreneurs.com",
+"c": "nonprofit",
+"r": "school entrepreneur community"
+},
+{
+"n": "440Hz",
+"w": "weare440.com",
+"c": "agency",
+"r": "music rights services"
+},
+{
+"n": "4eme Mur Intérieurs",
+"w": "4emur.com",
+"c": "agency",
+"r": "architecture firm"
+},
+{
+"n": "50 Partners Impact",
+"w": "50partners.fr",
+"c": "nonprofit",
+"r": "accelerator"
+},
+{
+"n": "5M Ventures",
+"w": "5m-ventures.com",
+"c": "broker",
+"r": "accelerator/investment"
+},
+{
+"n": "66°30",
+"w": "66-30.com",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "6freedom",
+"w": "6freedom.studio",
+"c": "agency",
+"r": "XR studio"
+},
+{
+"n": "7heures23",
+"w": "7heures23.com",
+"c": "consulting",
+"r": "mentoring firm"
+},
+{
+"n": "7POINTS - Courtage en Assurances.",
+"w": "7points.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "7TWENTY",
+"w": "7twenty.fr",
+"c": "consulting",
+"r": "consulting firm"
+},
+{
+"n": "85°",
+"w": "85paris.com",
+"c": "brand",
+"r": "design studio/curation"
+},
+{
+"n": "8849",
+"w": "8849.io",
+"c": "agency",
+"r": "creative studio"
+},
+{
+"n": "8Plus LLC",
+"w": "8plus-group.com",
+"c": "agency",
+"r": "outsourcing consulting/dev"
+},
+{
+"n": "9e Store",
+"w": "9e-store.fr",
+"c": "brand",
+"r": "online comics shop"
+},
+{
+"n": "9F Studio",
+"w": "studio9f.com",
+"c": "agency",
+"r": "creative studio"
+},
+{
+"n": "A-BIME (Ancien Bâtiment Informatisé Modélisé Expertisé)",
+"w": "a-bime.com",
+"c": "consulting",
+"r": "engineering office"
+},
+{
+"n": "A5",
+"w": "a5workshop.com",
+"c": "agency",
+"r": "copywriting workshop"
+},
+{
+"n": "Absolutely French",
+"w": "absolutely-french.eu",
+"c": "consulting",
+"r": "expat integration services"
+},
+{
+"n": "AC3 Studio",
+"w": "ac3-studio.com",
+"c": "agency",
+"r": "creative tech studio"
+},
+{
+"n": "Acasi",
+"w": "acasi.io",
+"c": "consulting",
+"r": "online accounting firm"
+},
+{
+"n": "ACCESS2NET",
+"w": "access2net.com",
+"c": "broker",
+"r": "investment firm"
+},
+{
+"n": "ACG Cybersecurity",
+"w": "acgcybersecurity.fr",
+"c": "consulting",
+"r": "cybersecurity audit firm"
+},
+{
+"n": "acte 2",
+"w": "acte2.notaires.fr",
+"c": "consulting",
+"r": "notary office"
+},
+{
+"n": "Actives",
+"w": "actives-women.com",
+"c": "nonprofit",
+"r": "coalition"
+},
+{
+"n": "ad6media",
+"w": "ad6media.fr",
+"c": "other",
+"r": "ad network/regie, media sales"
+},
+{
+"n": "AdBridge",
+"w": "adbridge.fr",
+"c": "agency",
+"r": "ads acquisition agency"
+},
+{
+"n": "Admise Paris",
+"w": "admiseparis.com",
+"c": "brand",
+"r": "womenswear brand"
+},
+{
+"n": "ADN Paris",
+"w": "adn-paris.fr",
+"c": "brand",
+"r": "apparel brand"
+},
+{
+"n": "ADNEXUS",
+"w": "adnexus.fr",
+"c": "broker",
+"r": "corporate VC fund"
+},
+{
+"n": "ADRENALINE STUDIO",
+"w": "virtuallightningbox.com",
+"c": "agency",
+"r": "holographic projection studio"
+},
+{
+"n": "Advenis REIM",
+"w": "advenis-reim.com",
+"c": "broker",
+"r": "real estate fund manager"
+},
+{
+"n": "Aectual",
+"w": "aectual.com",
+"c": "brand",
+"r": "design products collection"
+},
+{
+"n": "AEGILIM",
+"w": "aegilim.com",
+"c": "consulting",
+"r": "real estate sustainability consulting"
+},
+{
+"n": "af83",
+"w": "af83.com",
+"c": "agency",
+"r": "design/tech agency"
+},
+{
+"n": "Affluent Medical",
+"w": "affluentmedical.com",
+"c": "invalid",
+"r": "closed/renamed page"
+},
+{
+"n": "AFI Ventures",
+"w": "allianceforimpact.com",
+"c": "broker",
+"r": "VC fund"
+},
+{
+"n": "Africa REN",
+"w": "africa-ren.com",
+"c": "other",
+"r": "solar plant developer"
+},
+{
+"n": "Agence 3e étage",
+"w": "agence3e-etage.com",
+"c": "agency",
+"r": "communication agency"
+},
+{
+"n": "Agence 8'18''",
+"w": "8-18lumiere.com",
+"c": "agency",
+"r": "lighting design agency"
+},
+{
+"n": "Agence Forest",
+"w": "forest.paris",
+"c": "agency",
+"r": "vacant spaces agency"
+},
+{
+"n": "Agence Henri8",
+"w": "henri8.com",
+"c": "agency",
+"r": "health marketing agency"
+},
+{
+"n": "Agence NESTENN Paris 17",
+"w": "immobilier-paris-17.nestenn.com",
+"c": "broker",
+"r": "real estate agency"
+},
+{
+"n": "Agence Principale Montmartre",
+"w": "agenceprincipaleparis18.com",
+"c": "broker",
+"r": "real estate agency"
+},
+{
+"n": "Agent Immobilier 18",
+"w": "agentimmo18.com",
+"c": "broker",
+"r": "real estate agency"
+},
+{
+"n": "Agile ²",
+"w": "agile2.fr",
+"c": "trade",
+"r": "office layout fitting"
+},
+{
+"n": "Aglaé",
+"w": "design-aglae.com",
+"c": "agency",
+"r": "scenography installations"
+},
+{
+"n": "Agora Health",
+"w": "agorahealth.co",
+"c": "other",
+"r": "startup studio for medical devices"
+},
+{
+"n": "AgriCarbone",
+"w": "agricarbone.com",
+"c": "trade",
+"r": "biomass collection operator"
+},
+{
+"n": "Agrilife Studio",
+"w": "agrilifestudio.com",
+"c": "nonprofit",
+"r": "startup studio/incubator"
+},
+{
+"n": "Agriterra Group",
+"w": "agriterra-group.com",
+"c": "other",
+"r": "agri transition advisory/model"
+},
+{
+"n": "AGRIVOLT sas",
+"w": "agri-volt.fr",
+"c": "trade",
+"r": "solar plant builder"
+},
+{
+"n": "AI Cargo Foundation",
+"w": "aicargofoundation.org",
+"c": "nonprofit",
+"r": "association"
+},
+{
+"n": "AI for the Planet - Grand Palais",
+"w": "aifortheplanet.org",
+"c": "nonprofit",
+"r": "event/ecosystem"
+},
+{
+"n": "AI Sisters",
+"w": "aisisters.ai",
+"c": "consulting",
+"r": "AI consulting/training"
+},
+{
+"n": "AIME",
+"w": "aime.co",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "AIRPORTING",
+"w": "airporting.com",
+"c": "other",
+"r": "financial reporting service, vague"
+},
+{
+"n": "AiUp",
+"w": "aiup.fr",
+"c": "agency",
+"r": "AI integration agency"
+},
+{
+"n": "Akimed",
+"w": "akimed.io",
+"c": "agency",
+"r": "health app dev agency"
+},
+{
+"n": "Alaïa Advisory",
+"w": "alaia-advisory.com",
+"c": "consulting",
+"r": "energy advisory"
+},
+{
+"n": "Albatros",
+"w": "albatros.coop",
+"c": "agency",
+"r": "IT cooperative"
+},
+{
+"n": "ALDEBARAN (definitely closed)",
+"w": "maxtronics.com",
+"c": "invalid",
+"r": "closed company"
+},
+{
+"n": "ALEN JOHNSON",
+"w": "alenjohnson.fr",
+"c": "broker",
+"r": "real estate consultancy"
+},
+{
+"n": "ALFIE",
+"w": "alfieparis.com",
+"c": "brand",
+"r": "fashion label"
+},
+{
+"n": "ALISTER",
+"w": "alister.tv",
+"c": "agency",
+"r": "video agency"
+},
+{
+"n": "Alliance Bilingual International School",
+"w": "abischool.fr",
+"c": "nonprofit",
+"r": "school"
+},
+{
+"n": "Almaris",
+"w": "almaris.com",
+"c": "broker",
+"r": "real estate agency"
+},
+{
+"n": "Aloe Paris",
+"w": "aloe-paris.co",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Alpagga",
+"w": "alpagga.com",
+"c": "trade",
+"r": "used equipment reseller"
+},
+{
+"n": "Alpha Dogs House",
+"w": "alphadogshouse.com",
+"c": "shop",
+"r": "pet store and grooming"
+},
+{
+"n": "Alpis",
+"w": "alpis.fr",
+"c": "consulting",
+"r": "translation firm"
+},
+{
+"n": "Alter K",
+"w": "alter-k.com",
+"c": "agency",
+"r": "creative agency group"
+},
+{
+"n": "AlterFood",
+"w": "alterfood.fr",
+"c": "food",
+"r": "food brands"
+},
+{
+"n": "ALTEV",
+"w": "altev.fr",
+"c": "broker",
+"r": "property developer"
+},
+{
+"n": "ALTIA Investment",
+"w": "altiainvestment.com",
+"c": "broker",
+"r": "investment firm"
+},
+{
+"n": "AM Space",
+"w": "amspace.fr",
+"c": "nonprofit",
+"r": "student association"
+},
+{
+"n": "Amalia",
+"w": "handmadebyamalia.blogspot.com",
+"c": "invalid",
+"r": "empty blog"
+},
+{
+"n": "Ambos Energy",
+"w": "ambos-energy.com",
+"c": "other",
+"r": "battery storage project developer"
+},
+{
+"n": "Anatomies d'Architecture",
+"w": "anatomiesdarchitecture.com",
+"c": "nonprofit",
+"r": "editorial/media project"
+},
+{
+"n": "And You Create",
+"w": "andyoucreate.com",
+"c": "other",
+"r": "agentic studio for wealth managers"
+},
+{
+"n": "Anima",
+"w": "anima.ai",
+"c": "other",
+"r": "venture co-building studio"
+},
+{
+"n": "Animeo",
+"w": "animeo.fr",
+"c": "consulting",
+"r": "event staffing agency"
+},
+{
+"n": "Annie",
+"w": "anniesonline.com",
+"c": "brand",
+"r": "jeans brand"
+},
+{
+"n": "ANORA",
+"w": "agence-anora.com",
+"c": "agency",
+"r": "talent agency"
+},
+{
+"n": "ANTILOGY",
+"w": "antilogy.eu",
+"c": "consulting",
+"r": "training and consulting"
+},
+{
+"n": "AOC Insurance Broker \"Insurtech\"​ is leading a global international health insurance advisor",
+"w": "aoc-insurancebroker.com",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "AP3 Labs",
+"w": "ap3labs.com",
+"c": "agency",
+"r": "web3 dev agency"
+},
+{
+"n": "Apnée Paris",
+"w": "apnee-paris.com",
+"c": "brand",
+"r": "supplements brand"
+},
+{
+"n": "Apollo",
+"w": "apollomotors.fr",
+"c": "brand",
+"r": "motorbike brand/distributor"
+},
+{
+"n": "appenin",
+"w": "appenin.fr",
+"c": "invalid",
+"r": "ended by parent"
+},
+{
+"n": "Apperture",
+"w": "apperture.fr",
+"c": "agency",
+"r": "3D/VR dev studio"
+},
+{
+"n": "Arforia",
+"w": "arforia.com",
+"c": "agency",
+"r": "custom immersive solutions"
+},
+{
+"n": "Argobio Studio",
+"w": "argobiostudio.com",
+"c": "other",
+"r": "biotech venture builder"
+},
+{
+"n": "ariis - Alliance Recherche Innovation Industries Santé",
+"w": "ariis.fr",
+"c": "nonprofit",
+"r": "industry alliance"
+},
+{
+"n": "ARLANE",
+"w": "arlane.com",
+"c": "broker",
+"r": "investment fund"
+},
+{
+"n": "Arrow Paris",
+"w": "paris.arrow-enterprise.fr",
+"c": "broker",
+"r": "real estate consultancy"
+},
+{
+"n": "ART IN SPACE",
+"w": "artinspace.fr",
+"c": "other",
+"r": "art/space research studio"
+},
+{
+"n": "Art Ludique - Le Musée",
+"w": "artludique.com",
+"c": "shop",
+"r": "museum"
+},
+{
+"n": "Artedrone",
+"w": "artedrone.com",
+"c": "invalid",
+"r": "renamed, page inactive"
+},
+{
+"n": "Artefact School of Data",
+"w": "schoolofdata.artefact.com",
+"c": "nonprofit",
+"r": "school"
+},
+{
+"n": "Artiris",
+"w": "artiris-photo.com",
+"c": "shop",
+"r": "photo boutiques"
+},
+{
+"n": "artéfact",
+"w": "artefact-marais.com",
+"c": "food",
+"r": "tea shop"
+},
+{
+"n": "ASHOKA PARIS SAS",
+"w": "ashokaparis.com",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "ASILE",
+"w": "asile-paris.com",
+"c": "agency",
+"r": "retouching creative studio"
+},
+{
+"n": "Asphalte",
+"w": "asphalte.com",
+"c": "brand",
+"r": "apparel brand"
+},
+{
+"n": "Astrolabe (by Flowbow)",
+"w": "flowbow.fr",
+"c": "nonprofit",
+"r": "school"
+},
+{
+"n": "at dawn",
+"w": "atdawnparis.com",
+"c": "brand",
+"r": "consumer brand"
+},
+{
+"n": "ATELIER DARUMA",
+"w": "atelierdaruma.com",
+"c": "agency",
+"r": "immersive studio"
+},
+{
+"n": "Atelier des Lumières",
+"w": "atelier-lumieres.com",
+"c": "shop",
+"r": "exhibition venue"
+},
+{
+"n": "Atelier du 9",
+"w": "atelierdu9.com",
+"c": "broker",
+"r": "real estate consultancy"
+},
+{
+"n": "Atelier Flamel",
+"w": "atelierflamel.com",
+"c": "food",
+"r": "fermented food"
+},
+{
+"n": "ATELIER MARTEL",
+"w": "ateliermartel.com",
+"c": "agency",
+"r": "architecture firm"
+},
+{
+"n": "Atelier Nubio",
+"w": "ateliernubio.fr",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "ATELIER P1",
+"w": "atelierp1.fr",
+"c": "food",
+"r": "bakery"
+},
+{
+"n": "Atelier Paramètre",
+"w": "atelierparametre.com",
+"c": "agency",
+"r": "office design"
+},
+{
+"n": "ATICA",
+"w": "aticaparis.com",
+"c": "agency",
+"r": "event space/studio"
+},
+{
+"n": "ATM GAMING",
+"w": "atmgaming.com",
+"c": "brand",
+"r": "board game publisher"
+},
+{
+"n": "AU BON COIN - Paris 5e",
+"w": "auboncoin-bistrot.com",
+"c": "food",
+"r": "bistrot"
+},
+{
+"n": "aura",
+"w": "aura.paris",
+"c": "agency",
+"r": "interior design"
+},
+{
+"n": "Aussitôt Bon",
+"w": "aussitotbon.fr",
+"c": "food",
+"r": "meal delivery"
+},
+{
+"n": "Automotive Lab Paris",
+"w": "automotivelab.tech",
+"c": "nonprofit",
+"r": "accelerator"
+},
+{
+"n": "AUTOUR DES KIDS",
+"w": "autourdeskids.com",
+"c": "shop",
+"r": "childcare service"
+},
+{
+"n": "Axis&Co",
+"w": "axis-a.com",
+"c": "consulting",
+"r": "intelligence consulting"
+},
+{
+"n": "Açaï & You",
+"w": "acaiandyou.com",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "Aéromate",
+"w": "aeromate.fr",
+"c": "food",
+"r": "urban farm produce"
+},
+{
+"n": "B for Baby",
+"w": "bforbaby.sa",
+"c": "consulting",
+"r": "baby planning agency"
+},
+{
+"n": "BabyBamboo",
+"w": "babybamboo.fr",
+"c": "brand",
+"r": "childcare products shop"
+},
+{
+"n": "BabyCoach",
+"w": "babycoach.me",
+"c": "consulting",
+"r": "parenting coaching"
+},
+{
+"n": "Babylon",
+"w": "intuition.vc",
+"c": "broker",
+"r": "pre-seed fund"
+},
+{
+"n": "Balanced",
+"w": "balanced-france.com",
+"c": "consulting",
+"r": "HR performance consulting"
+},
+{
+"n": "Baltimore-Paris",
+"w": "baltimore-paris.fr",
+"c": "brand",
+"r": "overalls brand"
+},
+{
+"n": "Balto",
+"w": "balto.fr",
+"c": "brand",
+"r": "pet supplements brand"
+},
+{
+"n": "Bancoop",
+"w": "ban.coop",
+"c": "other",
+"r": "cooperative bank alternative"
+},
+{
+"n": "Band of Sisters",
+"w": "bandofsistersparis.com",
+"c": "nonprofit",
+"r": "women network"
+},
+{
+"n": "Bars&co",
+"w": "bars-and-co.fr",
+"c": "food",
+"r": "restaurant chain"
+},
+{
+"n": "BARY (Acquired by Netgem Group, 2026)",
+"w": "bary.ai",
+"c": "invalid",
+"r": "acquired by Netgem"
+},
+{
+"n": "BatchCooking.com",
+"w": "batchcooking.com",
+"c": "food",
+"r": "cooking boxes and workshops"
+},
+{
+"n": "Battri",
+"w": "battri.co",
+"c": "trade",
+"r": "battery recycling logistics"
+},
+{
+"n": "BAÏJA",
+"w": "baija.com",
+"c": "brand",
+"r": "body care brand"
+},
+{
+"n": "Baûbo",
+"w": "baubo.fr",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Be a boss Women Tour",
+"w": "beaboss-womentour.com",
+"c": "nonprofit",
+"r": "event"
+},
+{
+"n": "Be API",
+"w": "beapi.fr",
+"c": "agency",
+"r": "WordPress agency"
+},
+{
+"n": "BE MY NOUNOU",
+"w": "bemynounou.com",
+"c": "shop",
+"r": "babysitting service"
+},
+{
+"n": "Beat 35",
+"w": "beat-35.com",
+"c": "shop",
+"r": "fitness studio"
+},
+{
+"n": "Beaucour, à la folie",
+"w": "schoolyard.fr",
+"c": "food",
+"r": "brasserie"
+},
+{
+"n": "Beautigloo®",
+"w": "beautigloo.com",
+"c": "brand",
+"r": "beauty devices brand"
+},
+{
+"n": "BeautyMix",
+"w": "beautymix-konstanz.de",
+"c": "shop",
+"r": "beauty salon"
+},
+{
+"n": "Beauté INÉE",
+"w": "beauteinee.fr",
+"c": "shop",
+"r": "skincare cabin"
+},
+{
+"n": "Beavr",
+"w": "beavrdesign.com",
+"c": "agency",
+"r": "design subscription agency"
+},
+{
+"n": "BEES │ People First",
+"w": "bees.paris",
+"c": "agency",
+"r": "loyalty/event agency"
+},
+{
+"n": "BeeToGreen",
+"w": "beetogreen.com",
+"c": "other",
+"r": "bike leasing partner for companies"
+},
+{
+"n": "BELEM",
+"w": "belem.music",
+"c": "nonprofit",
+"r": "EU-funded project"
+},
+{
+"n": "Belledonne",
+"w": "belledonne.com",
+"c": "brand",
+"r": "sneakers brand"
+},
+{
+"n": "Bertyne",
+"w": "bertyne.com",
+"c": "brand",
+"r": "menstrual underwear brand"
+},
+{
+"n": "Best Western Hotel Ronceray Opera",
+"w": "hotelroncerayopera.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Bevouac",
+"w": "bevouac.com",
+"c": "broker",
+"r": "rental investment turnkey"
+},
+{
+"n": "BFM 3A",
+"w": "bfm3a.com",
+"c": "agency",
+"r": "IT consulting staffing"
+},
+{
+"n": "BI-3E",
+"w": "bi-3e.com",
+"c": "consulting",
+"r": "data consulting"
+},
+{
+"n": "BIBAK",
+"w": "bibak.fr",
+"c": "other",
+"r": "reusable packaging operator"
+},
+{
+"n": "Bien Paris",
+"w": "bien-paris.com",
+"c": "brand",
+"r": "furniture and decor brand"
+},
+{
+"n": "BiG DATA & Ai PARIS",
+"w": "bigdataparis.com",
+"c": "agency",
+"r": "event organizer"
+},
+{
+"n": "Billee (acquired by Zenchef)",
+"w": "billee.fr",
+"c": "invalid",
+"r": "acquired by Zenchef"
+},
+{
+"n": "Bixoto",
+"w": "bixoto.com",
+"c": "other",
+"r": "online retailer of many products"
+},
+{
+"n": "Bizebike",
+"w": "bizebike.com",
+"c": "shop",
+"r": "bike rental/leasing"
+},
+{
+"n": "Black Belt",
+"w": "black-belt.io",
+"c": "consulting",
+"r": "recruitment firm"
+},
+{
+"n": "BLACKBART",
+"w": "blackbart.fr",
+"c": "consulting",
+"r": "AI/data/cyber consulting"
+},
+{
+"n": "Blazar",
+"w": "blazarcapital.com",
+"c": "broker",
+"r": "consumer brand investor"
+},
+{
+"n": "Bleen",
+"w": "mybleen.com",
+"c": "brand",
+"r": "garden and pet products"
+},
+{
+"n": "Blent.ai",
+"w": "blent.ai",
+"c": "consulting",
+"r": "AI training firm"
+},
+{
+"n": "Blink",
+"w": "fr-blink.com",
+"c": "agency",
+"r": "custom automation agency"
+},
+{
+"n": "Blockchains Experts",
+"w": "blockchainsexperts.com",
+"c": "consulting",
+"r": "blockchain security services"
+},
+{
+"n": "BlockMedia",
+"w": "blockmedia.fr",
+"c": "agency",
+"r": "influencer talent agency"
+},
+{
+"n": "Blonk Group",
+"w": "blonk.co",
+"c": "consulting",
+"r": "talent acquisition firm"
+},
+{
+"n": "Blue Industry and Science",
+"w": "blueindustryandscience.com",
+"c": "consulting",
+"r": "industrial consulting"
+},
+{
+"n": "BLUE NODE",
+"w": "bluenode.paris",
+"c": "agency",
+"r": "creative studio"
+},
+{
+"n": "BlueMotion Paris",
+"w": "bluemotion.fr",
+"c": "agency",
+"r": "event production"
+},
+{
+"n": "Blump studio",
+"w": "blump.fr",
+"c": "agency",
+"r": "VFX studio"
+},
+{
+"n": "BMK",
+"w": "bmkparis.com",
+"c": "other",
+"r": "vague cultural/culinary development"
+},
+{
+"n": "BNI Symbiose PARIS F",
+"w": "bni-paris-rive-gauche.fr",
+"c": "nonprofit",
+"r": "business network"
+},
+{
+"n": "Bobo Paris",
+"w": "boboparis.com",
+"c": "brand",
+"r": "fashion label"
+},
+{
+"n": "Bon Parfumeur",
+"w": "bonparfumeur.com",
+"c": "brand",
+"r": "perfume brand"
+},
+{
+"n": "Bond'innov",
+"w": "bondinnov.com",
+"c": "nonprofit",
+"r": "innovation accelerator"
+},
+{
+"n": "Boome",
+"w": "boomeparis.com",
+"c": "brand",
+"r": "supplement brand"
+},
+{
+"n": "BoucL Energie",
+"w": "bouclenergie.fr",
+"c": "other",
+"r": "energy community developer"
+},
+{
+"n": "BOXY",
+"w": "getboxy.co",
+"c": "shop",
+"r": "autonomous physical stores"
+},
+{
+"n": "Bpifrance Deeptech Venture",
+"w": "lehub.bpifrance.fr",
+"c": "broker",
+"r": "VC fund"
+},
+{
+"n": "Bpifrance Large Venture",
+"w": "medium.com",
+"c": "broker",
+"r": "growth fund"
+},
+{
+"n": "BPSIs - Naoassur",
+"w": "bpsis.fr",
+"c": "broker",
+"r": "insurance wholesale broker"
+},
+{
+"n": "BRAND STATION PARIS",
+"w": "brandstation.fr",
+"c": "agency",
+"r": "advertising agency"
+},
+{
+"n": "BrandCo Paris",
+"w": "brandcoparis.com",
+"c": "brand",
+"r": "second-hand luxury reseller"
+},
+{
+"n": "Brickmeup",
+"w": "brickmeup.com",
+"c": "broker",
+"r": "rental investment agency"
+},
+{
+"n": "BROKINS SAS",
+"w": "brokins.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "BRS Beauty.",
+"w": "brsbeauty.com",
+"c": "brand",
+"r": "beauty products"
+},
+{
+"n": "BRÂAM",
+"w": "atelierbraam.com",
+"c": "food",
+"r": "cafeteria catering"
+},
+{
+"n": "BTI Studio",
+"w": "bti-studio.com",
+"c": "nonprofit",
+"r": "startup incubator"
+},
+{
+"n": "BubbleGlobe",
+"w": "bubble-globe.com",
+"c": "agency",
+"r": "private experiences, no tech"
+},
+{
+"n": "Bumpy",
+"w": "bumpy.com",
+"c": "agency",
+"r": "book design services"
+},
+{
+"n": "Bureau Design Mode Métiers d'Art - Les Ateliers de Paris",
+"w": "bdmma.paris",
+"c": "nonprofit",
+"r": "public body"
+},
+{
+"n": "BUSTRONOME",
+"w": "bustronome.com",
+"c": "food",
+"r": "restaurant bus"
+},
+{
+"n": "BYCA",
+"w": "byca.fr",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "byNativ",
+"w": "bynativ.com",
+"c": "other",
+"r": "travel agency network"
+},
+{
+"n": "Bysur",
+"w": "bysur.com",
+"c": "other",
+"r": "digital insurance factory, agency-like"
+},
+{
+"n": "Bâton Rouge, Paris 💄",
+"w": "batonrougeparis.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "C-Innovation",
+"w": "c-innovation.eu",
+"c": "consulting",
+"r": "intelligence firm"
+},
+{
+"n": "C4 Ventures",
+"w": "c4v.com",
+"c": "broker",
+"r": "VC fund"
+},
+{
+"n": "C4V PARIS",
+"w": "nutrition-veterinaire.com",
+"c": "brand",
+"r": "pet products shop"
+},
+{
+"n": "Caats",
+"w": "caats.co",
+"c": "brand",
+"r": "pet food brand"
+},
+{
+"n": "Cabinet d'assurance AXA Paris Opéra",
+"w": "agence.axa.fr",
+"c": "broker",
+"r": "insurance agency"
+},
+{
+"n": "Cabinet d'Ophtalmologie du Champ de Mars",
+"w": "chirurgien-ophtalmologie-paris.com",
+"c": "shop",
+"r": "medical practice"
+},
+{
+"n": "Cabinet Rome Batignolles",
+"w": "cabinetromebatignolles.com",
+"c": "shop",
+"r": "medical practice"
+},
+{
+"n": "Café A",
+"w": "cafea.fr",
+"c": "food",
+"r": "cafe"
+},
+{
+"n": "CAISSE DES ECOLES DU 13E ARRONDISSEMENT",
+"w": "caissedesecolesparis13.fr",
+"c": "nonprofit",
+"r": "public school fund"
+},
+{
+"n": "CAISSE DES ECOLES DU 6E ARRONDISSEMENT",
+"w": "caissedesecolesdu6eme.fr",
+"c": "nonprofit",
+"r": "public school fund"
+},
+{
+"n": "Cajou",
+"w": "cajouparis.com",
+"c": "brand",
+"r": "children goods brand"
+},
+{
+"n": "CALEB Paris",
+"w": "calebparis.com",
+"c": "brand",
+"r": "fashion label"
+},
+{
+"n": "CALICEA PARIS",
+"w": "calicea-paris.com",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "Campus IA",
+"w": "concertation-campus-ia.fr",
+"c": "other",
+"r": "AI datacenter campus project"
+},
+{
+"n": "Canal Barboteur",
+"w": "canal-barboteur.com",
+"c": "food",
+"r": "bar/venue"
+},
+{
+"n": "CANAL CENTRAL",
+"w": "canalcentral.fr",
+"c": "shop",
+"r": "bodywork studio"
+},
+{
+"n": "Candix",
+"w": "candix.com",
+"c": "consulting",
+"r": "engineer recruitment"
+},
+{
+"n": "Canopy Energies",
+"w": "canopy-energy.com",
+"c": "trade",
+"r": "solar plant developer"
+},
+{
+"n": "Capsul Events",
+"w": "capsul.events",
+"c": "agency",
+"r": "events agency"
+},
+{
+"n": "Capsule Studio",
+"w": "capsule.studio",
+"c": "agency",
+"r": "animation studio"
+},
+{
+"n": "Carbone Farmers",
+"w": "carbonefarmers.com",
+"c": "other",
+"r": "carbon farming programs"
+},
+{
+"n": "Carg'o & Co",
+"w": "agence-cargo.com",
+"c": "agency",
+"r": "communication agency"
+},
+{
+"n": "Cargonautes",
+"w": "cargonautes.fr",
+"c": "trade",
+"r": "cargo bike delivery operator"
+},
+{
+"n": "CARLI paris",
+"w": "carli.paris",
+"c": "shop",
+"r": "hair salon"
+},
+{
+"n": "Carne Corp / Carne Bollente",
+"w": "carnebollente.com",
+"c": "brand",
+"r": "sex-positive brand"
+},
+{
+"n": "Carnot Curie Cancer",
+"w": "institut-curie.org",
+"c": "nonprofit",
+"r": "research institute label"
+},
+{
+"n": "Carré Y",
+"w": "carre-y.com",
+"c": "invalid",
+"r": "domain resolution gibberish"
+},
+{
+"n": "CARTAN TRADE",
+"w": "cartantrade.com",
+"c": "broker",
+"r": "credit insurance MGA"
+},
+{
+"n": "Cartan Trade France",
+"w": "cartantrade.fr",
+"c": "broker",
+"r": "credit insurance MGA"
+},
+{
+"n": "CEMAG Care",
+"w": "cemagcare.com",
+"c": "other",
+"r": "women's health lab, products unclear"
+},
+{
+"n": "Cendry",
+"w": "cendry-paris.com",
+"c": "brand",
+"r": "children shoes brand"
+},
+{
+"n": "CENITZ",
+"w": "cenitz.fr",
+"c": "broker",
+"r": "investor network"
+},
+{
+"n": "Cent Neuf",
+"w": "cent-neuf.com",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "Centre 5",
+"w": "centre5.com",
+"c": "shop",
+"r": "pilates studio"
+},
+{
+"n": "Centre d'Affaires Au 17",
+"w": "au17.net",
+"c": "shop",
+"r": "office rental center"
+},
+{
+"n": "Centre d'examen FLE  - Selfee Sorbonne",
+"w": "lettres.sorbonne-universite.fr",
+"c": "nonprofit",
+"r": "university exam center"
+},
+{
+"n": "Centre d'Investigation Clinique en Vaccinologie Cochin-Pasteur",
+"w": "hopitauxcentre-u-pariscite.aphp.fr",
+"c": "nonprofit",
+"r": "public clinical center"
+},
+{
+"n": "Centre Villiers Batignolles",
+"w": "centre-villiers-batignolles.paris",
+"c": "shop",
+"r": "aesthetic medical clinic"
+},
+{
+"n": "Century 21 Auteuil Immobilier Paris 16ème",
+"w": "new-auteuil-immobilier.fr",
+"c": "broker",
+"r": "real-estate agency"
+},
+{
+"n": "CENTURY 21 Tour Eiffel",
+"w": "century21-tour-eiffel-paris-7.com",
+"c": "broker",
+"r": "real-estate agency"
+},
+{
+"n": "CENTURY21 VICTOR HUGO-TROCADERO FINE HOMES & LUXURY",
+"w": "century21-vht-paris-16.com",
+"c": "broker",
+"r": "real-estate agency"
+},
+{
+"n": "Cercle LAB x i3",
+"w": "newsassurancespro.com",
+"c": "nonprofit",
+"r": "insurance research network"
+},
+{
+"n": "CesGensLaB",
+"w": "cesgenslab.fr",
+"c": "agency",
+"r": "custom software development"
+},
+{
+"n": "CFEE Paris - Campus et Formation Etudiants-Entreprises",
+"w": "cfee-paris.fr",
+"c": "nonprofit",
+"r": "school/training campus"
+},
+{
+"n": "Chaire Agricultures Urbaines AgroParisTech",
+"w": "chaire-agricultures-urbaines.org",
+"c": "nonprofit",
+"r": "university chair"
+},
+{
+"n": "ChaireFIT2",
+"w": "cerna.minesparis.psl.eu",
+"c": "nonprofit",
+"r": "university chair"
+},
+{
+"n": "Chapter54",
+"w": "chapter54.com",
+"c": "consulting",
+"r": "operations accelerator"
+},
+{
+"n": "Charles & Co",
+"w": "charlesandco.fr",
+"c": "consulting",
+"r": "consulting firm"
+},
+{
+"n": "CHEMIX",
+"w": "chemix-paris.com",
+"c": "nonprofit",
+"r": "student research hub"
+},
+{
+"n": "Chercheurs-Entrepreneurs Challenges",
+"w": "chercheurs-entrepreneurs.com",
+"c": "nonprofit",
+"r": "competition organizer"
+},
+{
+"n": "Chiche",
+"w": "chicheparis.fr",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "Chilowé",
+"w": "chilowe.com",
+"c": "other",
+"r": "microadventure travel offer"
+},
+{
+"n": "Chimie Moléculaire, Macromoléculaire, Matériaux - C3M",
+"w": "c3m.espci.fr",
+"c": "nonprofit",
+"r": "academic lab"
+},
+{
+"n": "CHROMATIK",
+"w": "chromatik.fr",
+"c": "agency",
+"r": "lighting art direction"
+},
+{
+"n": "Cible Skin",
+"w": "cibleskin.com",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "Cinq Étoiles Productions",
+"w": "5eproductions.com",
+"c": "agency",
+"r": "production agency"
+},
+{
+"n": "Cinqo",
+"w": "cinqo.fr",
+"c": "trade",
+"r": "industrial waste operator"
+},
+{
+"n": "Circl",
+"w": "circl.lu",
+"c": "nonprofit",
+"r": "CERT public body"
+},
+{
+"n": "Circle Sportswear",
+"w": "circlesportswear.com",
+"c": "brand",
+"r": "sportswear brand"
+},
+{
+"n": "Circles",
+"w": "wearecircles.com",
+"c": "brand",
+"r": "wellness brand"
+},
+{
+"n": "Circul'Egg",
+"w": "circulegg.fr",
+"c": "trade",
+"r": "eggshell processing manufacturer"
+},
+{
+"n": "Circé",
+"w": "circe.eco",
+"c": "consulting",
+"r": "architects circular consulting"
+},
+{
+"n": "Cite Scolaire Paul Bert",
+"w": "lyc-paul-bert.scola.ac-paris.fr",
+"c": "nonprofit",
+"r": "public school"
+},
+{
+"n": "Citeo Pro",
+"w": "citeopro.com",
+"c": "nonprofit",
+"r": "eco-organization"
+},
+{
+"n": "Citizen Capital",
+"w": "citizencapital.fr",
+"c": "broker",
+"r": "investment fund"
+},
+{
+"n": "Clac Des Doigts",
+"w": "clac.io",
+"c": "other",
+"r": "concierge service for brands"
+},
+{
+"n": "Clevy - acquired by Ideta",
+"w": "clevy.io",
+"c": "other",
+"r": "acquired by Ideta"
+},
+{
+"n": "Climate Leaders Fast Track",
+"w": "climateleaders.fr",
+"c": "nonprofit",
+"r": "accelerator"
+},
+{
+"n": "Closet2Closet",
+"w": "closet2closet.eu",
+"c": "brand",
+"r": "second-hand luxury shop"
+},
+{
+"n": "Cloud Network",
+"w": "cloud-net.fr",
+"c": "agency",
+"r": "IT services"
+},
+{
+"n": "Cloudeasier - part of Accenture",
+"w": "cloudeasier.com",
+"c": "consulting",
+"r": "cloud cost services"
+},
+{
+"n": "CloudScale",
+"w": "cloudscale.fr",
+"c": "agency",
+"r": "cloud services firm"
+},
+{
+"n": "Cloudwatt S.A.S.",
+"w": "cloudwatt.com",
+"c": "invalid",
+"r": "historical, defunct"
+},
+{
+"n": "Club Biberon",
+"w": "club-biberon.fr",
+"c": "shop",
+"r": "daycare"
+},
+{
+"n": "Club des Office Managers",
+"w": "clubdesofficemanagers.com",
+"c": "nonprofit",
+"r": "community club"
+},
+{
+"n": "ClubVET",
+"w": "clubvet.fr",
+"c": "invalid",
+"r": "lorem ipsum"
+},
+{
+"n": "CLUE ME",
+"w": "clueme.fr",
+"c": "trade",
+"r": "office fit-out contractor"
+},
+{
+"n": "Cléry",
+"w": "clery-ig.fr",
+"c": "broker",
+"r": "investment structure"
+},
+{
+"n": "Co'efficience 3",
+"w": "coefficience3.fr",
+"c": "consulting",
+"r": "consulting firm"
+},
+{
+"n": "CO-CTO",
+"w": "co-cto.fr",
+"c": "consulting",
+"r": "CTO time-sharing"
+},
+{
+"n": "COCO Community",
+"w": "coco-community.com",
+"c": "shop",
+"r": "serviced apartments"
+},
+{
+"n": "Cocoworker",
+"w": "cocoworker.com",
+"c": "invalid",
+"r": "spam gambling text"
+},
+{
+"n": "CODAGE Paris",
+"w": "codageparis.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Codyssée",
+"w": "codyssee.paris",
+"c": "other",
+"r": "tech production companies ecosystem"
+},
+{
+"n": "COFARCO",
+"w": "cofarco.com",
+"c": "broker",
+"r": "credit insurance structuring"
+},
+{
+"n": "Cokau Lab",
+"w": "cokaulab.com",
+"c": "agency",
+"r": "film directing studio"
+},
+{
+"n": "ColAAb ART + FUNCTION",
+"w": "colaab-paris.com",
+"c": "brand",
+"r": "art publishing house"
+},
+{
+"n": "Collectif Corpuscule",
+"w": "collectifcorpuscule.fr",
+"c": "nonprofit",
+"r": "theater collective"
+},
+{
+"n": "Collective Camp",
+"w": "collective.camp",
+"c": "other",
+"r": "vague mission, unclear"
+},
+{
+"n": "ComboCombo®",
+"w": "combocombo.ai",
+"c": "agency",
+"r": "AI creative production studio"
+},
+{
+"n": "COME&WORK",
+"w": "comeandwork.com",
+"c": "shop",
+"r": "private office rental"
+},
+{
+"n": "COMEDIE OBERKAMPF",
+"w": "comedieoberkampf.com",
+"c": "shop",
+"r": "cinema theater"
+},
+{
+"n": "Command+F (⌘+F)",
+"w": "cmdf.io",
+"c": "nonprofit",
+"r": "meetup organizer"
+},
+{
+"n": "Communauto France",
+"w": "paris.communauto.com",
+"c": "trade",
+"r": "carsharing operator"
+},
+{
+"n": "Compagnie Daniko",
+"w": "billetreduc.com",
+"c": "nonprofit",
+"r": "theater company"
+},
+{
+"n": "Compar:IA",
+"w": "comparia.beta.gouv.fr",
+"c": "other",
+"r": "government AI comparison platform"
+},
+{
+"n": "Compass",
+"w": "compass.theschoolab.com",
+"c": "consulting",
+"r": "student orientation coaching"
+},
+{
+"n": "COMPLICE MUSIC",
+"w": "complicemusic.com",
+"c": "agency",
+"r": "music production publisher"
+},
+{
+"n": "Comptoir du",
+"w": "comptoirdu16.eatbu.com",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "Concordia Bilingual School Paris",
+"w": "concordiaschoolparis.com",
+"c": "nonprofit",
+"r": "private school"
+},
+{
+"n": "Condensé Paris",
+"w": "condense-paris.com",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "CONSEIL 3D",
+"w": "conseil3d.com",
+"c": "agency",
+"r": "3D/VR development services"
+},
+{
+"n": "Contournement",
+"w": "contournement.io",
+"c": "other",
+"r": "no-code services, agency-like"
+},
+{
+"n": "Contribution",
+"w": "contribution.co",
+"c": "broker",
+"r": "investment fund"
+},
+{
+"n": "Convives",
+"w": "convives.fr",
+"c": "agency",
+"r": "event website design"
+},
+{
+"n": "COOKIDICTION - American cookies in Paris",
+"w": "cookidiction.com",
+"c": "food",
+"r": "cookie shop"
+},
+{
+"n": "COOKOON",
+"w": "cookoon.club",
+"c": "food",
+"r": "private chef experiences"
+},
+{
+"n": "Cool & Workers",
+"w": "coolandworkers.com",
+"c": "shop",
+"r": "coworking space"
+},
+{
+"n": "Cool Parents Make Happy Kids",
+"w": "coolparentsmakehappykids.com",
+"c": "consulting",
+"r": "parent coaching/training"
+},
+{
+"n": "Cooperative Indigo",
+"w": "donnons.org",
+"c": "nonprofit",
+"r": "non-profit"
+},
+{
+"n": "Coopérative Carbone Paris & Métropole du Grand Paris",
+"w": "coopcarbone-parismetropole.fr",
+"c": "nonprofit",
+"r": "carbon cooperative"
+},
+{
+"n": "Coopérative Oasis",
+"w": "cooperative-oasis.org",
+"c": "nonprofit",
+"r": "cooperative"
+},
+{
+"n": "Core Security",
+"w": "core.security",
+"c": "consulting",
+"r": "vCISO and managed services"
+},
+{
+"n": "Corecyclage",
+"w": "corecyclage.fr",
+"c": "trade",
+"r": "reuse/waste service operator"
+},
+{
+"n": "Corico, SAS",
+"w": "africafilms.tv",
+"c": "other",
+"r": "consultancy plus VOD platform"
+},
+{
+"n": "CORPUS STUDIO",
+"w": "corpus.studio",
+"c": "agency",
+"r": "architecture design studio"
+},
+{
+"n": "Cosima",
+"w": "cosima.eu",
+"c": "shop",
+"r": "senior living residences"
+},
+{
+"n": "Costockage",
+"w": "costockage.fr",
+"c": "shop",
+"r": "self-storage operator"
+},
+{
+"n": "COZEN",
+"w": "cozen.energy",
+"c": "consulting",
+"r": "energy savings services"
+},
+{
+"n": "Cozie I Certifiée B Corp & Cosmébio",
+"w": "cozie-bio.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Crazy Voyages",
+"w": "crazy-voyages.com",
+"c": "shop",
+"r": "bachelor trip travel agency"
+},
+{
+"n": "Creatis",
+"w": "residencecreatis.fr",
+"c": "nonprofit",
+"r": "culture/media innovation hub"
+},
+{
+"n": "croco du marais",
+"w": "thewellnesspro.co.uk",
+"c": "food",
+"r": "bar restaurant"
+},
+{
+"n": "CRYPTO TABOO",
+"w": "cryptotaboo.xyz",
+"c": "agency",
+"r": "crypto content agency"
+},
+{
+"n": "Ctrl S",
+"w": "ctrls.studio",
+"c": "agency",
+"r": "digital agency"
+},
+{
+"n": "Cueillette Urbaine",
+"w": "cueilletteurbaine.com",
+"c": "food",
+"r": "urban farms"
+},
+{
+"n": "Cultivate",
+"w": "cultivate.fr",
+"c": "food",
+"r": "urban agriculture gastronomy"
+},
+{
+"n": "CUT BY FRED",
+"w": "cutbyfred.com",
+"c": "brand",
+"r": "hair care brand"
+},
+{
+"n": "Cuure",
+"w": "cuure.com",
+"c": "brand",
+"r": "supplements brand"
+},
+{
+"n": "Cuvée Privée",
+"w": "cuvee-privee.com",
+"c": "food",
+"r": "wine adoption shop"
+},
+{
+"n": "Cyber Experts 🏰",
+"w": "cyberexperts.io",
+"c": "consulting",
+"r": "cybersecurity consulting"
+},
+{
+"n": "CyberLead",
+"w": "cyberlead.fr",
+"c": "consulting",
+"r": "cybersecurity consulting"
+},
+{
+"n": "CyberTribe",
+"w": "cybertribe.fr",
+"c": "consulting",
+"r": "human cybersecurity training"
+},
+{
+"n": "cycl'emouv",
+"w": "cyclemouv.fr",
+"c": "other",
+"r": "bike leasing service"
+},
+{
+"n": "CYCLES DELCAYRE",
+"w": "cyclesdelcayre.fr",
+"c": "shop",
+"r": "bike shop"
+},
+{
+"n": "Cycloponics",
+"w": "cycloponics.co",
+"c": "food",
+"r": "urban farming"
+},
+{
+"n": "CYD",
+"w": "conqueryourday.com",
+"c": "trade",
+"r": "office fit-out contractor"
+},
+{
+"n": "CYWYC",
+"w": "cywyc.fr",
+"c": "agency",
+"r": "customer relations outsourcing"
+},
+{
+"n": "CØR Studio",
+"w": "cor-studio.fr",
+"c": "shop",
+"r": "studio venue rental"
+},
+{
+"n": "D18 Paris",
+"w": "d18paris.com",
+"c": "agency",
+"r": "audiovisual production company"
+},
+{
+"n": "dach&zephir",
+"w": "dachzephir.com",
+"c": "brand",
+"r": "design duo"
+},
+{
+"n": "Dalibo",
+"w": "dalibo.com",
+"c": "other",
+"r": "PostgreSQL support and services"
+},
+{
+"n": "Dame Products",
+"w": "dameproducts.com",
+"c": "brand",
+"r": "sex toys brand"
+},
+{
+"n": "Danamé",
+"w": "daname.fr",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "Dancefloor Paris",
+"w": "dancefloor-paris.com",
+"c": "shop",
+"r": "dance studio"
+},
+{
+"n": "Danone Communities",
+"w": "danonecommunities.com",
+"c": "broker",
+"r": "impact fund"
+},
+{
+"n": "Dans la tête d'un(e) CEO",
+"w": "creators.spotify.com",
+"c": "nonprofit",
+"r": "podcast"
+},
+{
+"n": "DASTERIA",
+"w": "dasteria.com",
+"c": "broker",
+"r": "investment holding"
+},
+{
+"n": "datacraft",
+"w": "datacraft.paris",
+"c": "nonprofit",
+"r": "data experts club"
+},
+{
+"n": "DATANALYSE",
+"w": "datanalyse.fr",
+"c": "consulting",
+"r": "data consulting services"
+},
+{
+"n": "Datapp",
+"w": "datapp.fr",
+"c": "agency",
+"r": "custom mobile app development"
+},
+{
+"n": "Davai",
+"w": "davai.co",
+"c": "agency",
+"r": "technology services company"
+},
+{
+"n": "Davey Bickford Defense",
+"w": "db-defense.com",
+"c": "trade",
+"r": "pyrotechnic manufacturer"
+},
+{
+"n": "Day One (Ex Kolabee)",
+"w": "kolabee.com",
+"c": "consulting",
+"r": "skills sponsorship consulting"
+},
+{
+"n": "DB-Lab",
+"w": "db-lab.io",
+"c": "other",
+"r": "BIM platforms with tailor-made dev"
+},
+{
+"n": "DE VINIS ILLUSTRIBUS",
+"w": "devinis.fr",
+"c": "shop",
+"r": "wine retail store"
+},
+{
+"n": "Dealbydeal Invest",
+"w": "dealbydeal.com",
+"c": "broker",
+"r": "private equity"
+},
+{
+"n": "Decode Media",
+"w": "decode.media",
+"c": "nonprofit",
+"r": "media company"
+},
+{
+"n": "Deep Inside Escape Game",
+"w": "deepinsideparis.fr",
+"c": "shop",
+"r": "escape game venue"
+},
+{
+"n": "DeepTech Innov",
+"w": "deeptechinnov.fr",
+"c": "consulting",
+"r": "innovation support"
+},
+{
+"n": "Deeya Paris",
+"w": "deeyaparis.com",
+"c": "shop",
+"r": "fashion boutique"
+},
+{
+"n": "Dekatria",
+"w": "dekatria.fr",
+"c": "broker",
+"r": "insurance underwriting agency"
+},
+{
+"n": "DELAMOUR",
+"w": "delamour-paris.com",
+"c": "brand",
+"r": "pet food brand"
+},
+{
+"n": "Delicorner",
+"w": "delicorner.co",
+"c": "food",
+"r": "fruit snack subscription"
+},
+{
+"n": "DELUSION",
+"w": "delusion.fr",
+"c": "other",
+"r": "VR experience studio"
+},
+{
+"n": "DEMAIN BEAUTY",
+"w": "demainbeauty.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Dental-in",
+"w": "dental-in-paris-15.fr",
+"c": "shop",
+"r": "dental center"
+},
+{
+"n": "Deromedi Carrières et Matériaux",
+"w": "deromedicarrieres.fr",
+"c": "trade",
+"r": "quarry materials"
+},
+{
+"n": "DESKOPOLITAN",
+"w": "deskopolitan.com",
+"c": "shop",
+"r": "coworking spaces"
+},
+{
+"n": "DESTREE",
+"w": "destree.com",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "Detroit — AI Production House",
+"w": "detroit.paris",
+"c": "agency",
+"r": "AI production house"
+},
+{
+"n": "Deuxième Maman",
+"w": "deuxiememaman.com",
+"c": "shop",
+"r": "babysitting agency"
+},
+{
+"n": "DEV FIGHTERS",
+"w": "dev-fighters.fr",
+"c": "agency",
+"r": "app development agency"
+},
+{
+"n": "DevFactory Studio",
+"w": "devfactory.studio",
+"c": "agency",
+"r": "dev studio for clients"
+},
+{
+"n": "Devinez Epicerie fine - Cave",
+"w": "devinez.fr",
+"c": "shop",
+"r": "delicatessen wine shop"
+},
+{
+"n": "Digital Music Solutions",
+"w": "nomadplay.io",
+"c": "other",
+"r": "music label plus practice app"
+},
+{
+"n": "DIGITAL PARENTING FOUNDATION",
+"w": "digitalparentingfoundation.org",
+"c": "nonprofit",
+"r": "foundation"
+},
+{
+"n": "Digital Rise",
+"w": "digital-rise.com",
+"c": "agency",
+"r": "immersive experience studio"
+},
+{
+"n": "Digital Sport Santé",
+"w": "digitalsportsante.fr",
+"c": "consulting",
+"r": "sport-health consulting"
+},
+{
+"n": "Digital-village.fr",
+"w": "digital-village.fr",
+"c": "shop",
+"r": "coworking space"
+},
+{
+"n": "Digital4All - Partenaire de votre transformation digitale",
+"w": "digital4all.fr",
+"c": "agency",
+"r": "IT support services"
+},
+{
+"n": "Diligo",
+"w": "diligo-solutions.com",
+"c": "trade",
+"r": "cargo bike delivery"
+},
+{
+"n": "DIM BioConvS",
+"w": "bioconvs.org",
+"c": "nonprofit",
+"r": "research initiative"
+},
+{
+"n": "DIM ELICIT",
+"w": "dim-elicit.fr",
+"c": "nonprofit",
+"r": "research network"
+},
+{
+"n": "Dimtech",
+"w": "111dimtech.com",
+"c": "consulting",
+"r": "quantitative consulting"
+},
+{
+"n": "DIRECT Ô FONCIER",
+"w": "10-ls.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "DISGUYS®",
+"w": "disguys.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Distribrands Corp",
+"w": "distribrand.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Dive",
+"w": "divemagazine.com",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Diversification",
+"w": "diversification-production.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Diversion",
+"w": "diversionxr.com",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "DIVIE",
+"w": "divie.fr",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "DJI Store Paris",
+"w": "dji-paris.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "dMN",
+"w": "dmn.paris",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "DOC!",
+"w": "doc.work",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "DOCS ON THE ROAD",
+"w": "docsontheroad.fr",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Docteur B",
+"w": "docteurb.fr",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Dojocrea",
+"w": "dojo.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "DolceVitaHub",
+"w": "dolcevitahub.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "DoudouCare",
+"w": "doudoucare.com",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Drapo",
+"w": "drapo.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "dreamcorp",
+"w": "dreamcorp.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Dreamspark",
+"w": "dreamspark.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "DreamTakeoff : 1er e-incubateur® et 1er e-accélérateur®",
+"w": "dreamtakeoff.com",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "DRUST (acquired)",
+"w": "drust.com",
+"c": "invalid",
+"r": "acquired/closed"
+},
+{
+"n": "DS2E",
+"w": "ds2e.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "DUNE",
+"w": "duneassurances.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Dupsy",
+"w": "dupsy.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Dyjix",
+"w": "dyjix.eu",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Démocratie Ouverte",
+"w": "democratieouverte.org",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Dépan.pro",
+"w": "depan.pro",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "E.LEVEN",
+"w": "e-leven.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "E2R",
+"w": "e2r-paris.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "easaia",
+"w": "easaia.io",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Easy2Go",
+"w": "easy2go.fr",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "EASYRECRUE (Acquired by iCIMS)",
+"w": "easyrecrue.com",
+"c": "invalid",
+"r": "acquired/closed"
+},
+{
+"n": "Eat & Meet Bus",
+"w": "eatandmeetbus.com",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "EC2027 - Un Quinquennat pour l'Economie Circulaire",
+"w": "ec2027.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "ECAN - Blockchain & Emerging Technologies",
+"w": "ecan.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Echoradom",
+"w": "echoradom.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Eclosion",
+"w": "eclosion.solutions",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Ecocea Technologies",
+"w": "ecoceatechnologies.com",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Ecohesens",
+"w": "care-ecohesens.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Ecole Pasteur-Cnam de santé publique",
+"w": "ecole-pasteur.cnam.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "ECOLE SUEDOISE DE PARIS",
+"w": "svenskaskolanparis.com",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Ecoles Walt",
+"w": "ecolewalt.com",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "EcoTizen",
+"w": "ecotizen.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "ECOX",
+"w": "ecox.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Ecône",
+"w": "econe.co",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Eden Studio",
+"w": "edenstudioparis.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "EDER GAZON HYDROGÈNE",
+"w": "eder-gazon.com",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "Educademy",
+"w": "educademy.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "effigy-3D",
+"w": "effigy-3d.com",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Eggs & Co",
+"w": "eggsandco.fr",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "EHPAD-RESSOURCES",
+"w": "ehpadressources.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "eiduloa",
+"w": "eiduloa.fr",
+"c": "invalid",
+"r": "acquired/closed"
+},
+{
+"n": "EIFFELVET",
+"w": "eiffelvet.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Eiko Energie",
+"w": "eikoenergie.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "EISKO",
+"w": "eisko.com",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Ekinox",
+"w": "ekinox.io",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Elearning FORMALIS",
+"w": "elearningformalis.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Electro Posé",
+"w": "electro-pose.com",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Eleni Group",
+"w": "eleni-group.com",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "ELEPHAS Paris® l 🐘 🌍 Wildlife regenerative brand",
+"w": "elephas.fr",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Elia Lingerie",
+"w": "elia-lingerie.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Elio Robot",
+"w": "elio-robot.fr",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "ELIOVA",
+"w": "eliova.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Ellii",
+"w": "ellii.net",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Elmut",
+"w": "elmut.fr",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Elysia by Inwood Hotels",
+"w": "hotelelysia.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "EMERGENCE fonds d'accélération",
+"w": "emergence-acceleration.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "EMOJI",
+"w": "emoji.paris",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Encore Mieux",
+"w": "encore-mieux.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "EnergieSprong FR",
+"w": "energiesprong.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "energum.earth",
+"w": "energum.earth",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "ENERGYDESIGN",
+"w": "energydesign.fr",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "Enersweet",
+"w": "enersweet.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "ENFANCE PARIS",
+"w": "enfance-paris.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Enthéos",
+"w": "entheos-investissement.fr",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Entre nos lèvres",
+"w": "entrenoslevres.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "entremains",
+"w": "entremains.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Entreprendre&+",
+"w": "entreprendreetplus.org",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Entrepreneurs pour la Vie",
+"w": "en-vie.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Entrepreneur·e·s d'intérêt général (EIG)",
+"w": "eig.numerique.gouv.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "ENTREPRISE FRANCOIS",
+"w": "entreprisefrancois-menuiserie-fenetre.fr",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "Entreprise Musique",
+"w": "entreprisemusique.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "EONA-X",
+"w": "eona-x.eu",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "EP7",
+"w": "ep7.paris",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Epopia",
+"w": "epopia.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Epycure Laboratoire",
+"w": "epycure.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Equinox - Collectible Card Games publisher",
+"w": "equinox.fr",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Esclaibes International Schools",
+"w": "esclaibesschools.com",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "ESPACE BALARD",
+"w": "espacebalard.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Espace Natal",
+"w": "espace-natal.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "ESPACES DIDEROT - SCI DIDEROT RENAISSANCE",
+"w": "espaces-diderot.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "ESSEC MA",
+"w": "info.essec.edu",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Etche France",
+"w": "etchegroup.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Ethitra",
+"w": "ethitra.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Etude Lepic",
+"w": "etudelepic.fr",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "EURO CYBER GROUP",
+"w": "eurocybergroup.fr",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "EuroPass - 欧洲通",
+"w": "europass.paris",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "European Network for Women in Leadership (WIL Europe)",
+"w": "wileurope.org",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "European Startup Prize for Mobility",
+"w": "startupprize.eu",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Eutopia",
+"w": "eutopia.vc",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "ever-T | Groupe WOLD & EDG",
+"w": "ever-t.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Evevest",
+"w": "evevest.fr",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Evoleum",
+"w": "evoleum.fr",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "EvolveWorkplace",
+"w": "evolve-workplace.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "EX NIHILO PARIS",
+"w": "ex-nihilo-paris.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Excellent®",
+"w": "excellentburger.com",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "Expansion Ventures",
+"w": "expansion-vc.eu",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "EXPEN",
+"w": "expen.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "EXTEND PARIS",
+"w": "extend.paris",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Extensee",
+"w": "extensee.com",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "EYESHOW Le Marais",
+"w": "eyeshow.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "F. PETITJEAN & Associés",
+"w": "fpimmobilier.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "F2R2",
+"w": "f2r2.fr",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "F8 Architecture & Engineering",
+"w": "f8architecture.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "FabWorkplace",
+"w": "fabworkplace.com",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Factio",
+"w": "agencefactio.com",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Fairanova",
+"w": "fairanova.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Famileat",
+"w": "famileat.fr",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "Famille C Participations",
+"w": "famillec-participations.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Family Ventures",
+"w": "familyventures.vc",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Farmers",
+"w": "wearefarmers.fr",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Fauve",
+"w": "fauve-paris.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "FAVA",
+"w": "befava.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "FCI Immobilier",
+"w": "fci-immobilier.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "FEELING SPORTS",
+"w": "feelingsports.com",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Felicity",
+"w": "felicity-dating.fr",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Femmes des Territoires",
+"w": "femmesdesterritoires.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Femtech France",
+"w": "femtechfrance.org",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Fera Capital",
+"w": "feracapital.fr",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Fermes and Co",
+"w": "fermesandco.fr",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "Feï",
+"w": "feiparis.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "FFFACE.ME",
+"w": "ffface.me",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "FICHET Paris 8ème Europe Serrurerie",
+"w": "europe-serrurerie.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Fichu",
+"w": "fichuparis.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Fidem.paris",
+"w": "fidem-paris.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Fifteen Advisory",
+"w": "fifteen-advisory.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "FIGS Lab",
+"w": "figs-lab.com",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Finestate",
+"w": "finestate.eu",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "FINOLI",
+"w": "finoli.fr",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "Firesquid",
+"w": "firesquid.games",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Fissa 🐆",
+"w": "fissa.run",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Fiters",
+"w": "fiters.co",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Five Nines",
+"w": "five9s.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "fivebyfive.io",
+"w": "fivebyfive.io",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Flat Pixel",
+"w": "flatpixel.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "FLEETER",
+"w": "fleeter.fr",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Flexliving",
+"w": "flexliving.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "FLEXY MOOV",
+"w": "flexymoov.fr",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "Flight in Paris",
+"w": "flightinparis.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Flipper Immo",
+"w": "flipper.immo",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Flora Lab Paris",
+"w": "floralabparis.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Flushy",
+"w": "flushy.co",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "FOCUS Not'​",
+"w": "focus-not.net",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "FONCIERE 7 INVESTISSEMENT",
+"w": "fonciere7investissement.fr",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Fondation des solidarités urbaines",
+"w": "fondationsolidaritesurbaines.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Food Analytics",
+"w": "foodanalytics.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Food7Go",
+"w": "food7go.com",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "For A Better World",
+"w": "forabetterworld.io",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "FOR ME LAB",
+"w": "formelab.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "forlife. Paris",
+"w": "forlife-paris.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "France AutoTech startups association",
+"w": "franceautotech.org",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "France Deeptech",
+"w": "francedeeptech.org",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "FRANCE NOUVELLES ENERGIES",
+"w": "fne2050.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "France Quantum",
+"w": "francequantum.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "FRANCE SILVER ECO",
+"w": "filieresilvereconomie.fr",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "France-IX",
+"w": "franceix.net",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "franck.video",
+"w": "franck.video",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Franklin Pet Food",
+"w": "franklinpetfood.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "François Brugel Architectes Associés",
+"w": "fb-architectes.fr",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "Free Persephone | Beauty Social Club Paris",
+"w": "freepersephone.com",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "FREEBIRD",
+"w": "free-bird.fr",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "Freedom Portage",
+"w": "freedomportage.com",
+"c": "consulting",
+"r": "consulting/advisory"
+},
+{
+"n": "FRENCH ABROAD",
+"w": "frenchabroadparis.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "FRENCH BLOOM",
+"w": "frenchbloom.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Frenchshield",
+"w": "frenchshield.paris",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "FRIDGE STUDIO",
+"w": "fridge.paris",
+"c": "shop",
+"r": "physical shop/local service"
+},
+{
+"n": "Frison Scooter",
+"w": "frisonscooter.com",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "FRNCH PARIS",
+"w": "frnch.fr",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Frst",
+"w": "frst.vc",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "FUGU - Event Architects Specialists",
+"w": "fugustructures.com",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "Funkie",
+"w": "funkie.fr",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "Future4care",
+"w": "future4care.com",
+"c": "nonprofit",
+"r": "association/school/incubator/media"
+},
+{
+"n": "Fuzed",
+"w": "fuzed.com",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "fWE - Water Asset Developer",
+"w": "waterassetdeveloper.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "G. Ventures",
+"w": "gventures.co",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Galaen Paris",
+"w": "galaenparis.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "GALENIC COSMETICS LABORATORY",
+"w": "galenic.com",
+"c": "brand",
+"r": "brand/consumer goods"
+},
+{
+"n": "Galiena Capital",
+"w": "galiena-capital.com",
+"c": "broker",
+"r": "broker/investment/real estate"
+},
+{
+"n": "Galifar Delivery",
+"w": "galifar.fr",
+"c": "trade",
+"r": "traditional business/distribution"
+},
+{
+"n": "Gapianne",
+"w": "gapianne.com",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "GARNI",
+"w": "garniparis.fr",
+"c": "food",
+"r": "food/restaurant"
+},
+{
+"n": "Gaussian AI",
+"w": "gogaussian.ai",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "GAY PROPOSAL IN PARIS",
+"w": "gayproposalinparis.com",
+"c": "agency",
+"r": "agency/production/IT services"
+},
+{
+"n": "GAYA",
+"w": "gaya.bike",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "GeeS",
+"w": "gees.games",
+"c": "other",
+"r": "ambiguous consumer/service with app"
+},
+{
+"n": "GENEO Capital Entrepreneur",
+"w": "geneocapitalentrepreneur.com",
+"c": "broker",
+"r": "investment firm"
+},
+{
+"n": "Gensai",
+"w": "gensai.ai",
+"c": "agency",
+"r": "custom dev studio"
+},
+{
+"n": "Gentlemen 1919",
+"w": "gentlemen1919.com",
+"c": "shop",
+"r": "concept store"
+},
+{
+"n": "GEOMINNOV'",
+"w": "geominnov.com",
+"c": "other",
+"r": "renovation 'solution' unclear"
+},
+{
+"n": "Get The Sound",
+"w": "getthesoundrecords.com",
+"c": "nonprofit",
+"r": "music collective/label"
+},
+{
+"n": "GigotinStudio",
+"w": "gigotinstudio.com",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "Gino's",
+"w": "ginos.fr",
+"c": "shop",
+"r": "pet shop/grooming"
+},
+{
+"n": "Girls & Tech",
+"w": "beacons.ai",
+"c": "nonprofit",
+"r": "mentoring/association"
+},
+{
+"n": "GIS IBiSA",
+"w": "ibisa.net",
+"c": "nonprofit",
+"r": "mentoring/association"
+},
+{
+"n": "Glass Surface Technology",
+"w": "glasssurfacetechnology.com",
+"c": "other",
+"r": "packaging expertise/consulting"
+},
+{
+"n": "GLOSS'UP & ROSE CARTEL",
+"w": "gloss-up.com",
+"c": "shop",
+"r": "nail studio"
+},
+{
+"n": "GLS L'assurances",
+"w": "lassurances.com",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Glytch Cybersécurité",
+"w": "glytch.io",
+"c": "consulting",
+"r": "cybersecurity services firm"
+},
+{
+"n": "GNCA - Groupement National des Courtiers d'Assurances",
+"w": "gnca.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Go Fusion",
+"w": "gofusion.fr",
+"c": "other",
+"r": "AI consulting plus platform"
+},
+{
+"n": "Go2roues",
+"w": "go2roues.com",
+"c": "shop",
+"r": "bike/moto showroom"
+},
+{
+"n": "Golden",
+"w": "goldens.fr",
+"c": "agency",
+"r": "content/digital studio"
+},
+{
+"n": "Golden Pixel Company",
+"w": "goldenpixel.company",
+"c": "agency",
+"r": "content/digital studio"
+},
+{
+"n": "GOQOU",
+"w": "goqou.com",
+"c": "other",
+"r": "cloud ops team, unclear product"
+},
+{
+"n": "GRAAM",
+"w": "chezgraam.fr",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Grammatical",
+"w": "grammatical-paris.com",
+"c": "brand",
+"r": "publishing/prints brand"
+},
+{
+"n": "Granny & Charly",
+"w": "grannycharly.fr",
+"c": "other",
+"r": "home care service for seniors"
+},
+{
+"n": "Graphbox",
+"w": "graphbox.com",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "GREEN COMMODITIES",
+"w": "greencommodities.fr",
+"c": "trade",
+"r": "recycled materials trader"
+},
+{
+"n": "Green On",
+"w": "green-on.fr",
+"c": "trade",
+"r": "bike leasing/ EV rental"
+},
+{
+"n": "GreenMotorShop",
+"w": "greenmotorshop.com",
+"c": "shop",
+"r": "bike/moto showroom"
+},
+{
+"n": "Greenmove",
+"w": "greenmove.fr",
+"c": "trade",
+"r": "bike leasing/ EV rental"
+},
+{
+"n": "GreenPods",
+"w": "greenpods.ag",
+"c": "food",
+"r": "farm developer"
+},
+{
+"n": "Greenspace Coworking",
+"w": "greenspace-coworking.com",
+"c": "shop",
+"r": "coworking/office spaces"
+},
+{
+"n": "Groupe EndLess",
+"w": "endless.fr",
+"c": "trade",
+"r": "waste treatment/construction"
+},
+{
+"n": "Groupe ESPACE 2",
+"w": "espace2.fr",
+"c": "broker",
+"r": "property developer"
+},
+{
+"n": "Groupe Investisseurs 3.0",
+"w": "investisseurs30.com",
+"c": "broker",
+"r": "financial education/investment"
+},
+{
+"n": "Groupe Levantine",
+"w": "levantine.paris",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Groupe NEXEAU",
+"w": "nexeau.eu",
+"c": "trade",
+"r": "leak detection network"
+},
+{
+"n": "Groupe WS | Work & Sleep",
+"w": "workandsleep.fr",
+"c": "shop",
+"r": "coworking/office spaces"
+},
+{
+"n": "GROW.Group",
+"w": "grow-group.fr",
+"c": "consulting",
+"r": "holding/consulting group"
+},
+{
+"n": "Grünt",
+"w": "gruntmag.com",
+"c": "nonprofit",
+"r": "media outlet"
+},
+{
+"n": "Guardly",
+"w": "guardly.com",
+"c": "agency",
+"r": "DevOps agency"
+},
+{
+"n": "Gustave",
+"w": "gustave-auto.com",
+"c": "shop",
+"r": "car concierge service"
+},
+{
+"n": "Gustave & Rosalie",
+"w": "grmedia.fr",
+"c": "nonprofit",
+"r": "media outlet"
+},
+{
+"n": "Guy Hoquet Paris 11 Oberkampf République",
+"w": "paris-11-oberkampf.guy-hoquet.com",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Gwendog Toilettage",
+"w": "gwendog.fr",
+"c": "shop",
+"r": "pet shop/grooming"
+},
+{
+"n": "GYL",
+"w": "gylbag.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Gyneika",
+"w": "gyneika.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "GYNELIA SANTE FEMMES",
+"w": "gynelia.com",
+"c": "shop",
+"r": "medical center/clinic"
+},
+{
+"n": "Gynécée",
+"w": "gynecee.com",
+"c": "shop",
+"r": "medical center/clinic"
+},
+{
+"n": "H2V",
+"w": "h2v.net",
+"c": "other",
+"r": "project developer, energy producer"
+},
+{
+"n": "H2watt",
+"w": "h2watt.energy",
+"c": "trade",
+"r": "PV/hydro developer-producer"
+},
+{
+"n": "Hamac la couche lavable",
+"w": "hamac-paris.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Hanalytics | Modern Data & Marketing Technologies",
+"w": "data-hanalytics.io",
+"c": "consulting",
+"r": "data consulting"
+},
+{
+"n": "Harel+Ocante",
+"w": "paris-se-quema.com",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "HAUTEUR LIBRE",
+"w": "hauteurlibre.com",
+"c": "consulting",
+"r": "office fitting consultancy"
+},
+{
+"n": "Havas Open Innovation",
+"w": "havasgroup.com",
+"c": "nonprofit",
+"r": "accelerator/angels club"
+},
+{
+"n": "HDW SEC",
+"w": "hdwsec.fr",
+"c": "consulting",
+"r": "cybersecurity services firm"
+},
+{
+"n": "HEC Business Angels",
+"w": "airtable.com",
+"c": "nonprofit",
+"r": "accelerator/angels club"
+},
+{
+"n": "HEC Paris | Accélérateur ESS",
+"w": "hec.edu",
+"c": "nonprofit",
+"r": "accelerator/angels club"
+},
+{
+"n": "HEGO Batignolles",
+"w": "hego.paris",
+"c": "shop",
+"r": "gym/fitness studio"
+},
+{
+"n": "Hellebore Capital (Paris)",
+"w": "helleborecapital.com",
+"c": "broker",
+"r": "fund/investment company"
+},
+{
+"n": "Hello Marcel",
+"w": "hellomarcel.be",
+"c": "agency",
+"r": "web agency"
+},
+{
+"n": "Hello Virtuoso",
+"w": "hellovirtuoso.com",
+"c": "consulting",
+"r": "online course/training"
+},
+{
+"n": "Hello You Paris - Food Bar",
+"w": "helloyouparis.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "HelloMyBot",
+"w": "hellomybot.io",
+"c": "invalid",
+"r": "spam description"
+},
+{
+"n": "HELX",
+"w": "helx.io",
+"c": "consulting",
+"r": "cybersecurity services firm"
+},
+{
+"n": "Heralbony",
+"w": "heralbony.jp",
+"c": "brand",
+"r": "Japanese art licensing company"
+},
+{
+"n": "Hermetica Paris",
+"w": "hermetica.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "HEUREUX LES CURIEUX",
+"w": "heureuxlescurieux.com",
+"c": "shop",
+"r": "retail concept pop-up"
+},
+{
+"n": "Heyvva Technologie",
+"w": "heyvva.fr",
+"c": "other",
+"r": "cross-border ecommerce service"
+},
+{
+"n": "Hi inov - Dentressangle",
+"w": "hiinov.com",
+"c": "broker",
+"r": "fund/investment company"
+},
+{
+"n": "Hi Kick",
+"w": "hi-kick.fr",
+"c": "shop",
+"r": "gym/fitness studio"
+},
+{
+"n": "HI Matic",
+"w": "hi-matic.net",
+"c": "invalid",
+"r": "illegal gambling"
+},
+{
+"n": "HiP Paris",
+"w": "hipparis.com",
+"c": "nonprofit",
+"r": "media outlet"
+},
+{
+"n": "Hiperium Corp",
+"w": "hirecords.com",
+"c": "agency",
+"r": "content/digital studio"
+},
+{
+"n": "Hiving",
+"w": "hiving.me",
+"c": "agency",
+"r": "content/digital studio"
+},
+{
+"n": "HOBA",
+"w": "hoba.paris",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "HOLDING 19 INVEST",
+"w": "holding19invest.com",
+"c": "broker",
+"r": "fund/investment company"
+},
+{
+"n": "HOLIDERMIE",
+"w": "holidermie.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Hometrix Health",
+"w": "aitio.co",
+"c": "consulting",
+"r": "AI adoption consulting"
+},
+{
+"n": "HopeStage",
+"w": "hopestage.com",
+"c": "nonprofit",
+"r": "community/association"
+},
+{
+"n": "Hors Normes",
+"w": "ateliers-horsnormes.fr",
+"c": "consulting",
+"r": "online course/training"
+},
+{
+"n": "Hotel le Mareuil",
+"w": "hotelmareuil.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Hotel Saint Petersbourg Paris",
+"w": "hotelsaintpetersbourg.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "hotel15Montparnasse",
+"w": "hotel-15-montparnasse.fr",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "HOY Hotel Paris",
+"w": "hoyparis.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Hugues Pouget Paris",
+"w": "hugovictor.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Hugy",
+"w": "hugy.co",
+"c": "brand",
+"r": "everyday goods brand"
+},
+{
+"n": "Human And Science",
+"w": "huandsci.com",
+"c": "other",
+"r": "protective device product for rowers"
+},
+{
+"n": "Human Portage",
+"w": "humanportage.com",
+"c": "consulting",
+"r": "portage/coaching/freelance admin"
+},
+{
+"n": "Humoon",
+"w": "humoon.fr",
+"c": "consulting",
+"r": "portage/coaching/freelance admin"
+},
+{
+"n": "HUMUS",
+"w": "humusfarm.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Huuuma - Office Manager Freelance",
+"w": "huuuma.com",
+"c": "consulting",
+"r": "portage/coaching/freelance admin"
+},
+{
+"n": "HUYGENS Paris",
+"w": "huygens.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Hybrid for Work",
+"w": "hybridforwork.com",
+"c": "shop",
+"r": "coworking/office spaces"
+},
+{
+"n": "Hydr.A",
+"w": "hydr-a.com",
+"c": "trade",
+"r": "PV/hydro developer-producer"
+},
+{
+"n": "Hydrology®",
+"w": "hydrology.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "HYDRONEO",
+"w": "hydroneo.com",
+"c": "trade",
+"r": "PV/hydro developer-producer"
+},
+{
+"n": "HYGÉE",
+"w": "hygee.co",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Hyléria",
+"w": "hyleriaparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Hyperlity",
+"w": "hyperlity.io",
+"c": "agency",
+"r": "ad trading desk/no-code studio"
+},
+{
+"n": "Hyperstack",
+"w": "hyperstack.studio",
+"c": "agency",
+"r": "ad trading desk/no-code studio"
+},
+{
+"n": "Hyvity",
+"w": "hyvity.com",
+"c": "other",
+"r": "water topic unclear"
+},
+{
+"n": "HÉOLEM",
+"w": "heolem.fr",
+"c": "consulting",
+"r": "environmental consultancy"
+},
+{
+"n": "Hôtel FABRIC",
+"w": "hotelfabric.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Hôtel l'Echiquier Opéra Paris - MGallery Collection",
+"w": "mgallery.accor.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Hôtel Le Six & Spa ****",
+"w": "hotel-le-six.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Hôtel Opéra Liège Paris",
+"w": "hotel-opera-liege-paris.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Hôtel Villa M Paris",
+"w": "hotelvillam-paris15.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "IAC.AI",
+"w": "iac.ai",
+"c": "other",
+"r": "AI services company unclear"
+},
+{
+"n": "iBionext",
+"w": "ibionext.com",
+"c": "nonprofit",
+"r": "accelerator/angels club"
+},
+{
+"n": "Ibis Paris Grands Boulevards Opéra 9ème",
+"w": "all.accor.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "iceRoll",
+"w": "iceroll.fr",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Ictyos",
+"w": "ictyos.com",
+"c": "trade",
+"r": "tannery"
+},
+{
+"n": "Idoption",
+"w": "idoption.ai",
+"c": "consulting",
+"r": "AI adoption consulting"
+},
+{
+"n": "IFTI PARIS",
+"w": "iftiparis.com",
+"c": "consulting",
+"r": "translation/language services"
+},
+{
+"n": "IHEIE - Institut des Hautes Études pour l'Innovation et l'Entrepreneuriat",
+"w": "iheie.minesparis.psl.eu",
+"c": "nonprofit",
+"r": "school/institute"
+},
+{
+"n": "Ikando Soutien Scolaire",
+"w": "ikando.com",
+"c": "consulting",
+"r": "online course/training"
+},
+{
+"n": "IKSYR PARIS",
+"w": "iksyrparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "ILIA GROUPE",
+"w": "ilia.fr",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Ilyine Paris",
+"w": "ilyineparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "IMA - Innovation Makers Alliance",
+"w": "ima-dt.org",
+"c": "nonprofit",
+"r": "consortium"
+},
+{
+"n": "IMAGIN'OFFICE",
+"w": "imaginoffice.com",
+"c": "shop",
+"r": "coworking/office spaces"
+},
+{
+"n": "Imagine Data",
+"w": "imagine-data.io",
+"c": "consulting",
+"r": "AI adoption consulting"
+},
+{
+"n": "Immersiv",
+"w": "immersiv.com.au",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "Immersive Display",
+"w": "immersive-display.com",
+"c": "brand",
+"r": "e-commerce shop of VR accessories"
+},
+{
+"n": "IMMOBILIERE PARIS 15",
+"w": "immobiliereparis15.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Impact Social Club",
+"w": "impact-social-club.com",
+"c": "nonprofit",
+"r": "community/association"
+},
+{
+"n": "Impact Studio",
+"w": "pardi-co.com",
+"c": "agency",
+"r": "collective for urban projects"
+},
+{
+"n": "Impactivist (ex Investir&+)",
+"w": "impactivist.co",
+"c": "broker",
+"r": "fund/investment company"
+},
+{
+"n": "In Haircare",
+"w": "inhaircare.co",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Indiana Capital",
+"w": "indiana-capital.com",
+"c": "broker",
+"r": "fund/investment company"
+},
+{
+"n": "Infinity Advertising",
+"w": "infinity-advertising.fr",
+"c": "other",
+"r": "retail media JV, ad platform"
+},
+{
+"n": "Infiniverse",
+"w": "infiniverse.fr",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "Infrastructure Services",
+"w": "infrastructure-services.fr",
+"c": "agency",
+"r": "IT services/infrastructure"
+},
+{
+"n": "Inizio Paris",
+"w": "inizioparis.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "INNEST",
+"w": "innest.fr",
+"c": "nonprofit",
+"r": "accelerator/angels club"
+},
+{
+"n": "Innov8 Lab",
+"w": "innov8-lab.fr",
+"c": "agency",
+"r": "custom dev studio"
+},
+{
+"n": "Innovation Factory",
+"w": "if-innovation.fr",
+"c": "consulting",
+"r": "innovation consulting"
+},
+{
+"n": "INNOVIE",
+"w": "innovie.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Inside Music",
+"w": "insidemusic.com",
+"c": "nonprofit",
+"r": "music collective/label"
+},
+{
+"n": "InSleepLab",
+"w": "insleeplab.fr",
+"c": "consulting",
+"r": "sleep services"
+},
+{
+"n": "Inspir3d Studio",
+"w": "inspir3d.io",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "Inspiraction",
+"w": "inspiraction.ro",
+"c": "nonprofit",
+"r": "school/institute"
+},
+{
+"n": "Institut de minéralogie, de physique des matériaux et de cosmochimie",
+"w": "impmc.sorbonne-universite.fr",
+"c": "nonprofit",
+"r": "school/institute"
+},
+{
+"n": "INSTITUT MADEMOISELLE",
+"w": "institut-mademoiselle.fr",
+"c": "shop",
+"r": "beauty institute"
+},
+{
+"n": "Intencity",
+"w": "intencity.fr",
+"c": "consulting",
+"r": "incubation/hosting advisory"
+},
+{
+"n": "Interactive Studio",
+"w": "interactive-studio.fr",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "interlude",
+"w": "interlude.media",
+"c": "agency",
+"r": "content/digital studio"
+},
+{
+"n": "Internest (acquired by EVA)",
+"w": "internest.fr",
+"c": "invalid",
+"r": "acquired startup"
+},
+{
+"n": "Inthy",
+"w": "inthy.com",
+"c": "trade",
+"r": "PV/hydro developer-producer"
+},
+{
+"n": "Inthy Energies",
+"w": "inthy-energies.com",
+"c": "trade",
+"r": "PV/hydro developer-producer"
+},
+{
+"n": "Intimately",
+"w": "intimatelyyouboudoir.com.au",
+"c": "shop",
+"r": "photography studio"
+},
+{
+"n": "Intuity",
+"w": "intuity.fr",
+"c": "consulting",
+"r": "cybersecurity services firm"
+},
+{
+"n": "Invest Conseil",
+"w": "ruven-office.com",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Investir dans l'ancien",
+"w": "investirdanslancien.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "IOWIZMI",
+"w": "iowizmi.fr",
+"c": "trade",
+"r": "waste treatment/construction"
+},
+{
+"n": "IQTHINGS",
+"w": "iqthings.fio.",
+"c": "agency",
+"r": "crowdsourcing digital agency"
+},
+{
+"n": "iRASSHAi Paris",
+"w": "irasshai.co",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "IRIS NOBLE",
+"w": "irisnoble.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "IRISÉ PARIS",
+"w": "irise-paris.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "IsAc Technology",
+"w": "isactechnology.com",
+"c": "trade",
+"r": "waste treatment/construction"
+},
+{
+"n": "ISALT",
+"w": "isalt-gestion.com",
+"c": "broker",
+"r": "investment firm"
+},
+{
+"n": "ISI SPA",
+"w": "isi-spa.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "IT2M",
+"w": "it2m.fr",
+"c": "trade",
+"r": "waste treatment/construction"
+},
+{
+"n": "ITAIA | Maintenance informatique 💻| Sécurité, Télétravail & Solutions Cloud ☁",
+"w": "itaia.eus",
+"c": "agency",
+"r": "IT services/infrastructure"
+},
+{
+"n": "ITCelerator",
+"w": "itcelerator.com",
+"c": "consulting",
+"r": "online course/training"
+},
+{
+"n": "Ithaque",
+"w": "ithaque-paris.fr",
+"c": "shop",
+"r": "photography studio"
+},
+{
+"n": "Jack Meal",
+"w": "jackmeal.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Jacqueline's Lab",
+"w": "jacquelineslab.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "jaiio",
+"w": "jaiio.fr",
+"c": "brand",
+"r": "second-hand fashion depot"
+},
+{
+"n": "JamaisSansElles",
+"w": "jamaissanselles.fr",
+"c": "nonprofit",
+"r": "community/association"
+},
+{
+"n": "Jane & Co",
+"w": "janeandco.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Japhy",
+"w": "japhy.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Jardin Perché - Sous les Fraises",
+"w": "jardin-perche.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Jason & Company",
+"w": "jasonandco.com",
+"c": "agency",
+"r": "custom dev studio"
+},
+{
+"n": "Jaïna Capital",
+"w": "jaina.fr",
+"c": "broker",
+"r": "fund/investment company"
+},
+{
+"n": "Jean-François Piège",
+"w": "xn--jeanfranoispiege-jpb.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Jeste",
+"w": "jeste.co",
+"c": "invalid",
+"r": "spam description"
+},
+{
+"n": "Jestia",
+"w": "jestia.fr",
+"c": "trade",
+"r": "nursing home group"
+},
+{
+"n": "Jeu de Matières",
+"w": "jeudematieres.com",
+"c": "other",
+"r": "textile surplus offering unclear"
+},
+{
+"n": "Jeudi 8",
+"w": "jeudi8.com",
+"c": "invalid",
+"r": "address only description"
+},
+{
+"n": "Jia Paris",
+"w": "jiaparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "JIGEN Interactive Studio",
+"w": "jigen.fr",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "Jikan",
+"w": "jikantechno.com",
+"c": "invalid",
+"r": "gibberish"
+},
+{
+"n": "JIMINI'S",
+"w": "jiminis.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Jitensha",
+"w": "jitensha.fr",
+"c": "shop",
+"r": "service/second-hand depot"
+},
+{
+"n": "JM HOST'INN",
+"w": "airbnyou.guestybookings.com",
+"c": "shop",
+"r": "vacation rental management"
+},
+{
+"n": "Jo&Co Label",
+"w": "joandco.fr",
+"c": "agency",
+"r": "content/digital studio"
+},
+{
+"n": "Jobotto",
+"w": "jobotto.fr",
+"c": "trade",
+"r": "robot distributor"
+},
+{
+"n": "JOD",
+"w": "jodcosmetics.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Joe (YC W22)",
+"w": "leonbetcasinoanalyse.com",
+"c": "invalid",
+"r": "spam description"
+},
+{
+"n": "Join Lion",
+"w": "lion.mariaschools.com",
+"c": "nonprofit",
+"r": "school/institute"
+},
+{
+"n": "JOMO PARIS",
+"w": "drinkjomo.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "JOONE Paris",
+"w": "joone.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Josy",
+"w": "josy.am",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Joyne",
+"w": "joyne-mariage.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Jubilé",
+"w": "jubile.fr",
+"c": "other",
+"r": "senior-focused mission company"
+},
+{
+"n": "JUL ET MAD Paris",
+"w": "juletmad.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "JULES & SHIM",
+"w": "julesetshim.com",
+"c": "invalid",
+"r": "spam description"
+},
+{
+"n": "jungle VR",
+"w": "junglevr.io",
+"c": "agency",
+"r": "3D/VFX or creative studio"
+},
+{
+"n": "JUNi* Armenian Bakery",
+"w": "junibakery.com",
+"c": "food",
+"r": "food brand/restaurant"
+},
+{
+"n": "Juniors ParisTech",
+"w": "paristech.fr",
+"c": "nonprofit",
+"r": "school/institute"
+},
+{
+"n": "Junko - Sustainable Business Ventures",
+"w": "junko.studio",
+"c": "consulting",
+"r": "innovation studio"
+},
+{
+"n": "JurisLogic",
+"w": "jurislogic.fr",
+"c": "other",
+"r": "legal education content"
+},
+{
+"n": "just avant.",
+"w": "just-avant.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Just In Case Paris",
+"w": "justincase.paris",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "JYMP",
+"w": "jymp-rope.com",
+"c": "shop",
+"r": "gym/fitness studio"
+},
+{
+"n": "JÖRO",
+"w": "joro-space.fr",
+"c": "shop",
+"r": "coworking/office spaces"
+},
+{
+"n": "Kaba Impact",
+"w": "kaba-impact.fr",
+"c": "other",
+"r": "carbon consulting plus platform"
+},
+{
+"n": "kabin",
+"w": "kabin.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Kalion.io (ex-Moneytag) | Unlocking Publishers' Value",
+"w": "kalion.io",
+"c": "agency",
+"r": "content syndication agency"
+},
+{
+"n": "Kamatz",
+"w": "kamatz.com",
+"c": "other",
+"r": "freelance matching service"
+},
+{
+"n": "Kamet Ventures",
+"w": "kametventures.com",
+"c": "broker",
+"r": "fund/investment company"
+},
+{
+"n": "Kaukana Ventures",
+"w": "kaukana-ventures.com",
+"c": "broker",
+"r": "VC studio/investor"
+},
+{
+"n": "Kawkab Recycle",
+"w": "kaoukab.fr",
+"c": "trade",
+"r": "scrap metal collection"
+},
+{
+"n": "KEEZE",
+"w": "keeze.co",
+"c": "shop",
+"r": "event venues"
+},
+{
+"n": "Kerala Ventures",
+"w": "kerala.vc",
+"c": "broker",
+"r": "venture capital"
+},
+{
+"n": "KHAIA",
+"w": "khaia.co",
+"c": "agency",
+"r": "ad/immersive creation agency"
+},
+{
+"n": "Ki M'aime Me Suive",
+"w": "kimaimemesuive.fr",
+"c": "agency",
+"r": "show production"
+},
+{
+"n": "KIA Ile de France Automobiles",
+"w": "kia-idfa.com",
+"c": "trade",
+"r": "car dealership"
+},
+{
+"n": "Kid Katana Records",
+"w": "kidkatana.com",
+"c": "agency",
+"r": "record label"
+},
+{
+"n": "KIDIBAM",
+"w": "kidibam.fr",
+"c": "brand",
+"r": "second-hand toys"
+},
+{
+"n": "Kidlee",
+"w": "kidlee.fr",
+"c": "shop",
+"r": "childcare service"
+},
+{
+"n": "Kids&Mamas",
+"w": "kidsnmamas.com",
+"c": "other",
+"r": "clothing swap service for brands"
+},
+{
+"n": "Kiiro",
+"w": "kiiro.fr",
+"c": "agency",
+"r": "data/cloud consulting services"
+},
+{
+"n": "Kilo Shop",
+"w": "kilo-shop.com",
+"c": "shop",
+"r": "vintage clothing store"
+},
+{
+"n": "Kilomètre25",
+"w": "kilometre25.fr",
+"c": "shop",
+"r": "cultural venue"
+},
+{
+"n": "Kiss Me in Paris",
+"w": "kissinparis.com",
+"c": "agency",
+"r": "wedding proposal planning"
+},
+{
+"n": "KLAM",
+"w": "klam.paris",
+"c": "shop",
+"r": "private office rental"
+},
+{
+"n": "Klytia Paris",
+"w": "klytia.paris",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "KOEO le pionnier du mécénat de compétences",
+"w": "koeo.net",
+"c": "nonprofit",
+"r": "ESUS skills sponsorship"
+},
+{
+"n": "Konexio",
+"w": "konexionetwork.com",
+"c": "invalid",
+"r": "description unrelated news"
+},
+{
+"n": "Kosmeo Analytics",
+"w": "kosmeo-a.com",
+"c": "agency",
+"r": "custom application development"
+},
+{
+"n": "KOSMOGO",
+"w": "kosmogo.com",
+"c": "other",
+"r": "custom software/database builder"
+},
+{
+"n": "KOZTO",
+"w": "kozto.fr",
+"c": "trade",
+"r": "building waste to furniture"
+},
+{
+"n": "KRNO",
+"w": "krno.fr",
+"c": "consulting",
+"r": "energy renovation advisory"
+},
+{
+"n": "Krème",
+"w": "kreme-paris.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Kurma Partners",
+"w": "kurmapartners.com",
+"c": "broker",
+"r": "venture capital group"
+},
+{
+"n": "Kurry Up",
+"w": "kurryup.fr",
+"c": "food",
+"r": "street food restaurants"
+},
+{
+"n": "KYTL Security",
+"w": "kytl.fr",
+"c": "other",
+"r": "cybersecurity services firm"
+},
+{
+"n": "K•Beauté Cosmetics",
+"w": "kbeaute.fr",
+"c": "brand",
+"r": "cosmetics retailer"
+},
+{
+"n": "L'Abordage Paris 8",
+"w": "labordageparis8.com",
+"c": "food",
+"r": "cafe restaurant"
+},
+{
+"n": "L'Accélérateur",
+"w": "dayonepartners.com",
+"c": "broker",
+"r": "startup investment"
+},
+{
+"n": "L'Aiguillage",
+"w": "aiguillage.paris",
+"c": "shop",
+"r": "art/exhibition venue"
+},
+{
+"n": "L'Appart de la Villette",
+"w": "lappartdelavillette.com",
+"c": "shop",
+"r": "event/coworking venue"
+},
+{
+"n": "L'ATELIER 13",
+"w": "latelier13.com",
+"c": "brand",
+"r": "fashion label"
+},
+{
+"n": "L'Atelier Digital",
+"w": "atelierdigital.io",
+"c": "agency",
+"r": "no-code web cooperative"
+},
+{
+"n": "L'atelier Notarial",
+"w": "latelier.notaires.fr",
+"c": "consulting",
+"r": "notary office"
+},
+{
+"n": "L'ATELIER PLANI",
+"w": "plani.studio",
+"c": "agency",
+"r": "post-production facility"
+},
+{
+"n": "L'Atelier Ramey",
+"w": "atelier-ramey.com",
+"c": "food",
+"r": "bar/cafe venue"
+},
+{
+"n": "L'Escapade-cosmetics",
+"w": "lescapade-cosmetics.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "L'Etablisienne",
+"w": "letablisienne.com",
+"c": "shop",
+"r": "DIY workshop space"
+},
+{
+"n": "L'Eternel Solidaire",
+"w": "eternel-solidaire.fr",
+"c": "nonprofit",
+"r": "neighbourhood association"
+},
+{
+"n": "L'Exception",
+"w": "lexception.com",
+"c": "brand",
+"r": "fashion boutique"
+},
+{
+"n": "L'Inattendu(e)",
+"w": "linattendue.fr",
+"c": "other",
+"r": "unclear social concept"
+},
+{
+"n": "L'Observatoire de la Fintech",
+"w": "fintech-metrix.com",
+"c": "nonprofit",
+"r": "fintech observatory"
+},
+{
+"n": "L'Orangerie d'Isabella",
+"w": "lorangeriedisabella.com",
+"c": "brand",
+"r": "upcycled fashion brand"
+},
+{
+"n": "L'ÉCLAIR DE GÉNIE",
+"w": "leclairdegenieshop.com",
+"c": "food",
+"r": "patisserie"
+},
+{
+"n": "L'École de la Convivialité",
+"w": "social-bar.org",
+"c": "consulting",
+"r": "convivality training school"
+},
+{
+"n": "La 20eme chaise",
+"w": "la20emechaise.org",
+"c": "nonprofit",
+"r": "local association"
+},
+{
+"n": "La BABILLO - Le QUIDITQUOI (L.E.A.P Paris 18ème)",
+"w": "lababillo.fr",
+"c": "shop",
+"r": "childcare place"
+},
+{
+"n": "La balance carbone",
+"w": "studio-enjeux.com",
+"c": "brand",
+"r": "physical climate card game"
+},
+{
+"n": "La Banque des Startups LCL",
+"w": "entrepreneur.lcl.fr",
+"c": "broker",
+"r": "bank"
+},
+{
+"n": "La Bouclette",
+"w": "la-bouclette.com",
+"c": "brand",
+"r": "haircare brand"
+},
+{
+"n": "La Bourse aux Livres",
+"w": "labourseauxlivres.fr",
+"c": "brand",
+"r": "second-hand book seller"
+},
+{
+"n": "La Boîte à Bac",
+"w": "laboiteabac.fr",
+"c": "other",
+"r": "revision content, edtech unclear"
+},
+{
+"n": "LA CAGE paris",
+"w": "lacageparis.fr",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "LA CHAMBRE DU MARAIS",
+"w": "lachambredumarais.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "LA CHANCE",
+"w": "lachance.paris",
+"c": "brand",
+"r": "furniture company"
+},
+{
+"n": "La Clinique des Femmes",
+"w": "lacliniquedesfemmes.com",
+"c": "shop",
+"r": "medical clinic"
+},
+{
+"n": "La Compagnie du Mieux Boire",
+"w": "lcmb.fr",
+"c": "food",
+"r": "spirits seller"
+},
+{
+"n": "La Culotte Parisienne",
+"w": "laculotteparisienne.com",
+"c": "brand",
+"r": "menstrual lingerie brand"
+},
+{
+"n": "La Fab.",
+"w": "la-fab.com",
+"c": "nonprofit",
+"r": "foundation art venue"
+},
+{
+"n": "La Fabe",
+"w": "la-fabe.fr",
+"c": "broker",
+"r": "property developer"
+},
+{
+"n": "La Fabrica",
+"w": "la-fabrica.fr",
+"c": "shop",
+"r": "hairdresser coworking"
+},
+{
+"n": "La Fabrique Du Canal",
+"w": "lafabriqueducanal.com",
+"c": "shop",
+"r": "ceramic workshop"
+},
+{
+"n": "La Fabrique Marais",
+"w": "fabrique-evenementielle.fr",
+"c": "shop",
+"r": "event venue"
+},
+{
+"n": "La Fabrique NOMADE",
+"w": "lafabriquenomade.com",
+"c": "nonprofit",
+"r": "refugee artisans association"
+},
+{
+"n": "La Fabrique Spinoza",
+"w": "fabriquespinoza.org",
+"c": "nonprofit",
+"r": "happiness movement"
+},
+{
+"n": "La Fabrique à Perspectives",
+"w": "lafabriqueaperspectives.fr",
+"c": "agency",
+"r": "3D rendering production"
+},
+{
+"n": "La Fonderie du 11ème",
+"w": "fonderie11.eu",
+"c": "shop",
+"r": "artists venue"
+},
+{
+"n": "La Fourche",
+"w": "ackerherz.de",
+"c": "brand",
+"r": "online supermarket"
+},
+{
+"n": "LA FRANGE À L ENVERS",
+"w": "lafrangealenvers.fr",
+"c": "shop",
+"r": "vintage consignment store"
+},
+{
+"n": "La French Tech Grand Paris",
+"w": "frenchtech-grandparis.com",
+"c": "nonprofit",
+"r": "ecosystem federation"
+},
+{
+"n": "LA GALPA",
+"w": "lagalpa.com",
+"c": "brand",
+"r": "knitwear brand"
+},
+{
+"n": "La Main Noire",
+"w": "lamainnoirecollective.com",
+"c": "food",
+"r": "latte brand"
+},
+{
+"n": "LA MAISON DES ENTREPRENEURS - Paris",
+"w": "maisondesentrepreneurs.fr",
+"c": "nonprofit",
+"r": "entrepreneur hub"
+},
+{
+"n": "La Maison du Canal - Régie de quartier Paris 10",
+"w": "lamaisonducanal.fr",
+"c": "nonprofit",
+"r": "neighbourhood association"
+},
+{
+"n": "La Manufacture",
+"w": "lamanufacture.fr",
+"c": "shop",
+"r": "venue"
+},
+{
+"n": "la marque en moins.",
+"w": "lamarqueenmoins.fr",
+"c": "brand",
+"r": "cleaning products brand"
+},
+{
+"n": "La Mouette Rieuse",
+"w": "lamouetterieuseparis.com",
+"c": "shop",
+"r": "bookstore"
+},
+{
+"n": "La Permanence",
+"w": "la-permanence.com",
+"c": "shop",
+"r": "coworking space"
+},
+{
+"n": "La Petite Place Le Marais",
+"w": "petiteplace.fr",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "LA PETITE ROCKETTE",
+"w": "lapetiterockette.org",
+"c": "nonprofit",
+"r": "citizen association"
+},
+{
+"n": "La Pièce Paris",
+"w": "lapiece-paris.fr",
+"c": "brand",
+"r": "outdoor apparel"
+},
+{
+"n": "LA PLACE de l'immobilier",
+"w": "laplacedelimmobilier.com",
+"c": "other",
+"r": "real estate pro database"
+},
+{
+"n": "La Place Stratégique",
+"w": "laplacestrategique.fr",
+"c": "consulting",
+"r": "startup support advisory"
+},
+{
+"n": "La Place Verte - Oberkampf",
+"w": "placeverte.com",
+"c": "food",
+"r": "bar restaurant"
+},
+{
+"n": "La Playlist",
+"w": "laplaylist.com",
+"c": "agency",
+"r": "music design services"
+},
+{
+"n": "La Poussinade",
+"w": "la-poussinade.fr",
+"c": "shop",
+"r": "coworking space"
+},
+{
+"n": "La Preschool des Batignolles",
+"w": "preschoolbatignolles.com",
+"c": "nonprofit",
+"r": "preschool"
+},
+{
+"n": "La Trace 🧭",
+"w": "latrace.com",
+"c": "shop",
+"r": "travel agency"
+},
+{
+"n": "La.Sphère",
+"w": "lasphere.co",
+"c": "consulting",
+"r": "executive coaching"
+},
+{
+"n": "Lab School Paris",
+"w": "labschool.fr",
+"c": "nonprofit",
+"r": "school"
+},
+{
+"n": "Labdip",
+"w": "labdip.fr",
+"c": "brand",
+"r": "jeans brand"
+},
+{
+"n": "Label Phi",
+"w": "labelphi.com",
+"c": "other",
+"r": "consulting plus tech"
+},
+{
+"n": "Labise",
+"w": "labise-lb.com",
+"c": "consulting",
+"r": "online language school"
+},
+{
+"n": "Labo Blockchain",
+"w": "laboblockchain.com",
+"c": "agency",
+"r": "blockchain dev services"
+},
+{
+"n": "Laboratoire de la Bibliothèque à Paris",
+"w": "labodelabibliotheque.fr",
+"c": "shop",
+"r": "medical laboratory"
+},
+{
+"n": "Laboratoire Matériaux et Phénomènes Quantiques",
+"w": "mpq.u-paris.fr",
+"c": "nonprofit",
+"r": "research lab"
+},
+{
+"n": "Laboratoires Vetothera",
+"w": "vetopha.com",
+"c": "brand",
+"r": "pet care products"
+},
+{
+"n": "LABOTÉ",
+"w": "labote.com",
+"c": "brand",
+"r": "cosmetics lab brand"
+},
+{
+"n": "LACMÉ",
+"w": "lacmeprod.com",
+"c": "agency",
+"r": "production studio"
+},
+{
+"n": "Laflore Paris",
+"w": "lafloreparis.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "LaGuild",
+"w": "laguild.io",
+"c": "agency",
+"r": "freelance collective"
+},
+{
+"n": "LAIO",
+"w": "laio.fr",
+"c": "agency",
+"r": "advertising agency"
+},
+{
+"n": "LambdaConcept",
+"w": "lambdaconcept.com",
+"c": "other",
+"r": "custom hardware design services"
+},
+{
+"n": "Land&Monkeys - Boulangerie Coffee Shop",
+"w": "land-and-monkeys.com",
+"c": "food",
+"r": "bakery coffee shop"
+},
+{
+"n": "LaReserve.tech",
+"w": "bayesimpact.notion.site",
+"c": "nonprofit",
+"r": "civic program"
+},
+{
+"n": "LaSuite",
+"w": "lasuite.numerique.gouv.fr",
+"c": "nonprofit",
+"r": "public body workspace"
+},
+{
+"n": "Lazard Elaia Capital",
+"w": "lazardelaiacapital.com",
+"c": "broker",
+"r": "venture capital"
+},
+{
+"n": "laïzé - KIYODO",
+"w": "laizeparis.com",
+"c": "food",
+"r": "tea house restaurant"
+},
+{
+"n": "LCEET",
+"w": "lceet.eu",
+"c": "consulting",
+"r": "renewable project advisory"
+},
+{
+"n": "Le 13e Art - Le Théâtre de la Place d'Italie",
+"w": "le13emeart.com",
+"c": "shop",
+"r": "theatre venue"
+},
+{
+"n": "Le 18",
+"w": "le18oberkampf.fr",
+"c": "food",
+"r": "wine bar"
+},
+{
+"n": "Le 360",
+"w": "le360paris.com",
+"c": "food",
+"r": "concert venue restaurant"
+},
+{
+"n": "Le 3Bis",
+"w": "le3bis.com",
+"c": "shop",
+"r": "game venue bar"
+},
+{
+"n": "Le 9 Hotel",
+"w": "le9hotel.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "LE BLISS",
+"w": "blissparis.fr",
+"c": "shop",
+"r": "event venue"
+},
+{
+"n": "Le Cabinet de Curiosité Féminine",
+"w": "cabinetsdecuriosites.fr",
+"c": "invalid",
+"r": "unrelated dating description"
+},
+{
+"n": "Le Castor",
+"w": "lecastor.co",
+"c": "trade",
+"r": "urban cargo bike logistics"
+},
+{
+"n": "Le Chanvrier Francais",
+"w": "lechanvrierfrancais.com",
+"c": "brand",
+"r": "hemp products"
+},
+{
+"n": "LE CHEMISEUR®",
+"w": "lechemiseur.fr",
+"c": "other",
+"r": "shirt brand with AI sizing"
+},
+{
+"n": "Le Chic Français - Prêt à porter / Ready to wear & accessories 100% Made in France",
+"w": "lechicfrancais.fr",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "Le chocolat des Français",
+"w": "lechocolatdesfrancais.fr",
+"c": "food",
+"r": "chocolate maker"
+},
+{
+"n": "Le Club Edouard 7 - Yodex",
+"w": "clubedouard7.com",
+"c": "nonprofit",
+"r": "networking club"
+},
+{
+"n": "Le Comptoir Général",
+"w": "lecomptoirgeneral.com",
+"c": "food",
+"r": "bar restaurant"
+},
+{
+"n": "Le Follow 13",
+"w": "follow13.paris",
+"c": "shop",
+"r": "art gallery"
+},
+{
+"n": "Le Futur des Startup",
+"w": "lefuturdestartup.com",
+"c": "nonprofit",
+"r": "news blog"
+},
+{
+"n": "Le Garage Paris",
+"w": "legarageparis.com",
+"c": "nonprofit",
+"r": "community space"
+},
+{
+"n": "Le Gob",
+"w": "legob.fr",
+"c": "food",
+"r": "geek pub"
+},
+{
+"n": "Le Gorafi",
+"w": "legorafi.fr",
+"c": "nonprofit",
+"r": "satirical media"
+},
+{
+"n": "le gramme",
+"w": "legramme.com",
+"c": "brand",
+"r": "jewelry brand"
+},
+{
+"n": "Le Grand Quartier",
+"w": "legrandquartier.com",
+"c": "shop",
+"r": "venue"
+},
+{
+"n": "LE HASARD LUDIQUE",
+"w": "lehasardludique.paris",
+"c": "shop",
+"r": "cultural venue"
+},
+{
+"n": "Le Hub Colombus",
+"w": "lehub-colombus.com",
+"c": "agency",
+"r": "freelance network consulting"
+},
+{
+"n": "Le Lab Femmes De Cinéma",
+"w": "femmesdecinema.org",
+"c": "nonprofit",
+"r": "cinema association"
+},
+{
+"n": "Le Labo Paris",
+"w": "lelabo.paris",
+"c": "agency",
+"r": "film production"
+},
+{
+"n": "Le M. Musée du Vin - Paris 16.",
+"w": "lemparis.com",
+"c": "food",
+"r": "wine museum bar"
+},
+{
+"n": "Le Magasin Général",
+"w": "lemagasin-general.fr",
+"c": "shop",
+"r": "neighbourhood shop"
+},
+{
+"n": "Le Marais Mood",
+"w": "lemaraismood.fr",
+"c": "nonprofit",
+"r": "local media"
+},
+{
+"n": "Le Metropolitan, Paris Tour Eiffel, a Tribute Portfolio Hôtel",
+"w": "hotellemetropolitanparis.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Le Navire ⛵",
+"w": "lenavire.substack.com",
+"c": "nonprofit",
+"r": "crypto newsletter"
+},
+{
+"n": "Le Papondu",
+"w": "papondu.fr",
+"c": "food",
+"r": "egg alternative"
+},
+{
+"n": "Le Parc Labs",
+"w": "fleparc.com",
+"c": "broker",
+"r": "startup studio and VC"
+},
+{
+"n": "Le Patio Opéra",
+"w": "lepatio-opera.com",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "Le Point Zéro",
+"w": "le-pointzero.fr",
+"c": "trade",
+"r": "waste collection"
+},
+{
+"n": "Le Potager du Marais",
+"w": "lepotagerdumarais.fr",
+"c": "shop",
+"r": "tools retailer"
+},
+{
+"n": "Le Printemps des Terres",
+"w": "printempsdesterres.fr",
+"c": "broker",
+"r": "farmland acquisition"
+},
+{
+"n": "Le Projet Scala",
+"w": "lascala-paris.fr",
+"c": "shop",
+"r": "theatre venue"
+},
+{
+"n": "Le Quartier",
+"w": "le-quartier.eu",
+"c": "agency",
+"r": "event production"
+},
+{
+"n": "Le Reacteur",
+"w": "lereacteur.io",
+"c": "consulting",
+"r": "coding bootcamp"
+},
+{
+"n": "Le Rivage",
+"w": "lerivageparis.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "LE ROUGE FRANÇAIS",
+"w": "lerougefrancais.com",
+"c": "brand",
+"r": "makeup brand"
+},
+{
+"n": "Le Répertoire de Gaspard",
+"w": "lerepertoiredegaspard.com",
+"c": "shop",
+"r": "childcare provider"
+},
+{
+"n": "Le Sentier",
+"w": "lesentier.paris",
+"c": "nonprofit",
+"r": "district network"
+},
+{
+"n": "Le Shack",
+"w": "leshack.fr",
+"c": "shop",
+"r": "coworking venue"
+},
+{
+"n": "Le Shakirail",
+"w": "shakirail.curry-vavart.com",
+"c": "nonprofit",
+"r": "cultural collective"
+},
+{
+"n": "Le Smartsitting",
+"w": "lesmartsitting.fr",
+"c": "other",
+"r": "babysitting platform with service"
+},
+{
+"n": "Le Spa des Cheveux par Daphné Narcy",
+"w": "daphnenarcy.com",
+"c": "shop",
+"r": "hair spa"
+},
+{
+"n": "LE SQUARE PARIS",
+"w": "lesquare.paris",
+"c": "shop",
+"r": "building showroom"
+},
+{
+"n": "Le Studio Tech",
+"w": "lestudiotech.com",
+"c": "other",
+"r": "freelance matching platform"
+},
+{
+"n": "Le TLM",
+"w": "le-tlm.fr",
+"c": "nonprofit",
+"r": "cultural venue"
+},
+{
+"n": "LE VILLAGE DES BATIGNOLLES",
+"w": "levillagedesbatignolles.fr",
+"c": "broker",
+"r": "real estate agency"
+},
+{
+"n": "Lea Easy Mobility",
+"w": "lea-mobility.fr",
+"c": "trade",
+"r": "bike leasing services"
+},
+{
+"n": "Lead Tech Club 101",
+"w": "leadtechclub101.com",
+"c": "nonprofit",
+"r": "startup initiative"
+},
+{
+"n": "Leadnovation",
+"w": "kore-x.co.uk",
+"c": "other",
+"r": "content marketing platform/agency"
+},
+{
+"n": "leet design",
+"w": "leet-design.com",
+"c": "brand",
+"r": "physical workspace products"
+},
+{
+"n": "Leeway",
+"w": "leeway.net",
+"c": "invalid",
+"r": "unrelated US nursing home"
+},
+{
+"n": "Legal by Process",
+"w": "legalbyprocess.com",
+"c": "consulting",
+"r": "procurement advisory"
+},
+{
+"n": "LegiVox | Le Back Office des Professionnels du Droit",
+"w": "legivox.fr",
+"c": "consulting",
+"r": "legal back-office services"
+},
+{
+"n": "LeHibou Cybersecurity (ex- Adonys Security)",
+"w": "adonys-security.fr",
+"c": "consulting",
+"r": "cybersecurity recruitment"
+},
+{
+"n": "Leia Capital",
+"w": "leiacapital.com",
+"c": "broker",
+"r": "angel investors fund"
+},
+{
+"n": "Leikar",
+"w": "leikar.fr",
+"c": "broker",
+"r": "holding acquiring companies"
+},
+{
+"n": "Les Amis de l'ESSpace",
+"w": "esspace.coop",
+"c": "nonprofit",
+"r": "cooperative spaces"
+},
+{
+"n": "Les bains du marais - Spa à Paris et restaurant",
+"w": "bainsdumarais.fr",
+"c": "shop",
+"r": "spa restaurant"
+},
+{
+"n": "Les Commis",
+"w": "lescommis.com",
+"c": "food",
+"r": "recipe box"
+},
+{
+"n": "Les Cousins",
+"w": "meetlescousins.com",
+"c": "consulting",
+"r": "startup-corporate advisory"
+},
+{
+"n": "Les Déterminés",
+"w": "lesdetermines.fr",
+"c": "nonprofit",
+"r": "entrepreneurship program"
+},
+{
+"n": "Les filles du 9 novembre",
+"w": "lesfillesdu9novembre.com",
+"c": "agency",
+"r": "VFX creative studio"
+},
+{
+"n": "Les Flèches de l'ESCE",
+"w": "lesflechesdelesce.wordpress.com",
+"c": "nonprofit",
+"r": "student association"
+},
+{
+"n": "Les Hauts Vélos",
+"w": "leshautsvelos.fr",
+"c": "shop",
+"r": "bike shop"
+},
+{
+"n": "Les Ingéniaux",
+"w": "les-ingeniaux.com",
+"c": "other",
+"r": "tech project kits education"
+},
+{
+"n": "Les joyeux recycleurs",
+"w": "lesjoyeuxrecycleurs.com",
+"c": "trade",
+"r": "office recycling service"
+},
+{
+"n": "Les Lendemains d'Hier",
+"w": "ldhproduction.fr",
+"c": "agency",
+"r": "theatre company"
+},
+{
+"n": "Les Licoornes",
+"w": "licoornes.coop",
+"c": "nonprofit",
+"r": "cooperative alliance"
+},
+{
+"n": "Les Niçois",
+"w": "lesnicois.com",
+"c": "food",
+"r": "bar restaurant"
+},
+{
+"n": "Les Patios Du Marais",
+"w": "patiosdumarais.com",
+"c": "shop",
+"r": "residence"
+},
+{
+"n": "Les Premières Île-de-France",
+"w": "lespremieresidf.com",
+"c": "nonprofit",
+"r": "entrepreneur support network"
+},
+{
+"n": "Les Projets Rosalie",
+"w": "projets-rosalie.com",
+"c": "nonprofit",
+"r": "charity"
+},
+{
+"n": "Les Saisonniers Paris",
+"w": "les-saisonniers.fr",
+"c": "food",
+"r": "food supply"
+},
+{
+"n": "Les Sentiers du Goût",
+"w": "sentiersdugout.com",
+"c": "agency",
+"r": "tasting event animations"
+},
+{
+"n": "Les Showrooms du Marais",
+"w": "lesshowroomsdumarais.com",
+"c": "shop",
+"r": "event venues"
+},
+{
+"n": "Les stocks du Marais",
+"w": "lesstocksdumarais.com",
+"c": "brand",
+"r": "clothing outlet"
+},
+{
+"n": "less is more",
+"w": "lessismore.co",
+"c": "brand",
+"r": "beauty products brand"
+},
+{
+"n": "LEVEST",
+"w": "levest.fr",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "LezAPe",
+"w": "lezape.fr",
+"c": "other",
+"r": "parent coaching with tool"
+},
+{
+"n": "LHIRR",
+"w": "lhirr.fr",
+"c": "consulting",
+"r": "engineering consulting"
+},
+{
+"n": "Lib et Lou",
+"w": "libetlou.com",
+"c": "shop",
+"r": "toy rental"
+},
+{
+"n": "Life Lab'​",
+"w": "lifelab.fr",
+"c": "consulting",
+"r": "coaching programs"
+},
+{
+"n": "Life Protect",
+"w": "lifeprotect.net.au",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Lift",
+"w": "lift-ed.fr",
+"c": "other",
+"r": "teen educational content"
+},
+{
+"n": "LIGHTHOUSE",
+"w": "lighthousegroup.fr",
+"c": "broker",
+"r": "insurance holding"
+},
+{
+"n": "LightMeUp - Innovation Studio",
+"w": "ai-x-leaders.com",
+"c": "consulting",
+"r": "entrepreneur advisory"
+},
+{
+"n": "LingoCulture",
+"w": "lingoculture.com",
+"c": "other",
+"r": "French training with AI coach"
+},
+{
+"n": "Link'Elles",
+"w": "link-elles.com",
+"c": "nonprofit",
+"r": "women entrepreneur network"
+},
+{
+"n": "Lions - Notariat",
+"w": "equipelions.fr",
+"c": "consulting",
+"r": "notary recruitment advisory"
+},
+{
+"n": "Little Big Impact",
+"w": "littlebigimpact.com",
+"c": "nonprofit",
+"r": "community"
+},
+{
+"n": "Little Big Médias",
+"w": "littlebigmedias.fr",
+"c": "agency",
+"r": "audiovisual production"
+},
+{
+"n": "Little Red Door",
+"w": "lrdparis.com",
+"c": "food",
+"r": "cocktail bar"
+},
+{
+"n": "Livementor",
+"w": "livementor.com",
+"c": "consulting",
+"r": "training provider"
+},
+{
+"n": "Livna",
+"w": "livna-education.fr",
+"c": "consulting",
+"r": "AI education trainer"
+},
+{
+"n": "LNB (Les Nouveaux Bureaux)",
+"w": "lesnouveauxbureaux.com",
+"c": "shop",
+"r": "office rental"
+},
+{
+"n": "LO NEEL Paris",
+"w": "loneel.com",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "LOAD Studio",
+"w": "studio-load.fr",
+"c": "agency",
+"r": "audio production studio"
+},
+{
+"n": "Loc'Hall",
+"w": "lochall.com",
+"c": "other",
+"r": "venue booking for events"
+},
+{
+"n": "Localista",
+"w": "localista.com.au",
+"c": "other",
+"r": "travel guide website"
+},
+{
+"n": "Lodge In Paris",
+"w": "lodgein.travel",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Loeve&Co - Love&Collect",
+"w": "loeveandco.com",
+"c": "shop",
+"r": "art gallery"
+},
+{
+"n": "Log",
+"w": "log.consulting",
+"c": "agency",
+"r": "cloud consulting"
+},
+{
+"n": "LogBrain",
+"w": "logbrain.io",
+"c": "consulting",
+"r": "data/AI consulting"
+},
+{
+"n": "LOGICOMIX",
+"w": "logicomix.tv",
+"c": "agency",
+"r": "YouTube channel services"
+},
+{
+"n": "LOKO - Change By Space",
+"w": "lokoroom.com",
+"c": "consulting",
+"r": "workspace design"
+},
+{
+"n": "Lookin3D",
+"w": "lookin3d.fr",
+"c": "agency",
+"r": "3D scanning services"
+},
+{
+"n": "Lookoom",
+"w": "lookoom.co",
+"c": "agency",
+"r": "freelance community"
+},
+{
+"n": "Loola",
+"w": "loola.pl",
+"c": "brand",
+"r": "Polish clothing shop"
+},
+{
+"n": "Loom",
+"w": "loom.fr",
+"c": "brand",
+"r": "clothing brand"
+},
+{
+"n": "Loopsider",
+"w": "loopsider.com",
+"c": "nonprofit",
+"r": "news media"
+},
+{
+"n": "LOPICA",
+"w": "lopica.fr",
+"c": "consulting",
+"r": "coding tutoring"
+},
+{
+"n": "Lore & Lumière",
+"w": "lore-et-lumiere.studio",
+"c": "agency",
+"r": "3D creative studio"
+},
+{
+"n": "Louise Marcaud",
+"w": "louisemarcaud.com",
+"c": "brand",
+"r": "clothing brand"
+},
+{
+"n": "LoupiXa",
+"w": "loupixa.com",
+"c": "other",
+"r": "creator distribution for brands"
+},
+{
+"n": "Louvini Paris",
+"w": "louvini.com",
+"c": "brand",
+"r": "phone accessories"
+},
+{
+"n": "Love Letters Records",
+"w": "coucoulovelettersrecords.bandcamp.com",
+"c": "agency",
+"r": "record label"
+},
+{
+"n": "Love your waste",
+"w": "loveyourwaste.com",
+"c": "trade",
+"r": "food waste collection"
+},
+{
+"n": "Lovelace Studio",
+"w": "lovelace.paris",
+"c": "agency",
+"r": "digital agency"
+},
+{
+"n": "LOYAL.E PARIS",
+"w": "loyaleparis.com",
+"c": "brand",
+"r": "jewelry brand"
+},
+{
+"n": "Luca - Finance & Management School",
+"w": "luca.school",
+"c": "nonprofit",
+"r": "school"
+},
+{
+"n": "Lucid-Lab",
+"w": "lucid-lab.fr",
+"c": "agency",
+"r": "AI agency"
+},
+{
+"n": "Lumiron",
+"w": "lumiron.ai",
+"c": "other",
+"r": "custom AI agency/systems"
+},
+{
+"n": "LUTECH",
+"w": "sattlutech.com",
+"c": "other",
+"r": "tech transfer company"
+},
+{
+"n": "LVTS - Laboratory for Vascular Translational Science",
+"w": "lvts.fr",
+"c": "nonprofit",
+"r": "public research lab"
+},
+{
+"n": "Lycia School",
+"w": "lycia-school.fr",
+"c": "nonprofit",
+"r": "school association"
+},
+{
+"n": "Lydda",
+"w": "lydda.fr",
+"c": "agency",
+"r": "creator social agency"
+},
+{
+"n": "Lymia",
+"w": "thesensiblemama.com",
+"c": "brand",
+"r": "parenting fashion brand"
+},
+{
+"n": "Lymia (acquired by Welcome to the Jungle)",
+"w": "solutions.welcometothejungle.com",
+"c": "invalid",
+"r": "acquired by WTTJ"
+},
+{
+"n": "LYRIC OPÉRA HÔTEL PARIS",
+"w": "lyrichotelparis.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Lyvoc",
+"w": "lyvoc.com",
+"c": "agency",
+"r": "IAM professional services"
+},
+{
+"n": "Léo et Violette",
+"w": "leoetviolette.com",
+"c": "brand",
+"r": "leather goods"
+},
+{
+"n": "L’Intendance",
+"w": "lintendance.co",
+"c": "other",
+"r": "deposit scheme operator"
+},
+{
+"n": "M&A Lab",
+"w": "malab-beauty.com",
+"c": "brand",
+"r": "supplement cosmetics"
+},
+{
+"n": "M13h",
+"w": "m13h.com",
+"c": "consulting",
+"r": "data marketing consultancy"
+},
+{
+"n": "MA",
+"w": "just-ma.com",
+"c": "broker",
+"r": "property developer"
+},
+{
+"n": "Machina Capital",
+"w": "machinacap.com",
+"c": "broker",
+"r": "investment management"
+},
+{
+"n": "MACHINA Summit",
+"w": "machinasummit.com",
+"c": "agency",
+"r": "summit event"
+},
+{
+"n": "Madame la Présidente",
+"w": "madamelapresidente.fr",
+"c": "brand",
+"r": "haircare brand"
+},
+{
+"n": "Made For All",
+"w": "made-for-all.com",
+"c": "nonprofit",
+"r": "startup support"
+},
+{
+"n": "Mademoiselle Moustache Paris",
+"w": "mll3moustache.com",
+"c": "shop",
+"r": "hair salon"
+},
+{
+"n": "Magic LEMP",
+"w": "magic-lemp.com",
+"c": "other",
+"r": "one-line slogan"
+},
+{
+"n": "MAGNETIC",
+"w": "magnetic.house",
+"c": "other",
+"r": "unclear spaces concept"
+},
+{
+"n": "Magnetic.coop",
+"w": "magnetic.coop",
+"c": "agency",
+"r": "custom web development coop"
+},
+{
+"n": "MAIF Social Club",
+"w": "maifsocialclub.fr",
+"c": "nonprofit",
+"r": "cultural venue"
+},
+{
+"n": "Maison Barnes Paris Trocadero",
+"w": "maisonbarnes-paristrocadero.com",
+"c": "shop",
+"r": "serviced residence"
+},
+{
+"n": "Maison F Paris",
+"w": "maisonf.com",
+"c": "brand",
+"r": "tie maker"
+},
+{
+"n": "Maison J.U.S",
+"w": "jusparfums.com",
+"c": "brand",
+"r": "perfume brand"
+},
+{
+"n": "MAISON N.H PARIS",
+"w": "maisonnhparis.com",
+"c": "brand",
+"r": "accessories brand"
+},
+{
+"n": "Maison Valérie Danenberg",
+"w": "danenberg.fr",
+"c": "brand",
+"r": "jewelry brand"
+},
+{
+"n": "Maison-né",
+"w": "maison-ne.com",
+"c": "shop",
+"r": "parent wellness spaces"
+},
+{
+"n": "Maka Video",
+"w": "makavideo.fr",
+"c": "agency",
+"r": "video production"
+},
+{
+"n": "Make It Clap",
+"w": "makeitclap.studio",
+"c": "shop",
+"r": "immersive studio experience"
+},
+{
+"n": "MAKE Office 🇫🇷",
+"w": "make-office.fr",
+"c": "agency",
+"r": "office design"
+},
+{
+"n": "Malabar architectes urbanistes",
+"w": "malabar-architectes.fr",
+"c": "agency",
+"r": "architecture agency"
+},
+{
+"n": "MALEN SQUARE",
+"w": "malensquare.com",
+"c": "brand",
+"r": "eyewear e-shop"
+},
+{
+"n": "Malro",
+"w": "restaurantmalro.fr",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "Manzalab",
+"w": "manzalab.com",
+"c": "agency",
+"r": "digital experiences studio"
+},
+{
+"n": "Marais DigitARt",
+"w": "digitart-asso.fr",
+"c": "nonprofit",
+"r": "digital art association"
+},
+{
+"n": "MARGAUX LONNBERG",
+"w": "margauxlonnberg.com",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "Margin Ventures",
+"w": "margin-ventures.com",
+"c": "broker",
+"r": "venture fund"
+},
+{
+"n": "Marie Mas",
+"w": "mariemas.com",
+"c": "brand",
+"r": "jewelry brand"
+},
+{
+"n": "Marilou",
+"w": "mariloubio.com",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Masae Analytics",
+"w": "masae-analytics.com",
+"c": "other",
+"r": "data science consultancy"
+},
+{
+"n": "MASH International School of Business - MISB",
+"w": "misb.fr",
+"c": "nonprofit",
+"r": "business school"
+},
+{
+"n": "Master Conseil éditorial et gestion de contenus plurimédias Sorbonne",
+"w": "formations-lettres.sorbonne-universite.fr",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Master GESIIC",
+"w": "gesiic-sorbonne.fr",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Matchplay Society",
+"w": "matchplaysociety.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "MATIERE BRUTE LAB",
+"w": "matierebrutelab.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Matières Fécales",
+"w": "matieresfecales.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Meanwhile Boutique",
+"w": "meanwhile.boutique",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "MedFem Collective",
+"w": "medfem-collective.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "MEDIACAPTURE",
+"w": "mediacapture.fr",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "Meet in Class",
+"w": "meetinclass.com",
+"c": "other",
+"r": "mentoring service vs platform"
+},
+{
+"n": "Meet My Mama",
+"w": "meetmymama.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "Meettribe",
+"w": "meettribe.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "MELTGROUP",
+"w": "melthotel.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "meltygroup",
+"w": "meltygroup.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Merci Handy",
+"w": "mercihandy.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Mersea",
+"w": "merseaparis.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "Mes Demoiselles Paris",
+"w": "mesdemoisellesparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Meshuga Paris",
+"w": "meshuga.fr",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "Meti, Voir Juste",
+"w": "metiparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Meurette Groupe",
+"w": "meurettegroupe.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "MEUTES©",
+"w": "meutes.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "MEZAIA",
+"w": "mezaia.fr",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "MGNM",
+"w": "mgnm.com.au",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "MI-RÊ Cosmetics",
+"w": "mirecosmetics.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "MIA MAO",
+"w": "miamao.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Micro-crèches Perlimpinpin",
+"w": "lescrechesperlimpinpin.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "MIF (Make it En France) - Club entrepreneurs, experts et sponsors",
+"w": "quelamif.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Milpa",
+"w": "milpa-agri.com",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "Mimesys",
+"w": "mimesys-project.it",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Mimétique",
+"w": "mimetique.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Mina Storm",
+"w": "minastorm.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Mindtech",
+"w": "mind-tech.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "MinuteBuzz",
+"w": "minutebuzz.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Mirabelle",
+"w": "mirabelle.fr",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Mirage Lab",
+"w": "miragelab.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Miroa Store",
+"w": "miroastore.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "MIST Paris",
+"w": "mistparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Mix Beauty",
+"w": "mixbeauty.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "MLIA",
+"w": "mlia.lip6.fr",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Mobeye, a Roamler company",
+"w": "mobeye-app.com",
+"c": "invalid",
+"r": "acquired/not a company"
+},
+{
+"n": "mobius réemploi",
+"w": "mobius-reemploi.fr",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "Modeo",
+"w": "modeo.ai",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "MODERLAB",
+"w": "moderlab.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Modulassur",
+"w": "modulassur.fr",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Modulor",
+"w": "modulormusic.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Momentum Electric",
+"w": "momentumelectric.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Mon Petit 20e",
+"w": "monpetit20e.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "MonBusinessCarré",
+"w": "le113.org",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "MonCamionavecChauffeur",
+"w": "moncamionavecchauffeur.com",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "MonCornerB",
+"w": "moncornerb.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Monsieur Nini - Paris",
+"w": "monsieurnini.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Montaigne Nutrition",
+"w": "montaigne-nutrition.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "Montessori NeoKids - 1er réseau de crèches Montessori en Europe",
+"w": "montessori-neokids.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Mood.",
+"w": "moodgroup.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Moonce",
+"w": "moonce.pl",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Moov'inCloud",
+"w": "moovincloud.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Moove Lab",
+"w": "moove-lab.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "MooveToi",
+"w": "moovetoi.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Moqa Studio",
+"w": "moqa.studio",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "MORIARTY",
+"w": "moriartymedia.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Mosaic",
+"w": "mosaic.ec",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Motier Ventures",
+"w": "motier.vc",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Motocab Taxi Moto",
+"w": "motocab.com",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "MOUSTACHES",
+"w": "moustaches.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Mouvement Safe PLACE",
+"w": "125etapres.org",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "Move Capital",
+"w": "move-capital.com",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Move in Paris",
+"w": "move-in-paris.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Move Logic",
+"w": "move-logic.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Movens",
+"w": "movens.ai",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Movinnov",
+"w": "movinnov.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "MShift AI",
+"w": "mshift.ai",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "MU:V",
+"w": "muvparis.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "multi",
+"w": "multi.coop",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Multiply",
+"w": "multiply-studio.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Multiven Group",
+"w": "multiven.com",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "MUM AND THE GANG",
+"w": "mumandthegang.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Musicast",
+"w": "musicast.fr",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "Musigamy",
+"w": "musigamy.com",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "MVMT",
+"w": "mvmt.work",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "My Cuistot (Cuistot Corporation)",
+"w": "mycuistot.fr",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "My Digital Buildings",
+"w": "mydigitalbuildings.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "MY GINGER - YOGA PARIS",
+"w": "myginger.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "My Lubie",
+"w": "mylubie.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "MY MAISON IN PARIS",
+"w": "mymaisoninparis.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "MY STORY UP! Space for rent",
+"w": "mypopupstory.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "MyBrazil !",
+"w": "mybrazilfactory.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "myCowork",
+"w": "mycowork.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "MyFlexGroup",
+"w": "myflexgroup.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "myFrenchStartup",
+"w": "myfrenchstartup.com",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "Mymosa Paris",
+"w": "mymosa.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Mynos AI",
+"w": "mynos.ai",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "Mâche",
+"w": "mache.cooking",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "Méreau Finance",
+"w": "mereau-finance.com",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "MÊME",
+"w": "memecosmetics.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Möss",
+"w": "moss-paris.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "n3t Notaires 3 Turbigo",
+"w": "notaires3turbigo.eu",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "N9 NOTAIRES",
+"w": "n9notaires.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Naarica",
+"w": "naarica.in",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "NAIA Productions",
+"w": "naia.pro",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Nap&Up",
+"w": "napandup.com",
+"c": "other",
+"r": "hardware/service mix unclear"
+},
+{
+"n": "NATA yoga",
+"w": "nataparis.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "NATION",
+"w": "nation-studio.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Naturellement O!",
+"w": "naturellement-eau.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Navee",
+"w": "navee.asia",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Naven",
+"w": "naven.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Naïa Paris",
+"w": "naia-paris.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Neptune Elements",
+"w": "neptuneelements.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "NetLEGIS",
+"w": "netlegis.fr",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "NeuroReflexivity",
+"w": "neuroreflexivity.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Neuvième Ciel",
+"w": "neuviemeciel.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Nevios",
+"w": "nevios.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Newable",
+"w": "newable.energy",
+"c": "other",
+"r": "hardware/service mix unclear"
+},
+{
+"n": "NEWEB",
+"w": "neweb.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "NEXT - PROJECT",
+"w": "nextproject.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Next Tower",
+"w": "next-tower.com",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "NEXT-HOP",
+"w": "next-hop.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "NextGen Technologies",
+"w": "nextgentech.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "nextinteractive",
+"w": "nextradiotv.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Nextoffice",
+"w": "nextofficeparis.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Nextsquare",
+"w": "nextsquare.co",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "NEXUS ECO",
+"w": "nexus-eco.com",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Nicolas Waldorf Paris",
+"w": "nicolaswaldorf.fr",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "No-Code France",
+"w": "nocode-france.fr",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "NOA",
+"w": "neotcapital.com",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Nobo",
+"w": "nobo.life",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Nocode Factory - No-Code & Low-Code Agency",
+"w": "nocodefactory.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "NODE42",
+"w": "node42.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "NOEMI",
+"w": "noemi-paris.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Nogame",
+"w": "nogame.io",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Nomad in Paris",
+"w": "nomadinparis.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Nood Paris",
+"w": "nood.paris",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "Noolya",
+"w": "noolya.fr",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "Noovae",
+"w": "noovae-studio.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Nooānce Paris",
+"w": "nooance-paris.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "noScale Analytics",
+"w": "noscale.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Nossa! Fruits",
+"w": "nossa-acai.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "Nosytech",
+"w": "nosytech.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Notaire Paris 1er",
+"w": "scp-bussiere.notaires.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Notaires Office Paris 8 - Me Saez, Me Martini et Me Biollet",
+"w": "saez-baudoin-paris.notaires.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "NOTAIRES PARIS SENTIER MONTORGUEIL",
+"w": "paris-sentier-montorgueil.notaires.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Notatech",
+"w": "notatech.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Notilus IO",
+"w": "notilus.io",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "notoryou",
+"w": "notoryou.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "NOTUS energy",
+"w": "notus.fr",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "Nour Hammour",
+"w": "nour-hammour.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "NOUS SOMMES VIVANTS, LE COLLECTIF DE LA TRANSITION ECOLOGIQUE",
+"w": "noussommesvivants.co",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Nouveaux Systèmes Energétiques (Comité Stratégique de Filière)",
+"w": "systemesenergetiques.org",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "NTF-ENERGY",
+"w": "ntf-energy.com",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "Nubem ☁️",
+"w": "nubem.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Nudj",
+"w": "eatnudj.com",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "NUHANCIAM",
+"w": "nuhanciam.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "null",
+"w": "null.community",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "NUS - La marque qui habille les épicuriens",
+"w": "vivre-nus.fr",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Nutshell & co.",
+"w": "nutshellandco.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Némès Paris",
+"w": "nemes.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Nénés",
+"w": "nenes-paris.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "o-labs",
+"w": "o-labs.net",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "o65paris",
+"w": "o65paris.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "OB Studio®",
+"w": "ob.services",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "OCamlPro",
+"w": "ocamlpro.com",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "Octarina",
+"w": "octarina.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Odyssée Notaires",
+"w": "odyssee-notaires.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "off-campus",
+"w": "offcampus.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Office notarial RIEGER & SAUTIE",
+"w": "etude-rieger-sautie-paris-8.notaires.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Office-In",
+"w": "office-in.fr",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "Officy",
+"w": "officy.io",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Ohmycad | Dassault Systèmes Partner",
+"w": "ohmycad.com",
+"c": "trade",
+"r": "traditional/transport/energy producer/reseller"
+},
+{
+"n": "Okarito",
+"w": "okarito.co.nz",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Oldyssey",
+"w": "oldyssey.org",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "OLIBRIUS",
+"w": "olibriusprod.fr",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Omini",
+"w": "ominiclinic.ro",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "On.Capital",
+"w": "oncapital.vc",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Onboard",
+"w": "onboard.blue",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "ONE EDUCATION",
+"w": "one-education.com",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "One Eleven Capital",
+"w": "111cap.com",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "One Green",
+"w": "one-green.com",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "ONE LEARN",
+"w": "one-learn.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "oneATELIER",
+"w": "oneatelierparis.org",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "OneSecond",
+"w": "one-second.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "ONI – Open Network for Innovation",
+"w": "on4i.eu",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "Onima",
+"w": "onima.bio",
+"c": "food",
+"r": "food/restaurant/bar"
+},
+{
+"n": "Onlyburo Monceau",
+"w": "onlyburo.com",
+"c": "shop",
+"r": "local service/venue/hotel/gym"
+},
+{
+"n": "Onyo | An unheard of world",
+"w": "onyo.fr",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "OPERA CYBER",
+"w": "opera-cyber.fr",
+"c": "other",
+"r": "agency or product unclear"
+},
+{
+"n": "OPFA - Formalités Notariales",
+"w": "opfa.fr",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "Orbe",
+"w": "orbe.mobi",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "ORBITAL VIEWS",
+"w": "orbitalviews.com",
+"c": "agency",
+"r": "agency/studio/IT services"
+},
+{
+"n": "Origin 137",
+"w": "o137.ai",
+"c": "consulting",
+"r": "consulting/legal/training/accounting"
+},
+{
+"n": "ORRA",
+"w": "orra-inside.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Orso Media",
+"w": "orsomedia.io",
+"c": "nonprofit",
+"r": "school/research/association/media"
+},
+{
+"n": "ORSO PARIS",
+"w": "orso-paris.com",
+"c": "brand",
+"r": "consumer goods brand"
+},
+{
+"n": "Oscar",
+"w": "oscar-charonne.fr",
+"c": "broker",
+"r": "broker/fund/investment/real estate"
+},
+{
+"n": "Oslandia",
+"w": "oslandia.com",
+"c": "other",
+"r": "open source consulting plus software"
+},
+{
+"n": "OSS Ventures",
+"w": "oss.ventures",
+"c": "broker",
+"r": "startup studio investor"
+},
+{
+"n": "Osée",
+"w": "osee.co",
+"c": "brand",
+"r": "hair brand"
+},
+{
+"n": "OUEST Paris",
+"w": "ouest.world",
+"c": "brand",
+"r": "fashion brand"
+},
+{
+"n": "OUIPARK",
+"w": "ouipark.io",
+"c": "other",
+"r": "consulting powered by platform"
+},
+{
+"n": "Outshift",
+"w": "outshift.com",
+"c": "other",
+"r": "Cisco corporate unit"
+},
+{
+"n": "Oversee Technologies",
+"w": "oversee-technologies.com",
+"c": "agency",
+"r": "security services"
+},
+{
+"n": "Oversight",
+"w": "hoteloversight.com",
+"c": "shop",
+"r": "hotel management"
+},
+{
+"n": "OW2",
+"w": "ow2.org",
+"c": "nonprofit",
+"r": "consortium"
+},
+{
+"n": "OWNI",
+"w": "owni.fr",
+"c": "nonprofit",
+"r": "media"
+},
+{
+"n": "Oxan Energy",
+"w": "oxan.energy",
+"c": "trade",
+"r": "renewable project developer"
+},
+{
+"n": "Oxeva SAS",
+"w": "oxeva.fr",
+"c": "other",
+"r": "IT services/hosting vague"
+},
+{
+"n": "OXYGEN WATER®",
+"w": "oxygenwater.com",
+"c": "food",
+"r": "water brand"
+},
+{
+"n": "OYA",
+"w": "oya-residence.lovable.app",
+"c": "shop",
+"r": "sauna space"
+},
+{
+"n": "OYYA",
+"w": "oyya.fr",
+"c": "brand",
+"r": "supplements protocol"
+},
+{
+"n": "Ozmoz",
+"w": "ozmoz.app",
+"c": "other",
+"r": "sensory products vague"
+},
+{
+"n": "Padok",
+"w": "padok.fr",
+"c": "agency",
+"r": "cloud consulting"
+},
+{
+"n": "PAIRS IN PARIS",
+"w": "pairsinparis.fr",
+"c": "brand",
+"r": "sneakers"
+},
+{
+"n": "Panade Paris",
+"w": "panade-paris.com",
+"c": "food",
+"r": "bakery"
+},
+{
+"n": "Panenka Music",
+"w": "panenka-music.com",
+"c": "brand",
+"r": "music label"
+},
+{
+"n": "Paniers",
+"w": "paniers.paris",
+"c": "food",
+"r": "restaurants"
+},
+{
+"n": "Panorama",
+"w": "panorama-kit.com",
+"c": "consulting",
+"r": "strategy consulting"
+},
+{
+"n": "PARACHUTE",
+"w": "parachute-calecons.com",
+"c": "brand",
+"r": "underwear"
+},
+{
+"n": "Paradiso Media",
+"w": "paradisomedia.io",
+"c": "agency",
+"r": "podcast studio"
+},
+{
+"n": "Paris 14ème",
+"w": "emmanuelle-galy-psychotherapie.fr",
+"c": "shop",
+"r": "psychotherapist"
+},
+{
+"n": "Paris 2018 - Gay Games 10",
+"w": "paris2018.com",
+"c": "nonprofit",
+"r": "sports event"
+},
+{
+"n": "PARIS 9",
+"w": "psy95.paris",
+"c": "shop",
+"r": "psychologist"
+},
+{
+"n": "Paris AI Agent Summit",
+"w": "parisagentsummit.com",
+"c": "agency",
+"r": "event"
+},
+{
+"n": "Paris B. Events",
+"w": "usahaprediksitotomacau.lat",
+"c": "invalid",
+"r": "spam gambling site"
+},
+{
+"n": "Paris Baguette France",
+"w": "parisbaguette.fr",
+"c": "food",
+"r": "bakery chain"
+},
+{
+"n": "Paris Biofoundry",
+"w": "parisbiofoundry.org",
+"c": "nonprofit",
+"r": "research platform"
+},
+{
+"n": "Paris Digital Lab",
+"w": "paris-digital-lab.com",
+"c": "nonprofit",
+"r": "student lab"
+},
+{
+"n": "Paris RE Made",
+"w": "parisremade.fr",
+"c": "brand",
+"r": "fashion"
+},
+{
+"n": "PARIS TRANSPORTS",
+"w": "taxi-paris.org",
+"c": "trade",
+"r": "taxi"
+},
+{
+"n": "Paris Women in Machine Learning and Data Science",
+"w": "meetup.com",
+"c": "nonprofit",
+"r": "meetup community"
+},
+{
+"n": "PARISMARAIS",
+"w": "parismarais.com",
+"c": "agency",
+"r": "travel guide"
+},
+{
+"n": "Park'In",
+"w": "park-in.fr",
+"c": "shop",
+"r": "scooter storage service"
+},
+{
+"n": "Parlement & Citoyens",
+"w": "purpoz.com",
+"c": "nonprofit",
+"r": "association"
+},
+{
+"n": "Parrot Air Support",
+"w": "parrot-airsupport.com",
+"c": "trade",
+"r": "drone services"
+},
+{
+"n": "PassPass",
+"w": "passpass.io",
+"c": "shop",
+"r": "Airbnb concierge service"
+},
+{
+"n": "Patchwork",
+"w": "patchwork.co",
+"c": "broker",
+"r": "real estate services"
+},
+{
+"n": "Pazapa",
+"w": "pazapa.org",
+"c": "nonprofit",
+"r": "charity"
+},
+{
+"n": "Pazzi",
+"w": "pazzidifanta.com",
+"c": "nonprofit",
+"r": "news site"
+},
+{
+"n": "pbg",
+"w": "pbgmarais.com",
+"c": "shop",
+"r": "art gallery"
+},
+{
+"n": "Penida",
+"w": "penida.io",
+"c": "other",
+"r": "travel newsletter"
+},
+{
+"n": "Pentagone Robotics",
+"w": "pentagone-robotics.com",
+"c": "trade",
+"r": "robotics integrator"
+},
+{
+"n": "Pepette",
+"w": "pepette.co",
+"c": "food",
+"r": "petfood"
+},
+{
+"n": "Perenys",
+"w": "perenys.com",
+"c": "broker",
+"r": "savings offering"
+},
+{
+"n": "Personal Seller Paris",
+"w": "personalsellerparis.com",
+"c": "shop",
+"r": "personal selling"
+},
+{
+"n": "Perspective 7",
+"w": "perspective7.fr",
+"c": "other",
+"r": "vague description"
+},
+{
+"n": "Petit Plat",
+"w": "petit-plat-franchise.lovable.app",
+"c": "food",
+"r": "takeaway"
+},
+{
+"n": "Petite Forêt",
+"w": "petiteforet.com",
+"c": "food",
+"r": "cafe"
+},
+{
+"n": "Petrel Commerce Circulaire",
+"w": "petrel.fr",
+"c": "trade",
+"r": "packaging reuse"
+},
+{
+"n": "PETS SWEET HOME",
+"w": "pets-sweet-home.com",
+"c": "brand",
+"r": "pet goods"
+},
+{
+"n": "Petty Well",
+"w": "pettywell.com",
+"c": "food",
+"r": "petfood"
+},
+{
+"n": "Phenomenal Women",
+"w": "anujagupta.blogspot.com",
+"c": "nonprofit",
+"r": "blogspot NGO"
+},
+{
+"n": "PHILEO",
+"w": "phileo.paris",
+"c": "brand",
+"r": "shoe designer"
+},
+{
+"n": "Philomène",
+"w": "philomene-seniors.fr",
+"c": "shop",
+"r": "senior services"
+},
+{
+"n": "Phone Recycle Solution",
+"w": "phonerecyclesolution.com",
+"c": "trade",
+"r": "phone refurbishing"
+},
+{
+"n": "Pickers",
+"w": "agence-pickers.fr",
+"c": "agency",
+"r": "acquisition agency"
+},
+{
+"n": "Picto - Sandwicherie artisanale",
+"w": "picto.paris",
+"c": "food",
+"r": "sandwich shop"
+},
+{
+"n": "Pigment Paris",
+"w": "pigmentparis.studio",
+"c": "shop",
+"r": "tattoo studio"
+},
+{
+"n": "Pigments - Art Studio & Café",
+"w": "pigmentsparis.com",
+"c": "shop",
+"r": "art studio cafe"
+},
+{
+"n": "Pimento",
+"w": "pimento.fr",
+"c": "brand",
+"r": "online jeweler"
+},
+{
+"n": "PimpUp",
+"w": "pimpup.io",
+"c": "agency",
+"r": "growth agency"
+},
+{
+"n": "Ping Pang Paris",
+"w": "pingpang.paris",
+"c": "shop",
+"r": "ping-pong club and apparel"
+},
+{
+"n": "Pioneers",
+"w": "thepioneer.vc",
+"c": "broker",
+"r": "venture builder"
+},
+{
+"n": "Pivot&Co",
+"w": "pivotandco.com",
+"c": "consulting",
+"r": "advisory"
+},
+{
+"n": "Plantation Paris",
+"w": "plantation.paris",
+"c": "food",
+"r": "rooftop farm"
+},
+{
+"n": "PLASYTEC",
+"w": "plasytec.com",
+"c": "trade",
+"r": "plastic injection"
+},
+{
+"n": "Plateya",
+"w": "plateya.fr",
+"c": "consulting",
+"r": "part-time executives"
+},
+{
+"n": "platform58 • incubateur fintech",
+"w": "platform58.labanquepostale.fr",
+"c": "nonprofit",
+"r": "bank incubator"
+},
+{
+"n": "PLAYER / Paris",
+"w": "player.paris",
+"c": "nonprofit",
+"r": "incubator"
+},
+{
+"n": "PLETORY",
+"w": "pletory.com",
+"c": "agency",
+"r": "creative studio"
+},
+{
+"n": "Pnp",
+"w": "pnplanet.com",
+"c": "trade",
+"r": "plastic recycling services"
+},
+{
+"n": "Poemana",
+"w": "poemana.fr",
+"c": "shop",
+"r": "health center"
+},
+{
+"n": "Poilu.s Paris",
+"w": "poilusparis.com",
+"c": "shop",
+"r": "dog-friendly office service"
+},
+{
+"n": "Point Barre",
+"w": "agencepointbarre.com",
+"c": "agency",
+"r": "B2B marketing agency"
+},
+{
+"n": "POINT PLUME",
+"w": "pointplume.com",
+"c": "shop",
+"r": "boutique"
+},
+{
+"n": "POINT VISION PARIS",
+"w": "pointvision.com",
+"c": "other",
+"r": "no description"
+},
+{
+"n": "PointCo Investment",
+"w": "pointcogroup.com",
+"c": "broker",
+"r": "real estate investment"
+},
+{
+"n": "Poiscaille",
+"w": "poiscaille.fr",
+"c": "food",
+"r": "seafood boxes"
+},
+{
+"n": "Poli Belleville",
+"w": "polibelleville.com",
+"c": "shop",
+"r": "workshop cafe boutique"
+},
+{
+"n": "Politiker",
+"w": "politiker.fr",
+"c": "consulting",
+"r": "transition consulting"
+},
+{
+"n": "Polytechnique Ventures",
+"w": "polytechnique-ventures.fr",
+"c": "broker",
+"r": "seed fund"
+},
+{
+"n": "Pomad Paris",
+"w": "pomad.paris",
+"c": "brand",
+"r": "eczema care"
+},
+{
+"n": "POMONE Paris",
+"w": "pomoneparis.com",
+"c": "brand",
+"r": "cosmetics"
+},
+{
+"n": "POMPONNE • Makeup-soin clean & green 💄",
+"w": "pomponne-makeup.com",
+"c": "brand",
+"r": "makeup"
+},
+{
+"n": "Ponext Portage",
+"w": "ponext.fr",
+"c": "consulting",
+"r": "freelance portage"
+},
+{
+"n": "PONI",
+"w": "poni.co",
+"c": "consulting",
+"r": "innovation advisory"
+},
+{
+"n": "Port-Up Portage Salarial",
+"w": "port-up.fr",
+"c": "consulting",
+"r": "freelance portage"
+},
+{
+"n": "Poulpi",
+"w": "poulpi.co",
+"c": "shop",
+"r": "daycare"
+},
+{
+"n": "Powder",
+"w": "powder.gg",
+"c": "invalid",
+"r": "closed 2025"
+},
+{
+"n": "PowerCharge",
+"w": "powercharge.fr",
+"c": "other",
+"r": "mobile battery charging services"
+},
+{
+"n": "Pragma 9",
+"w": "pragma9.fr",
+"c": "consulting",
+"r": "procurement consulting"
+},
+{
+"n": "Praticable",
+"w": "praticable.fr",
+"c": "agency",
+"r": "design cooperative"
+},
+{
+"n": "Pratico Santé",
+"w": "pratico-sante.com",
+"c": "consulting",
+"r": "training organization"
+},
+{
+"n": "Preclothed",
+"w": "preclothed.com",
+"c": "brand",
+"r": "vintage clothes"
+},
+{
+"n": "Prello",
+"w": "ufabet.cards",
+"c": "invalid",
+"r": "spam gambling domain"
+},
+{
+"n": "Prenez Place",
+"w": "prenezplace.com",
+"c": "broker",
+"r": "real estate agency"
+},
+{
+"n": "Preste",
+"w": "preste.ai",
+"c": "other",
+"r": "custom AI development shop"
+},
+{
+"n": "Primary",
+"w": "helloprimary.care",
+"c": "shop",
+"r": "primary care clinics"
+},
+{
+"n": "Print Your Feet",
+"w": "printyourfeet.com",
+"c": "other",
+"r": "3D-scanned insoles product"
+},
+{
+"n": "Prodiges",
+"w": "prodiges.io",
+"c": "other",
+"r": "venture creation and advisory"
+},
+{
+"n": "Prolenser",
+"w": "prolenser.com",
+"c": "agency",
+"r": "talent agency"
+},
+{
+"n": "Promoséjours",
+"w": "promosejours.com",
+"c": "other",
+"r": "online travel agency"
+},
+{
+"n": "prosh.",
+"w": "prosh.tv",
+"c": "agency",
+"r": "production company"
+},
+{
+"n": "Prosperian",
+"w": "prosperian.co",
+"c": "other",
+"r": "AI services vague"
+},
+{
+"n": "Protected.eu",
+"w": "protected.eu",
+"c": "other",
+"r": "cybersecurity service vague"
+},
+{
+"n": "Prouesse",
+"w": "prouesse.vc",
+"c": "broker",
+"r": "M&A investment bank"
+},
+{
+"n": "Prépa Campus",
+"w": "prepacampus.fr",
+"c": "consulting",
+"r": "exam prep training"
+},
+{
+"n": "Prêt à Pousser",
+"w": "pretapousser.com",
+"c": "food",
+"r": "grow-at-home kits"
+},
+{
+"n": "PSCHENT Music",
+"w": "pschent.com",
+"c": "brand",
+"r": "record label"
+},
+{
+"n": "Psy&Co Développement",
+"w": "psycodeveloppement.fr",
+"c": "consulting",
+"r": "coaching"
+},
+{
+"n": "Puissante",
+"w": "puissante.co",
+"c": "brand",
+"r": "wellness products"
+},
+{
+"n": "Pulpa de Paris",
+"w": "pulpadeparis.com",
+"c": "food",
+"r": "caterer"
+},
+{
+"n": "PULSAR The Open Art Prize",
+"w": "pulsar.paris",
+"c": "nonprofit",
+"r": "art prize"
+},
+{
+"n": "PulseMyJob",
+"w": "pmjpro.com",
+"c": "other",
+"r": "no real description"
+},
+{
+"n": "Pygments Records",
+"w": "pygments.io",
+"c": "agency",
+"r": "music collective events"
+},
+{
+"n": "Pythonian",
+"w": "pythonian.fr",
+"c": "other",
+"r": "software and consulting mix"
+},
+{
+"n": "Péniche Marcounet",
+"w": "peniche-marcounet.fr",
+"c": "food",
+"r": "bar boat"
+},
+{
+"n": "Pépinière 27",
+"w": "pepiniere27.fr",
+"c": "nonprofit",
+"r": "incubator"
+},
+{
+"n": "Q2B",
+"w": "q2b.qcware.com",
+"c": "agency",
+"r": "conference event"
+},
+{
+"n": "Qairn",
+"w": "qairn-rh.fr",
+"c": "consulting",
+"r": "HR training"
+},
+{
+"n": "QAT - INRIA",
+"w": "qat.inria.fr",
+"c": "nonprofit",
+"r": "research team"
+},
+{
+"n": "Qilibri",
+"w": "qilibri.fr",
+"c": "food",
+"r": "wellness food"
+},
+{
+"n": "Qitchen",
+"w": "qitchen.co",
+"c": "food",
+"r": "delivery kitchens"
+},
+{
+"n": "Quai de la Photo",
+"w": "quaidelaphoto.fr",
+"c": "shop",
+"r": "art center"
+},
+{
+"n": "QUALEES",
+"w": "qualees.com",
+"c": "consulting",
+"r": "CRO services"
+},
+{
+"n": "QUANTADS",
+"w": "quantads.fr",
+"c": "agency",
+"r": "data marketing agency"
+},
+{
+"n": "Quantum Launchpad",
+"w": "quantum-launchpad.com",
+"c": "nonprofit",
+"r": "startup studio program"
+},
+{
+"n": "Quarante Huit Deux",
+"w": "48-2.com",
+"c": "consulting",
+"r": "brand consulting"
+},
+{
+"n": "Quaterra",
+"w": "quaterra.fr",
+"c": "food",
+"r": "farm group"
+},
+{
+"n": "QUATRE EPINGLES",
+"w": "quatreepingles.fr",
+"c": "shop",
+"r": "concierge services"
+},
+{
+"n": "Quelia",
+"w": "quelia.fr",
+"c": "consulting",
+"r": "renewable project advisory"
+},
+{
+"n": "QUINQUE",
+"w": "quinqueskincare.co",
+"c": "brand",
+"r": "skincare"
+},
+{
+"n": "Quinzerie Hôtel",
+"w": "quinzeriehotel.fr",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Qwarter",
+"w": "qwarter.fr",
+"c": "consulting",
+"r": "real estate advisory"
+},
+{
+"n": "R-USE",
+"w": "r-use.fr",
+"c": "consulting",
+"r": "reuse engineering"
+},
+{
+"n": "Raiku",
+"w": "raiku.co",
+"c": "trade",
+"r": "compostable packaging"
+},
+{
+"n": "Rainer School",
+"w": "rainer-school.com",
+"c": "nonprofit",
+"r": "AI school"
+},
+{
+"n": "RAISE Summit",
+"w": "raisesummit.com",
+"c": "agency",
+"r": "summit event"
+},
+{
+"n": "Raph",
+"w": "eosparis.org",
+"c": "food",
+"r": "coffee subscription"
+},
+{
+"n": "RARE Paris",
+"w": "rare-paris.com",
+"c": "brand",
+"r": "skincare"
+},
+{
+"n": "Re-Corps",
+"w": "re-corps.com",
+"c": "shop",
+"r": "sports club"
+},
+{
+"n": "reConnect Institute",
+"w": "ihu-reconnect.org",
+"c": "nonprofit",
+"r": "institute"
+},
+{
+"n": "RECT",
+"w": "rect.fr",
+"c": "other",
+"r": "one-line slogan"
+},
+{
+"n": "ReCube",
+"w": "recube.fr",
+"c": "consulting",
+"r": "methodology"
+},
+{
+"n": "Recyclerie Sportive",
+"w": "recyclerie-sportive.org",
+"c": "shop",
+"r": "sports store"
+},
+{
+"n": "Redesk",
+"w": "redesk.fr",
+"c": "brand",
+"r": "refurbished furniture"
+},
+{
+"n": "Redminds",
+"w": "redminds.fr",
+"c": "consulting",
+"r": "entrepreneur trainers"
+},
+{
+"n": "Redstart",
+"w": "redstart.fr",
+"c": "broker",
+"r": "startup studio"
+},
+{
+"n": "Reiner",
+"w": "reiner-editions.com",
+"c": "brand",
+"r": "fashion curation"
+},
+{
+"n": "Remolab",
+"w": "remolab.fr",
+"c": "broker",
+"r": "startup studio"
+},
+{
+"n": "Removall Carbon",
+"w": "removall-carbon.com",
+"c": "other",
+"r": "carbon project developer"
+},
+{
+"n": "RENDEL PARIS",
+"w": "rendelparis.com",
+"c": "brand",
+"r": "eyewear"
+},
+{
+"n": "Rendez-vous",
+"w": "rendez-vous.social",
+"c": "agency",
+"r": "dating events"
+},
+{
+"n": "Renov 4 Green",
+"w": "r4g.fr",
+"c": "trade",
+"r": "energy renovation contractor"
+},
+{
+"n": "Repair and run",
+"w": "repairandrun.com",
+"c": "shop",
+"r": "bike repair network"
+},
+{
+"n": "ReparCar",
+"w": "reparcar.fr",
+"c": "trade",
+"r": "auto parts reseller"
+},
+{
+"n": "ReSee",
+"w": "resee.com",
+"c": "brand",
+"r": "vintage fashion"
+},
+{
+"n": "RESET®",
+"w": "reset.build",
+"c": "other",
+"r": "data standard body"
+},
+{
+"n": "ReSoil",
+"w": "resoilag.com",
+"c": "other",
+"r": "regenerative agriculture programs"
+},
+{
+"n": "Restaurant Club Matignon",
+"w": "matignon-paris.com",
+"c": "food",
+"r": "restaurant club"
+},
+{
+"n": "RESTAURANT STAN&CO - PARIS 9",
+"w": "stanandcoparis.com",
+"c": "food",
+"r": "restaurant"
+},
+{
+"n": "Return for Society",
+"w": "returnforsociety.com",
+"c": "consulting",
+"r": "independent consultants network"
+},
+{
+"n": "Reusses",
+"w": "reusses.com",
+"c": "shop",
+"r": "clothes resale service"
+},
+{
+"n": "ReValorem",
+"w": "revalorem.fr",
+"c": "other",
+"r": "luxury circularity services"
+},
+{
+"n": "Reverse.paris",
+"w": "reverse.paris",
+"c": "agency",
+"r": "advertising agency"
+},
+{
+"n": "Revig Colisée - YourSpace",
+"w": "luca.paris",
+"c": "shop",
+"r": "coworking space"
+},
+{
+"n": "ReYou",
+"w": "re-you.fr",
+"c": "trade",
+"r": "reuse services"
+},
+{
+"n": "RIDE!",
+"w": "ridespace.io",
+"c": "other",
+"r": "launch brokerage services"
+},
+{
+"n": "Rinse",
+"w": "rinse.com",
+"c": "shop",
+"r": "laundry service"
+},
+{
+"n": "RITEC",
+"w": "ritec.paris",
+"c": "agency",
+"r": "IT services"
+},
+{
+"n": "Rive Droite Paris",
+"w": "rivedroite-paris.com",
+"c": "brand",
+"r": "fashion label"
+},
+{
+"n": "Riz & Co",
+"w": "rizetco.com",
+"c": "food",
+"r": "importer"
+},
+{
+"n": "Roast My Startup",
+"w": "roastmystartup.fr",
+"c": "agency",
+"r": "pitch event"
+},
+{
+"n": "Robotech Sorbonne",
+"w": "polytech.sorbonne-universite.fr",
+"c": "nonprofit",
+"r": "student association"
+},
+{
+"n": "Rocambole",
+"w": "rocambole.fr",
+"c": "shop",
+"r": "board game store"
+},
+{
+"n": "Rousseau & Co",
+"w": "rousseauandco.fr",
+"c": "broker",
+"r": "investment firm"
+},
+{
+"n": "RSE Challenge",
+"w": "rse-challenge.fr",
+"c": "consulting",
+"r": "CSR workshops"
+},
+{
+"n": "Rue Juliette",
+"w": "ruejuliette.com",
+"c": "food",
+"r": "office catering"
+},
+{
+"n": "Réassurez-moi",
+"w": "reassurez-moi.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "RéassurezVous",
+"w": "reassurezvous.fr",
+"c": "broker",
+"r": "insurance broker"
+},
+{
+"n": "Réglo",
+"w": "reglo.fr",
+"c": "food",
+"r": "petfood"
+},
+{
+"n": "Réjeanne",
+"w": "rejeanne-underwear.com",
+"c": "brand",
+"r": "period underwear"
+},
+{
+"n": "S&Co Showroom Paris",
+"w": "s-and-co-showroom.fr",
+"c": "shop",
+"r": "showroom"
+},
+{
+"n": "SAAJ Paris",
+"w": "saajparis.fr",
+"c": "brand",
+"r": "fashion"
+},
+{
+"n": "SaaS Partners",
+"w": "saaspartners.fr",
+"c": "broker",
+"r": "investment holding"
+},
+{
+"n": "SACRE COEUR MUSIC",
+"w": "sacrecoeurmusic.com",
+"c": "brand",
+"r": "music label"
+},
+{
+"n": "Sacré",
+"w": "sacre.paris",
+"c": "shop",
+"r": "club culture"
+},
+{
+"n": "Sainte-Marie des Batignolles",
+"w": "saintemariedesbatignolles.fr",
+"c": "nonprofit",
+"r": "parish"
+},
+{
+"n": "Sakana Research",
+"w": "sakana.capital",
+"c": "broker",
+"r": "trading firm"
+},
+{
+"n": "Sales Lab France",
+"w": "saleslab.fr",
+"c": "agency",
+"r": "outsourced sales"
+},
+{
+"n": "Salesbytech",
+"w": "salesby.tech",
+"c": "other",
+"r": "B2B acquisition agency or tool"
+},
+{
+"n": "Salesforce Women in Tech Group, Paris",
+"w": "trailblazercommunitygroups.com",
+"c": "nonprofit",
+"r": "community group"
+},
+{
+"n": "Salon Septième Paris",
+"w": "salonseptiemeparis.com",
+"c": "shop",
+"r": "boutique"
+},
+{
+"n": "Sandora",
+"w": "sandoravr.com",
+"c": "agency",
+"r": "VR storytelling"
+},
+{
+"n": "Sapians",
+"w": "sapians.com",
+"c": "broker",
+"r": "investment product selection"
+},
+{
+"n": "Sapiendo",
+"w": "sapiendo-retraite.fr",
+"c": "consulting",
+"r": "retirement guidance advisory"
+},
+{
+"n": "SAS AMB",
+"w": "https",
+"c": "brand",
+"r": "online sneaker shop"
+},
+{
+"n": "SATELLIZ",
+"w": "satelliz.com",
+"c": "agency",
+"r": "managed cloud services"
+},
+{
+"n": "SAVADEN",
+"w": "savaden.fr",
+"c": "broker",
+"r": "insurance brokerage"
+},
+{
+"n": "SAVANA",
+"w": "savana-games.com",
+"c": "brand",
+"r": "board game publisher"
+},
+{
+"n": "Savonnerie Ciment",
+"w": "ciment.paris",
+"c": "brand",
+"r": "soap brand"
+},
+{
+"n": "SBA - Smart Buildings Alliance for Smart Cities",
+"w": "smartbuildingsalliance.org",
+"c": "nonprofit",
+"r": "alliance association"
+},
+{
+"n": "SBI-GEFIMO",
+"w": "s-b-i.fr",
+"c": "broker",
+"r": "real-estate agency"
+},
+{
+"n": "SCAI (Sorbonne Cluster for Artificial Intelligence)",
+"w": "scai.sorbonne-universite.fr",
+"c": "nonprofit",
+"r": "academic cluster"
+},
+{
+"n": "Scalability",
+"w": "getscalability.io",
+"c": "other",
+"r": "sales process help, vague"
+},
+{
+"n": "Scalizer",
+"w": "scalizer.fr",
+"c": "agency",
+"r": "software integrator"
+},
+{
+"n": "scal·ia",
+"w": "scal-ia.fr",
+"c": "other",
+"r": "AI prospecting accompaniment, agency-like"
+},
+{
+"n": "School of Product",
+"w": "schoolofpo.com",
+"c": "agency",
+"r": "conference/event organizer"
+},
+{
+"n": "School Tech",
+"w": "schooltech.fr",
+"c": "agency",
+"r": "web agency"
+},
+{
+"n": "SciencesPistes",
+"w": "sciencespistes.fr",
+"c": "consulting",
+"r": "private tutoring"
+},
+{
+"n": "Scio",
+"w": "scio.cz",
+"c": "consulting",
+"r": "exam/test services"
+},
+{
+"n": "Scoot-elec",
+"w": "scoot-elec.com",
+"c": "trade",
+"r": "electric scooter reseller"
+},
+{
+"n": "Scoubidou - Jeux & Jouets - Paris 9 & 19",
+"w": "scoubidou-kids.com",
+"c": "shop",
+"r": "toy store"
+},
+{
+"n": "Scroll",
+"w": "agence-scroll.com",
+"c": "agency",
+"r": "software dev agency"
+},
+{
+"n": "Seasonly",
+"w": "seasonly.fr",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "SecondStep",
+"w": "second-step.fr",
+"c": "brand",
+"r": "sneaker resale shop"
+},
+{
+"n": "SECTION 9",
+"w": "section9films.com",
+"c": "agency",
+"r": "film production"
+},
+{
+"n": "SecurAgri",
+"w": "securagri.fr",
+"c": "consulting",
+"r": "advisory and events"
+},
+{
+"n": "SeeMyCosmetics",
+"w": "seemycosmetics.com",
+"c": "brand",
+"r": "cosmetics concept"
+},
+{
+"n": "Segrea Partners",
+"w": "segrea-partners.com",
+"c": "consulting",
+"r": "fundraising advisory"
+},
+{
+"n": "Selfee",
+"w": "selfee.fr",
+"c": "trade",
+"r": "solar installer"
+},
+{
+"n": "SEM SIPEnR",
+"w": "sipenr.fr",
+"c": "nonprofit",
+"r": "public energy company"
+},
+{
+"n": "Semiose",
+"w": "semiose.com",
+"c": "shop",
+"r": "art gallery"
+},
+{
+"n": "SENERGY'T",
+"w": "senergyt.fr",
+"c": "trade",
+"r": "energy network developer"
+},
+{
+"n": "Senza",
+"w": "senza-nature.fr",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "SEPT",
+"w": "projetsept.com",
+"c": "agency",
+"r": "design collective"
+},
+{
+"n": "SEPTIÈME",
+"w": "septiemeparis.com",
+"c": "brand",
+"r": "hair care brand"
+},
+{
+"n": "Septième Largeur",
+"w": "septiemelargeur.fr",
+"c": "brand",
+"r": "shoe brand"
+},
+{
+"n": "Serena",
+"w": "serena.vc",
+"c": "broker",
+"r": "venture capital fund"
+},
+{
+"n": "Serge d'Estel Paris",
+"w": "sergedestel.com",
+"c": "brand",
+"r": "natural cosmetics brand"
+},
+{
+"n": "Serieously",
+"w": "serieously.com",
+"c": "nonprofit",
+"r": "entertainment media"
+},
+{
+"n": "Sesamers",
+"w": "sesamers.com",
+"c": "nonprofit",
+"r": "newsletter media"
+},
+{
+"n": "SEURECO ERASME",
+"w": "erasme-team.eu",
+"c": "consulting",
+"r": "economics research consultancy"
+},
+{
+"n": "SEVEN MILE",
+"w": "sevenmile.tech",
+"c": "agency",
+"r": "automation services team"
+},
+{
+"n": "SEVIRA KIDS",
+"w": "sevirakids.com",
+"c": "brand",
+"r": "retail kids store"
+},
+{
+"n": "SHAIKE",
+"w": "shaike.ai",
+"c": "agency",
+"r": "AI film studio"
+},
+{
+"n": "Shape Eat",
+"w": "shape-eat.fr",
+"c": "food",
+"r": "meal provider"
+},
+{
+"n": "Shapr Talent",
+"w": "shapr.co",
+"c": "other",
+"r": "recruitment service vs platform"
+},
+{
+"n": "Share it",
+"w": "share-it.io",
+"c": "nonprofit",
+"r": "digital agency for associations"
+},
+{
+"n": "Sharies",
+"w": "sharies.co",
+"c": "shop",
+"r": "residence operator"
+},
+{
+"n": "SheEOs",
+"w": "sheeos.fr",
+"c": "nonprofit",
+"r": "community network"
+},
+{
+"n": "Shift-Visuals",
+"w": "shift-visuals.com",
+"c": "agency",
+"r": "architectural rendering"
+},
+{
+"n": "Shiftbikes",
+"w": "shift-bikes.com",
+"c": "brand",
+"r": "e-bike seller"
+},
+{
+"n": "ShiftHer",
+"w": "shifther.fr",
+"c": "nonprofit",
+"r": "women's club"
+},
+{
+"n": "SHOPINVEST",
+"w": "shopinvest.fr",
+"c": "brand",
+"r": "e-retailer group"
+},
+{
+"n": "SHOPRUNBACK Returns",
+"w": "shoprunback.com",
+"c": "other",
+"r": "returns logistics provider"
+},
+{
+"n": "Si Si La Paillette",
+"w": "sisilapaillette.fr",
+"c": "brand",
+"r": "makeup brand"
+},
+{
+"n": "Sibyl",
+"w": "sibyladvisory.io",
+"c": "consulting",
+"r": "strategy/tech consultancy"
+},
+{
+"n": "Side School",
+"w": "side.school",
+"c": "consulting",
+"r": "AI bootcamp training"
+},
+{
+"n": "Sienna Venture Capital",
+"w": "sienna-vc.com",
+"c": "broker",
+"r": "venture capital fund"
+},
+{
+"n": "SIG ENERGY TECHNOLOGY",
+"w": "sig-innotech.com",
+"c": "trade",
+"r": "battery cell distributor"
+},
+{
+"n": "SIGAL Paris",
+"w": "sigalparis.com",
+"c": "brand",
+"r": "jewelry brand"
+},
+{
+"n": "SILAMIND | Microsoft Partner",
+"w": "silamind.cloud",
+"c": "agency",
+"r": "Microsoft cloud services"
+},
+{
+"n": "Silver Alliance",
+"w": "silveralliance.com",
+"c": "nonprofit",
+"r": "company alliance"
+},
+{
+"n": "Simplis - L'Assurance d'Entreprendre",
+"w": "simplis.fr",
+"c": "broker",
+"r": "insurance broker with digital front"
+},
+{
+"n": "SINGULARIST",
+"w": "singularist-paris.fr",
+"c": "agency",
+"r": "artistic agency"
+},
+{
+"n": "SKAL",
+"w": "skal.tv",
+"c": "agency",
+"r": "video capture services"
+},
+{
+"n": "SKALE-5",
+"w": "skale-5.com",
+"c": "agency",
+"r": "DevOps services"
+},
+{
+"n": "Skalis Portage Salarial - EOR",
+"w": "skalis.eu",
+"c": "consulting",
+"r": "salary portage firm"
+},
+{
+"n": "Skillwise",
+"w": "skillwise.fr",
+"c": "other",
+"r": "freelance matching or consulting"
+},
+{
+"n": "Skin & Out",
+"w": "skinandout.fr",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "Smart Infinity",
+"w": "smart-infinity.fr",
+"c": "agency",
+"r": "technology integrator"
+},
+{
+"n": "SmartBack",
+"w": "smartback.io",
+"c": "other",
+"r": "furniture second-life logistics"
+},
+{
+"n": "SmartChain",
+"w": "smart-chain.fr",
+"c": "consulting",
+"r": "blockchain consultancy"
+},
+{
+"n": "SMARTSHOP",
+"w": "smartshop.fr",
+"c": "other",
+"r": "consulting with tooling"
+},
+{
+"n": "Smoon",
+"w": "smoon-lingerie.com",
+"c": "brand",
+"r": "underwear brand"
+},
+{
+"n": "Snapdesk",
+"w": "snapdesk.co",
+"c": "broker",
+"r": "office space operator"
+},
+{
+"n": "Sneakmart",
+"w": "sneakmart.com",
+"c": "brand",
+"r": "fashion e-shop"
+},
+{
+"n": "SO DIGITAL Paris",
+"w": "so-digital.fr",
+"c": "consulting",
+"r": "freelance placement"
+},
+{
+"n": "So Villas",
+"w": "so.villas",
+"c": "shop",
+"r": "villa rentals"
+},
+{
+"n": "So'Senz Cosmetics",
+"w": "sosenz.fr",
+"c": "brand",
+"r": "cosmetics brand"
+},
+{
+"n": "Sobre Energie",
+"w": "sobre-energie.com",
+"c": "other",
+"r": "energy service with platform"
+},
+{
+"n": "Soft4web",
+"w": "soft4web.fr",
+"c": "agency",
+"r": "web development agency"
+},
+{
+"n": "Soi Paris",
+"w": "soi-paris.com",
+"c": "brand",
+"r": "ready-to-wear brand"
+},
+{
+"n": "Solarock",
+"w": "solarock.fr",
+"c": "trade",
+"r": "solar installer"
+},
+{
+"n": "Solstice Lab",
+"w": "solstice-lab.com",
+"c": "other",
+"r": "data science services"
+},
+{
+"n": "SOLUTION NEUF",
+"w": "solution-neuf.fr",
+"c": "broker",
+"r": "new-build brokerage"
+},
+{
+"n": "Somnology",
+"w": "somnology.fr",
+"c": "shop",
+"r": "sleep clinic"
+},
+{
+"n": "Soqo*",
+"w": "soqo.fr",
+"c": "consulting",
+"r": "impact consultancy"
+},
+{
+"n": "Sora",
+"w": "sora.space",
+"c": "broker",
+"r": "office space operator"
+},
+{
+"n": "Soren",
+"w": "soren.eco",
+"c": "nonprofit",
+"r": "eco-organisation"
+},
+{
+"n": "Sorore",
+"w": "sorore.fr",
+"c": "brand",
+"r": "jewelry brand"
+},
+{
+"n": "Soubis",
+"w": "soubis.com",
+"c": "brand",
+"r": "artisan e-commerce"
+},
+{
+"n": "Soufflé",
+"w": "soufflekitchen.com",
+"c": "brand",
+"r": "kitchenware brand"
+},
+{
+"n": "Source Ventures",
+"w": "sourceventures.vc",
+"c": "broker",
+"r": "venture fund"
+},
+{
+"n": "Space2be Paris 15",
+"w": "space2be.fr",
+"c": "broker",
+"r": "office rental"
+},
+{
+"n": "SPACEEZ - Microsoft Mesh Partner",
+"w": "spaceez.io",
+"c": "agency",
+"r": "metaverse consulting production"
+},
+{
+"n": "SPART",
+"w": "spart.life",
+"c": "other",
+"r": "wellbeing events plus digital"
+},
+{
+"n": "Spilka Paris",
+"w": "spilka.fr",
+"c": "nonprofit",
+"r": "creative collective"
+},
+{
+"n": "Spinaxis",
+"w": "spinaxis.com",
+"c": "trade",
+"r": "medical device promoter"
+},
+{
+"n": "Splash",
+"w": "studio-splash.fr",
+"c": "agency",
+"r": "no-code studio"
+},
+{
+"n": "SPORTFIELD",
+"w": "sportfield.fr",
+"c": "trade",
+"r": "sports equipment supplier"
+},
+{
+"n": "Sportin - Sport and tech Consulting",
+"w": "sportin-tech.com",
+"c": "consulting",
+"r": "sport tech advisory"
+},
+{
+"n": "Spotlag",
+"w": "spotlag.com",
+"c": "agency",
+"r": "event organization"
+},
+{
+"n": "Square Facts",
+"w": "square-facts.com",
+"c": "consulting",
+"r": "compliance screening services"
+},
+{
+"n": "SQUARE OFFICE",
+"w": "square-office.fr",
+"c": "broker",
+"r": "office search broker"
+},
+{
+"n": "St. NIAN",
+"w": "stnian.com",
+"c": "brand",
+"r": "fashion designer"
+},
+{
+"n": "Stack IT",
+"w": "stack-it.fr",
+"c": "agency",
+"r": "big data ops services"
+},
+{
+"n": "Starbolt",
+"w": "starbolt.co",
+"c": "other",
+"r": "e-bike subscription service"
+},
+{
+"n": "Start 2 Scale",
+"w": "start2scale.fr",
+"c": "consulting",
+"r": "financing advisory"
+},
+{
+"n": "START Paris",
+"w": "startparis.fr",
+"c": "nonprofit",
+"r": "student initiative"
+},
+{
+"n": "Start The F Up",
+"w": "startthefup.com",
+"c": "consulting",
+"r": "innovation consultancy"
+},
+{
+"n": "start-it-up",
+"w": "start-it-up.eu",
+"c": "consulting",
+"r": "expansion consultancy"
+},
+{
+"n": "StartLaw",
+"w": "startlaw.fr",
+"c": "consulting",
+"r": "law firm"
+},
+{
+"n": "Startup Palace",
+"w": "startup-palace.com",
+"c": "consulting",
+"r": "corporate innovation consulting"
+},
+{
+"n": "Startups.camp",
+"w": "startups.camp",
+"c": "nonprofit",
+"r": "acceleration program"
+},
+{
+"n": "Starving Club",
+"w": "starvingclub.fr",
+"c": "food",
+"r": "street food restaurant"
+},
+{
+"n": "StayFlex",
+"w": "stayflexhotel.com",
+"c": "shop",
+"r": "hotel chain"
+},
+{
+"n": "Stellar",
+"w": "wearestellar.io",
+"c": "consulting",
+"r": "product consulting collective"
+},
+{
+"n": "Stellar Projects",
+"w": "stellarprojects.fr",
+"c": "consulting",
+"r": "brand consulting"
+},
+{
+"n": "STEM AI SAS",
+"w": "stemai.vc",
+"c": "broker",
+"r": "venture fund"
+},
+{
+"n": "STERENOV",
+"w": "sterenov.fr",
+"c": "trade",
+"r": "energy renovation contractor"
+},
+{
+"n": "STILLFRAME",
+"w": "stillframe.ai",
+"c": "agency",
+"r": "AI creative studio"
+},
+{
+"n": "Stock CO2 | Certifiée B Corp ™",
+"w": "stock-co2.com",
+"c": "other",
+"r": "carbon forestry projects"
+},
+{
+"n": "Stop & Work Official",
+"w": "stopandwork.com",
+"c": "shop",
+"r": "flexible workspace"
+},
+{
+"n": "STORE & SUPPLY",
+"w": "store-and-supply.com",
+"c": "agency",
+"r": "e-commerce agency"
+},
+{
+"n": "STRAITEGICS",
+"w": "straitegics.com",
+"c": "other",
+"r": "strategy consulting with AI"
+},
+{
+"n": "studio 12h12",
+"w": "studio12h12.com",
+"c": "shop",
+"r": "photo studio rental"
+},
+{
+"n": "Studio 1836",
+"w": "studio1836.fr",
+"c": "agency",
+"r": "architecture agency"
+},
+{
+"n": "Studio C",
+"w": "studioc-paris.com",
+"c": "brand",
+"r": "jewelry brand"
+},
+{
+"n": "Studio Carlos",
+"w": "studiocarlos.fr",
+"c": "agency",
+"r": "immersive creative studio"
+},
+{
+"n": "Studio Demarque",
+"w": "studiodemarque.com",
+"c": "agency",
+"r": "digital manufacture studio"
+},
+{
+"n": "Studio Lab",
+"w": "studio-lab.fr",
+"c": "agency",
+"r": "production agency"
+},
+{
+"n": "Studio Matériel",
+"w": "studiomateriel.fr",
+"c": "brand",
+"r": "design studio objects"
+},
+{
+"n": "Studio Mood",
+"w": "studio-mood.fr",
+"c": "agency",
+"r": "creative production studio"
+},
+{
+"n": "Studio Pilates 16",
+"w": "studiopilates16.com",
+"c": "shop",
+"r": "pilates studio"
+},
+{
+"n": "Studio Shapes Paris",
+"w": "shapes.paris",
+"c": "shop",
+"r": "photo studio rental"
+},
+{
+"n": "Studio13Paris",
+"w": "studio13vierzy.com",
+"c": "agency",
+"r": "creative agency"
+},
+{
+"n": "Studio9P",
+"w": "studio9p.com",
+"c": "agency",
+"r": "web studio"
+},
+{
+"n": "Studiomatic",
+"w": "studiomatic.co",
+"c": "shop",
+"r": "rehearsal studios"
+},
+{
+"n": "Subeasy",
+"w": "subeasy.fr",
+"c": "consulting",
+"r": "financing advisory"
+},
+{
+"n": "SUBLIME Energie",
+"w": "sublime-energie.com",
+"c": "trade",
+"r": "biogas collection operator"
+},
+{
+"n": "Subliminaire (ex-Synapse)",
+"w": "subliminaire.fr",
+"c": "other",
+"r": "unclear description"
+},
+{
+"n": "Sunnycare",
+"w": "sunnycare.com.au",
+"c": "invalid",
+"r": "Australian care provider unrelated"
+},
+{
+"n": "SUPERBIEN",
+"w": "superbien.studio",
+"c": "agency",
+"r": "creative studio"
+},
+{
+"n": "Superette",
+"w": "3615superette.com",
+"c": "food",
+"r": "vertical farm produce"
+},
+{
+"n": "SupportEveryBody",
+"w": "supporteverybody.com",
+"c": "brand",
+"r": "patented garment licensing"
+},
+{
+"n": "Surly",
+"w": "surly.fr",
+"c": "consulting",
+"r": "banking experts matching"
+},
+{
+"n": "Sweevana",
+"w": "sweevana.com",
+"c": "invalid",
+"r": "acquired and gone"
+},
+{
+"n": "Switch Company",
+"w": "switch.paris",
+"c": "agency",
+"r": "front-end dev agency"
+},
+{
+"n": "Syllabs",
+"w": "syllabs.com",
+"c": "other",
+"r": "AI consulting and training"
+},
+{
+"n": "SYMPHONY PARTNERS PARIS",
+"w": "symphonypartners.fr",
+"c": "broker",
+"r": "office rental"
+},
+{
+"n": "Synopsis",
+"w": "synopsis.fr",
+"c": "agency",
+"r": "hosting services"
+},
+{
+"n": "Synovance",
+"w": "synovance.com",
+"c": "invalid",
+"r": "casino spam"
+},
+{
+"n": "Synovora",
+"w": "synovora.com",
+"c": "consulting",
+"r": "health organisation consulting"
+},
+{
+"n": "SZ COMPANY",
+"w": "szcompanyy.com",
+"c": "shop",
+"r": "short-term rental concierge"
+},
+{
+"n": "Sève Finance",
+"w": "seve-finance.com",
+"c": "broker",
+"r": "investment advisory firm"
+},
+{
+"n": "TABOBINE",
+"w": "tabobine.com",
+"c": "shop",
+"r": "photo booth operator"
+},
+{
+"n": "Take a waste",
+"w": "takeawaste.fr",
+"c": "trade",
+"r": "waste management service"
+},
+{
+"n": "Talents & Co",
+"w": "talentsandco.com",
+"c": "consulting",
+"r": "design project consulting"
+},
+{
+"n": "talm",
+"w": "talm.com",
+"c": "brand",
+"r": "skincare brand"
+},
+{
+"n": "Tamanoir Immersive Studio",
+"w": "tamanoir.studio",
+"c": "agency",
+"r": "VR content studio"
+},
+{
+"n": "Tandem Paris",
+"w": "join-tandem.fr",
+"c": "other",
+"r": "finance advisory for SMEs unclear"
+},
+{
+"n": "Tandem 🚲",
+"w": "tandemcompany.fr",
+"c": "shop",
+"r": "bike rental"
+},
+{
+"n": "Tango",
+"w": "tango.fr",
+"c": "shop",
+"r": "senior companion service"
+},
+{
+"n": "Tango - Les Deeptech",
+"w": "lesdeeptech.fr",
+"c": "consulting",
+"r": "advisory board service"
+},
+{
+"n": "Tankyou",
+"w": "tankyou.com",
+"c": "other",
+"r": "fuel supply with digital offer"
+},
+{
+"n": "TARGO",
+"w": "targostories.com",
+"c": "agency",
+"r": "VR media production"
+},
+{
+"n": "Tavie Téléassistance",
+"w": "tavie.fr",
+"c": "trade",
+"r": "teleassistance service"
+},
+{
+"n": "Tdoog",
+"w": "tdoog.co",
+"c": "shop",
+"r": "scooter rental"
+},
+{
+"n": "TDTF Paris",
+"w": "tdtfparis.com",
+"c": "food",
+"r": "bar"
+},
+{
+"n": "Tech Publica",
+"w": "techpublica.fr",
+"c": "consulting",
+"r": "public affairs consulting"
+},
+{
+"n": "Technofounders",
+"w": "technofounders.com",
+"c": "broker",
+"r": "startup studio fund"
+},
+{
+"n": "TechShop - Ateliers Leroy Merlin",
+"w": "techshoplm.fr",
+"c": "shop",
+"r": "makerspace"
+},
+{
+"n": "TecHunter",
+"w": "techuntermagazine.com",
+"c": "other",
+"r": "job matching magazine unclear"
+},
+{
+"n": "Ternel",
+"w": "ternel.vc",
+"c": "broker",
+"r": "venture capital fund"
+},
+{
+"n": "Terra Cognita",
+"w": "terra-cognita.ai",
+"c": "other",
+"r": "AI consulting and implementation"
+},
+{
+"n": "Thalie Paris",
+"w": "thalieparis.com",
+"c": "brand",
+"r": "accessories brand"
+},
+{
+"n": "The Alvea",
+"w": "thealvea.com",
+"c": "consulting",
+"r": "coaching consultancy"
+},
+{
+"n": "The Bureau Paris",
+"w": "thebureau.paris",
+"c": "shop",
+"r": "office rental"
+},
+{
+"n": "The Cantillon",
+"w": "thecantillon.com",
+"c": "nonprofit",
+"r": "entrepreneurship program"
+},
+{
+"n": "The Circle",
+"w": "lauralesueur.com",
+"c": "nonprofit",
+"r": "women's community"
+},
+{
+"n": "The Design Crew",
+"w": "thedesigncrew.co",
+"c": "consulting",
+"r": "design education hub"
+},
+{
+"n": "The Dogry",
+"w": "thedogry.com",
+"c": "shop",
+"r": "dog social club"
+},
+{
+"n": "The EDGE - Beyond Virtual Experience",
+"w": "theedge-vr.com",
+"c": "shop",
+"r": "VR arcade"
+},
+{
+"n": "The Full Room agency * 3D & CGI visual solutions for brands, e-commerce & retail",
+"w": "agency.thefullroom.com",
+"c": "agency",
+"r": "3D agency"
+},
+{
+"n": "The Game Changer Company",
+"w": "thegamechangercompany.io",
+"c": "other",
+"r": "gamification AR experiences agency-like"
+},
+{
+"n": "The Gate VR",
+"w": "thegatevr.io",
+"c": "shop",
+"r": "VR arcade"
+},
+{
+"n": "The Hood Paris",
+"w": "thehoodparis.com",
+"c": "food",
+"r": "coffee shop"
+},
+{
+"n": "THE NEXT DOOR",
+"w": "thenextdoor.fr",
+"c": "brand",
+"r": "skate fashion brand"
+},
+{
+"n": "The Overlap Factory",
+"w": "overlap-factory.com",
+"c": "other",
+"r": "XR agency with patented tech"
+},
+{
+"n": "The Quest",
+"w": "jointhequest.co",
+"c": "nonprofit",
+"r": "startup studio program"
+},
+{
+"n": "The Scar Lab",
+"w": "the-s-lab.com",
+"c": "shop",
+"r": "beauty salon"
+},
+{
+"n": "The Seventh House",
+"w": "the7th.house",
+"c": "agency",
+"r": "creative collective"
+},
+{
+"n": "The SHARED WOOD COMPANY",
+"w": "thesharedwood.com",
+"c": "trade",
+"r": "nature project developer"
+},
+{
+"n": "THE TWENTY SIX",
+"w": "the-twenty-six.com",
+"c": "consulting",
+"r": "consulting and coaching"
+},
+{
+"n": "Theodo HealthTech",
+"w": "hokla.com",
+"c": "agency",
+"r": "software dev agency"
+},
+{
+"n": "Three o'clock",
+"w": "threeoclock.co",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Thérapy Beauty",
+"w": "therapybeauty.co",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Théâtre de la Porte Saint-Martin | Petit Saint-Martin | Bouffes Parisiens",
+"w": "portestmartin.com",
+"c": "shop",
+"r": "theatre venue"
+},
+{
+"n": "TILLI - Join The Cycle ®",
+"w": "tilli.com",
+"c": "shop",
+"r": "aftercare repair service"
+},
+{
+"n": "Tilvest",
+"w": "tilvest.com",
+"c": "broker",
+"r": "crypto asset manager"
+},
+{
+"n": "Time To Sign Off",
+"w": "ttso.paris",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Time2Scale",
+"w": "time2scale.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "TINILOO",
+"w": "tiniloo.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "TinyBird",
+"w": "tinybird.fr",
+"c": "food",
+"r": "food business"
+},
+{
+"n": "Tiptoque",
+"w": "tiptoque.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "TIVA Performance",
+"w": "tiva-performance.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Toasty",
+"w": "toasty.family",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "TODAY",
+"w": "to.day",
+"c": "broker",
+"r": "MGA insurer"
+},
+{
+"n": "Tomato&Co",
+"w": "tomato-n-co.com",
+"c": "food",
+"r": "food business"
+},
+{
+"n": "Topager",
+"w": "topager.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "Tracee",
+"w": "traceegroup.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Transmission(s)",
+"w": "transmission-s.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Transtelling",
+"w": "transtelling.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Trashtag",
+"w": "trashtag.org",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Travel Me",
+"w": "travelme-paris.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Travelib",
+"w": "travelib.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "TRIPLTRIP",
+"w": "tripltrip.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Trone",
+"w": "troneparis.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "TrustSociety.",
+"w": "thetrustsociety.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Tryon Environnement",
+"w": "tryon-environnement.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "TRÈS BIEN D'ACCORD",
+"w": "tresbiendaccord.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Turnadon",
+"w": "turnadon.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Turrim",
+"w": "turrim.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Turtle",
+"w": "goturtle.fr",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "Tweag by Modus Create",
+"w": "tweag.io",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Twicy",
+"w": "twicy.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "TXCube",
+"w": "txcube.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "U'factory",
+"w": "ufactory.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Ubisoft Nadeo",
+"w": "ubisoft.com",
+"c": "invalid",
+"r": "spam/closed/acquired/subsidiary"
+},
+{
+"n": "UCPA sport station paris 19",
+"w": "ucpa.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Unbottled",
+"w": "unbottled.co",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "UNESCO Chair for the Future of Value",
+"w": "pontsbschool.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Unfair",
+"w": "weareunfair.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "UNIDÉE",
+"w": "unideeparis.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Unipros",
+"w": "unipros.coop",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "UNITTED Project",
+"w": "unittedparis19.fr",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "UNVEIL®",
+"w": "uvl.fr",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Urban Bivouac Hotel Paris",
+"w": "ubparis.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Urban Station",
+"w": "urbanstation.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "URBANOVA",
+"w": "urba-nova.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "URBANWATER",
+"w": "urbanwater.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Urgence Docteurs",
+"w": "urgencedocteurs.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Usine Bureau",
+"w": "usinebureau.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "Uzerly",
+"w": "uzerly.fr",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "uzfull",
+"w": "uzfull.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "V'île Fertile",
+"w": "vilefertile.paris",
+"c": "food",
+"r": "food business"
+},
+{
+"n": "v3ntures",
+"w": "v3ntures.xyz",
+"c": "broker",
+"r": "MGA insurer"
+},
+{
+"n": "Valused",
+"w": "valused.fr",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "VASCO Mobility",
+"w": "vascomobility.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Vassar-Wesleyan Program in Paris",
+"w": "vwpp.org",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Veilos",
+"w": "veilos.fr",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Velair - Vélos électriques",
+"w": "velair.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Veles Énergies",
+"w": "velesenergies.fr",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "VelyVelo",
+"w": "velyvelo.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "Veridian Mobility",
+"w": "veridian-me.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "Versai Studio",
+"w": "versai.studio",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "VERTUO",
+"w": "vertuo.city",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Verytrain",
+"w": "verytrain.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Vestalis",
+"w": "vestalis.fr",
+"c": "broker",
+"r": "property developer/operator"
+},
+{
+"n": "VH 15 NOTAIRES",
+"w": "vh15notaires.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Via ID - Mobivia",
+"w": "via-id.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Video In",
+"w": "video-in.fr",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "VideoMark",
+"w": "videomark.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "VIDZIT",
+"w": "vidzit.fr",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Villa M",
+"w": "villa-m.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "VILLAVIE",
+"w": "villavie.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Ville de Demain x STATION F",
+"w": "ville-demain.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Villette Makerz",
+"w": "villettemakerz.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "VingtCinq, Digital Factory",
+"w": "vingtcinq.io",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Virtual Room",
+"w": "virtual-room.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "VirtualTime",
+"w": "virtualtime.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Virtuose Reality Studio",
+"w": "virtuosereality.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "VIVO IN PARIS",
+"w": "vivoinparis.com",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "VOID-IMAGE",
+"w": "void-image.tv",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Volta",
+"w": "volta.fr",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Voltaire",
+"w": "voltaire.bike",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Volum",
+"w": "volum.eu",
+"c": "broker",
+"r": "property developer/operator"
+},
+{
+"n": "VOLUMES",
+"w": "volumes.media",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Voyage avec Vue",
+"w": "voyageavecvue.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "VR Connection",
+"w": "vr-connection.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "VXL NOTAIRES",
+"w": "vxl-notaires.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Vétorino",
+"w": "vetorino.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "WALK IN PARIS",
+"w": "walkinparis.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "WASTE Paris",
+"w": "waste.paris",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Wasted Paris",
+"w": "wasted.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Water4All - Partnership",
+"w": "water4all-partnership.eu",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Watiz",
+"w": "watiz.io",
+"c": "invalid",
+"r": "spam/closed/acquired/subsidiary"
+},
+{
+"n": "Watnowa",
+"w": "watnowa.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Watura Water Academy",
+"w": "watura.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Wave in Paris",
+"w": "waveinparis.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "We Act  - Vos compromis en 72h !",
+"w": "we-act.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "We Conf In Paris (By Sodexo)",
+"w": "we-conf-in-paris.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "WeAreFreelance",
+"w": "wearefreelance.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Web3 Studio",
+"w": "web3studio.co",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "wechange",
+"w": "wechange.paris",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "WeCoach",
+"w": "wecoach.biz",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "WefactorIT",
+"w": "wefactorit.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Wefound",
+"w": "wefound.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Welcome to the City",
+"w": "welcometothecity.fr",
+"c": "broker",
+"r": "property developer/operator"
+},
+{
+"n": "Welgo",
+"w": "welgo-bike.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "WeLike",
+"w": "welikestartup.com",
+"c": "broker",
+"r": "MGA insurer"
+},
+{
+"n": "Wellio",
+"w": "wellio.com",
+"c": "shop",
+"r": "coworking/venue"
+},
+{
+"n": "Wello bikes",
+"w": "wellobikes.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Wellow",
+"w": "wellowhouse.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "WELO, le syndic innovant",
+"w": "welo.fr",
+"c": "broker",
+"r": "property developer/operator"
+},
+{
+"n": "Wesh Grow",
+"w": "wesh-grow.com",
+"c": "food",
+"r": "food business"
+},
+{
+"n": "West Child School Story",
+"w": "vincianneregattieri.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Wevioo France (ex PVG)",
+"w": "pro-vision.biz",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Whaly",
+"w": "whaly.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "What's Next Consulting",
+"w": "wnp.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "WhatMatters",
+"w": "what-matters.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Why Not Factory",
+"w": "thewhynotfactory.fr",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Wi-Studio",
+"w": "wi-studio.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "WIA Philanthropy",
+"w": "wia-philanthropy.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "WiAcademy",
+"w": "wiacademy.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "wilhow",
+"w": "wilhow.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "WILIFT",
+"w": "wilift.fr",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "Wilma",
+"w": "wilma.cc",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Wilo",
+"w": "wilo-store.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Wilo & Grove",
+"w": "wilo-grove.com",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Wind",
+"w": "wind.capital",
+"c": "broker",
+"r": "MGA insurer"
+},
+{
+"n": "WinEquity",
+"w": "winequity.fr",
+"c": "broker",
+"r": "MGA insurer"
+},
+{
+"n": "WinSide",
+"w": "winside.co",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Wisear",
+"w": "naqilogix.com",
+"c": "invalid",
+"r": "spam/closed/acquired/subsidiary"
+},
+{
+"n": "WITH",
+"w": "with-paris.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "WIZE Paris",
+"w": "wize.paris",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "WO2",
+"w": "wo2.com",
+"c": "broker",
+"r": "property developer/operator"
+},
+{
+"n": "Wolbe",
+"w": "wolbeparis.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "WoMa, Fabriques de quartier",
+"w": "woma.fr",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Woman Impact",
+"w": "womanimpact.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Women Initiative Foundation",
+"w": "women-initiative-foundation.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Women of Influence",
+"w": "womenofinfluence.fr",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Women's Forum for the Economy & Society",
+"w": "womens-forum.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Women's WorldWide Web (W4)",
+"w": "w4.org",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Work Mates",
+"w": "workmates.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "Wozaik",
+"w": "wozaik.com",
+"c": "invalid",
+"r": "spam/closed/acquired/subsidiary"
+},
+{
+"n": "X-MAKERS",
+"w": "xmakers.io",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "XIX",
+"w": "dix-neuf.eu",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "XP2 Cloud",
+"w": "xp2cloud.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Y Combinator",
+"w": "ycombinator.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "YABAÏ SANDO",
+"w": "yabaisando.com",
+"c": "food",
+"r": "food business"
+},
+{
+"n": "YADAY",
+"w": "yaday.vc",
+"c": "broker",
+"r": "MGA insurer"
+},
+{
+"n": "Yade",
+"w": "yade-paris.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Yellow",
+"w": "yellow.vc",
+"c": "broker",
+"r": "MGA insurer"
+},
+{
+"n": "Yemanja (B Corp) - Aménagement de bureaux",
+"w": "yemanja.io",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "YGB BATTERY",
+"w": "ygb-battery.fr",
+"c": "trade",
+"r": "traditional business"
+},
+{
+"n": "YiNFY",
+"w": "yinfy.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Ylos7",
+"w": "ylos7.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Yo'Time",
+"w": "yotime.co",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "YOBIKE",
+"w": "yobike.fr",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Yodi Beauty",
+"w": "yodibeauty.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Yolo Baby",
+"w": "yolobaby.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "YOM",
+"w": "yom.paris",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "YOOCO",
+"w": "yooco.io",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Yoomy Food Group",
+"w": "yoomyfoodgroup.com",
+"c": "food",
+"r": "food business"
+},
+{
+"n": "YouBLive",
+"w": "youblive.com",
+"c": "agency",
+"r": "social innovation agency"
+},
+{
+"n": "YouMeO by BearingPoint",
+"w": "youmeo.fr",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "Young ID",
+"w": "youngid.fr",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "Your Friend in Paris - Relocation Agency",
+"w": "yourfriendinparis.com",
+"c": "consulting",
+"r": "operating partner service"
+},
+{
+"n": "YOZE",
+"w": "yoze.fr",
+"c": "shop",
+"r": "local venue/hotel/service"
+},
+{
+"n": "YUJ PARIS",
+"w": "yuj.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "YUJ YOGA STUDIO",
+"w": "yujparis.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Zhiggie",
+"w": "zhiggie.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Zyken (acquired by Withings)",
+"w": "zyken.com",
+"c": "invalid",
+"r": "spam/closed/acquired/subsidiary"
+},
+{
+"n": "ÆRA NOVA",
+"w": "aera-nova.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "École Webstart",
+"w": "supcad.com",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "édition 1.6.9",
+"w": "edition169.com",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Éditions Point Nemo",
+"w": "pointnemo.fr",
+"c": "brand",
+"r": "beauty brand"
+},
+{
+"n": "Énergies du Grand Paris",
+"w": "energiesdugrandparis.fr",
+"c": "nonprofit",
+"r": "media newsletter"
+},
+{
+"n": "Ŋusẽ Energy",
+"w": "nuse-energy.com",
+"c": "other",
+"r": "ambiguous/too little info"
+},
+{
+"n": "🎥 Studio 144 Paris - Plateaux TV & Studio Webcast à Paris",
+"w": "studio144.fr",
+"c": "agency",
+"r": "social innovation agency"
+}
+]
