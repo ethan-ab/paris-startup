@@ -144,6 +144,12 @@
 "r": "student event"
 },
 {
+"n": "2CGroup",
+"w": "2c.group",
+"c": "consulting",
+"r": "fractional CFO advisory"
+},
+{
 "n": "2D atelier",
 "w": "2datelier.com",
 "c": "food",
@@ -288,6 +294,12 @@
 "r": "outsourcing consulting/dev"
 },
 {
+"n": "900.care",
+"w": "900.care",
+"c": "brand",
+"r": "bathroom products brand"
+},
+{
 "n": "9e Store",
 "w": "9e-store.fr",
 "c": "brand",
@@ -298,6 +310,12 @@
 "w": "studio9f.com",
 "c": "agency",
 "r": "creative studio"
+},
+{
+"n": "_rzilient",
+"w": "rzilient.club",
+"c": "agency",
+"r": "managed IT services"
 },
 {
 "n": "A-BIME (Ancien Bâtiment Informatisé Modélisé Expertisé)",
@@ -312,10 +330,22 @@
 "r": "copywriting workshop"
 },
 {
+"n": "abbeal",
+"w": "abbeal.com",
+"c": "agency",
+"r": "engineering consultancy"
+},
+{
 "n": "Absolutely French",
 "w": "absolutely-french.eu",
 "c": "consulting",
 "r": "expat integration services"
+},
+{
+"n": "Absolution",
+"w": "absolution-cosmetics.com",
+"c": "brand",
+"r": "cosmetics brand"
 },
 {
 "n": "AC3 Studio",
@@ -364,6 +394,12 @@
 "w": "adbridge.fr",
 "c": "agency",
 "r": "ads acquisition agency"
+},
+{
+"n": "AdinCube (acquired by Ogury)",
+"w": "adincube.com",
+"c": "invalid",
+"r": "acquired by Ogury"
 },
 {
 "n": "Admise Paris",
@@ -516,6 +552,12 @@
 "r": "solar plant builder"
 },
 {
+"n": "Agyla.Cloud",
+"w": "ibm.com",
+"c": "agency",
+"r": "IBM cloud consulting"
+},
+{
 "n": "AI Cargo Foundation",
 "w": "aicargofoundation.org",
 "c": "nonprofit",
@@ -558,6 +600,12 @@
 "r": "health app dev agency"
 },
 {
+"n": "Akuo",
+"w": "akuoenergy.com",
+"c": "trade",
+"r": "renewable plant developer"
+},
+{
 "n": "Alaïa Advisory",
 "w": "alaia-advisory.com",
 "c": "consulting",
@@ -576,6 +624,12 @@
 "r": "closed company"
 },
 {
+"n": "Alegria.group",
+"w": "alegria.group",
+"c": "agency",
+"r": "digital transformation consulting"
+},
+{
 "n": "ALEN JOHNSON",
 "w": "alenjohnson.fr",
 "c": "broker",
@@ -586,6 +640,18 @@
 "w": "alfieparis.com",
 "c": "brand",
 "r": "fashion label"
+},
+{
+"n": "ALiA Consulting",
+"w": "atos.net",
+"c": "agency",
+"r": "Atos SAP consulting"
+},
+{
+"n": "ALIAD (Air Liquide Venture Capital)",
+"w": "airliquide.com",
+"c": "broker",
+"r": "corporate venture fund"
 },
 {
 "n": "ALISTER",
@@ -810,10 +876,22 @@
 "r": "photo boutiques"
 },
 {
+"n": "Artpoint",
+"w": "artpoint.fr",
+"c": "agency",
+"r": "digital art agency"
+},
+{
 "n": "artéfact",
 "w": "artefact-marais.com",
 "c": "food",
 "r": "tea shop"
+},
+{
+"n": "asap.work",
+"w": "asap.work",
+"c": "consulting",
+"r": "construction staffing agency"
 },
 {
 "n": "ASHOKA PARIS SAS",
@@ -832,6 +910,18 @@
 "w": "asphalte.com",
 "c": "brand",
 "r": "apparel brand"
+},
+{
+"n": "Assurancevie.com désormais Lucya",
+"w": "lucya.com",
+"c": "broker",
+"r": "life insurance broker"
+},
+{
+"n": "Asterion Ventures",
+"w": "asterionventures.com",
+"c": "broker",
+"r": "venture investment firm"
 },
 {
 "n": "Astrolabe (by Flowbow)",
@@ -894,6 +984,12 @@
 "r": "office design"
 },
 {
+"n": "Ateliers 2 Paris",
+"w": "ateliers2paris.fr",
+"c": "trade",
+"r": "embroidery craft manufacturer"
+},
+{
 "n": "ATICA",
 "w": "aticaparis.com",
 "c": "agency",
@@ -934,6 +1030,12 @@
 "w": "autourdeskids.com",
 "c": "shop",
 "r": "childcare service"
+},
+{
+"n": "AXA Climate",
+"w": "climate.axa",
+"c": "other",
+"r": "Climate insurance/consulting/software mix"
 },
 {
 "n": "Axis&Co",
@@ -1170,10 +1272,28 @@
 "r": "event organizer"
 },
 {
+"n": "Big Mamma",
+"w": "bigmammagroup.com",
+"c": "food",
+"r": "restaurant chain"
+},
+{
+"n": "Biggie",
+"w": "biggie.co",
+"c": "agency",
+"r": "marketing activation agency"
+},
+{
 "n": "Billee (acquired by Zenchef)",
 "w": "billee.fr",
 "c": "invalid",
 "r": "acquired by Zenchef"
+},
+{
+"n": "Biogyne France",
+"w": "biogyne.fr",
+"c": "brand",
+"r": "pharma hygiene products lab"
 },
 {
 "n": "Bixoto",
@@ -1320,6 +1440,12 @@
 "r": "VC fund"
 },
 {
+"n": "Bpifrance Green Venture",
+"w": "bpifrance.fr",
+"c": "broker",
+"r": "investment fund"
+},
+{
 "n": "Bpifrance Large Venture",
 "w": "medium.com",
 "c": "broker",
@@ -1360,6 +1486,12 @@
 "w": "brsbeauty.com",
 "c": "brand",
 "r": "beauty products"
+},
+{
+"n": "Brut",
+"w": "brut.media",
+"c": "trade",
+"r": "media publisher"
 },
 {
 "n": "BRÂAM",
@@ -1446,6 +1578,12 @@
 "r": "pet food brand"
 },
 {
+"n": "CABAIA",
+"w": "cabaia.fr",
+"c": "brand",
+"r": "bags luggage brand"
+},
+{
 "n": "Cabinet d'assurance AXA Paris Opéra",
 "w": "agence.axa.fr",
 "c": "broker",
@@ -1480,6 +1618,12 @@
 "w": "caissedesecolesdu6eme.fr",
 "c": "nonprofit",
 "r": "public school fund"
+},
+{
+"n": "Caisse des écoles du 20e",
+"w": "caissedesecoles20.fr",
+"c": "nonprofit",
+"r": "school catering public body"
 },
 {
 "n": "Cajou",
@@ -1530,10 +1674,22 @@
 "r": "solar plant developer"
 },
 {
+"n": "Capital 8",
+"w": "capital8.paris",
+"c": "shop",
+"r": "office business center"
+},
+{
 "n": "Capsul Events",
 "w": "capsul.events",
 "c": "agency",
 "r": "events agency"
+},
+{
+"n": "CAPSULE",
+"w": "soundcloud.com",
+"c": "trade",
+"r": "music label"
 },
 {
 "n": "Capsule Studio",
@@ -1546,6 +1702,12 @@
 "w": "carbonefarmers.com",
 "c": "other",
 "r": "carbon farming programs"
+},
+{
+"n": "Care Lab",
+"w": "institutducerveau.org",
+"c": "nonprofit",
+"r": "hospital living lab"
 },
 {
 "n": "Carg'o & Co",
@@ -1618,6 +1780,12 @@
 "w": "cent-neuf.com",
 "c": "brand",
 "r": "fashion brand"
+},
+{
+"n": "CENTQUATRE-PARIS",
+"w": "104.fr",
+"c": "nonprofit",
+"r": "cultural venue"
 },
 {
 "n": "Centre 5",
@@ -1698,6 +1866,12 @@
 "r": "university chair"
 },
 {
+"n": "Chance",
+"w": "chance-financial.com",
+"c": "broker",
+"r": "insurance broker"
+},
+{
 "n": "Chapter54",
 "w": "chapter54.com",
 "c": "consulting",
@@ -1708,6 +1882,18 @@
 "w": "charlesandco.fr",
 "c": "consulting",
 "r": "consulting firm"
+},
+{
+"n": "Checkmyguest",
+"w": "checkmyguest.fr",
+"c": "shop",
+"r": "short-term rental management"
+},
+{
+"n": "Chefclub",
+"w": "chefclub.tv",
+"c": "other",
+"r": "culinary media brand"
 },
 {
 "n": "CHEMIX",
@@ -1830,6 +2016,18 @@
 "r": "accelerator"
 },
 {
+"n": "Clinique juridique de la Sorbonne",
+"w": "cliniquejuridiquedeparis.com",
+"c": "nonprofit",
+"r": "university association"
+},
+{
+"n": "Clone",
+"w": "getclone.io",
+"c": "other",
+"r": "dark-kitchen restaurant operator"
+},
+{
 "n": "Closet2Closet",
 "w": "closet2closet.eu",
 "c": "brand",
@@ -1872,6 +2070,18 @@
 "r": "community club"
 },
 {
+"n": "Club ESSEC Alumni Business Angels",
+"w": "essecalumni.com",
+"c": "nonprofit",
+"r": "alumni angels club"
+},
+{
+"n": "ClubTrotteur Paris, a Tribute Portfolio Hotel",
+"w": "marriott.com",
+"c": "shop",
+"r": "hotel"
+},
+{
 "n": "ClubVET",
 "w": "clubvet.fr",
 "c": "invalid",
@@ -1902,6 +2112,12 @@
 "r": "CTO time-sharing"
 },
 {
+"n": "Coalise - Portage salarial",
+"w": "coalise.com",
+"c": "consulting",
+"r": "portage salarial"
+},
+{
 "n": "COCO Community",
 "w": "coco-community.com",
 "c": "shop",
@@ -1918,6 +2134,18 @@
 "w": "codageparis.com",
 "c": "brand",
 "r": "cosmetics brand"
+},
+{
+"n": "Code Busters",
+"w": "codebusters.fr",
+"c": "agency",
+"r": "developer consulting"
+},
+{
+"n": "code.store",
+"w": "code.store",
+"c": "agency",
+"r": "custom software agency"
 },
 {
 "n": "Codyssée",
@@ -1954,6 +2182,12 @@
 "w": "collective.camp",
 "c": "other",
 "r": "vague mission, unclear"
+},
+{
+"n": "Colonies",
+"w": "livecolonies.com",
+"c": "broker",
+"r": "coliving operator"
 },
 {
 "n": "ComboCombo®",
@@ -2076,6 +2310,12 @@
 "r": "parent coaching/training"
 },
 {
+"n": "Cooltra France",
+"w": "cooltra.com",
+"c": "trade",
+"r": "scooter rental operator"
+},
+{
 "n": "Cooperative Indigo",
 "w": "donnons.org",
 "c": "nonprofit",
@@ -2140,6 +2380,12 @@
 "w": "cozie-bio.com",
 "c": "brand",
 "r": "cosmetics brand"
+},
+{
+"n": "Crafty",
+"w": "craftydelivers.com",
+"c": "shop",
+"r": "office pantry services"
 },
 {
 "n": "Crazy Voyages",
@@ -2400,6 +2646,12 @@
 "r": "pet food brand"
 },
 {
+"n": "Delicious",
+"w": "deliciousgroup.fr",
+"c": "food",
+"r": "virtual restaurant brands"
+},
+{
 "n": "Delicorner",
 "w": "delicorner.co",
 "c": "food",
@@ -2472,6 +2724,12 @@
 "r": "delicatessen wine shop"
 },
 {
+"n": "Digital",
+"w": "walden-group.com",
+"c": "other",
+"r": "IT services for pharma logistics"
+},
+{
 "n": "Digital Music Solutions",
 "w": "nomadplay.io",
 "c": "other",
@@ -2506,6 +2764,12 @@
 "w": "digital4all.fr",
 "c": "agency",
 "r": "IT support services"
+},
+{
+"n": "DigiTall",
+"w": "digitall.com",
+"c": "agency",
+"r": "IT consulting integrator"
 },
 {
 "n": "Diligo",
@@ -2688,6 +2952,12 @@
 "r": "physical shop/local service"
 },
 {
+"n": "E-LongLife Energies Nouvelles ELLEN",
+"w": "e-longlife-hes.com",
+"c": "trade",
+"r": "energy utility Africa"
+},
+{
 "n": "E.LEVEN",
 "w": "e-leven.fr",
 "c": "consulting",
@@ -2698,6 +2968,12 @@
 "w": "e2r-paris.com",
 "c": "brand",
 "r": "brand/consumer goods"
+},
+{
+"n": "each One",
+"w": "eachone.co",
+"c": "consulting",
+"r": "refugee recruitment training"
 },
 {
 "n": "easaia",
@@ -2862,6 +3138,12 @@
 "r": "agency/production/IT services"
 },
 {
+"n": "Ekwateur",
+"w": "ekwateur.fr",
+"c": "trade",
+"r": "energy supplier"
+},
+{
 "n": "Elearning FORMALIS",
 "w": "elearningformalis.fr",
 "c": "consulting",
@@ -2884,6 +3166,12 @@
 "w": "elephas.fr",
 "c": "brand",
 "r": "brand/consumer goods"
+},
+{
+"n": "Eleven Labs",
+"w": "eleven-labs.com",
+"c": "agency",
+"r": "web consulting agency"
 },
 {
 "n": "Elia Lingerie",
@@ -2928,6 +3216,12 @@
 "r": "broker/investment/real estate"
 },
 {
+"n": "Emeria",
+"w": "emeriagroup.com",
+"c": "broker",
+"r": "real estate services"
+},
+{
 "n": "EMOJI",
 "w": "emoji.paris",
 "c": "agency",
@@ -2968,6 +3262,12 @@
 "w": "enfance-paris.com",
 "c": "brand",
 "r": "brand/consumer goods"
+},
+{
+"n": "Enfant Présent",
+"w": "enfantpresent.net",
+"c": "nonprofit",
+"r": "childcare association"
 },
 {
 "n": "Enthéos",
@@ -3016,6 +3316,12 @@
 "w": "entreprisemusique.fr",
 "c": "agency",
 "r": "agency/production/IT services"
+},
+{
+"n": "Envie de Fraise",
+"w": "vertbaudet.fr",
+"c": "brand",
+"r": "maternity wear brand"
 },
 {
 "n": "EONA-X",
@@ -3120,6 +3426,12 @@
 "r": "association/school/incubator/media"
 },
 {
+"n": "EUTELMED",
+"w": "eutelmed.com",
+"c": "other",
+"r": "EAP services plus digital"
+},
+{
 "n": "Eutopia",
 "w": "eutopia.vc",
 "c": "broker",
@@ -3136,6 +3448,12 @@
 "w": "evevest.fr",
 "c": "broker",
 "r": "broker/investment/real estate"
+},
+{
+"n": "Evidens de Beauté",
+"w": "evidensdebeaute.com",
+"c": "brand",
+"r": "cosmetics house"
 },
 {
 "n": "Evoleum",
@@ -3172,6 +3490,12 @@
 "w": "expen.com",
 "c": "consulting",
 "r": "consulting/advisory"
+},
+{
+"n": "Experimental",
+"w": "experimentalgroup.com",
+"c": "shop",
+"r": "hotels and bars"
 },
 {
 "n": "EXTEND PARIS",
@@ -3270,6 +3594,12 @@
 "r": "broker/investment/real estate"
 },
 {
+"n": "Feedgy",
+"w": "feedgy.solar",
+"c": "trade",
+"r": "solar plant operator"
+},
+{
 "n": "FEELING SPORTS",
 "w": "feelingsports.com",
 "c": "agency",
@@ -3280,6 +3610,12 @@
 "w": "felicity-dating.fr",
 "c": "shop",
 "r": "physical shop/local service"
+},
+{
+"n": "Femmes de Santé",
+"w": "femmesdesante.fr",
+"c": "nonprofit",
+"r": "collective association"
 },
 {
 "n": "Femmes des Territoires",
@@ -3378,6 +3714,12 @@
 "r": "ambiguous consumer/service with app"
 },
 {
+"n": "FITZ GROUP",
+"w": "fitz-group.fr",
+"c": "food",
+"r": "restaurant group"
+},
+{
 "n": "Five Nines",
 "w": "five9s.fr",
 "c": "agency",
@@ -3460,6 +3802,12 @@
 "w": "foodanalytics.fr",
 "c": "consulting",
 "r": "consulting/advisory"
+},
+{
+"n": "Food Hotel Tech",
+"w": "foodhoteltech.com",
+"c": "agency",
+"r": "trade event"
 },
 {
 "n": "Food7Go",
@@ -3618,6 +3966,12 @@
 "r": "association/school/incubator/media"
 },
 {
+"n": "Futurz",
+"w": "futurzhr.com",
+"c": "consulting",
+"r": "staffing India"
+},
+{
 "n": "Fuzed",
 "w": "fuzed.com",
 "c": "other",
@@ -3700,6 +4054,12 @@
 "w": "geneocapitalentrepreneur.com",
 "c": "broker",
 "r": "investment firm"
+},
+{
+"n": "GENERALE DU SOLAIRE",
+"w": "gdsolaire.com",
+"c": "trade",
+"r": "solar EPC developer"
 },
 {
 "n": "Gensai",
@@ -3790,6 +4150,12 @@
 "w": "go2roues.com",
 "c": "shop",
 "r": "bike/moto showroom"
+},
+{
+"n": "Gobi",
+"w": "gobilab.com",
+"c": "brand",
+"r": "reusable bottle brand"
 },
 {
 "n": "Golden",
@@ -4002,6 +4368,12 @@
 "r": "3D/VFX or creative studio"
 },
 {
+"n": "HARI",
+"w": "hari-studios.com",
+"c": "agency",
+"r": "animation production studio"
+},
+{
 "n": "HAUTEUR LIBRE",
 "w": "hauteurlibre.com",
 "c": "consulting",
@@ -4030,6 +4402,12 @@
 "w": "hec.edu",
 "c": "nonprofit",
 "r": "accelerator/angels club"
+},
+{
+"n": "Hectar",
+"w": "hectar.co",
+"c": "nonprofit",
+"r": "agri campus ecosystem"
 },
 {
 "n": "HEGO Batignolles",
@@ -4092,6 +4470,12 @@
 "r": "retail concept pop-up"
 },
 {
+"n": "Hexa",
+"w": "efounders.com",
+"c": "broker",
+"r": "startup studio"
+},
+{
 "n": "Heyvva Technologie",
 "w": "heyvva.fr",
 "c": "other",
@@ -4116,6 +4500,12 @@
 "r": "illegal gambling"
 },
 {
+"n": "HIGHT",
+"w": "hight-paris.fr",
+"c": "shop",
+"r": "office building"
+},
+{
 "n": "HiP Paris",
 "w": "hipparis.com",
 "c": "nonprofit",
@@ -4132,6 +4522,12 @@
 "w": "hiving.me",
 "c": "agency",
 "r": "content/digital studio"
+},
+{
+"n": "HIWAY",
+"w": "hiway.fr",
+"c": "consulting",
+"r": "portage salarial"
 },
 {
 "n": "HOBA",
@@ -4162,6 +4558,12 @@
 "w": "hopestage.com",
 "c": "nonprofit",
 "r": "community/association"
+},
+{
+"n": "Hopscotch",
+"w": "hopscotch.fr",
+"c": "agency",
+"r": "communication group"
 },
 {
 "n": "Hors Normes",
@@ -4296,6 +4698,12 @@
 "r": "water topic unclear"
 },
 {
+"n": "Hyvolution Paris",
+"w": "hyvolution.com",
+"c": "agency",
+"r": "trade event"
+},
+{
 "n": "HÉOLEM",
 "w": "heolem.fr",
 "c": "consulting",
@@ -4304,6 +4712,12 @@
 {
 "n": "Hôtel FABRIC",
 "w": "hotelfabric.com",
+"c": "shop",
+"r": "hotel"
+},
+{
+"n": "Hôtel Indigo Paris - Opera",
+"w": "ihg.com",
 "c": "shop",
 "r": "hotel"
 },
@@ -4362,10 +4776,28 @@
 "r": "tannery"
 },
 {
+"n": "Idixit",
+"w": "i-dixit.com",
+"c": "agency",
+"r": "review response services"
+},
+{
 "n": "Idoption",
 "w": "idoption.ai",
 "c": "consulting",
 "r": "AI adoption consulting"
+},
+{
+"n": "IESO GROUP",
+"w": "jumpao.com",
+"c": "broker",
+"r": "investment group"
+},
+{
+"n": "IEVA Group",
+"w": "ievagroup.com",
+"c": "brand",
+"r": "beauty group"
 },
 {
 "n": "IFTI PARIS",
@@ -4494,6 +4926,12 @@
 "r": "food brand/restaurant"
 },
 {
+"n": "innerskin",
+"w": "innerskin.com",
+"c": "shop",
+"r": "aesthetic clinics"
+},
+{
 "n": "INNEST",
 "w": "innest.fr",
 "c": "nonprofit",
@@ -4540,6 +4978,12 @@
 "w": "inspiraction.ro",
 "c": "nonprofit",
 "r": "school/institute"
+},
+{
+"n": "Institut Carnot IPGG Microfluidique",
+"w": "institut-pgg.fr",
+"c": "nonprofit",
+"r": "research institute"
 },
 {
 "n": "Institut de minéralogie, de physique des matériaux et de cosmochimie",
@@ -4614,10 +5058,22 @@
 "r": "insurance broker"
 },
 {
+"n": "INWiT",
+"w": "inwit-notaires.com",
+"c": "consulting",
+"r": "notary offices"
+},
+{
 "n": "IOWIZMI",
 "w": "iowizmi.fr",
 "c": "trade",
 "r": "waste treatment/construction"
+},
+{
+"n": "ipso santé",
+"w": "ipsosante.fr",
+"c": "shop",
+"r": "medical practices network"
 },
 {
 "n": "IQTHINGS",
@@ -4770,6 +5226,12 @@
 "r": "address only description"
 },
 {
+"n": "JeVeuxAider.gouv.fr",
+"w": "jeveuxaider.gouv.fr",
+"c": "nonprofit",
+"r": "public body platform"
+},
+{
 "n": "Jia Paris",
 "w": "jiaparis.com",
 "c": "brand",
@@ -4792,6 +5254,12 @@
 "w": "jiminis.com",
 "c": "food",
 "r": "food brand/restaurant"
+},
+{
+"n": "Jimmy Fairly",
+"w": "jimmyfairly.com",
+"c": "brand",
+"r": "eyewear brand"
 },
 {
 "n": "Jitensha",
@@ -4854,6 +5322,12 @@
 "r": "food brand/restaurant"
 },
 {
+"n": "Joya, aide à domicile",
+"w": "joya-domicile.fr",
+"c": "shop",
+"r": "home care services"
+},
+{
 "n": "Joyne",
 "w": "joyne-mariage.com",
 "c": "brand",
@@ -4894,6 +5368,12 @@
 "w": "paristech.fr",
 "c": "nonprofit",
 "r": "school/institute"
+},
+{
+"n": "Junk Group",
+"w": "junkgroup.fr",
+"c": "food",
+"r": "burger brands"
 },
 {
 "n": "Junko - Sustainable Business Ventures",
@@ -4978,6 +5458,12 @@
 "w": "keeze.co",
 "c": "shop",
 "r": "event venues"
+},
+{
+"n": "Kenko",
+"w": "kenko.fr",
+"c": "broker",
+"r": "health insurance advisory"
 },
 {
 "n": "Kerala Ventures",
@@ -5070,6 +5556,12 @@
 "r": "ESUS skills sponsorship"
 },
 {
+"n": "Konbini",
+"w": "konbini.com",
+"c": "trade",
+"r": "media publisher"
+},
+{
 "n": "Konexio",
 "w": "konexionetwork.com",
 "c": "invalid",
@@ -5100,10 +5592,22 @@
 "r": "energy renovation advisory"
 },
 {
+"n": "KRYPTOSPHERE®",
+"w": "kryptosphere.org",
+"c": "nonprofit",
+"r": "student network"
+},
+{
 "n": "Krème",
 "w": "kreme-paris.com",
 "c": "brand",
 "r": "cosmetics brand"
+},
+{
+"n": "Kumulus",
+"w": "kumulus.com",
+"c": "agency",
+"r": "tech consultancy"
 },
 {
 "n": "Kurma Partners",
@@ -5158,6 +5662,12 @@
 "w": "latelier13.com",
 "c": "brand",
 "r": "fashion label"
+},
+{
+"n": "L'Atelier Cognacq-Jay",
+"w": "cognacq-jay.fr",
+"c": "nonprofit",
+"r": "foundation"
 },
 {
 "n": "L'Atelier Digital",
@@ -5238,6 +5748,12 @@
 "r": "convivality training school"
 },
 {
+"n": "L'École Française",
+"w": "lecolefrancaise.fr",
+"c": "consulting",
+"r": "training organisation"
+},
+{
 "n": "La 20eme chaise",
 "w": "la20emechaise.org",
 "c": "nonprofit",
@@ -5280,10 +5796,22 @@
 "r": "revision content, edtech unclear"
 },
 {
+"n": "La Brigade",
+"w": "la-brigade.fr",
+"c": "food",
+"r": "bistrot chain"
+},
+{
 "n": "LA CAGE paris",
 "w": "lacageparis.fr",
 "c": "brand",
 "r": "fashion brand"
+},
+{
+"n": "La Casa",
+"w": "lacasa.io",
+"c": "broker",
+"r": "coliving operator"
 },
 {
 "n": "LA CHAMBRE DU MARAIS",
@@ -5568,6 +6096,12 @@
 "r": "cosmetics brand"
 },
 {
+"n": "LAFORET PARIS MARAIS",
+"w": "laforet.com",
+"c": "broker",
+"r": "real-estate agency"
+},
+{
 "n": "LaGuild",
 "w": "laguild.io",
 "c": "agency",
@@ -5598,6 +6132,12 @@
 "r": "civic program"
 },
 {
+"n": "Lartisien",
+"w": "lartisien.com",
+"c": "shop",
+"r": "travel creator"
+},
+{
 "n": "LaSuite",
 "w": "lasuite.numerique.gouv.fr",
 "c": "nonprofit",
@@ -5610,10 +6150,22 @@
 "r": "venture capital"
 },
 {
+"n": "Lazeo",
+"w": "lazeo.com",
+"c": "shop",
+"r": "aesthetic clinics"
+},
+{
 "n": "laïzé - KIYODO",
 "w": "laizeparis.com",
 "c": "food",
 "r": "tea house restaurant"
+},
+{
+"n": "LC NETSECURE",
+"w": "lc-netsecure.com",
+"c": "agency",
+"r": "ICT telecom services"
 },
 {
 "n": "LCEET",
@@ -5820,6 +6372,12 @@
 "r": "restaurant"
 },
 {
+"n": "Le Petit Lunetier",
+"w": "lepetitlunetier.com",
+"c": "brand",
+"r": "eyewear brand"
+},
+{
 "n": "Le Point Zéro",
 "w": "le-pointzero.fr",
 "c": "trade",
@@ -5892,6 +6450,12 @@
 "r": "cultural collective"
 },
 {
+"n": "Le Slip Français",
+"w": "leslipfrancais.fr",
+"c": "brand",
+"r": "underwear brand"
+},
+{
 "n": "Le Smartsitting",
 "w": "lesmartsitting.fr",
 "c": "other",
@@ -5920,6 +6484,12 @@
 "w": "le-tlm.fr",
 "c": "nonprofit",
 "r": "cultural venue"
+},
+{
+"n": "Le Village by CA Paris",
+"w": "levillagebyca.com",
+"c": "nonprofit",
+"r": "startup accelerator"
 },
 {
 "n": "LE VILLAGE DES BATIGNOLLES",
@@ -5964,6 +6534,12 @@
 "r": "procurement advisory"
 },
 {
+"n": "Legal2digital",
+"w": "legal2digital.fr",
+"c": "trade",
+"r": "legal notices press"
+},
+{
 "n": "LegiVox | Le Back Office des Professionnels du Droit",
 "w": "legivox.fr",
 "c": "consulting",
@@ -5986,6 +6562,12 @@
 "w": "leikar.fr",
 "c": "broker",
 "r": "holding acquiring companies"
+},
+{
+"n": "Leonard",
+"w": "leonard.vinci.com",
+"c": "other",
+"r": "corporate innovation unit"
 },
 {
 "n": "Les Amis de l'ESSpace",
@@ -6016,6 +6598,12 @@
 "w": "lesdetermines.fr",
 "c": "nonprofit",
 "r": "entrepreneurship program"
+},
+{
+"n": "Les Entremetteurs",
+"w": "les-entremetteurs.fr",
+"c": "consulting",
+"r": "freelance casting"
 },
 {
 "n": "Les filles du 9 novembre",
@@ -6064,6 +6652,12 @@
 "w": "lesnicois.com",
 "c": "food",
 "r": "bar restaurant"
+},
+{
+"n": "Les Nouveaux Fermiers",
+"w": "lesnouveauxfermiers.com",
+"c": "food",
+"r": "farm products brand"
 },
 {
 "n": "Les Patios Du Marais",
@@ -6138,6 +6732,12 @@
 "r": "toy rental"
 },
 {
+"n": "Liberkeys",
+"w": "liberkeys.com",
+"c": "broker",
+"r": "real-estate agency"
+},
+{
 "n": "Life Lab'​",
 "w": "lifelab.fr",
 "c": "consulting",
@@ -6198,10 +6798,28 @@
 "r": "audiovisual production"
 },
 {
+"n": "Little Cigogne - Plumaïa",
+"w": "littlecigogne.com",
+"c": "brand",
+"r": "clothing subscription"
+},
+{
 "n": "Little Red Door",
 "w": "lrdparis.com",
 "c": "food",
 "r": "cocktail bar"
+},
+{
+"n": "Little Worker",
+"w": "littleworker.fr",
+"c": "trade",
+"r": "renovation contractor"
+},
+{
+"n": "Livelihoods",
+"w": "livelihoods.eu",
+"c": "nonprofit",
+"r": "carbon initiative"
 },
 {
 "n": "Livementor",
@@ -6214,6 +6832,12 @@
 "w": "livna-education.fr",
 "c": "consulting",
 "r": "AI education trainer"
+},
+{
+"n": "Lizy",
+"w": "lizy.be",
+"c": "trade",
+"r": "corporate car leasing operator"
 },
 {
 "n": "LNB (Les Nouveaux Bureaux)",
@@ -6250,6 +6874,12 @@
 "w": "lodgein.travel",
 "c": "shop",
 "r": "hotel"
+},
+{
+"n": "Lodgis",
+"w": "lodgis.com",
+"c": "broker",
+"r": "real estate agency"
 },
 {
 "n": "Loeve&Co - Love&Collect",
@@ -6384,6 +7014,12 @@
 "r": "custom AI agency/systems"
 },
 {
+"n": "Luna",
+"w": "lunafood.com",
+"c": "food",
+"r": "fresh food brand"
+},
+{
 "n": "LUTECH",
 "w": "sattlutech.com",
 "c": "other",
@@ -6456,6 +7092,12 @@
 "r": "data marketing consultancy"
 },
 {
+"n": "M33.tech",
+"w": "m33.tech",
+"c": "broker",
+"r": "startup studio/incubator"
+},
+{
 "n": "MA",
 "w": "just-ma.com",
 "c": "broker",
@@ -6496,6 +7138,12 @@
 "w": "magic-lemp.com",
 "c": "other",
 "r": "one-line slogan"
+},
+{
+"n": "Magic Makers",
+"w": "magicmakers.fr",
+"c": "consulting",
+"r": "kids coding school"
 },
 {
 "n": "MAGNETIC",
@@ -6570,6 +7218,12 @@
 "r": "office design"
 },
 {
+"n": "makesense_entrepreneurs",
+"w": "france.makesense.org",
+"c": "nonprofit",
+"r": "association/NGO"
+},
+{
 "n": "Malabar architectes urbanistes",
 "w": "malabar-architectes.fr",
 "c": "agency",
@@ -6586,6 +7240,12 @@
 "w": "restaurantmalro.fr",
 "c": "food",
 "r": "restaurant"
+},
+{
+"n": "Manger NU!",
+"w": "manger.nu",
+"c": "other",
+"r": "smart fridge canteen service"
 },
 {
 "n": "Manzalab",
@@ -6610,6 +7270,12 @@
 "w": "margin-ventures.com",
 "c": "broker",
 "r": "venture fund"
+},
+{
+"n": "Maria Schools",
+"w": "mariaschools.com",
+"c": "consulting",
+"r": "school campus"
 },
 {
 "n": "Marie Mas",
@@ -6700,6 +7366,12 @@
 "w": "meettribe.com",
 "c": "agency",
 "r": "agency/studio/IT services"
+},
+{
+"n": "Meilleurtaux",
+"w": "meilleurtaux.com",
+"c": "broker",
+"r": "credit/insurance broker"
 },
 {
 "n": "MELTGROUP",
@@ -6930,6 +7602,12 @@
 "r": "consumer goods brand"
 },
 {
+"n": "Monks Paris",
+"w": "dare.win",
+"c": "agency",
+"r": "social TV agency"
+},
+{
 "n": "Monsieur Nini - Paris",
 "w": "monsieurnini.com",
 "c": "brand",
@@ -7048,6 +7726,24 @@
 "w": "movinnov.com",
 "c": "brand",
 "r": "consumer goods brand"
+},
+{
+"n": "Mozoo",
+"w": "mozoo.fr",
+"c": "agency",
+"r": "creative/tech agency"
+},
+{
+"n": "Mozza",
+"w": "mozza.io",
+"c": "agency",
+"r": "product studio services"
+},
+{
+"n": "MS Deeptech Mines Paris - PSL",
+"w": "deeptech.minesparis.psl.eu",
+"c": "nonprofit",
+"r": "university master program"
 },
 {
 "n": "MShift AI",
@@ -7230,10 +7926,22 @@
 "r": "hardware/service mix unclear"
 },
 {
+"n": "Nasta Pet Food",
+"w": "nasta.com",
+"c": "brand",
+"r": "pet food brand"
+},
+{
 "n": "NATA yoga",
 "w": "nataparis.com",
 "c": "shop",
 "r": "local service/venue/hotel/gym"
+},
+{
+"n": "NaTakallam",
+"w": "natakallam.com",
+"c": "other",
+"r": "language services by refugees"
 },
 {
 "n": "NATION",
@@ -7278,6 +7986,12 @@
 "r": "school/research/association/media"
 },
 {
+"n": "NetZero",
+"w": "netzero.green",
+"c": "trade",
+"r": "biochar project developer"
+},
+{
 "n": "NeuroReflexivity",
 "w": "neuroreflexivity.fr",
 "c": "consulting",
@@ -7288,6 +8002,12 @@
 "w": "neuviemeciel.fr",
 "c": "brand",
 "r": "consumer goods brand"
+},
+{
+"n": "NEVERHACK",
+"w": "neverhack.com",
+"c": "agency",
+"r": "cybersecurity services group"
 },
 {
 "n": "Nevios",
@@ -7344,10 +8064,22 @@
 "r": "local service/venue/hotel/gym"
 },
 {
+"n": "Nextories",
+"w": "nextories.com",
+"c": "trade",
+"r": "moving company"
+},
+{
 "n": "Nextsquare",
 "w": "nextsquare.co",
 "c": "consulting",
 "r": "consulting/legal/training/accounting"
+},
+{
+"n": "NEXTWYN",
+"w": "nextwyn.com",
+"c": "agency",
+"r": "SAP/cybersecurity consulting division"
 },
 {
 "n": "NEXUS ECO",
@@ -7500,6 +8232,12 @@
 "r": "consumer goods brand"
 },
 {
+"n": "Nous Group",
+"w": "21st.luxury",
+"c": "shop",
+"r": "fashion concept stores"
+},
+{
 "n": "NOUS SOMMES VIVANTS, LE COLLECTIF DE LA TRANSITION ECOLOGIQUE",
 "w": "noussommesvivants.co",
 "c": "consulting",
@@ -7602,6 +8340,12 @@
 "r": "consulting/legal/training/accounting"
 },
 {
+"n": "OFC, The Original Food Court",
+"w": "originalfoodcourt.com",
+"c": "food",
+"r": "restaurant food court"
+},
+{
 "n": "off-campus",
 "w": "offcampus.fr",
 "c": "consulting",
@@ -7624,6 +8368,12 @@
 "w": "officy.io",
 "c": "consulting",
 "r": "consulting/legal/training/accounting"
+},
+{
+"n": "Officéo",
+"w": "officeopro.com",
+"c": "agency",
+"r": "back-office outsourcing services"
 },
 {
 "n": "Ohmycad | Dassault Systèmes Partner",
@@ -7654,6 +8404,12 @@
 "w": "ominiclinic.ro",
 "c": "shop",
 "r": "local service/venue/hotel/gym"
+},
+{
+"n": "On train - Tech, Data & AI training",
+"w": "on-train.com",
+"c": "consulting",
+"r": "training firm"
 },
 {
 "n": "On.Capital",
@@ -7762,6 +8518,12 @@
 "w": "orra-inside.com",
 "c": "brand",
 "r": "consumer goods brand"
+},
+{
+"n": "Orrick Paris Tech Studio",
+"w": "orrick.com",
+"c": "consulting",
+"r": "law firm"
 },
 {
 "n": "Orso Media",
@@ -7878,6 +8640,12 @@
 "r": "sensory products vague"
 },
 {
+"n": "O’Tacos",
+"w": "o-tacos.ma",
+"c": "food",
+"r": "restaurant chain"
+},
+{
 "n": "Padok",
 "w": "padok.fr",
 "c": "agency",
@@ -7924,6 +8692,12 @@
 "w": "paradisomedia.io",
 "c": "agency",
 "r": "podcast studio"
+},
+{
+"n": "PARI France",
+"w": "pari.com",
+"c": "trade",
+"r": "medical device manufacturer"
 },
 {
 "n": "Paris 14ème",
@@ -7974,6 +8748,18 @@
 "r": "student lab"
 },
 {
+"n": "Paris Entertainment Company",
+"w": "parisentertainmentcompany.com",
+"c": "agency",
+"r": "event venues/production"
+},
+{
+"n": "Paris Notaires Services",
+"w": "notantis.com",
+"c": "consulting",
+"r": "notary services"
+},
+{
 "n": "Paris RE Made",
 "w": "parisremade.fr",
 "c": "brand",
@@ -7990,6 +8776,12 @@
 "w": "meetup.com",
 "c": "nonprofit",
 "r": "meetup community"
+},
+{
+"n": "Paris&Co",
+"w": "parisandco.com",
+"c": "nonprofit",
+"r": "public innovation agency"
 },
 {
 "n": "PARISMARAIS",
@@ -8062,6 +8854,12 @@
 "w": "pepette.co",
 "c": "food",
 "r": "petfood"
+},
+{
+"n": "PEPR HYDROGENE",
+"w": "pepr-hydrogene.fr",
+"c": "nonprofit",
+"r": "public research program"
 },
 {
 "n": "Perenys",
@@ -8188,6 +8986,12 @@
 "w": "pivotandco.com",
 "c": "consulting",
 "r": "advisory"
+},
+{
+"n": "Plan B Intérim & Recrutement",
+"w": "planb.paris",
+"c": "consulting",
+"r": "temp staffing agency"
 },
 {
 "n": "Plantation Paris",
@@ -8322,10 +9126,22 @@
 "r": "innovation advisory"
 },
 {
+"n": "Ponicode",
+"w": "circleci.com",
+"c": "invalid",
+"r": "acquired by CircleCI"
+},
+{
 "n": "Port-Up Portage Salarial",
 "w": "port-up.fr",
 "c": "consulting",
 "r": "freelance portage"
+},
+{
+"n": "Portalia | Part of Mantu",
+"w": "portalia.fr",
+"c": "consulting",
+"r": "umbrella employment services"
 },
 {
 "n": "Poulpi",
@@ -8344,6 +9160,12 @@
 "w": "powercharge.fr",
 "c": "other",
 "r": "mobile battery charging services"
+},
+{
+"n": "PR[AI]RIE-PSAI",
+"w": "prairie-psai.fr",
+"c": "nonprofit",
+"r": "research cluster"
 },
 {
 "n": "Pragma 9",
@@ -8472,6 +9294,12 @@
 "r": "wellness products"
 },
 {
+"n": "Pulp",
+"w": "pulp.eu",
+"c": "invalid",
+"r": "absorbed into Partoo"
+},
+{
 "n": "Pulpa de Paris",
 "w": "pulpadeparis.com",
 "c": "food",
@@ -8488,6 +9316,12 @@
 "w": "pmjpro.com",
 "c": "other",
 "r": "no real description"
+},
+{
+"n": "PUR",
+"w": "pur.co",
+"c": "trade",
+"r": "nature-based project developer"
 },
 {
 "n": "Pygments Records",
@@ -8544,6 +9378,12 @@
 "r": "delivery kitchens"
 },
 {
+"n": "QOVETIA",
+"w": "qovetia.com",
+"c": "shop",
+"r": "veterinary clinic network"
+},
+{
 "n": "Quai de la Photo",
 "w": "quaidelaphoto.fr",
 "c": "shop",
@@ -8566,6 +9406,12 @@
 "w": "quantum-launchpad.com",
 "c": "nonprofit",
 "r": "startup studio program"
+},
+{
+"n": "QuantX",
+"w": "quantx.fr",
+"c": "other",
+"r": "quantum alumni network/group"
 },
 {
 "n": "Quarante Huit Deux",
@@ -8604,6 +9450,18 @@
 "r": "hotel"
 },
 {
+"n": "Quitoque",
+"w": "quitoque.fr",
+"c": "food",
+"r": "meal kit company"
+},
+{
+"n": "Quiz Room",
+"w": "quiz-room.com",
+"c": "shop",
+"r": "entertainment venues"
+},
+{
 "n": "Qwarter",
 "w": "qwarter.fr",
 "c": "consulting",
@@ -8626,6 +9484,12 @@
 "w": "rainer-school.com",
 "c": "nonprofit",
 "r": "AI school"
+},
+{
+"n": "RAISE",
+"w": "raise.co",
+"c": "broker",
+"r": "investment firm"
 },
 {
 "n": "RAISE Summit",
@@ -8686,6 +9550,12 @@
 "w": "redminds.fr",
 "c": "consulting",
 "r": "entrepreneur trainers"
+},
+{
+"n": "Redpill",
+"w": "redpill.paris",
+"c": "agency",
+"r": "marketing services group"
 },
 {
 "n": "Redstart",
@@ -8760,6 +9630,12 @@
 "r": "regenerative agriculture programs"
 },
 {
+"n": "Respire",
+"w": "respire.co",
+"c": "brand",
+"r": "dermocosmetics brand"
+},
+{
 "n": "Restaurant Club Matignon",
 "w": "matignon-paris.com",
 "c": "food",
@@ -8826,6 +9702,12 @@
 "r": "IT services"
 },
 {
+"n": "RIVALEN",
+"w": "rivalen.fr",
+"c": "broker",
+"r": "industrial holding investor"
+},
+{
 "n": "Rive Droite Paris",
 "w": "rivedroite-paris.com",
 "c": "brand",
@@ -8842,6 +9724,12 @@
 "w": "roastmystartup.fr",
 "c": "agency",
 "r": "pitch event"
+},
+{
+"n": "ROBOT INDUSTRIES France",
+"w": "robotindustries.fr",
+"c": "trade",
+"r": "robot distributor/integrator"
 },
 {
 "n": "Robotech Sorbonne",
@@ -8896,6 +9784,24 @@
 "w": "rejeanne-underwear.com",
 "c": "brand",
 "r": "period underwear"
+},
+{
+"n": "Réseau Barnabé",
+"w": "reseaubarnabe.org",
+"c": "nonprofit",
+"r": "school cooperation network"
+},
+{
+"n": "Réseau Mampreneures France",
+"w": "reseau-mampreneures.org",
+"c": "nonprofit",
+"r": "entrepreneur association"
+},
+{
+"n": "RézoSocial",
+"w": "rezosocial.com",
+"c": "nonprofit",
+"r": "social integration enterprise"
 },
 {
 "n": "S&Co Showroom Paris",
@@ -9018,6 +9924,12 @@
 "r": "alliance association"
 },
 {
+"n": "SBI - Data | AI | EPM",
+"w": "sbi-group.com",
+"c": "agency",
+"r": "data/AI consulting integrator"
+},
+{
 "n": "SBI-GEFIMO",
 "w": "s-b-i.fr",
 "c": "broker",
@@ -9058,6 +9970,12 @@
 "w": "schooltech.fr",
 "c": "agency",
 "r": "web agency"
+},
+{
+"n": "Schoolab",
+"w": "theschoolab.com",
+"c": "consulting",
+"r": "innovation consulting"
 },
 {
 "n": "SciencesPistes",
@@ -9210,6 +10128,12 @@
 "r": "automation services team"
 },
 {
+"n": "SEVETYS",
+"w": "sevetys.fr",
+"c": "shop",
+"r": "veterinary clinics"
+},
+{
 "n": "SEVIRA KIDS",
 "w": "sevirakids.com",
 "c": "brand",
@@ -9252,6 +10176,12 @@
 "r": "community network"
 },
 {
+"n": "Shifly Services - Le Portage qui fait grandir",
+"w": "shifly-services.com",
+"c": "consulting",
+"r": "salary portage services"
+},
+{
 "n": "Shift-Visuals",
 "w": "shift-visuals.com",
 "c": "agency",
@@ -9288,6 +10218,12 @@
 "r": "makeup brand"
 },
 {
+"n": "Sia/Stratumn",
+"w": "stratumn.com",
+"c": "consulting",
+"r": "consulting group"
+},
+{
 "n": "Sibyl",
 "w": "sibyladvisory.io",
 "c": "consulting",
@@ -9298,6 +10234,12 @@
 "w": "side.school",
 "c": "consulting",
 "r": "AI bootcamp training"
+},
+{
+"n": "Sienna Investment Managers",
+"w": "sienna-im.com",
+"c": "broker",
+"r": "asset manager"
 },
 {
 "n": "Sienna Venture Capital",
@@ -9330,16 +10272,34 @@
 "r": "company alliance"
 },
 {
+"n": "SILVER BEAUTE",
+"w": "silverbeaute.com",
+"c": "shop",
+"r": "hairdressing services"
+},
+{
 "n": "Simplis - L'Assurance d'Entreprendre",
 "w": "simplis.fr",
 "c": "broker",
 "r": "insurance broker with digital front"
 },
 {
+"n": "Simplon",
+"w": "simplon.co",
+"c": "consulting",
+"r": "digital training school"
+},
+{
 "n": "SINGULARIST",
 "w": "singularist-paris.fr",
 "c": "agency",
 "r": "artistic agency"
+},
+{
+"n": "Sipartech",
+"w": "sipartech.com",
+"c": "trade",
+"r": "fibre network operator"
 },
 {
 "n": "SKAL",
@@ -9370,6 +10330,24 @@
 "w": "skinandout.fr",
 "c": "brand",
 "r": "skincare brand"
+},
+{
+"n": "Skores",
+"w": "skores.com",
+"c": "trade",
+"r": "sports media publisher"
+},
+{
+"n": "SmallBusinessAct.fr",
+"w": "smallbusinessact.com",
+"c": "other",
+"r": "online accounting service"
+},
+{
+"n": "Smart Energies",
+"w": "smart-energies.eu",
+"c": "trade",
+"r": "renewable power producer"
 },
 {
 "n": "Smart Infinity",
@@ -9468,10 +10446,22 @@
 "r": "new-build brokerage"
 },
 {
+"n": "Solvay S.A.",
+"w": "solvay.com",
+"c": "trade",
+"r": "chemicals manufacturer"
+},
+{
 "n": "Somnology",
 "w": "somnology.fr",
 "c": "shop",
 "r": "sleep clinic"
+},
+{
+"n": "Sopra Steria Ventures",
+"w": "soprasteria.com",
+"c": "broker",
+"r": "corporate venture capital"
 },
 {
 "n": "Soqo*",
@@ -9528,6 +10518,12 @@
 "r": "metaverse consulting production"
 },
 {
+"n": "Spark | Paid Acquisition & SEO",
+"w": "spark.do",
+"c": "agency",
+"r": "paid acquisition agency"
+},
+{
 "n": "SPART",
 "w": "spart.life",
 "c": "other",
@@ -9582,6 +10578,12 @@
 "r": "office search broker"
 },
 {
+"n": "Sqwad",
+"w": "sqwad.fr",
+"c": "agency",
+"r": "customer relations outsourcing"
+},
+{
 "n": "St. NIAN",
 "w": "stnian.com",
 "c": "brand",
@@ -9592,6 +10594,12 @@
 "w": "stack-it.fr",
 "c": "agency",
 "r": "big data ops services"
+},
+{
+"n": "Stairling",
+"w": "stairling.com",
+"c": "consulting",
+"r": "VTC employment cooperative"
 },
 {
 "n": "Starbolt",
@@ -9702,6 +10710,12 @@
 "r": "e-commerce agency"
 },
 {
+"n": "Storm Reply France",
+"w": "reply.com",
+"c": "agency",
+"r": "AWS consulting"
+},
+{
 "n": "STRAITEGICS",
 "w": "straitegics.com",
 "c": "other",
@@ -9768,6 +10782,12 @@
 "r": "photo studio rental"
 },
 {
+"n": "STUDIO TF1",
+"w": "studiotf1.com",
+"c": "trade",
+"r": "TV/film production"
+},
+{
 "n": "Studio13Paris",
 "w": "studio13vierzy.com",
 "c": "agency",
@@ -9804,10 +10824,28 @@
 "r": "unclear description"
 },
 {
+"n": "Sucden Ventures",
+"w": "sucden.com",
+"c": "trade",
+"r": "commodities trader"
+},
+{
+"n": "Sun'R",
+"w": "sunr.com",
+"c": "trade",
+"r": "solar project developer"
+},
+{
 "n": "Sunnycare",
 "w": "sunnycare.com.au",
 "c": "invalid",
 "r": "Australian care provider unrelated"
+},
+{
+"n": "Sunrock France",
+"w": "sunrockenergy.fr",
+"c": "trade",
+"r": "energy systems developer"
 },
 {
 "n": "SUPERBIEN",
@@ -9832,6 +10870,12 @@
 "w": "surly.fr",
 "c": "consulting",
 "r": "banking experts matching"
+},
+{
+"n": "SWAP Food",
+"w": "swapfood.com",
+"c": "food",
+"r": "plant-based food brand"
 },
 {
 "n": "Sweevana",
@@ -9886,6 +10930,12 @@
 "w": "seve-finance.com",
 "c": "broker",
 "r": "investment advisory firm"
+},
+{
+"n": "T-ART Digital",
+"w": "t-art.fr",
+"c": "agency",
+"r": "video production agency"
 },
 {
 "n": "TABOBINE",
@@ -9972,6 +11022,12 @@
 "r": "bar"
 },
 {
+"n": "Team Vitality",
+"w": "vitality.gg",
+"c": "trade",
+"r": "esports team"
+},
+{
 "n": "Tech Publica",
 "w": "techpublica.fr",
 "c": "consulting",
@@ -10036,6 +11092,12 @@
 "w": "lauralesueur.com",
 "c": "nonprofit",
 "r": "women's community"
+},
+{
+"n": "The Core Group",
+"w": "the-core.group",
+"c": "other",
+"r": "unclear holding group"
 },
 {
 "n": "The Design Crew",
@@ -10116,10 +11178,28 @@
 "r": "nature project developer"
 },
 {
+"n": "The Source",
+"w": "thesource.social",
+"c": "agency",
+"r": "social media agency"
+},
+{
 "n": "THE TWENTY SIX",
 "w": "the-twenty-six.com",
 "c": "consulting",
 "r": "consulting and coaching"
+},
+{
+"n": "Theodo Cloud",
+"w": "cloud.theodo.com",
+"c": "agency",
+"r": "cloud consulting"
+},
+{
+"n": "Theodo GovTech",
+"w": "theodo.com",
+"c": "agency",
+"r": "IT services/consulting"
 },
 {
 "n": "Theodo HealthTech",
@@ -10254,6 +11334,12 @@
 "r": "local venue/hotel/service"
 },
 {
+"n": "TRIBE Paris Batignolles",
+"w": "tribehotels.com",
+"c": "shop",
+"r": "hotel"
+},
+{
 "n": "TRIPLTRIP",
 "w": "tripltrip.com",
 "c": "other",
@@ -10282,6 +11368,12 @@
 "w": "tresbiendaccord.com",
 "c": "agency",
 "r": "social innovation agency"
+},
+{
+"n": "Turenne Groupe",
+"w": "turennecapital.com",
+"c": "broker",
+"r": "private equity firm"
 },
 {
 "n": "Turnadon",
@@ -10320,10 +11412,22 @@
 "r": "traditional business"
 },
 {
+"n": "Typology",
+"w": "typology.com",
+"c": "brand",
+"r": "skincare brand"
+},
+{
 "n": "U'factory",
 "w": "ufactory.fr",
 "c": "shop",
 "r": "local venue/hotel/service"
+},
+{
+"n": "Ubees",
+"w": "ubees.com",
+"c": "other",
+"r": "beekeeping services with tech"
 },
 {
 "n": "Ubisoft Nadeo",
@@ -10384,6 +11488,12 @@
 "w": "ubparis.com",
 "c": "shop",
 "r": "local venue/hotel/service"
+},
+{
+"n": "Urban Campus",
+"w": "urbancampus.com",
+"c": "broker",
+"r": "coliving property operator"
 },
 {
 "n": "Urban Station",
@@ -10494,6 +11604,12 @@
 "r": "social innovation agency"
 },
 {
+"n": "Verso Energy",
+"w": "verso.energy",
+"c": "trade",
+"r": "energy project developer"
+},
+{
 "n": "VERTUO",
 "w": "vertuo.city",
 "c": "other",
@@ -10524,6 +11640,12 @@
 "r": "media newsletter"
 },
 {
+"n": "Via Sana",
+"w": "centreviasana.com",
+"c": "shop",
+"r": "medical clinics"
+},
+{
 "n": "Video In",
 "w": "video-in.fr",
 "c": "agency",
@@ -10540,6 +11662,12 @@
 "w": "vidzit.fr",
 "c": "agency",
 "r": "social innovation agency"
+},
+{
+"n": "Views",
+"w": "views.fr",
+"c": "trade",
+"r": "media publisher"
 },
 {
 "n": "Villa M",
@@ -10596,6 +11724,12 @@
 "r": "traditional business"
 },
 {
+"n": "VO2 GROUP",
+"w": "vo2-group.com",
+"c": "agency",
+"r": "tech consulting"
+},
+{
 "n": "VOID-IMAGE",
 "w": "void-image.tv",
 "c": "agency",
@@ -10606,6 +11740,12 @@
 "w": "volta.fr",
 "c": "other",
 "r": "ambiguous/too little info"
+},
+{
+"n": "Volta Groupe",
+"w": "groupe-volta.com",
+"c": "trade",
+"r": "renewable producer"
 },
 {
 "n": "Voltaire",
@@ -10698,6 +11838,12 @@
 "r": "local venue/hotel/service"
 },
 {
+"n": "Waysia (ex Alorsfaim)",
+"w": "mywaysia.com",
+"c": "food",
+"r": "food delivery grocery"
+},
+{
 "n": "We Act  - Vos compromis en 72h !",
 "w": "we-act.fr",
 "c": "consulting",
@@ -10744,6 +11890,12 @@
 "w": "wefound.com",
 "c": "consulting",
 "r": "operating partner service"
+},
+{
+"n": "WEFREE - Staffing et Portage Freelance",
+"w": "joinwefree.com",
+"c": "consulting",
+"r": "freelance staffing"
 },
 {
 "n": "Welcome to the City",
@@ -10938,6 +12090,12 @@
 "r": "operating partner service"
 },
 {
+"n": "Women in AI",
+"w": "womeninai.co",
+"c": "nonprofit",
+"r": "community association"
+},
+{
 "n": "Women Initiative Foundation",
 "w": "women-initiative-foundation.com",
 "c": "nonprofit",
@@ -10962,10 +12120,28 @@
 "r": "media newsletter"
 },
 {
+"n": "Word Class",
+"w": "wordclass.net",
+"c": "agency",
+"r": "translation agency"
+},
+{
 "n": "Work Mates",
 "w": "workmates.fr",
 "c": "shop",
 "r": "local venue/hotel/service"
+},
+{
+"n": "Work Palace by INSITU",
+"w": "work-palace.com",
+"c": "shop",
+"r": "coworking spaces"
+},
+{
+"n": "Work With Island",
+"w": "workwithisland.com",
+"c": "trade",
+"r": "pod manufacturer"
 },
 {
 "n": "Wozaik",
@@ -11040,6 +12216,12 @@
 "r": "beauty brand"
 },
 {
+"n": "YKONE",
+"w": "ykone.com",
+"c": "agency",
+"r": "influence agency"
+},
+{
 "n": "Ylos7",
 "w": "ylos7.com",
 "c": "consulting",
@@ -11112,6 +12294,12 @@
 "r": "operating partner service"
 },
 {
+"n": "YouSchool",
+"w": "youschool.info",
+"c": "consulting",
+"r": "training school"
+},
+{
 "n": "YOZE",
 "w": "yoze.fr",
 "c": "shop",
@@ -11130,10 +12318,22 @@
 "r": "beauty brand"
 },
 {
+"n": "ZE ENERGY",
+"w": "ze-energy.com",
+"c": "trade",
+"r": "solar power producer"
+},
+{
 "n": "Zhiggie",
 "w": "zhiggie.com",
 "c": "brand",
 "r": "beauty brand"
+},
+{
+"n": "Zoī",
+"w": "zoi.com",
+"c": "shop",
+"r": "health check-up centre"
 },
 {
 "n": "Zyken (acquired by Withings)",

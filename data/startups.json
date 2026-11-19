@@ -225,30 +225,6 @@
 "b": 665
 },
 {
-"n": "2CGroup",
-"u": "https://2c.group/",
-"d": "2CGroup propose un accompagnement stratégique et opérationnel aux PME, startups, scale-ups et fonds d’investissement, en France comme à l’international. Nous couvrons 5 leviers clés de performance pour les organisations : ▬ 2CFinance | CFO part-time, Transacti",
-"y": 2023,
-"e": 101,
-"s": "Fintech & Insurance",
-"st": "growth",
-"eh": "linkedin",
-"a": "23 Boulevard Poissonnière",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.871136,
-2.344168
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 667
-},
-{
 "n": "2CLOUD",
 "u": "https://2cloud.fr/",
 "d": "2CLOUD. La sécurité pour vos données & la confiance dans notre relation",
@@ -471,38 +447,6 @@
 "b": 684
 },
 {
-"n": "900.care",
-"u": "https://900.care/",
-"d": "Fondée par deux optimistes souhaitant changer le monde avec le sourire, 900.care est une marque de produits de salle de bain à recharger : un gel douche et un gel moussant mains en bâtonnet à dissoudre, un dentifrice en pastille à croquer et un déo à recharg",
-"y": 2019,
-"e": 86,
-"f": 36977481,
-"rd": "Series a · 2024",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "60 Rue Amelot",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.859795,
-2.368205
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"sf": {
-"s": "moved",
-"p": "Future 40 (2020)",
-"y": "2021"
-},
-"b": 691
-},
-{
 "n": "90000h Santé",
 "u": "https://12mvp.fr/",
 "d": "90,000 heures, c'est le temps que l'on passe à travailler C’est le temps que l’on pourrait passer à construire le prochain Snapchat, travailler pour l’industrie de la mode, ou… Faire quelque chose qui ait du sens. Comme par exemple de contribuer à l’innovation",
@@ -549,32 +493,6 @@
 "website"
 ],
 "b": 43
-},
-{
-"n": "_rzilient",
-"u": "https://rzilient.club/",
-"d": "Déléguez-nous la gestion de tous vos projets IT grace à un accompagnement 360º et notre interface unique : 💻 🙌 - Réconciliez vos objectifs stratégiques et votre écosystème technologique - Unifiez la supervision, l'assistance et la gestion à distance des appare",
-"y": 2020,
-"e": 50,
-"f": 4222250,
-"rd": "Venture · 2023",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "exa",
-"a": "60 Rue de Richelieu",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.868409,
-2.338382
-],
-"k": "office",
-"cf": "l",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 155
 },
 {
 "n": "A l'Amiable",
@@ -755,32 +673,6 @@
 "b": 22
 },
 {
-"n": "abbeal",
-"u": "https://abbeal.com/",
-"d": "The tech we wished existed. So we built it. Abbeal is a tri-geo senior engineering pod with three synced hubs (Paris, Montréal, Tokyo). Founded in 2015 by Sébastien Lonjon and Vianney Blanquart, we ship software, AI, data and robotics for companies ambitious a",
-"y": 2015,
-"e": 70,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "54 Rue Greneta",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.865537,
-2.347996
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 102
-},
-{
 "n": "Abilian",
 "u": "https://abilian.com/",
 "d": "Abilian is a company working on Enterprise Collaboration Network technology and solutions. We are currenty busy developing product that help employees become more efficient, find important information faster, and work together toward enterprise goals.",
@@ -827,33 +719,6 @@
 "website"
 ],
 "b": 697
-},
-{
-"n": "Absolution",
-"u": "https://absolution-cosmetics.com/",
-"d": "Depuis 2009, Absolution propose une approche holistique de la beauté à tous pour qui Qualité, Efficacité, Honnêteté, Ecologie et Créativité ne sont pas des concepts marketing. Notre gamme de produits visage et corps, tous certifiés bio, combine la puissance de",
-"y": 2009,
-"e": 56,
-"f": 1156088,
-"rd": "Seed · 2018",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "30 Rue des Vinaigriers",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.873208,
-2.362547
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 698
 },
 {
 "n": "Abstract Machines",
@@ -1465,31 +1330,6 @@
 "website"
 ],
 "b": 278
-},
-{
-"n": "AdinCube (acquired by Ogury)",
-"u": "https://adincube.com/",
-"d": "AdinCube provides AI powered ad revenue optimisation for mobile publishers. Through one simple integration AdinCube boosts publishers'​ ad revenue by 20% - 500% on average. Their technology is like having a team of expert data scientists optimising ad revenue ",
-"e": 101,
-"f": 1000000,
-"rd": "Non equity assistance · 2016",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "37 Boulevard des Capucines",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.86998,
-2.329393
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 279
 },
 {
 "n": "Adlive",
@@ -2392,30 +2232,6 @@
 "b": 742
 },
 {
-"n": "Agyla.Cloud",
-"u": "https://ibm.com/fr-fr/consulting/cloud",
-"d": "\"Cloud + DevOps = BOOM!\"​ Agyla.Cloud est une société experte en Cloud et en DevOps. Nos experts automatisent les couches d'infrastructures, la chaîne de vie applicative et le testing afin de booster l'innovation digitale de nos clients. Nos stacks technologiq",
-"y": 2013,
-"e": 345988,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "50 Rue de Picpus",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.843928,
-2.396305
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 743
-},
-{
 "n": "aHRtemis",
 "u": "https://ahrtemis.com/",
 "d": "aHRtemis est le premier TRM (talent relationship management) vous permettant de créer, engager et nurturer vos communautés de talents.",
@@ -2928,33 +2744,6 @@
 "b": 48
 },
 {
-"n": "Akuo",
-"u": "https://akuoenergy.com/",
-"d": "Akuo est spécialisé dans la mise en œuvre d’unités de production d’électricité à partir de ressources renouvelables, en particulier le solaire, l'éolien et le stockage. Notre intervention s’étend tout au long du cycle de vie des centrales électriques : études,",
-"y": 2007,
-"e": 542,
-"f": 205167037,
-"rd": "Private equity · 2025",
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "140 Avenue des Champs Élysées",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.872869,
-2.299041
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 753
-},
-{
 "n": "AKUR8",
 "u": "https://akur8.com/",
 "d": "Akur8’s Global Actuarial AI Platform is transforming the insurance industry with an innovative suite of pricing and reserving solutions. Built on cutting-edge technology and actuarial excellence, Akur8 delivers speed, performance, transparency, and reliability",
@@ -3138,31 +2927,6 @@
 "b": 757
 },
 {
-"n": "Alegria.group",
-"u": "https://alegria.group/",
-"d": "As the European leader in Nocode/Lowcode and AI technologies, Alegria.group aims to change the world with these technologies. Alegria.group supports private companies and public organizations in their comprehensive digital transformation, and individuals to ch",
-"y": 2020,
-"e": 135,
-"rd": "Seed · 2022",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "17 Rue des Martyrs",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.877935,
-2.339449
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 758
-},
-{
 "n": "Alenty",
 "u": "https://alenty.com/",
 "d": "Alenty was founded in 2007 by experts of web analytics and market research. Alenty has quickly become leader in ad-viewability measurement and optimization. Alenty's unique technology tells you if your ads are actually seen. It is used by all the major players",
@@ -3313,54 +3077,6 @@
 "linkedin"
 ],
 "b": 760
-},
-{
-"n": "ALiA Consulting",
-"u": "https://atos.net/fr/solutions/worldgrid/worldgrid-alia-sap-consulting",
-"d": "AliA Consulting a rejoint Atos en juillet 2020, permettant ainsi au leader international de la transformation digitale de consolider ses activités dans le domaine de l’énergie & des utilities (E&U) via sa filiale Worldgrid. Les deux entreprises réunies représe",
-"y": 2008,
-"e": 84684,
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "22 Rue de l'Arcade",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.872228,
-2.323938
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 300
-},
-{
-"n": "ALIAD (Air Liquide Venture Capital)",
-"u": "https://airliquide.com/group/aliad",
-"d": "We invest in tech startups focused on energy transition, healthcare, and industrial innovation – if your technology can contribute to our mission, we'd love to connect! We are the venture capital arm of Air Liquide. We provide innovative startups with financia",
-"y": 2013,
-"e": 40521,
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "91 Avenue Ledru-Rollin",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.851687,
-2.376189
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 761
 },
 {
 "n": "Alice & Bob",
@@ -5403,58 +5119,6 @@
 "b": 318
 },
 {
-"n": "Artpoint",
-"u": "https://artpoint.fr/",
-"d": "Today, digital artists push the boundaries of creativity, revealing the emotional potential at the intersection of art and technology. As a digital art agency, Artpoint connects visionary brands with the world’s finest digital artists, inspiring, engaging, and",
-"y": 2019,
-"e": 77,
-"f": 1311630,
-"rd": "Seed · 2023",
-"s": "Deeptech & Hardware",
-"st": "growth",
-"eh": "exa",
-"a": "10 Rue des Bluets",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.864441,
-2.382288
-],
-"k": "office",
-"cf": "l",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 804
-},
-{
-"n": "asap.work",
-"u": "https://asap.work/",
-"d": "asap.work is a next-gen recruitment and staffing agency specializing in expert talent for the construction industry — temporary, freelance, and permanent. We connect construction companies with qualified professionals through a human approach, sector expertise",
-"e": 233,
-"f": 5483869,
-"rd": "Seed · 2023",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "2 Rue Bréguet",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.856362,
-2.371275
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 321
-},
-{
 "n": "Ask Mona",
 "u": "https://askmona.ai/",
 "d": "Ask Mona is a company specialising in AI-powered storytelling for curiosity-driven industries. The company brings stories to life by giving a voice to objects, places and brands, turning knowledge and content into engaging, interactive conversations. Through i",
@@ -5652,31 +5316,6 @@
 "b": 810
 },
 {
-"n": "Assurancevie.com désormais Lucya",
-"u": "https://lucya.com/",
-"d": "Assurancevie.com est le site internet d'un courtier indépendant proposant une offre internet à frais réduits. Deux contrats sont disponibles : Puissance Avenir et Puissance Vie. Ces deux contrats sont ouvrables et gérables par en ligne : 0% à l'entrée et à la ",
-"y": 2009,
-"e": 92,
-"s": "Fintech & Insurance",
-"st": "growth",
-"eh": "linkedin",
-"a": "13 Rue d'Uzès",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.870577,
-2.344047
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 324
-},
-{
 "n": "Assurly",
 "u": "https://assurly.com/",
 "d": "Assurly, c’est la néo-assurance spécialiste de l'assurance de prêt. Avec Assurly, vous pourrez changer d'assurance en quelques minutes, depuis votre mobile, et bénéficier de l’une des meilleures couvertures du marché au juste prix. Notre promesse ? Zéro papera",
@@ -5727,30 +5366,6 @@
 "b": 32
 },
 {
-"n": "Asterion Ventures",
-"u": "https://asterionventures.com/",
-"d": "Asterion Ventures is an early-stage investment firm focused on systemic impact across Europe, with offices in Paris and Amsterdam and active venture partners in Brussels and Zurich. Impact-focused by design, Asterion backs founders tackling structural challeng",
-"y": 2021,
-"e": 73,
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "23 Rue du Cherche-Midi",
-"pc": "75006",
-"area": "6e · Saint-Germain",
-"ll": [
-48.850659,
-2.328283
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 812
-},
-{
 "n": "Astran",
 "u": "https://astran.ai/",
 "d": "Astran is the operational resilience platform for large enterprises. When IT systems go down, its AlwaysReady® platform keeps Vital Activities running by making the processes and data they depend on executable, independently of the company's own systems: payin",
@@ -5773,30 +5388,6 @@
 "linkedin"
 ],
 "b": 325
-},
-{
-"n": "Ateliers 2 Paris",
-"u": "https://ateliers2paris.fr/",
-"d": "Fruit du rapprochement de Cécile Henri Atelier et de Lunas France, le groupe d’artisanat Ateliers 2 Paris, créé en 2014 sous l’impulsion de Sébastien Barilleau, est un des derniers spécialistes de la broderie main et de l’ornementation textile haut de gamme de",
-"y": 2014,
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "4 Allée Verte",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.859073,
-2.369354
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 326
 },
 {
 "n": "Athana",
@@ -6434,32 +6025,6 @@
 ],
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "AXA Climate",
-"u": "https://climate.axa/",
-"d": "AXA Climate, an entity of the AXA group, was founded to help both private and public players adapt to climate and environmental challenges. We are over 250 people providing support through insurance, consulting, and software solutions. Addressing climate adapt",
-"y": 2019,
-"e": 231,
-"rd": "Grant · 2026",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "14 Boulevard Poissonnière",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.871101,
-2.346487
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 64
 },
 {
 "n": "AXA Digital Commercial Platform",
@@ -8184,30 +7749,6 @@
 "b": 17
 },
 {
-"n": "Big Mamma",
-"u": "https://bigmammagroup.com/",
-"d": "Our Big Mamma restaurants offer authentic Italian trattoria experiences with Neapolitan pizzas, fresh pasta, and everything 100% homemade.",
-"y": 2018,
-"e": 1645,
-"s": "Food & Agri",
-"st": "scale",
-"eh": "linkedin",
-"a": "44 Rue de Paradis",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.875528,
-2.350137
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 175
-},
-{
 "n": "Bigblue",
 "u": "https://bigblue.co/",
 "d": "Bigblue's technology allows brands to sell more with effortless logistics, prime-like deliveries, branded tracking e-mails and a returns portal.",
@@ -8236,31 +7777,6 @@
 "y": "2022"
 },
 "b": 888
-},
-{
-"n": "Biggie",
-"u": "https://biggie.co/",
-"d": "Biggie est une agence globale de stratégie et d’activation marketing fondée sur une méthodologie novatrice : l’hybridation. Fruit du rapprochement de plusieurs entités du Biggie Group, notre agence réunit 300 experts à travers le monde, répartis dans 7 pays. A",
-"e": 209,
-"f": 2867135,
-"rd": "Corporate round · 2024",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "15 Rue de Milan",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.878742,
-2.327852
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 83
 },
 {
 "n": "Billabex",
@@ -8435,31 +7951,6 @@
 ],
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "Biogyne France",
-"u": "https://biogyne.fr/",
-"d": "Depuis son origine le laboratoire Biogyne offre la gamme innovante des produits répondant aux besoins des femmes: hygiène quotidienne féminine, soins intimes et fertilité. En quelques années seulement Biogyne s’est diversifié dans la désinfection, l’hygiène et",
-"y": 2017,
-"e": 101,
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "7 Rue Jean Goujon",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.866501,
-2.309275
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"research"
-],
-"b": 892
 },
 {
 "n": "BioKortex",
@@ -9806,31 +9297,6 @@
 "b": 0
 },
 {
-"n": "Bpifrance Green Venture",
-"u": "https://bpifrance.fr/nos-solutions/investissement/investissement-expertise/green-venture",
-"d": "With more than €600 million under management, we focus on innovative startups with a strong environmental impact across sectors like mobility, energy, agriculture & sustainable food, green chemistry, circular economy, sustainable city, among others. As investo",
-"y": 2012,
-"e": 6125,
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "8 Boulevard Haussmann",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.872342,
-2.338642
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 87
-},
-{
 "n": "BrainEver",
 "u": "https://brainever.fr/",
 "d": "BrainEver is a biopharmaceutical company developing a pipeline of novel therapies for patients with age-related neurodegenerative diseases, such as Charcot disease, Parkinson’s, and glaucoma, the second leading cause of blindness. Our mission is to develop rec",
@@ -10216,32 +9682,6 @@
 "b": 5
 },
 {
-"n": "Brut",
-"u": "https://brut.media/",
-"d": "Brut. is a global media company that creates short-form video content for audiences around the world. With offices on two continents, Brut. publishes content daily in three languages and across eight social platforms generating over 1,5B views a month. Brut is",
-"y": 2013,
-"e": 408,
-"rd": "Series d · 2023",
-"s": "Media, Gaming & Sport",
-"st": "scale",
-"eh": "linkedin",
-"a": "17 Rue de l'Arrivée",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.842863,
-2.321926
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"research"
-],
-"b": 6
-},
-{
 "n": "bsport",
 "u": "https://bsport.io/",
 "d": "The intelligent platform behind boutique fitness and wellness studios bsport is the world’s leading boutique fitness management platform. Behind every growing boutique studio, there’s a founder juggling hundreds of small details every day. bsport shares the lo",
@@ -10617,33 +10057,6 @@
 "b": 936
 },
 {
-"n": "CABAIA",
-"u": "https://cabaia.fr/",
-"d": "Créateur de sacs à dos et bagages, pour des mobilités plus belles. Créée en 2015, Cabaïa est une marque française d’accessoires ingénieux, créatifs et durables, pensés pour transformer chaque quotidien en aventure festive. Engagée pour la cause environnementa",
-"y": 2015,
-"e": 262,
-"f": 2709124,
-"rd": "Series a · 2020",
-"s": "Consumer & Commerce",
-"st": "scale",
-"eh": "linkedin",
-"a": "7 Cité Paradis",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.874839,
-2.350511
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 939
-},
-{
 "n": "Caiman",
 "u": "https://caiman.care/",
 "d": "Chez Caiman, nous sommes passionnés par l'innovation technologique et son impact sur la santé. Nous développons des solutions d'intelligence artificielle (IA) spécialement conçues pour l'analyse des données médicales, afin de libérer du temps médical et amélio",
@@ -10667,30 +10080,6 @@
 "linkedin"
 ],
 "b": 944
-},
-{
-"n": "Caisse des écoles du 20e",
-"u": "https://caissedesecoles20.fr/cde20",
-"d": "The company is the Caisse des écoles du 20ème arrondissement, which provides school catering services, including menus, summer vacations, and news.",
-"e": 317,
-"s": "Education & Travel",
-"st": "scale",
-"eh": "linkedin",
-"a": "36 Rue Paul Meurice",
-"pc": "75020",
-"area": "20e · Belleville",
-"ll": [
-48.876133,
-2.410979
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 947
 },
 {
 "n": "Calfa",
@@ -11017,54 +10406,6 @@
 "b": 960
 },
 {
-"n": "Capital 8",
-"u": "https://capital8.paris/",
-"d": "Capital 8, centre d'affaires de référence, abrite des bureaux pensés pour satisfaire vos besoins au quotidien. Situé dans le 8ème arrondissement de Paris, Capital 8 offre 45 000m2 d'espaces de bureaux premium avec des services haut de gamme dans un environneme",
-"e": 2002,
-"s": "Consumer & Commerce",
-"st": "scale",
-"eh": "linkedin",
-"a": "32 Rue de Monceau",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.877059,
-2.309452
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 961
-},
-{
-"n": "CAPSULE",
-"u": "https://soundcloud.com/capsuleparis",
-"d": "- High Graded Vibes from France - Independent French Label.",
-"y": 2014,
-"e": 1040,
-"s": "Media, Gaming & Sport",
-"st": "scale",
-"eh": "linkedin",
-"a": "78 Rue Monge",
-"pc": "75005",
-"area": "5e · Latin Quarter",
-"ll": [
-48.842362,
-2.351941
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 962
-},
-{
 "n": "Captag - Human Digital Events",
 "u": "https://captag.fr/",
 "d": "For over 10 years, Captag has been offering its clients the most comprehensive event solutions in Event Tech.✅ We adapt to all types of events, whether physical, digital, or hybrid, and our team of experts works and designs custom solutions to offer you the be",
@@ -11388,30 +10729,6 @@
 "linkedin"
 ],
 "b": 3
-},
-{
-"n": "Care Lab",
-"u": "https://institutducerveau.org/care-lab-living-lab-linstitut-cerveau",
-"d": "Care Lab, est le Living Lab de l’Institut du Cerveau. Il met les utilisateurs de la chaine de soin au centre des innovations médicales afin de développer de nouveaux produits ou services novateurs, rapidement déployables, pour les patients et les professionnel",
-"e": 814,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "47 Boulevard de l'Hôpital",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.840209,
-2.36322
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"b": 123
 },
 {
 "n": "CareGame",
@@ -11880,31 +11197,6 @@
 "b": 125
 },
 {
-"n": "CENTQUATRE-PARIS",
-"u": "https://104.fr/",
-"d": "An innovating artistic and cultural workspace Located in the 19th arrondissement, the CENTQUATRE-PARIS is a space for residencies, production and promotion for the public and artists from all over the world. Conceived by its director José-Manuel Gonçalvès as a",
-"y": 2008,
-"e": 144,
-"s": "Deeptech & Hardware",
-"st": "growth",
-"eh": "linkedin",
-"a": "5 Rue Curial",
-"pc": "75019",
-"area": "19e · Buttes-Chaumont & La Villette",
-"ll": [
-48.889983,
-2.371506
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 126
-},
-{
 "n": "CERAMED",
 "u": "https://ceramed.fr/",
 "d": "CERAMED is building a precision psychiatry solution for major depression care. Depression remains the last major medical field without biological guidance. 50% of patients don't respond to first-line antidepressants. Clinicians lack biomarkers. Result: months ",
@@ -12131,36 +11423,6 @@
 "b": 1
 },
 {
-"n": "Chance",
-"u": "https://chance-financial.com/",
-"d": "Much more than a traditional insurance broker, at Chance we are a partner, committed to our clients' growth. We transform insurance and its mechanics into performance drivers that serve companies' strategic objectives. Experts in asset valuation applied to lea",
-"y": 2016,
-"e": 488,
-"s": "Fintech & Insurance",
-"st": "scale",
-"eh": "linkedin",
-"a": "101 Boulevard Malesherbes",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.879164,
-2.314297
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"sf": {
-"s": "moved",
-"p": "Facebook Program",
-"y": "2020"
-},
-"b": 997
-},
-{
 "n": "Chango",
 "u": "https://chango.fr/",
 "d": "🛴 La 1ère marketplace de petits véhicules électriques (vélos, trottinettes, scooters, quadricyles), accessoires et services pour faciliter le passage aux mobilités douces et décarboner les transports⚡",
@@ -12291,33 +11553,6 @@
 "b": 40
 },
 {
-"n": "Checkmyguest",
-"u": "https://checkmyguest.fr/",
-"d": "Checkmyguest est spécialiste de la gestion locative. Nous accompagnons les investisseurs dans la transformation de locaux commerciaux en logements de location courte et moyenne durée. Notre objectif est d’assurer une rentabilité maximale des biens avec un taux",
-"y": 2016,
-"e": 123,
-"f": 7725417,
-"rd": "Venture · 2019",
-"s": "Education & Travel",
-"st": "growth",
-"eh": "linkedin",
-"a": "33 Avenue de Wagram",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.876746,
-2.296907
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 80
-},
-{
 "n": "Checksub⚡️ Translate videos in minutes⚡️",
 "u": "https://checksub.com/",
 "d": "Grow your audience with Checksub. - Increase your visibility with automatic subtitling ⚡, - find new fans by translating your videos 🌎 - turn your YouTube, Twitch, Webinar videos into impactful clips on social medias You will be able to grow your audience with",
@@ -12366,32 +11601,6 @@
 "linkedin"
 ],
 "b": 1002
-},
-{
-"n": "Chefclub",
-"u": "https://chefclub.tv/",
-"d": "Chefclub est une marque de divertissement culinaire mondiale. L’entreprise a été créée en 2016 par les frères Thomas, Jonathan et Axel Lang, avec pour mission de transformer la cuisine en un espace de partage et d’amusement à travers la création de contenus, d",
-"y": 2016,
-"e": 64,
-"f": 23856069,
-"rd": "Series b · 2021",
-"s": "Food & Agri",
-"st": "growth",
-"eh": "exa",
-"a": "9 Rue de la Pierre Levée",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.867175,
-2.370488
-],
-"k": "office",
-"cf": "l",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 376
 },
 {
 "n": "Cherry Biotech",
@@ -13096,30 +12305,6 @@
 "b": 32
 },
 {
-"n": "Clinique juridique de la Sorbonne",
-"u": "https://cliniquejuridiquedeparis.com/",
-"d": "[Ceci est une ancienne page de la CJS : vous pouvez ne retrouver sur LinkedIn sur notre compte \"Clinique juridique de la Sorbonne] La Clinique Juridique de la Sorbonne est une association de l'Université Paris 1 Panthéon - Sorbonne. Notre objectif est de promo",
-"y": 2015,
-"e": 280,
-"s": "Media, Gaming & Sport",
-"st": "scale",
-"eh": "exa",
-"a": "21 Place du Panthéon",
-"pc": "75005",
-"area": "5e · Latin Quarter",
-"ll": [
-48.846192,
-2.344581
-],
-"k": "office",
-"cf": "l",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1022
-},
-{
 "n": "Clip-it.io",
 "u": "https://clip-it.io/",
 "d": "Clip-it.io est une solution d'automatisation vidéo qui permet de créer des vidéos personnalisées pour tous les écrans (réseaux sociaux, plv dynamique, dooh, Tv segmentée,...) à grande échelle en utilisant des données existantes. On permet aux retailers et aux ",
@@ -13142,33 +12327,6 @@
 "register"
 ],
 "b": 4
-},
-{
-"n": "Clone",
-"u": "https://getclone.io/",
-"d": "Clone is a tech-driven virtual takeout solution designed to give the restaurant industry a big income boost. Restaurants get a streamlined food delivery business that plugs right into their existing kitchens, with orders from all major delivery platforms comin",
-"y": 2020,
-"e": 127,
-"f": 104082748,
-"rd": "Series b · 2022",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "26 Rue de Montholon",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.876632,
-2.345831
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"research"
-],
-"b": 76
 },
 {
 "n": "Clothe To Me",
@@ -13219,31 +12377,6 @@
 "b": 127
 },
 {
-"n": "Club ESSEC Alumni Business Angels",
-"u": "https://essecalumni.com/fr/group/business-angels/49/about",
-"d": "Né de l’initiative d’Alumni passionnés, le club ESSEC Alumni Business Angels (ESSEC BA) a vu le jour en 2011 avec une ambition claire : investir et s’investir dans des start-up à fort potentiel, de tous les secteurs, mais avec une prédilection actuelle dans l’",
-"y": 2011,
-"e": 708,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "11 Avenue de Friedland",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.874477,
-2.303527
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 381
-},
-{
 "n": "ClubFunding",
 "u": "https://clubfunding.fr/",
 "d": "ClubFunding est une plateforme dédiée à l’investissement privé, accessible en ligne.",
@@ -13267,30 +12400,6 @@
 "linkedin"
 ],
 "b": 1028
-},
-{
-"n": "ClubTrotteur Paris, a Tribute Portfolio Hotel",
-"u": "https://marriott.com/fr/search/findhotels.mi",
-"d": "Une nouvelle adresse parisienne rejoint bientôt la famille Marriott International. Prévu pour une ouverture en août 2026, ClubTrotteur Paris, a Tribute Portfolio Hotel est un hôtel 4* entièrement rénové, situé au cœur du 10ᵉ Arrondissement de Paris, à quelques",
-"y": 2026,
-"e": 317,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "175 Rue la Fayette",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.880065,
-2.359518
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1029
 },
 {
 "n": "Clune",
@@ -13434,31 +12543,6 @@
 ],
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "Coalise - Portage salarial",
-"u": "https://coalise.com/",
-"d": "Depuis 2012, COALISE fait du portage salarial son unique métier. Nous accompagnons plus de 400 consultants, principalement dans l’informatique et le management de projets, avec une conviction : La confiance se construit par la transparence, l’humain et des eng",
-"y": 2012,
-"e": 317,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "2 Rue de l'Isly",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.874886,
-2.326358
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 1037
 },
 {
 "n": "Coave Therapeutics",
@@ -13643,56 +12727,6 @@
 "y": "2022"
 },
 "b": 2
-},
-{
-"n": "Code Busters",
-"u": "https://codebusters.fr/",
-"d": "Code Busters c’est l’envie de créer un terrain de jeu pour les développeurs passionnés. Un espace où le partage, la transparence et l’envie de se dépasser sont les maîtres mots. Le consulting permet de découvrir de nouveaux langages, de nouvelles manières d’ap",
-"y": 2021,
-"e": 65,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "exa",
-"a": "18 Place Des Reflets",
-"pc": "92400",
-"area": "Courbevoie",
-"ll": [
-48.889948,
-2.247189
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 384
-},
-{
-"n": "code.store",
-"u": "https://code.store/",
-"d": "code.store designs and builds custom software with AI at every step, from specs to production: ERPs, CMS and media platforms, insurance and mobile apps. What we replace: the in-house tool nobody dares to touch anymore, the SaaS your processes had to bend to, t",
-"y": 2019,
-"e": 50,
-"rd": "Angel · 2020",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "63 Rue de Ponthieu",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.872257,
-2.304453
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 1042
 },
 {
 "n": "CODESPAR",
@@ -14036,37 +13070,6 @@
 ],
 "cp": "WeWork La Fayette",
 "b": 23
-},
-{
-"n": "Colonies",
-"u": "https://livecolonies.com/",
-"d": "Colonies creates smart living housing solutions by designing and managing fully-furnished, community-minded quality homes located in large cities. *** Colonies transforme le logement dans les grandes métropoles en véritable accélérateur de vie. Nous concevons ",
-"y": 2017,
-"e": 99,
-"rd": "Venture · 2023",
-"s": "Real Estate & Construction",
-"st": "growth",
-"eh": "linkedin",
-"a": "21 Rue de Bruxelles",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.882852,
-2.328728
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"sf": {
-"s": "moved",
-"p": "Impulse",
-"y": "2019"
-},
-"b": 325
 },
 {
 "n": "COM'CA",
@@ -14777,29 +13780,6 @@
 "b": 394
 },
 {
-"n": "Cooltra France",
-"u": "https://cooltra.com/",
-"d": "Cooltra offers you the best electric or gasoline scooter rental according to your needs: by minutes, by hours, by days and by months.",
-"e": 346,
-"s": "Mobility & Logistics",
-"st": "scale",
-"eh": "linkedin",
-"a": "50 Rue Ardoin",
-"pc": "93400",
-"area": "Saint-Ouen-Sur-Seine",
-"ll": [
-48.911997,
-2.324745
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 395
-},
-{
 "n": "Coorpacademy",
 "u": "https://coorpacademy.com/",
 "d": "Coorpacademy by Go1 offre une Solution de Contenu de Digital Learning pour développer les Compétences de tous les collaborateurs : notre bibliothèque Go1 agrège le contenu de plus de 250 éditeurs pour couvrir tous les sujets indispensables à votre entreprise.",
@@ -15359,35 +14339,6 @@
 "website"
 ],
 "b": 399
-},
-{
-"n": "Crafty",
-"u": "https://craftydelivers.com/",
-"d": "Office pantry services with delivery, management, and real-time spend visibility. Trusted in 750+ office pantries. See how Crafty works.",
-"e": 264,
-"s": "Mobility & Logistics",
-"st": "scale",
-"eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "past",
-"p": "Founders Program 2.0 (Batch 3)",
-"y": "2023"
-},
-"cp": "Station F",
-"b": 0
 },
 {
 "n": "CreaBoost",
@@ -17670,30 +16621,6 @@
 "b": 1149
 },
 {
-"n": "Delicious",
-"u": "https://deliciousgroup.fr/",
-"d": "Delicious développe des marques virtuelles à succès pour les restaurants et partage son expertise du delivery à travers une offre de consulting ultra-opérationnelle. Avec plus de 100 partenaires actifs, un portefeuille de 10 marques virtuelles, nous aidons les",
-"y": 2019,
-"e": 97,
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "80 Rue des Haies",
-"pc": "75020",
-"area": "20e · Belleville",
-"ll": [
-48.85483,
-2.403577
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 70
-},
-{
 "n": "Deliciously",
 "u": "https://deliciously.io/",
 "d": "Deliciously allows you to discover all around you the best places to eat and travel by the taste buds. Where are we going to eat ? Want to discover new addresses? Download Deliciously! Deliciously lets you locate all around you the best eating places. From the",
@@ -18621,29 +17548,6 @@
 "b": 1177
 },
 {
-"n": "Digital",
-"u": "https://walden-group.com/",
-"d": "Digital is a specialised IT and digital services company developing technology solutions for the pharmaceutical supply chain across Europe. The company designs and operates platforms including WMS (Warehouse Management System) and TMS (Transport Management Sys",
-"e": 118,
-"s": "Health & Bio",
-"st": "growth",
-"eh": "exa",
-"a": "31 Rue de Fleurus",
-"pc": "75006",
-"area": "6e · Saint-Germain",
-"ll": [
-48.84686,
-2.328966
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1178
-},
-{
 "n": "Digital Industrial Modules - DIM",
 "u": "https://dim.construction/",
 "d": "DIM collects daily completed work from construction sites through the mobile app and provides actual monitoring of the budget variances, including the financial impact forecasts, in real-time in the web app.",
@@ -18691,35 +17595,6 @@
 "research"
 ],
 "b": 1181
-},
-{
-"n": "DigiTall",
-"u": "https://digitall.com/",
-"d": "DIGITALL advises, builds and runs solutions across Microsoft, Salesforce, ServiceNow and custom engineering, and stays accountable for the result.",
-"e": 544,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "past",
-"p": "Fighters Program (Batch 1)",
-"y": "2020"
-},
-"cp": "Station F",
-"b": 0
 },
 {
 "n": "Digitevent",
@@ -20165,31 +19040,6 @@
 "b": 409
 },
 {
-"n": "E-LongLife Energies Nouvelles ELLEN",
-"u": "https://e-longlife-hes.com/",
-"d": "E-Longlife serves all economic, agricultural, industrial and household activities in Africa's fragile countries through its local operating subsidiaries ALTERNAPROD. Customers and subscribers sign up to 10-year renewable contracts. Using an innovative model th",
-"y": 2016,
-"e": 101,
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "20 Rue Henri Regnault",
-"pc": "75014",
-"area": "14e · Montparnasse",
-"ll": [
-48.824721,
-2.32967
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 1236
-},
-{
 "n": "E-novate (trading desk)",
 "u": "https://e-novate.fr/",
 "d": "E-novate, c’est l'adtech qui propulse vos campagnes online ! 100 % propriétaire de ses outils (DSP, adserver, plateforme de gestion de campagne), nous pilotons vos messages sur tous les écrans (mobile, desktop, CTV, DOOH) avec précision, impact et transparence",
@@ -20288,32 +19138,6 @@
 "linkedin"
 ],
 "b": 1240
-},
-{
-"n": "each One",
-"u": "https://eachone.co/",
-"d": "each One est une solution clé en main de recrutement et de formation, dédiée aux personnes réfugiées et nouveaux arrivants, qui fait de l’inclusion une expérience incroyable pour les entreprises et leurs équipes. Nous réinventons l’inclusion en connectant entr",
-"y": 2015,
-"e": 151,
-"f": 2752140,
-"rd": "Venture · 2022",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "89 Rue Réaumur",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.867321,
-2.347038
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 434
 },
 {
 "n": "EALICO",
@@ -21258,32 +20082,6 @@
 "b": 0
 },
 {
-"n": "Ekwateur",
-"u": "https://ekwateur.fr/",
-"d": "Ekwateur propose de l’électricité, du gaz et du bois 100% renouvelables, à tous les particuliers et professionnels de France depuis septembre 2016. Fondé par Julien Tchernia et Jonathan Martelli, Ekwateur s’est construit sur la vision d’un marché de l’énergie ",
-"y": 2016,
-"e": 130,
-"rd": "Series b · 2022",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "81 Rue de Clichy",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.882513,
-2.327725
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"research"
-],
-"b": 1275
-},
-{
 "n": "Elax Energie",
 "u": "https://elaxenergie.com/",
 "d": "Le chauffe-eau électrique surconsomme : 🔥 68% des chauffe-eaux ont une température de consigne supérieure à 65°C 🙋‍♀️ 90% des chauffe-eaux ne prennent pas en compte les besoins réels des locataires Notre solution : Un boîtier pour piloter à distance les chauff",
@@ -21394,36 +20192,6 @@
 },
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "Eleven Labs",
-"u": "https://eleven-labs.com/",
-"d": "Créé en 2011, Eleven Labs est une agence de conseil et d’ingénierie web & IA reconnue pour son excellence technique et la qualité de ses profils. Avec 100 astronautes et plus de 500 projets menés, on accompagne au quotidien des entreprises comme Radio France, ",
-"y": 2011,
-"e": 104,
-"s": "AI & Data",
-"st": "growth",
-"eh": "linkedin",
-"a": "102 Rue du Faubourg Saint-Honoré",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.87144,
-2.315659
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"sf": {
-"s": "moved",
-"p": "F/ai",
-"y": "2026"
-},
-"b": 1280
 },
 {
 "n": "Eleya",
@@ -21880,29 +20648,6 @@
 "b": 21
 },
 {
-"n": "Emeria",
-"u": "https://emeriagroup.com/",
-"d": "The Emeria group is a leading European real estate services provider for both residential (B2C) and commercial (B2B) markets, leveraging human expertise, data insights and artificial intelligence to support its clients. The Group primarily operates across Euro",
-"e": 509,
-"s": "Real Estate & Construction",
-"st": "scale",
-"eh": "exa",
-"a": "76 Avenue des Champs Élysées",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.87118,
-2.304351
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 8
-},
-{
 "n": "Emil",
 "u": "https://info.lewagon.com/",
 "d": "Emil (groupe Le Wagon depuis juin 2022) co-construit des programmes de formation courts, en part-time et immersifs en partenariat avec les plus belles startups européennes et suivant les principes du cohort-based learning. Déjà plus de 500 alumni - employés, f",
@@ -22126,29 +20871,6 @@
 "register"
 ],
 "b": 1293
-},
-{
-"n": "Enfant Présent",
-"u": "https://enfantpresent.net/",
-"d": "La première préoccupation d’Enfant Présent : l’ #enfant, ses #parents, sa #famille. 👶🏾👦🏻👧🏿👧🏼🧒🏻 En développant des modes d'accueil innovants et adaptés aux besoins des enfants et des parents, notre association écoute, soutient et accompagne dans le développemen",
-"e": 53,
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "19 Rue de Paradis",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.87485,
-2.352812
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 1294
 },
 {
 "n": "Enforcis",
@@ -22545,32 +21267,6 @@
 "linkedin"
 ],
 "b": 453
-},
-{
-"n": "Envie de Fraise",
-"u": "https://vertbaudet.fr/page/enviedefraise.htm",
-"d": "The largest collection of maternity wear that are stylish, glamorous and affordable . Accomplish your dream look with Envie de Fraises. Celebrities love the brand !",
-"y": 2006,
-"e": 792,
-"f": 1705464,
-"rd": "Venture · 2013",
-"s": "Consumer & Commerce",
-"st": "scale",
-"eh": "linkedin",
-"a": "101 Rue Réaumur",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.867775,
-2.344943
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1302
 },
 {
 "n": "EoLiberty",
@@ -23266,30 +21962,6 @@
 "b": 1321
 },
 {
-"n": "EUTELMED",
-"u": "https://eutelmed.com/",
-"d": "Since 2010, Eutelmed has been your partner in supporting individuals and groups. From prevention to care, through quality of life at work, we are at your side to anticipate and manage human issues. Thanks to comprehensive digital solutions and a network of qua",
-"y": 2010,
-"e": 106,
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "28 Rue d'Aboukir",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.86695,
-2.34452
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1322
-},
-{
 "n": "Evadan",
 "u": "https://evadan.com/",
 "d": "Evadan est le générateur et planificateur de voyage intelligent et ultra complet pour ceux qui veulent mieux voyager sans y passer des heures. Dix onglets ouverts, trois blogs contradictoires, deux nuits à recouper des avis. Préparer un voyage est devenu un tr",
@@ -23753,30 +22425,6 @@
 "b": 1331
 },
 {
-"n": "Evidens de Beauté",
-"u": "https://evidensdebeaute.com/",
-"d": "EviDenS de Beauté Founded in 2007 by Charles-Edouard Barthes and inspired by the delicate beauty of his wife Eriko, EviDenS de Beauté is a high-end cosmetics house that combines Japanese cosmetic expertise with French elegance. The first luxury anti-aging skin",
-"y": 2007,
-"e": 67,
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "31 Rue Boissière",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
-"ll": [
-48.866508,
-2.290547
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1332
-},
-{
 "n": "Evina",
 "u": "https://evina.com/",
 "d": "Evina offers the most advanced AI-powered cybersecurity technology for carrier billing. Evina’s solutions reduce complaint rates and increase revenue for mobile operators, payment aggregators and digital merchants by effectively preventing fraud on carrier bil",
@@ -24115,33 +22763,6 @@
 "research"
 ],
 "b": 1344
-},
-{
-"n": "Experimental",
-"u": "https://experimentalgroup.com/",
-"d": "Hospitality is, above all else, a history of style! This is not about trend, ornamentation, or concept, but style in its most authentic form. It is the singular \"je ne sais quoi\"​ that one feels in entering a legitimate space, a sentiment nearly impossible to ",
-"y": 2007,
-"e": 315,
-"f": 427177001,
-"rd": "Private equity · 2021",
-"s": "Education & Travel",
-"st": "scale",
-"eh": "linkedin",
-"a": "16 Boulevard Poissonnière",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.871196,
-2.345908
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 64
 },
 {
 "n": "Explain",
@@ -25057,32 +23678,6 @@
 "b": 1366
 },
 {
-"n": "Feedgy",
-"u": "https://feedgy.solar/",
-"d": "Feedgy maximizes the performance and extends the lifespan of photovoltaic power plants across France and Europe. The company designs, modernizes, and operates solar projects through integrated expertise combining technical engineering, digital innovation, and ",
-"y": 2015,
-"e": 85,
-"f": 1700000,
-"rd": "Venture · 2025",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "44 Rue Lucien Sampaix",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.873752,
-2.362193
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 1367
-},
-{
 "n": "FeedMax",
 "u": "https://feedmax.io/",
 "d": "Scroll for EN version ⩢ 🚀 FeedMax – L’IA qui booste votre rentabilité e-commerce Trophée Or Catégorie \"Data et Personnalisation\" : https://www.ecommercemag.fr/Thematique/talents-1292/prix-distinctions-2196/Diaporamas/tec-decouvrez-laureats-categorie-19e-editio",
@@ -25230,30 +23825,6 @@
 "research"
 ],
 "b": 4
-},
-{
-"n": "Femmes de Santé",
-"u": "https://femmesdesante.fr/",
-"d": "Le premier collectif de femmes (et d'hommes) dans la Santé. Le collectif Femmes de Santé a pour missions de contribuer par l’intelligence collective, pluridisciplinaire et par la sororité à la co-construction d’une santé durable, équitable et égalitaire et de ",
-"y": 2019,
-"e": 126,
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "6 Rue de la Terrasse",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.881465,
-2.312772
-],
-"k": "office",
-"cf": "l",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 1372
 },
 {
 "n": "Fentech",
@@ -25918,31 +24489,6 @@
 "register"
 ],
 "b": 24
-},
-{
-"n": "FITZ GROUP",
-"u": "https://fitz-group.fr/",
-"d": "LET’S EATERTAIN PARIS. Fitz Group creates and develops distinctive Parisian restaurants where people come to eat well, drink well, connect and enjoy moments they want to last a little longer. Our mission is simple: to make every visit a moment our guests want ",
-"y": 2022,
-"e": 84,
-"s": "Food & Agri",
-"st": "growth",
-"eh": "linkedin",
-"a": "61B Rue de Monceau",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.87875,
-2.312647
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"b": 1396
 },
 {
 "n": "Fiveoffices",
@@ -26633,30 +25179,6 @@
 "linkedin"
 ],
 "b": 1417
-},
-{
-"n": "Food Hotel Tech",
-"u": "https://www.foodhoteltech.com/en/",
-"d": "Food Hotel Tech — Le rendez-vous incontournable des innovations Tech & RSE pour l’hôtellerie-restauration Prochaine édition : 31 mars & 1er avril 2027 – Paris Expo, Porte de Versailles (Hall 7.1) Digitalisation, intelligence artificielle, automatisation, durab",
-"y": 2016,
-"e": 100,
-"s": "Education & Travel",
-"st": "growth",
-"eh": "linkedin",
-"a": "1 Place de la Porte de Versailles",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.832033,
-2.288708
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 174
 },
 {
 "n": "FoodBiome",
@@ -27588,36 +26110,6 @@
 "b": 1451
 },
 {
-"n": "Futurz",
-"u": "https://futurzhr.com/",
-"d": "Futurz is a leading provider of Workforce Solutions, Staffing Solutions, and Integrated HR Services in India. Headquartered in Mumbai, we help businesses build high-performing teams through expert recruitment, talent acquisition, workforce management, and HR c",
-"y": 2022,
-"e": 20002,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "past",
-"p": "Future 40 2021",
-"y": "2021"
-},
-"cp": "Station F",
-"b": 0
-},
-{
 "n": "Fuzzy Logic Robotics",
 "u": "https://flr.io/",
 "d": "Fuzzy Logic was founded by a franco-american team of specialists in command and control of industrial robots. Together, they discovered a radically new paradigm that allows untrained users to easily interact with, control, and program industrial robots for com",
@@ -28294,33 +26786,6 @@
 },
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "GENERALE DU SOLAIRE",
-"u": "https://gdsolaire.com/",
-"d": "GÉNÉRALE DU SOLAIRE was created in 2008 at the initiative of Daniel Bour. The Group is specialised in developing, engineering, procurement, construction (EPC), financing and operating solar power plants. The Group is also an independent power producer. GÉNÉRAL",
-"y": 2008,
-"e": 151,
-"f": 9099160,
-"rd": "Venture · 2022",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "50 Rue Étienne Marcel",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.865553,
-2.342432
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"b": 1472
 },
 {
 "n": "Genesis",
@@ -29276,30 +27741,6 @@
 "research"
 ],
 "b": 481
-},
-{
-"n": "Gobi",
-"u": "https://gobilab.com/",
-"d": "In 2010, we have created the first reusable bottle entirely thought for the office lives. To drink more easily and throw less away. The entire product is made in France, we measure and reduce our environmental impacts thanks to the eco-designed method. We also",
-"y": 2010,
-"e": 60,
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "23 Rue Blondel",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.868871,
-2.352483
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 117
 },
 {
 "n": "GoCanopy",
@@ -31002,30 +29443,6 @@
 "b": 229
 },
 {
-"n": "HARI",
-"u": "https://hari-studios.com/",
-"d": "Founded in 2006 by Josselin Charier and Antoine Rodelet, HARI is one of the top players in animation that creates, produces and distributes original creations dedicated to kids and family across TV and digital media platforms. Specialized in bringing feature-q",
-"y": 2006,
-"e": 462,
-"s": "AI & Data",
-"st": "scale",
-"eh": "linkedin",
-"a": "166 Boulevard Voltaire",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.855511,
-2.38364
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 1549
-},
-{
 "n": "Haru",
 "u": "https://haru.fr/",
 "d": "HARU is an IIoT (Industrial IoT) based personal assistant which measures indoor air quality and provides data and services for energy efficiency. Whether it is used in apartments, schools or offices, it helps e-residents to understand the environment and gain ",
@@ -31231,35 +29648,6 @@
 "website"
 ],
 "b": 1555
-},
-{
-"n": "Hectar",
-"u": "https://hectar.co/",
-"d": "100% orienté entrepreneuriat et tech au service des hommes, HECTAR, est un écosystème unique au monde.",
-"e": 57,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "past",
-"p": "Future 40 2021?",
-"y": "2022"
-},
-"cp": "Station F",
-"b": 0
 },
 {
 "n": "Hedg",
@@ -31792,33 +30180,6 @@
 "b": 496
 },
 {
-"n": "Hexa",
-"u": "https://efounders.com/",
-"d": "Hexa is a startup studio. It all started in 2011 with startup studio eFounders, which pioneered a new way of entrepreneurship, became a reference in the B2B SaaS world, and launched over 50 companies including 3 unicorns (Front, Aircall, Spendesk). In 2022, eF",
-"y": 2011,
-"e": 182,
-"f": 65120120,
-"rd": "Corporate round · 2025",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "12 Rue Martel",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.87433,
-2.353295
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 49
-},
-{
 "n": "Hexagone AI",
 "u": "https://hexagone.ai/",
 "d": "Logiciel français d'anonymisation et de pseudonymisation de documents, qui tourne entièrement sur votre Mac ou PC. Il détecte et remplace les données personnelles dans vos PDF, Word, Excel et PowerPoint, puis laisse Claude, ChatGPT ou n'importe quelle IA trava",
@@ -31951,30 +30312,6 @@
 "b": 1573
 },
 {
-"n": "HIGHT",
-"u": "https://hight-paris.fr/",
-"d": "Un vent d’audace souffle sur le huitième… AG2R LA MONDIALE propose HIGHT, le premier boutique-office. Pour se différencier de l’offre standardisée de bureaux, AG2R LA MONDIALE créé un écrin exceptionnel au coeur du 8ème arrondissement de Paris, une vision sur-",
-"y": 2018,
-"e": 708,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "8 Rue de Penthièvre",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.873126,
-2.316975
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1574
-},
-{
 "n": "hiji",
 "u": "https://hiji.fr/",
 "d": "hiji – Activateur de compétences au service de la performance. 🚀 Une formation ne crée de la valeur que si elle se traduit en pratiques concrètes sur le terrain. hiji accompagne vos collaborateurs de la formation à la performance opérationnelle, avec une plate",
@@ -32078,33 +30415,6 @@
 "linkedin"
 ],
 "b": 1578
-},
-{
-"n": "HIWAY",
-"u": "https://hiway.fr/",
-"d": "Hiway, c’est la voie royale pour travailler en freelance sans vous noyer dans l’administratif. Vous voulez être indépendant sans passer vos soirées à décrypter les statuts juridiques ou à faire de la paperasse ? On s’en charge. Portage salarial ou société, com",
-"y": 2016,
-"e": 54,
-"f": 4000000,
-"rd": "Venture · 2023",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "51 Rue Fondary",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.847472,
-2.295128
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 1579
 },
 {
 "n": "HMBotel",
@@ -32609,30 +30919,6 @@
 "research"
 ],
 "b": 501
-},
-{
-"n": "Hopscotch",
-"u": "https://hopscotch.fr/",
-"y": 2001,
-"e": 525,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "25 Rue Notre-Dame des Victoires",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.87001,
-2.342443
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 1595
 },
 {
 "n": "HOQI",
@@ -33497,54 +31783,6 @@
 "b": 1623
 },
 {
-"n": "Hyvolution Paris",
-"u": "https://hyvolution.com/",
-"d": "📅 In 2026, Hyvolution, the event for hydrogen for energy, industry and mobility comes back ! Take part in the unmissable gathering of hydrogen stakeholders in France and Europe. ✔️ 600 exhibitors and brands: production, distribution, storage, services — every ",
-"e": 317,
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "1 Place de la Porte de Versailles",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.832033,
-2.288708
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 174
-},
-{
-"n": "Hôtel Indigo Paris - Opera",
-"u": "https://ihg.com/hotelindigo/hotels/us/en/paris/parin/hoteldetail",
-"d": "Hôtel Indigo Paris - Opera An IHG Hotel is a wonderful luxury boutique hotel, based out of 2 RUE EDOUARD VII, Paris-9e-Arrondissement, France. With a superb location and service, we are looking forward to welcoming you and help you discover the neighborhood!!",
-"y": 2014,
-"e": 247,
-"s": "Real Estate & Construction",
-"st": "growth",
-"eh": "linkedin",
-"a": "2 Rue Édouard VII",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.870442,
-2.329237
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 1627
-},
-{
 "n": "I Met",
 "u": "https://i-met.co/",
 "d": "A mobile app building a contextualized timeline of your encounters to never forget anybody you met.",
@@ -33918,31 +32156,6 @@
 "b": 34
 },
 {
-"n": "Idixit",
-"u": "https://i-dixit.com/",
-"d": "Idixit is specialised in responding to online reviews on behalf of customers. We serve >1000 customers across Europe, have a 99.9% retention rate and a very high customer satisfaction. We also provide 24/7 content moderation and community management services f",
-"y": 2007,
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "33 Rue La Boëtie",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.873723,
-2.315344
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 1642
-},
-{
 "n": "iDposition",
 "u": "https://idposition.fr/",
 "d": "iDPosition is THE Assets & Space Management solution in SaaS mode. \"IoT on demand\"​ turns on your Smart Building. We will let you discover how \"Connect Everything with Everyone\"​ is so much more than just a slogan.",
@@ -34038,30 +32251,6 @@
 "b": 81
 },
 {
-"n": "IESO GROUP",
-"u": "https://jumpao.com/",
-"d": "Investissement et développement dans le secteur du sport loisir",
-"y": 2016,
-"e": 101,
-"s": "Fintech & Insurance",
-"st": "growth",
-"eh": "linkedin",
-"a": "111 Avenue Victor Hugo",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
-"ll": [
-48.868509,
-2.282921
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1647
-},
-{
 "n": "IEVA",
 "u": "https://myieva.com/",
 "d": "IEVA provides IoT and technology based personalized solutions for the Personal Care market, which includes Beauty, Luxury, Entertainment and Life Style. IEVA solutions encompass both hardware products and devices, software and web-based solutions as well as as",
@@ -34084,30 +32273,6 @@
 "v": "research",
 "ev": [
 "research"
-],
-"b": 508
-},
-{
-"n": "IEVA Group",
-"u": "https://ievagroup.com/",
-"d": "IEVA GROUP | L’ARCHITECTURE DE LA BEAUTIFUL LONGEVITY Fondé par Jean Michel Karam, IEVA Group est l’acteur de référence de la beauté augmentée. À la confluence de la haute technologie, du retail de précision et de la puissance média, le Groupe structure le mar",
-"e": 317,
-"rd": "Post ipo equity · 2026",
-"s": "Consumer & Commerce",
-"st": "scale",
-"eh": "linkedin",
-"a": "87 Rue Réaumur",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.867064,
-2.347658
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
 ],
 "b": 508
 },
@@ -34985,31 +33150,6 @@
 "b": 1
 },
 {
-"n": "innerskin",
-"u": "https://innerskin.com/",
-"d": "Innerskin invente la médecine esthétique d’une nouvelle génération. Une médecine esthétique qui place la santé de la peau au coeur de sa pratique, car nous sommes convaincus que la santé est vecteur de beauté. Une médecine esthétique éclairée et sans tabous, q",
-"y": 2022,
-"e": 81,
-"rd": "Venture · 2025",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "5 Rue Clément Marot",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.866928,
-2.304187
-],
-"k": "office",
-"cf": "l",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1672
-},
-{
 "n": "INNOGEC",
 "u": "https://innohealth.fr/",
 "d": "Innohealth développe des solutions SaaS collaboratives et sécurisées dédiées aux acteurs de la recherche clinique. Notre mission : mettre l'innovation au service de la santé. Innohealth accompagne les professionnels de la recherche via : - Innogec Investigatio",
@@ -35314,31 +33454,6 @@
 "linkedin"
 ],
 "b": 233
-},
-{
-"n": "Institut Carnot IPGG Microfluidique",
-"u": "https://institut-pgg.fr/",
-"d": "L’Institut Carnot IPGG Microfluidique accompagne les entreprises en leur donnant accès aux compétences des équipes de l’Institut Pierre-Gilles de Gennes (IPGG) en matières molles, chimie fine, analyses avancées et biochimie. Soutenu par sa tutelle, l’Universit",
-"y": 2016,
-"e": 317,
-"s": "Deeptech & Hardware",
-"st": "scale",
-"eh": "linkedin",
-"a": "6 Rue Jean Calvin",
-"pc": "75005",
-"area": "5e · Latin Quarter",
-"ll": [
-48.841648,
-2.348947
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 235
 },
 {
 "n": "Integral",
@@ -35723,30 +33838,6 @@
 "b": 0
 },
 {
-"n": "INWiT",
-"u": "https://inwit-notaires.com/",
-"d": "INWiT résulte de l’alliance entre les études notariales LBMB Notaires et Nogent Paris Est Notaires et forme le premier trust notarial français. Fondée sur la confiance, INWiT est la convergence des compétences de deux études, LBMB Notaires, spécialiste de l’im",
-"y": 2018,
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "25 Avenue Marceau",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
-"ll": [
-48.866916,
-2.299124
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1687
-},
-{
 "n": "IOTE2E",
 "u": "https://iote2e.com/",
 "d": "IoT E2E has a clear mission to provide exceptional value and smart solutions to our clients while keeping a focus on sustainable energy, safe environments, and smart city networks. Our company has a proactive, caring, and exciting culture that is able to fully",
@@ -35795,32 +33886,6 @@
 "linkedin"
 ],
 "b": 2
-},
-{
-"n": "ipso santé",
-"u": "https://ipsosante.fr/",
-"d": "ipso est un réseau de cabinets médicaux de proximité à Paris. Nous souhaitons contribuer à l’émergence d’un système de santé de meilleure qualité, accessible pour tous.",
-"y": 2015,
-"e": 88,
-"rd": "Venture · 2021",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "73 Rue de Montreuil",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.85051,
-2.391116
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 1689
 },
 {
 "n": "Ipsos Synthesio",
@@ -36778,31 +34843,6 @@
 "b": 0
 },
 {
-"n": "JeVeuxAider.gouv.fr",
-"u": "https://jeveuxaider.gouv.fr/",
-"d": "JeVeuxAider.gouv.fr est la plateforme publique du bénévolat, proposée par la Réserve Civique. Plus de 17 000 associations, collectivités et organisations publiques y postent des missions, lorsqu'elles ont besoin de renfort. Pour y répondre, elles peuvent compt",
-"y": 2017,
-"e": 106,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "95 Avenue de France",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.829291,
-2.377588
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 125
-},
-{
 "n": "JIB",
 "u": "https://jib-home.com/",
 "d": "JIB développe des solutions connectées regroupant objets connectés, applications, logiciels et équipement dédiés, qui visent à favoriser l'autonomie au quotidien des personnes en situation de handicap moteur, à domicile et en résidence. JIB s'est donné pour mi",
@@ -36901,31 +34941,6 @@
 "website"
 ],
 "b": 241
-},
-{
-"n": "Jimmy Fairly",
-"u": "https://jimmyfairly.com/",
-"d": "Shop high-quality glasses and sunglasses, designed in France. Jimmy Fairly frames start at $148, prescription lenses included.",
-"y": 2011,
-"e": 660,
-"s": "Consumer & Commerce",
-"st": "scale",
-"eh": "linkedin",
-"a": "23 Rue du Mail",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.866997,
-2.342855
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"research"
-],
-"b": 468
 },
 {
 "n": "Jinka",
@@ -37466,30 +35481,6 @@
 "b": 1738
 },
 {
-"n": "Joya, aide à domicile",
-"u": "https://joya-domicile.fr/",
-"d": "Joya a été créée en octobre 2024 pour répondre aux besoins croissants d'accompagnement à domicile, tout en offrant une approche innovante et personnalisée.",
-"y": 2024,
-"e": 2002,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "12 Rue Martel",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.87433,
-2.353295
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 49
-},
-{
 "n": "Joyeuse",
 "u": "https://joyeuse.io/",
 "d": "OBJETS NUMERIQUES ENCHANTEURS POUR LA FAMILLE Joyeuse propose aux familles une alternative numérique aux écrans, notamment pour l'accès aux contenus et aux savoirs. Des objets sensibles à manipuler, qui nous reconnectent au monde sensible, ré-enchantent nos vi",
@@ -37634,32 +35625,6 @@
 "research"
 ],
 "b": 1746
-},
-{
-"n": "Junk Group",
-"u": "https://junkgroup.fr/",
-"d": "Founded in 2021 by Wissem Ben Ammar and Majed Mansour, JUNK GROUP brings together two strong brands entirely focused on product, indulgence, and experience: JUNK and PUFFY. JUNK has grown into an internationally present smash burger brand. Its straightforward ",
-"y": 2013,
-"e": 57,
-"f": 1497375,
-"rd": "Venture · 2022",
-"s": "Food & Agri",
-"st": "growth",
-"eh": "exa",
-"a": "30 Rue Legendre",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.88407,
-2.314236
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1749
 },
 {
 "n": "Juridifeel",
@@ -38566,32 +36531,6 @@
 },
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "Kenko",
-"u": "https://kenko.fr/",
-"d": "Kenko supports companies in the implementation of corporate health insurance for their employees: - Audit of the existing plan and proposal of an adapted target plan - Predictive analysis of the budget drift - Dashboard with real-time indicators and recommenda",
-"y": 2022,
-"e": 91,
-"rd": "Seed · 2025",
-"s": "Fintech & Insurance",
-"st": "growth",
-"eh": "linkedin",
-"a": "37 Rue Bergère",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.872596,
-2.343411
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"research"
-],
-"b": 534
 },
 {
 "n": "Kerys.co",
@@ -39600,31 +37539,6 @@
 "b": 1794
 },
 {
-"n": "Konbini",
-"u": "https://konbini.com/",
-"d": "Retrouvez les formats iconiques de Konbini comme Fast and Curious, Video Club, Fastlife, Trou Story, Track ID. Musique, cinéma, sport, food, news",
-"y": 2007,
-"e": 240,
-"s": "Food & Agri",
-"st": "growth",
-"eh": "linkedin",
-"a": "70 Rue de l'Aqueduc",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.883407,
-2.366276
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 1795
-},
-{
 "n": "Kooping",
 "u": "https://kooping.io/",
 "d": "The caring glance for safety, health and peace at work! Kooping reduces work related injuries and occupational diseases with its AI programs of video analysis. Kooping provides the real-time data and tools (KPIs, predictions etc.) to enable the reporting, stee",
@@ -39913,30 +37827,6 @@
 "b": 538
 },
 {
-"n": "KRYPTOSPHERE®",
-"u": "https://kryptosphere.org/",
-"d": "KRYPTOSPHERE® is the first and largest student network dedicated to the democratization of Bitcoin, blockchain, and emerging technologies across more than 20 universities, business, and engineering schools in France and Europe. Created by Dr Thibault Langlois-",
-"y": 2017,
-"e": 708,
-"s": "Fintech & Insurance",
-"st": "scale",
-"eh": "linkedin",
-"a": "59 Avenue de l'Observatoire",
-"pc": "75014",
-"area": "14e · Montparnasse",
-"ll": [
-48.837056,
-2.336837
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1802
-},
-{
 "n": "Kubo Labs",
 "u": "https://kubolabs.io/",
 "d": "Kubo Labs provides tools and expertise to speed up problem detection and resolution on your Kubernetes clusters. Our ambition: reducing the costs associated with maintaining Kubernetes clusters by 5 and reducing the time to resolve Kubernetes problems by 3 in ",
@@ -39991,35 +37881,6 @@
 },
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "Kumulus",
-"u": "https://kumulus.com/",
-"d": "Consultoria de tecnologia especializada em cloud, dados, IA e aplicações de alta performance para acelerar resultados com governança e previsibilidade.",
-"y": 2021,
-"e": 127,
-"s": "AI & Data",
-"st": "growth",
-"eh": "linkedin",
-"a": "12 Rue de Chambéry",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.831523,
-2.303897
-],
-"k": "office",
-"cf": "l",
-"v": "register",
-"ev": [
-"register"
-],
-"sf": {
-"s": "moved",
-"p": "Founders Program",
-"y": "2024"
-},
-"b": 1804
 },
 {
 "n": "Kumulus Water",
@@ -40205,31 +38066,6 @@
 "b": 4
 },
 {
-"n": "L'Atelier Cognacq-Jay",
-"u": "https://cognacq-jay.fr/etablissements/latelier-cognacq-jay",
-"d": "Situé dans le 6ème arrondissement de Paris, L’Atelier est un établissement géré par la Fondation Cognacq-Jay, reconnue d’utilité publique depuis 1916. Lieu d’accueil et de soutien, il est destiné à toutes les personnes, hommes et femmes, touchées par le cancer",
-"y": 2017,
-"e": 2002,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "17 Rue Notre-Dame des Champs",
-"pc": "75006",
-"area": "6e · Saint-Germain",
-"ll": [
-48.846134,
-2.327616
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"b": 1815
-},
-{
 "n": "l'Atout",
 "u": "https://latout.app/",
 "d": "l'Atout aide les entreprises à mettre en lumière tout ce qu'elles font pour leurs collaborateurs. Notre solution permet de valoriser les atouts de votre entreprise en regroupant l'ensemble des avantages collaborateurs sur une seule app et une seule carte de pa",
@@ -40279,30 +38115,6 @@
 "register"
 ],
 "b": 1821
-},
-{
-"n": "L'École Française",
-"u": "https://lecolefrancaise.fr/",
-"d": "Avec plus de 130 000 apprenants formés à nos côtés, L'École Française est une référence de la formation en ligne. Aujourd’hui, nous vous proposons un large choix de formations professionnalisantes, certifiantes et diplômantes pour accélérer votre carrière. Dan",
-"y": 2015,
-"e": 275,
-"s": "Education & Travel",
-"st": "scale",
-"eh": "exa",
-"a": "38 Rue Anatole France",
-"pc": "92300",
-"area": "Levallois-Perret",
-"ll": [
-48.890015,
-2.287019
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 1830
 },
 {
 "n": "La Belle",
@@ -40355,56 +38167,6 @@
 "research"
 ],
 "b": 1834
-},
-{
-"n": "La Brigade",
-"u": "https://la-brigade.fr/",
-"d": "LA BRIGADE, c’est le premier bistrot sur mesure revisité à la mode street food. En réinventant la consommation du traditionnel steak- frites, nous avons décliné un ensemble de propositions inspirées de la cuisine bistrot traditionnelle en nous appuyant sur les",
-"y": 2013,
-"e": 95,
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "exa",
-"a": "103 Rue Oberkampf",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.865642,
-2.376996
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1837
-},
-{
-"n": "La Casa",
-"u": "https://lacasa.io/",
-"d": "La Casa est un opérateur d'habitat partagé (coliving) rentable depuis 2024 : 9,5 M€ de CA et 900 chambres exploitées. Nous gérons des maisons, des immeubles et des résidences étudiantes à Paris, Lille et Fontainebleau, pour des jeunes actifs, des étudiants et ",
-"y": 2017,
-"e": 116,
-"f": 33724500,
-"rd": "Debt financing · 2021",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "exa",
-"a": "8 Rue d'Anjou",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.869858,
-2.320878
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 1838
 },
 {
 "n": "LA FOLIE SAINT MARTIN",
@@ -40612,30 +38374,6 @@
 "b": 0
 },
 {
-"n": "LAFORET PARIS MARAIS",
-"u": "https://laforet.com/agence-immobiliere/paris4-marais",
-"d": "LAFORET PARIS MARAIS, EXPERT IMMOBILIER DU MARAIS DEPUIS 25 ANS. Aujourd'hui dans le quartier du Marais, et plus largement dans les 3e et 4e arr. de Paris, les agences immobilières sont de plus en plus nombreuses et proposent des services quasi-similaires. En ",
-"e": 2695,
-"s": "Fintech & Insurance",
-"st": "scale",
-"eh": "linkedin",
-"a": "114 Rue de Turenne",
-"pc": "75003",
-"area": "3e · Haut-Marais",
-"ll": [
-48.863184,
-2.364778
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 548
-},
-{
 "n": "Lago",
 "u": "https://getlago.com/",
 "d": "Open Source Metering & Usage-Based Billing The best alternative to Chargebee, Recurly and Stripe Billing. For usage-based, subscription-based, and all the nuances of pricing in between. We’re hiring! (https://getlago.com/hiring)",
@@ -40792,29 +38530,6 @@
 "b": 1879
 },
 {
-"n": "Lartisien",
-"u": "https://lartisien.com/",
-"d": "Lartisien is a French-born travel creator, crafting singular moments around the globe since 2008. At the core of our craft, a close understanding of each traveler and a practiced command of the journey. Guided by a discerning selection of remarkable hotels - L",
-"e": 94,
-"s": "Education & Travel",
-"st": "growth",
-"eh": "exa",
-"a": "228 Rue de Rivoli",
-"pc": "75001",
-"area": "1er · Louvre",
-"ll": [
-48.865194,
-2.328101
-],
-"k": "office",
-"cf": "l",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1880
-},
-{
 "n": "Lasqo",
 "u": "https://lasqo.ai/",
 "d": "Lasqo is the instant on-brand visual assets for marketing teams.",
@@ -40915,55 +38630,6 @@
 "website"
 ],
 "b": 1883
-},
-{
-"n": "Lazeo",
-"u": "https://lazeo.com/",
-"d": "Lazeo centres have been specialising in aesthetic medicine since 2009. Present throughout France and Belgium, our centres have expert medical staff and are equipped with the best aesthetic techniques in the world.",
-"y": 2009,
-"e": 427,
-"rd": "Venture · 2023",
-"s": "Health & Bio",
-"st": "scale",
-"eh": "exa",
-"a": "45 Avenue Victor Hugo",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
-"ll": [
-48.871365,
-2.289658
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1885
-},
-{
-"n": "LC NETSECURE",
-"u": "https://lc-netsecure.com/",
-"d": "LC NetSecure est l'un des leaders des services convergents ICT et télécom en France et fournit des solutions globales à l’ensemble des entreprises et des administrations publiques. Ses domaines d’expertise comprennent les télécommunications, les infrastructure",
-"y": 2018,
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "82 Avenue du Maine",
-"pc": "75014",
-"area": "14e · Montparnasse",
-"ll": [
-48.838403,
-2.322112
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 30
 },
 {
 "n": "LDJ - Le Devis Juridique",
@@ -41089,33 +38755,6 @@
 "b": 1
 },
 {
-"n": "Le Petit Lunetier",
-"u": "https://lepetitlunetier.com/",
-"d": "Le Petit Lunetier, c’est au départ deux amis : Elie, opticien de formation, et Jérémie, qui, en 2015, prennent le pari de repenser le modèle traditionnel de production et de distribution des lunettes, en supprimant tous les intermédiaires, pour proposer des lu",
-"y": 2014,
-"e": 70,
-"f": 4000000,
-"rd": "Corporate round · 2023",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "155 Rue de Charonne",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.855514,
-2.389101
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"research"
-],
-"b": 553
-},
-{
 "n": "Le Plein",
 "u": "https://leplein.fr/",
 "d": "Le Plein est un réseau de stations-service électriques qui rend la recharge simple, accessible et avantageuse. Notre mission : permettre au plus grand nombre de faire Le Plein d’énergie positive ⚡️ en rechargeant son véhicule électrique pendant qu’on fait ses ",
@@ -41162,57 +38801,6 @@
 "research"
 ],
 "b": 1
-},
-{
-"n": "Le Slip Français",
-"u": "https://leslipfrancais.fr/",
-"d": "We are a modern French entreprise, and a (good) idea. The idea that reinventing the textile production in France is a concern for everyone, but especially for us. We believe in the quality and craftsmanship of French manufacturers. We think that we must change",
-"y": 2011,
-"e": 91,
-"f": 14746320,
-"rd": "Equity crowdfunding · 2023",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "6 Rue de Paradis",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.87456,
-2.354698
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 1925
-},
-{
-"n": "Le Village by CA Paris",
-"u": "https://levillagebyca.com/",
-"d": "Le Village by CA Paris est l’antenne parisienne du plus grand accélérateur de startups en Europe, un réseau présent dans 47 lieux en France et à l’international, qui accompagne en continu plus de 1 100 startups. Situé au cœur du 4ᵉ écosystème startup mondial, ",
-"y": 2014,
-"e": 317,
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "48 Rue La Boëtie",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.873578,
-2.313318
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 1930
 },
 {
 "n": "Le Voice Lab",
@@ -41833,32 +39421,6 @@
 "b": 1942
 },
 {
-"n": "Legal2digital",
-"u": "https://legal2digital.fr/",
-"d": "Issu du rassemblement de titres de presse économique et juridique régionaux, legal2digital offre aux professionnels du chiffre et du droit une gamme complète de services dans les domaines de la publicité légale, des formalités, des ventes par adjudication, des",
-"y": 2014,
-"e": 99,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "3 Rue de Pondichéry",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.850515,
-2.296028
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 157
-},
-{
 "n": "LegalBox",
 "u": "https://legalbox.com/",
 "d": "Spécialiste du courrier certifié sur Internet, LegalBox transporte par voie électronique des documents de manière confidentielle, en leur garantissant la même valeur de preuve que celle qu’ils ont en version papier. Les échanges se font via une messagerie sécu",
@@ -42300,31 +39862,6 @@
 "b": 1950
 },
 {
-"n": "Leonard",
-"u": "https://leonard.vinci.com/",
-"d": "Leonard is the VINCI Group's innovation and foresight platform. Set up to invent and serve the Group's future business activities, Leonard is in charge of tracking emerging trends, identifying long-term challenges and goals, pinpointing opportunities for chang",
-"y": 2017,
-"e": 119,
-"s": "Deeptech & Hardware",
-"st": "growth",
-"eh": "linkedin",
-"a": "6 Place du Colonel Bourgoin",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.844643,
-2.383246
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 45
-},
-{
 "n": "Les Bienfaiteurs",
 "u": "https://lesbienfaiteurs.com/",
 "d": "🧡 Quand on est une marque, s’engager c’est bien, mais encore faut-il savoir comment. Lancée il y a cinq ans, Les Bienfaiteurs est la plateforme n°1 des ventes privées solidaires : chez nous, chaque marque reverse une partie de son chiffre d’affaires à une caus",
@@ -42348,54 +39885,6 @@
 "research"
 ],
 "b": 311
-},
-{
-"n": "Les Entremetteurs",
-"u": "https://les-entremetteurs.fr/",
-"d": "Des freelances, il y en a des milliers. Pour reconnaître une pépite, encore faut-il connaître le métier. Pas une plateforme. Pas un catalogue de CV. Du casting sur mesure. On connait ou on cherche, on trie, on sélectionne. Le bon freelance, les bonnes compéten",
-"y": 2015,
-"e": 317,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "41 Rue de la Folie-Méricourt",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.863615,
-2.372235
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"research"
-],
-"b": 1952
-},
-{
-"n": "Les Nouveaux Fermiers",
-"u": "https://lesnouveauxfermiers.com/",
-"y": 2020,
-"e": 134,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "50 Rue Saint-Lazare",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.876969,
-2.334415
-],
-"k": "seat",
-"cf": "u",
-"v": "register",
-"ev": [
-"register"
-],
-"b": 493
 },
 {
 "n": "Les Sherpas",
@@ -42725,32 +40214,6 @@
 "linkedin"
 ],
 "b": 1971
-},
-{
-"n": "Liberkeys",
-"u": "https://liberkeys.com/",
-"d": "Excellence, confiance et proximité, sont les 3 piliers qui font de Liberkeys une référence sur le marché de l'immobilier. Excellence avec : ✅Un service noté 4.9/5 par nos clients ✅Une technologie exclusive développée en interne pour rendre la transaction immob",
-"y": 2017,
-"e": 214,
-"f": 5747008,
-"rd": "Venture · 2019",
-"s": "Real Estate & Construction",
-"st": "growth",
-"eh": "linkedin",
-"a": "16 Rue Gaillon",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.86866,
-2.334327
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 1972
 },
 {
 "n": "LIBERTIFY",
@@ -43485,60 +40948,6 @@
 "b": 145
 },
 {
-"n": "Little Cigogne - Plumaïa",
-"u": "https://littlecigogne.com/",
-"d": "Little Cigogne, c’est une entreprise innovante qui réinvente l’expérience d’achat de vêtements grâce au stylisme personnalisé. Chaque mois, plus de 25 000 Malles sont envoyées en Europe, composées par nos stylistes pour répondre aux goûts, besoins et personnal",
-"y": 2012,
-"e": 65,
-"f": 14924791,
-"rd": "Venture · 2021",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "exa",
-"a": "37 Rue de Rome",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.87747,
-2.322772
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 1995
-},
-{
-"n": "Little Worker",
-"u": "https://littleworker.fr/",
-"d": "Little Worker | B Corp | Société à mission Chez Little Worker, nous croyons qu’un projet de rénovation doit être plus qu’un chantier : c’est une expérience de transformation, simple et sereine. Notre mission est de libérer nos clients de la complexité des trav",
-"y": 2016,
-"e": 138,
-"f": 12615386,
-"rd": "Series a · 2023",
-"s": "Real Estate & Construction",
-"st": "growth",
-"eh": "linkedin",
-"a": "4B Rue Saint-Sauveur",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.865907,
-2.349636
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"register",
-"linkedin"
-],
-"b": 564
-},
-{
 "n": "LiveArts",
 "u": "https://live-arts.com/",
 "d": "LiveArts est la plateforme de référence des Établissements Séniors pour la réservation de spectacles, d'ateliers semi-thérapeutiques et de cours en bien-être adaptés 👵🏼 👴🏼🧘‍♀️💃",
@@ -43563,31 +40972,6 @@
 "linkedin"
 ],
 "b": 1997
-},
-{
-"n": "Livelihoods",
-"u": "https://livelihoods.eu/",
-"d": "Livelihoods is a global initiative that connects companies, local organizations and communities to turn climate ambition into tangible action. We are grounded in a core belief: there is no environmental impact without social justice. Since 2009, we’ve mobilize",
-"y": 2011,
-"e": 80,
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "226 Boulevard Voltaire",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.852667,
-2.38841
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 47
 },
 {
 "n": "Lively Software",
@@ -43805,36 +41189,6 @@
 "b": 2004
 },
 {
-"n": "Lizy",
-"u": "https://lizy.be/",
-"d": "Leasing voiture pour entreprises: LIZY propose des véhicules récents, tout compris, livrés en 3 semaines et jusqu’à 20% moins cher.",
-"y": 2011,
-"e": 150,
-"s": "Mobility & Logistics",
-"st": "growth",
-"eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "office",
-"cf": "l",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "here",
-"p": "Future 40",
-"y": "2025"
-},
-"cp": "Station F",
-"b": 0
-},
-{
 "n": "Locala",
 "u": "https://asklocala.com/",
 "d": "Locala is the operating layer for Adaptive Advertising, enabling brands to continuously adapt their national strategy to the unique business realities and consumer behaviors of every market. Powered by AI agents, Locala turns market insights into smarter media",
@@ -43931,32 +41285,6 @@
 "linkedin"
 ],
 "b": 2011
-},
-{
-"n": "Lodgis",
-"u": "https://lodgis.com/",
-"d": "Lodgis, agence immobilière spécialisée dans la location meublée, propose près de 10 000 appartements meublés à louer ou acheter à Paris, Lyon, Bordeaux, Toulouse. Découvrez l'ensemble de nos annonces !",
-"y": 1999,
-"e": 61,
-"s": "Real Estate & Construction",
-"st": "growth",
-"eh": "linkedin",
-"a": "29 Rue de Choiseul",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.870977,
-2.335875
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 2013
 },
 {
 "n": "Lodin",
@@ -44702,31 +42030,6 @@
 "b": 2038
 },
 {
-"n": "Luna",
-"u": "https://lunafood.com/",
-"d": "Luna | Du bon, du vrai, du frais 🌍✨ Onigiri, Mezze, Poké, Bibimbap, Pasta… Chaque plat Luna est une invitation au voyage, avec des recettes ultra-fraîches, savoureuses et 100 % gourmandes. Préparés à la main chaque jour près de Paris avec des ingrédients rigou",
-"e": 365,
-"f": 11934948,
-"rd": "Series a · 2023",
-"s": "Food & Agri",
-"st": "scale",
-"eh": "exa",
-"a": "106 Boulevard de Courcelles",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.879069,
-2.301914
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 2039
-},
-{
 "n": "Lunii",
 "u": "https://lunii.com/",
 "d": "Chez Lunii, nous créons des expériences audio interactives qui accompagnent les parents dans l’apprentissage de leurs enfants car nous nous soucions des générations futures. Lunii a été créé en 2014 par quatre amis : Maëlle, Igor, Thomas et Eric. S’ensuit une ",
@@ -45140,30 +42443,6 @@
 "b": 31
 },
 {
-"n": "M33.tech",
-"u": "https://m33.tech/",
-"d": "M33 est un incubateur de startups spécialisé dans la création de solutions digitales au service des entreprises. Le but de M33 est de donner, grâce à une formation accélérée, l'opportunité de devenir CEO ou CTO d'une nouvelle startup qui verra le jour au sein ",
-"e": 317,
-"rd": "Private equity · 2018",
-"s": "Deeptech & Hardware",
-"st": "scale",
-"eh": "linkedin",
-"a": "48 Boulevard des Batignolles",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.882719,
-2.322452
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 570
-},
-{
 "n": "Ma Salle de Sport",
 "u": "https://masalledesport.com/",
 "d": "Masalledesport édite une suite de logiciels SaaS B2B à destination des salles de sport en France et à l’étranger. Plus de 2 000 salles de sports (réseaux et indépendants) nous font confiance pour développer leur activité. Nous avons 3 principaux modules SaaS :",
@@ -45437,32 +42716,6 @@
 "b": 2058
 },
 {
-"n": "Magic Makers",
-"u": "https://magicmakers.fr/",
-"d": "“Apprendre à coder pour apprendre à créer” Ce credo définit la philosophie de Magic Makers: transmettre aux enfants l’envie de devenir les Makers de demain. Ils créent des jeux vidéos avec des logiciels ludiques. Ils personnalisent leurs drones en utilisant l’",
-"y": 2014,
-"e": 59,
-"rd": "Venture · 2018",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "14 Place Étienne Pernet",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.843249,
-2.292174
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 2060
-},
-{
 "n": "Maglia.io",
 "u": "https://maglia.io/",
 "d": "Nous offrons une solution simple, ludique et intuitive qui permet aux planificateurs d’activités de gérer leurs ressources en évitant les conflits d’affectation et les problèmes de communication.",
@@ -45644,31 +42897,6 @@
 "research"
 ],
 "b": 2071
-},
-{
-"n": "makesense_entrepreneurs",
-"u": "https://france.makesense.org/entrepreneurs",
-"d": "Depuis presque 15 ans, makesense_entrepreneurs accompagne, finance et rassemble les solutions qui fabriquent un monde plus robuste, juste, responsable, joyeux et collectif. 🌟 Pour rejoindre un de nos programmes : https://france.makesense.org/entrepreneurs/se-f",
-"y": 2012,
-"e": 183,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "11 Rue Biscornet",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.850504,
-2.369661
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 172
 },
 {
 "n": "Maket",
@@ -45891,30 +43119,6 @@
 "linkedin"
 ],
 "b": 2077
-},
-{
-"n": "Manger NU!",
-"u": "https://manger.nu/",
-"d": "NU! propose une solution tech (à impact) à tous les acteurs de la restauration en entreprise. NU! est la cantine connectée H24 et zéro déchet en entreprise via un frigo intelligent. NU! propose ce canal de vente innovant aux traiteurs qui souhaitent proposer d",
-"y": 2016,
-"e": 53,
-"s": "Food & Agri",
-"st": "growth",
-"eh": "linkedin",
-"a": "9 Rue Parrot",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.846982,
-2.373565
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2078
 },
 {
 "n": "Mangopay",
@@ -46150,32 +43354,6 @@
 "research"
 ],
 "b": 2084
-},
-{
-"n": "Maria Schools",
-"u": "https://mariaschools.com/",
-"d": "🏘 Maria est un campus d'écoles qui forment l'avant-garde des collaborateurs : ceux qui apprennent tout au long de leur vie. 🙋‍♀️ Passionnés par l'éducation, la transmission et les nouvelles technologies, les équipes de Maria répondent aux besoins des individus",
-"e": 66,
-"f": 2326190,
-"rd": "Seed · 2020",
-"s": "Education & Travel",
-"st": "growth",
-"eh": "exa",
-"a": "75 Rue de Richelieu",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.86875,
-2.338361
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 89
 },
 {
 "n": "Marjory",
@@ -47179,30 +44357,6 @@
 "research"
 ],
 "b": 489
-},
-{
-"n": "Meilleurtaux",
-"u": "https://meilleurtaux.com/",
-"d": "Donnez vie à vos projets avec la liberté de bien choisir. Meilleurtaux compare le meilleur du placement financier, crédit et assurance pour optimiser votre budget.",
-"y": 1999,
-"e": 1591,
-"s": "Fintech & Insurance",
-"st": "scale",
-"eh": "linkedin",
-"a": "95 Rue d'Amsterdam",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.882714,
-2.327045
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 97
 },
 {
 "n": "Melba",
@@ -49378,31 +46532,6 @@
 "b": 2170
 },
 {
-"n": "Monks Paris",
-"u": "https://dare.win/",
-"d": "1st social TV agency in Paris promoting TV content and engaging viewers content before, during and after airtime - social TV strategy for content producers and broadcasters - iPhone, iPad, Android and Facebook application development - creative community manag",
-"y": 2011,
-"e": 76,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "17 Rue Martel",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.874303,
-2.353106
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 2171
-},
-{
 "n": "MonPortailRH",
 "u": "https://monportailrh.com/",
 "d": "MonPortailRH est un SIRH nouvelle génération, conçu en réponse aux besoins des PME pour leur faire gagner du temps & de l'argent afin de replacer le capital humain au coeur de leur stratégie RH. MonPortailRH est la 1ère plateforme collaborative de services RH ",
@@ -49770,78 +46899,6 @@
 "website"
 ],
 "b": 52
-},
-{
-"n": "Mozoo",
-"u": "https://mozoo.fr/",
-"d": "Depuis 2010, nous aidons les entreprises innovantes à s’adapter de façon créative et efficace à l’évolution toujours plus complexe des technologies, des comportements et des usages. Nos 60 collaborateurs sont engagés au quotidien dans cette même mission : crée",
-"e": 53,
-"f": 1800000,
-"rd": "Series a · 2011",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "37 Boulevard des Capucines",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.86998,
-2.329393
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 279
-},
-{
-"n": "Mozza",
-"u": "https://mozza.io/",
-"d": "Mozza is a Product studio. We gather the brightest Product folks to empower startups and late stage ventures with great solutions fit to scale. We’ve bundled with companies like Airbnb, Sorare, Aircall, Bird, Alma or Ornikar.",
-"y": 2018,
-"e": 146,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "exa",
-"a": "27 Avenue Duquesne",
-"pc": "75007",
-"area": "7e · Invalides",
-"ll": [
-48.852435,
-2.309349
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 2184
-},
-{
-"n": "MS Deeptech Mines Paris - PSL",
-"u": "https://deeptech.minesparis.psl.eu/",
-"d": "L’entrepreneuriat deeptech consiste à la création d’entreprises innovantes à partir des dernières avancées de la recherche scientifique. L’objectif du Mastère Spécialisé Entrepreneuriat Deeptech & Innovation de Mines Paris - PSL est de former la prochaine géné",
-"e": 2002,
-"s": "Deeptech & Hardware",
-"st": "scale",
-"eh": "linkedin",
-"a": "60 Boulevard Saint-Michel",
-"pc": "75006",
-"area": "6e · Saint-Germain",
-"ll": [
-48.845632,
-2.339672
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 69
 },
 {
 "n": "MSInsight",
@@ -51184,63 +48241,6 @@
 "b": 2225
 },
 {
-"n": "Nasta Pet Food",
-"u": "https://nasta.com/",
-"d": "At Nasta Pet Food, we craft high-quality products that unites Nature, Science and Taste to support healthier, happier lives for pets. We are a global group of pet food entrepreneurs, bringing together a family of ultra-premium brands. Our three flagship brands",
-"y": 2016,
-"e": 77,
-"f": 142100500,
-"rd": "Debt financing · 2026",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "11 Avenue de Friedland",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.874477,
-2.303527
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 381
-},
-{
-"n": "NaTakallam",
-"u": "https://natakallam.com/",
-"d": "Learn a Language, Change a Life. Award-winning online language learning, translation, interpretation & cultural exchange services, powered by refugees.",
-"y": 2016,
-"e": 106,
-"s": "Education & Travel",
-"st": "growth",
-"eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "past",
-"p": "INSEAD Program",
-"y": "2020"
-},
-"cp": "Station F",
-"b": 0
-},
-{
 "n": "NAVER France",
 "u": "https://navercorp.com/en/main",
 "d": "NAVER is the biggest internet platform in Korea with over 60 billion USD market capital. NAVER started from a search engine and established LINE, which is the dominant mobile messenger in Japan. We’re exploring the global market with digital comics (WEBTOON), ",
@@ -51827,32 +48827,6 @@
 "b": 0
 },
 {
-"n": "NetZero",
-"u": "https://netzero.green/",
-"d": "NetZero's mission is to bring biochar at scale in the tropics – for climate and people, now. Biochar is essentially solid atmospheric carbon extracted from residual plant matter and buried in the soil. It is a scientifically proven way to perform high-permanen",
-"y": 2021,
-"e": 186,
-"rd": "Venture · 2024",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "6 Rue Thiers",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
-"ll": [
-48.86676,
-2.276996
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2236
-},
-{
 "n": "Neumann AI",
 "u": "https://neumann.ai/",
 "d": "Neumann is an ‘augmented’ customer data platform (A-CDP) built for marketing teams to improve business performance. By connecting the right data to Neumann’s powerful AI engine it creates a single view of the customer and by combining unique behavioral insight",
@@ -52000,30 +48974,6 @@
 "register"
 ],
 "b": 144
-},
-{
-"n": "NEVERHACK",
-"u": "https://neverhack.com/",
-"d": "NEVERHACK is a French group specialized in cybersecurity for over 40 years. Operating in 10 countries, the group now has over 1200 collaborators worldwide. Our ambition is to expand internationally to build a secure digital world for all. 🌎 What do we believe ",
-"e": 682,
-"rd": "Private equity · 2023",
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "7 Rue Galvani",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.883827,
-2.292148
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2243
 },
 {
 "n": "NEW BRANDS",
@@ -52285,34 +49235,6 @@
 "b": 2250
 },
 {
-"n": "Nextories",
-"u": "https://nextories.com/",
-"d": "Chez Nextories, notre ambition est claire : réinventer le déménagement. D’un événement appréhendé, voire redouté, le déménagement doit devenir le symbole d’un nouveau départ. UN DÉMÉNAGEMENT, DE BELLES HISTOIRES Lancée en 2011 par Julien Bardet et Ludovic Aube",
-"y": 2011,
-"e": 51,
-"f": 2154943,
-"rd": "Series a · 2017",
-"s": "Mobility & Logistics",
-"st": "growth",
-"eh": "linkedin",
-"a": "9 Avenue de Clichy",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.884474,
-2.326809
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin",
-"website"
-],
-"b": 2252
-},
-{
 "n": "nextProtein",
 "u": "https://nextprotein.co/",
 "d": "The world’s population is estimated to reach more than nine billion by 2050. Global food production will have to increase by 70 per cent to feed everyone. Meanwhile one third of all food produced is wasted. At nextProtein we’re driven by a personal desire to a",
@@ -52337,30 +49259,6 @@
 "linkedin"
 ],
 "b": 484
-},
-{
-"n": "NEXTWYN",
-"u": "https://nextwyn.com/",
-"d": "NEXTWYN - Sécuriser les identités au cœur des systèmes critiques NEXTWYN est la division cybersécurité et digital du groupe WYNSYS, acteur indépendant spécialisé SAP depuis plus de 16 ans, présent dans 72 pays et fort de 450+ collaborateurs. Nous intervenons l",
-"y": 2021,
-"e": 317,
-"s": "Deeptech & Hardware",
-"st": "scale",
-"eh": "linkedin",
-"a": "1 Place de la Pyramide",
-"pc": "92800",
-"area": "Puteaux",
-"ll": [
-48.889925,
-2.242079
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 2253
 },
 {
 "n": "Nextérité",
@@ -53032,30 +49930,6 @@
 "b": 308
 },
 {
-"n": "Nous Group",
-"u": "https://21st.luxury/",
-"d": "Founded in Paris in January 2018, NOUS concept stores are a meeting point between fashion, high-end accessories, lifestyle products… carefully curated by ex-Colette artistic direction. NOUS concept stores offer an experience above shopping : they are creative ",
-"y": 2017,
-"e": 101,
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "17 Rue de la Trémoille",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.867684,
-2.30394
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 219
-},
-{
 "n": "Nova",
 "u": "https://wearenova.io/",
 "d": "Nova est la solution tout-en-un conçue pour simplifier la prospection, la gestion commerciale et le développement client des courtiers en assurance et des conseillers en gestion de patrimoine. Nous avons créé Nova pour répondre aux besoins spécifiques de ces m",
@@ -53659,56 +50533,6 @@
 "research"
 ],
 "b": 199
-},
-{
-"n": "OFC, The Original Food Court",
-"u": "https://originalfoodcourt.com/",
-"d": "THE ORIGINAL FOOD COURT OFC c'est la force combinée d'un portefeuille de marques très fortes et d'une équipe d'experts de la food. OFC ce sont des concepts store où vous retrouvez tous vos restaurants préférés à emporter où en livraison n'importe quand mais pa",
-"y": 2020,
-"e": 101,
-"f": 11984660,
-"rd": "Venture · 2021",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "12 Rue Sainte-Anne",
-"pc": "75001",
-"area": "1er · Louvre",
-"ll": [
-48.865891,
-2.33541
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 569
-},
-{
-"n": "Officéo",
-"u": "https://officeopro.com/",
-"d": "Chez Officéo, on réinvente le quotidien des fonctions support en créant le BACK-OFFICE AS-A-SERVICE : une solution flexibilisée, fiabilisée et augmentée pour dépolluer vos équipes des contingences opérationnelles et libérer leur véritable potentiel. Concrèteme",
-"y": 2008,
-"e": 52,
-"s": "AI & Data",
-"st": "growth",
-"eh": "linkedin",
-"a": "29 Rue Taitbout",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.873796,
-2.335233
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2307
 },
 {
 "n": "OFFOLIO",
@@ -54432,32 +51256,6 @@
 "website"
 ],
 "b": 2317
-},
-{
-"n": "On train - Tech, Data & AI training",
-"u": "https://on-train.com/",
-"d": "On train est le cabinet de formation qui réinvente l'apprentissage professionnel depuis 2019 en connectant les entreprises aux meilleurs experts du marché pour développer les compétences de demain. On train accompagne aujourd'hui + de 450 entreprises, startups",
-"y": 2018,
-"e": 82,
-"f": 1214590,
-"rd": "Seed · 2021",
-"s": "Education & Travel",
-"st": "growth",
-"eh": "linkedin",
-"a": "10 Passage du Bourg l'Abbé",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.864569,
-2.350782
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2318
 },
 {
 "n": "Onbox",
@@ -55886,30 +52684,6 @@
 "b": 2345
 },
 {
-"n": "Orrick Paris Tech Studio",
-"u": "https://orrick.com/en/technology",
-"d": "France, the second largest tech market in Europe, is consistently home to over a fifth of the 100 most promising scaleups in Europe. Recently Orrick was involved in 16 of the 21 French companies considered most likely to become future unicorns, acting on behal",
-"e": 3289,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "21 Rue de la Banque",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.868362,
-2.341079
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 571
-},
-{
 "n": "Orthodidacte",
 "u": "https://orthodidacte.com/",
 "d": "Orthodidacte est une solution e-learning de remise à niveau et de perfectionnement des écrits de la langue française. Orthodidacte s’appuie sur trois concepts majeurs : • L’individualisation et la spécialisation des parcours d’apprentissage ; • Une approche lu",
@@ -56628,35 +53402,6 @@
 "b": 2371
 },
 {
-"n": "O’Tacos",
-"u": "https://o-tacos.ma/",
-"d": "Découvre O’Tacos Maroc : French Tacos et O’Bowl à composer, O’Recettes, snacks et desserts. Trouve ton restaurant et prépare ta commande en ligne.",
-"e": 317,
-"s": "Food & Agri",
-"st": "scale",
-"eh": "linkedin",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "past",
-"p": "STATION F",
-"y": "2022"
-},
-"cp": "Station F",
-"b": 0
-},
-{
 "n": "P1 Security",
 "u": "https://p1sec.com/",
 "d": "We provide services and technologies to identify, detect and recover from critical threats and vulnerabilities on signalling protocols like SS7/SIGTRAN, Diameter, GPRS/GTP, IMS, VoLTE, VoWifi, eURAN, NgRAN, S1AP and of course 5G (Core NF, NG-RAN, NFVI) The P1 ",
@@ -57276,102 +54021,6 @@
 "y": "2023"
 },
 "b": 228
-},
-{
-"n": "PARI France",
-"u": "https://pari.com/fr/accueil",
-"d": "Notre mission est d’améliorer la vie des personnes atteintes d’affections des voies respiratoires et celle de ceux qui s’occupent d’elles. Cette volonté se traduit par notre gamme complète de produits et services innovants. Nous voulons proposer à tout moment ",
-"e": 423,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "51 Rue Sainte-Anne",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.867406,
-2.335964
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"b": 604
-},
-{
-"n": "Paris Entertainment Company",
-"u": "https://parisentertainmentcompany.com/",
-"d": "@AccorArena @LeBataclan, @adidas_arena. More than a show, a journey !",
-"y": 2023,
-"e": 90,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "exa",
-"a": "8 Boulevard de Bercy",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.839223,
-2.37777
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 581
-},
-{
-"n": "Paris Notaires Services",
-"u": "https://notantis.com/",
-"d": "En apportant toutes les garanties liées à l’activité notariale, Paris Notaires Services accompagne les offices notariaux, les professionnels et les particuliers dans la réalisation et la sécurisation de leurs projets personnels, immobiliers ou d’entreprise, av",
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "19 Rue du Renard",
-"pc": "75004",
-"area": "4e · Marais & islands",
-"ll": [
-48.858901,
-2.352056
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2393
-},
-{
-"n": "Paris&Co",
-"u": "https://parisandco.com/",
-"d": "Paris&Co is the economic development and innovation agency of Paris. It covers five areas: # Incubation # International attractiveness # Experimentation # Open Innovation # Event organisation or planning As such, Paris&Co prospects and welcomes foreign startup",
-"y": 2015,
-"e": 126,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "48 Rue René Clair",
-"pc": "75018",
-"area": "18e · Montmartre",
-"ll": [
-48.894069,
-2.35423
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 3
 },
 {
 "n": "Paris.Shopping",
@@ -58029,30 +54678,6 @@
 "research"
 ],
 "b": 14
-},
-{
-"n": "PEPR HYDROGENE",
-"u": "https://pepr-hydrogene.fr/",
-"d": "Le Programme et Équipements Prioritaires de Recherche Hydrogène (PEPR-H2) est un programme national mis en place dans le cadre de France 2030 pour soutenir la recherche et développement (R&D) de la filière hydrogène décarboné. Ce programme est copiloté par le ",
-"y": 2021,
-"e": 317,
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "25 Rue Leblanc",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.839778,
-2.273931
-],
-"k": "office",
-"cf": "l",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 616
 },
 {
 "n": "PEPTINOV",
@@ -59010,31 +55635,6 @@
 "b": 21
 },
 {
-"n": "Plan B Intérim & Recrutement",
-"u": "https://planb.paris/",
-"d": "Créée en 2007, PLAN B est née de l’envie d’offrir une prestation RH différente aux entreprises. Convaincus que le Capital Humain constitue l’ADN d’une organisation, notre ambition est d’accompagner nos clients à faire de leurs Ressources Humaines, la clef de l",
-"y": 2007,
-"e": 101,
-"s": "Fintech & Insurance",
-"st": "growth",
-"eh": "linkedin",
-"a": "11 Rue Alexandre Dumas",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.853059,
-2.389838
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2425
-},
-{
 "n": "Planity",
 "u": "https://planity.com/",
 "d": "Planity is France's No. 1 beauty booking platform. Founded in 2016 by Antoine Puymirat, Jérémy Queroy and Paul Vondersher, Planity makes it easy to book a beauty service around you, in just a few clicks, in France, Germany and Belgium. For beauty professionals",
@@ -59877,37 +56477,6 @@
 "b": 182
 },
 {
-"n": "Ponicode",
-"u": "https://circleci.com/blog/ponicode-and-circleci",
-"d": "Ponicode was acquired by CircleCI in March 2022. At Ponicode, we want to help developers focus on what they like to do most; the exciting parts of their job. We are designing a unique AI coding partner that deals with all low-interest but essential tasks to al",
-"y": 2019,
-"e": 355,
-"f": 4566732,
-"rd": "Convertible note · 2020",
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "40 Rue du Louvre",
-"pc": "75001",
-"area": "1er · Louvre",
-"ll": [
-48.862682,
-2.341888
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"sf": {
-"s": "moved",
-"p": "Ponicode (Microsoft program)",
-"y": "2020"
-},
-"b": 56
-},
-{
 "n": "Poolside",
 "u": "https://poolside.ai/",
 "d": "Poolside is a foundation model company bringing intelligence to everywhere work gets done. Our mission is to drive abundance for humanity by creating artificial general intelligence.",
@@ -60008,31 +56577,6 @@
 "linkedin"
 ],
 "b": 71
-},
-{
-"n": "Portalia | Part of Mantu",
-"u": "https://portalia.fr/",
-"d": "Portalia was founded in 2017 to make independent work simpler and give companies a fast, flexible way to access external expertise. Through umbrella employment, Portalia supports independent professionals with the framework they need to work independently whil",
-"y": 2016,
-"e": 317,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "7 Rue de Châteaudun",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.875697,
-2.341435
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2458
 },
 {
 "n": "Posos",
@@ -60267,30 +56811,6 @@
 "register"
 ],
 "b": 2465
-},
-{
-"n": "PR[AI]RIE-PSAI",
-"u": "https://prairie-psai.fr/",
-"d": "PR[AI]RIE-PSAI (Paris School of AI) is one of the 9 French AI-Clusters financed by France 2030 for a total of 75m€ over 5 years (2024-2029). Created in 2019 by CNRS, Inria, Institut Pasteur, PSL University, Université de Paris Cité, and a club of industrial pa",
-"y": 2019,
-"e": 317,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "16 Rue de l'Estrapade",
-"pc": "75005",
-"area": "5e · Latin Quarter",
-"ll": [
-48.844976,
-2.346177
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 2466
 },
 {
 "n": "Praiz",
@@ -61166,30 +57686,6 @@
 "b": 124
 },
 {
-"n": "Pulp",
-"u": "https://pulp.eu/",
-"d": "Pulp fait désormais partie de l’entreprise Partoo ! Rendez-vous sur la page Linkedin de Partoo pour suivre nos actualités Notre mission : aider les restaurateurs et commerces de bouche à se rapprocher de leurs clients grâce au digital. Pour cela, nous leur pro",
-"e": 51,
-"rd": "Pre seed · 2019",
-"s": "Food & Agri",
-"st": "growth",
-"eh": "linkedin",
-"a": "8 Rue D'Enghien",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.871798,
-2.352533
-],
-"k": "seat",
-"cf": "u",
-"v": "register",
-"ev": [
-"register"
-],
-"b": 2488
-},
-{
 "n": "Pulp'in",
 "u": "https://pulpin.io/",
 "d": "Avec Pulp’in, la vidéo personnalisée s’intègre naturellement dans vos interfaces et accède nativement aux données clients sans aucun transfert nécessaire. Sa technologie unique permet de générer des milliards de vidéos différentes instantanément. Il n’y a plus",
@@ -61286,31 +57782,6 @@
 "linkedin"
 ],
 "b": 2492
-},
-{
-"n": "PUR",
-"u": "https://pur.co/",
-"d": "Since 2008, PUR has helped companies turn climate and nature commitments into measurable impact on the ground. As a certified B Corp and global nature-based solutions partner, PUR designs and implements locally embedded projects that regenerate landscapes, str",
-"y": 2008,
-"e": 360,
-"s": "Climate & Energy",
-"st": "scale",
-"eh": "linkedin",
-"a": "33 Avenue de la République",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.865674,
-2.373176
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"research"
-],
-"b": 2493
 },
 {
 "n": "Purchasely",
@@ -62027,31 +58498,6 @@
 "b": 2507
 },
 {
-"n": "QOVETIA",
-"u": "https://qovetia.com/",
-"d": "Qovetia est un réseau français créé par des vétérinaires réunissant des structures canines, équines et mixtes. Ces structures ont la volonté de se développer ensemble autour de 5 valeurs communes : 🧱 La co-création : Qovetia œuvre pour unir des compétences mul",
-"y": 2020,
-"e": 317,
-"rd": "Seed · 2021",
-"s": "Consumer & Commerce",
-"st": "scale",
-"eh": "linkedin",
-"a": "1 Rue Favart",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.870461,
-2.337763
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2508
-},
-{
 "n": "QUABLE",
 "u": "https://quable.com/",
 "d": "Quable is the Agentic PIM/DAM platform for brands that take product content seriously. It centralises, enriches and distributes product information across every sales channel, from e-commerce sites and marketplaces to print catalogues and retail networks. Powe",
@@ -62288,30 +58734,6 @@
 "linkedin"
 ],
 "b": 6
-},
-{
-"n": "QuantX",
-"u": "https://quantx.fr/",
-"d": "QuantX is a group of École Polytechnique's alumni who are among the pioneers of the Quantum Computing industry. Researchers, creators of startups, executives of big industrial groups, investors, we believe that the power of our network can have a substantial i",
-"y": 2020,
-"e": 101,
-"s": "Deeptech & Hardware",
-"st": "growth",
-"eh": "linkedin",
-"a": "5 Rue Descartes",
-"pc": "75005",
-"area": "5e · Latin Quarter",
-"ll": [
-48.847283,
-2.348719
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2514
 },
 {
 "n": "Quarkslab",
@@ -62563,33 +58985,6 @@
 "b": 558
 },
 {
-"n": "Quitoque",
-"u": "https://quitoque.fr/",
-"d": "Cuisiner, c’est la vie ! Depuis plus de 10 ans, Quitoque, numéro 1 français des box à cuisiner, œuvre pour une alimentation plus respectueuse de l’environnement : - en favorisant les circuits courts - en soutenant l’agriculture française - en éliminant le gasp",
-"y": 2015,
-"e": 177,
-"f": 6029241,
-"rd": "Private equity · 2018",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "131 Avenue de Choisy",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.826689,
-2.359301
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2525
-},
-{
 "n": "Quivr (YC W24)",
 "u": "https://thevibecompany.co/en/portfolio/quivr",
 "d": "Quivr is the most advanced AI solution embed in your favorite customer support tool, starting with Zendesk.",
@@ -62614,32 +59009,6 @@
 "website"
 ],
 "b": 547
-},
-{
-"n": "Quiz Room",
-"u": "https://quiz-room.com/",
-"d": "Gather your wits and your team and step on set with all the lights, music and action you see on TV. Anything can happen until the last second! Be prepared for crazy fun, a few surprises and plenty of laughs. With games for all ages and collaborators, choose fr",
-"y": 2019,
-"e": 161,
-"f": 200000,
-"rd": "Grant · 2023",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "9 Rue Guénégaud",
-"pc": "75006",
-"area": "6e · Saint-Germain",
-"ll": [
-48.856096,
-2.33941
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 2526
 },
 {
 "n": "qunb",
@@ -62953,32 +59322,6 @@
 },
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "RAISE",
-"u": "https://raise.co/",
-"d": "Founded in 2013 by Clara Gaymard and Gonzague de Blignieres, RAISE is a pioneer in engaged sustainable finance with its investment and innovation platform. We are a mission-driven company with a unique model of sharing success. RAISE has four investment strate",
-"y": 2013,
-"e": 103,
-"rd": "Corporate round · 2026",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "39 Boulevard de la Tour-Maubourg",
-"pc": "75007",
-"area": "7e · Invalides",
-"ll": [
-48.85904,
-2.310283
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2535
 },
 {
 "n": "Raisin: Natural Wine and Food Lovers App",
@@ -63483,31 +59826,6 @@
 "linkedin"
 ],
 "b": 2547
-},
-{
-"n": "Redpill",
-"u": "https://redpill.paris/",
-"d": "Redpill is a hybrid marketing services group combining senior talent, data, AI and proprietary technology to help brands grow faster and market more effectively. Based in Paris, we believe technology is fundamentally transforming how consumers discover, evalua",
-"y": 2015,
-"e": 71,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "2 Rue de Lisbonne",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.877926,
-2.317902
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 423
 },
 {
 "n": "Reduck",
@@ -64257,33 +60575,6 @@
 "b": 2567
 },
 {
-"n": "Respire",
-"u": "https://respire.co/",
-"d": "La dermocosmétique nouvelle génération. Pour une peau qui respire.",
-"y": 2019,
-"e": 198,
-"rd": "Private equity · 2026",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "12 Rue Lacuée",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.84946,
-2.369675
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"register",
-"linkedin"
-],
-"b": 2568
-},
-{
 "n": "RESTO FLASH",
 "u": "https://restoflash.fr/",
 "d": "Resto Flash, les seuls titres restaurant sur téléphones mobiles, créateurs de la révolution numérique dans le secteur, au service des entreprises et des restaurateurs. En activant l'option sur son espace Resto Flash, chaque salarié peut recevoir ses titres res",
@@ -64976,31 +61267,6 @@
 "b": 10
 },
 {
-"n": "RIVALEN",
-"u": "https://rivalen.fr/",
-"d": "Rivalen est un investisseur-architecte qui ordonne, bâtit et développe les activités des marques acquises dans un même projet participatif. Ce collectif d’entreprises industrielles françaises, né en 2017, développe les savoir-faire de femmes, d’hommes et d’ent",
-"y": 2017,
-"e": 317,
-"s": "Fintech & Insurance",
-"st": "scale",
-"eh": "linkedin",
-"a": "12 Rue Lamartine",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.876612,
-2.343114
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 630
-},
-{
 "n": "River Side",
 "u": "https://river.com/",
 "d": "Invest in bitcoin with confidence on River. Buy bitcoin in minutes. Zero fees on recurring buys. Earn bitcoin interest on cash while you bank.",
@@ -65180,30 +61446,6 @@
 "research"
 ],
 "b": 16
-},
-{
-"n": "ROBOT INDUSTRIES France",
-"u": "https://robotindustries.fr/",
-"d": "Robot Industries - distributeur et intégrateur d’une large gamme de robots et de lignes d’automatisation industrielle, vient soutenir les petites et moyennes entreprises ainsi que les entreprises en Roumanie dans des domaines tels que: automatismes, usines, ce",
-"y": 2011,
-"e": 317,
-"s": "Deeptech & Hardware",
-"st": "scale",
-"eh": "linkedin",
-"a": "37 Rue de Liège",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.8793,
-2.325416
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2586
 },
 {
 "n": "rocapine",
@@ -65692,81 +61934,6 @@
 "linkedin"
 ],
 "b": 2593
-},
-{
-"n": "Réseau Barnabé",
-"u": "https://reseaubarnabe.org/",
-"d": "Réseau de coopération de l'Enseignement catholique français avec les écoles chrétiennes de Terre Sainte. Le Réseau Barnabé est constitué par toutes les initiatives de coopération entre établissements scolaires catholiques français et écoles chrétiennes de Terr",
-"y": 2006,
-"e": 708,
-"s": "Education & Travel",
-"st": "scale",
-"eh": "linkedin",
-"a": "76 Rue des Saints-Pères",
-"pc": "75007",
-"area": "7e · Invalides",
-"ll": [
-48.852358,
-2.328897
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 2598
-},
-{
-"n": "Réseau Mampreneures France",
-"u": "https://reseau-mampreneures.org/",
-"d": "Etre une Mampreneure, c‘est avant tout un état d’esprit et une volonté d'entreprendre. Cela suppose des choix de vie forts, en cohérence avec ses convictions et ses valeurs. Les valeurs de notre réseau : Authenticité / Oser être soi-même, libre de disposer de ",
-"y": 2009,
-"e": 317,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "112 Rue de Charenton",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.847024,
-2.378032
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 2599
-},
-{
-"n": "RézoSocial",
-"u": "https://rezosocial.com/",
-"d": "Reconnue entreprise sociale et solidaire, RézoSocial propose des parcours de retour à l’emploi professionnalisants dans l’informatique sur des postes de technicien ou développeur pour une période de deux ans. Bénéficiant en parallèle de leur travail d’un suivi",
-"y": 2013,
-"e": 51,
-"rd": "Non equity assistance · 2019",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "exa",
-"a": "10 Rue des Prairies",
-"pc": "75020",
-"area": "20e · Belleville",
-"ll": [
-48.86174,
-2.404255
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 2600
 },
 {
 "n": "SABADO",
@@ -66372,31 +62539,6 @@
 "b": 2626
 },
 {
-"n": "SBI - Data | AI | EPM",
-"u": "https://sbi-group.com/",
-"d": "SBI is a Data, AI & EPM leader. Also known as: SBI, SBI Group, SBI Data AI, formerly Solution BI. SBI helps organizations make sense of their data and transform it into a catalyst for responsible growth. We bring technological excellence to business challenges",
-"y": 2009,
-"e": 325,
-"s": "AI & Data",
-"st": "scale",
-"eh": "linkedin",
-"a": "54 Rue de Paradis",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.87569,
-2.349211
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 502
-},
-{
 "n": "Scal-e",
 "u": "https://scal-e.com/",
 "d": "Scal-e is an end-to-end agile platform that collects valuable data on how customers interact with a brand. Doing so, we cleanse and transform customer data from all sources, and manage privacy management to create consistent B2C or B2B customer profiles. This ",
@@ -66574,37 +62716,6 @@
 "linkedin"
 ],
 "b": 2633
-},
-{
-"n": "Schoolab",
-"u": "https://theschoolab.com/",
-"d": "🇬🇧 Schoolab empowers organizations' talents to co-create business innovations with a positive impact. By spreading the entrepreneurial and collaborative spirit through action, Schoolab helps innovation projects grow with entrepreneurs and with companies. We us",
-"y": 2005,
-"e": 85,
-"rd": "Venture · 2019",
-"s": "Education & Travel",
-"st": "growth",
-"eh": "linkedin",
-"a": "15 Rue de Milan",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.878742,
-2.327852
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"sf": {
-"s": "moved",
-"p": "Schoolab program",
-"y": "2019"
-},
-"b": 83
 },
 {
 "n": "Scienta Lab",
@@ -67665,32 +63776,6 @@
 "b": 387
 },
 {
-"n": "SEVETYS",
-"u": "https://sevetys.fr/",
-"d": "Sevetys est un groupe vétérinaire français de plus de 250 cliniques réparties sur l’ensemble du territoire et compte aujourd’hui plus de 2 000 collaborateurs. Grâce au dynamisme et à l’expertise de nos équipes, nous avons pour vocation d’accompagner la moderni",
-"y": 2016,
-"e": 468,
-"f": 122875743,
-"rd": "Debt financing · 2021",
-"s": "Consumer & Commerce",
-"st": "scale",
-"eh": "linkedin",
-"a": "48 Boulevard Jean Jaurès",
-"pc": "92110",
-"area": "Clichy",
-"ll": [
-48.899575,
-2.306738
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 2669
-},
-{
 "n": "Seyna",
 "u": "https://seyna.eu/",
 "d": "Seyna is an insurer that brings incomparable efficiency to brokers. Thanks to its technology and the responsiveness of its teams, Seyna supports brokers at every stage of their business development: creation of the tailor-made insurance product, sales and mana",
@@ -67974,30 +64059,6 @@
 "register"
 ],
 "b": 61
-},
-{
-"n": "Shifly Services - Le Portage qui fait grandir",
-"u": "https://shifly-services.com/",
-"d": "Shifly Services est la solution de portage salarial pensée pour les freelances et indépendants qui souhaitent exercer leur activité en toute liberté, tout en bénéficiant de la sécurité et des avantages du statut salarié. Notre mission est simple : vous permett",
-"y": 2016,
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "54 Rue de Londres",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.878478,
-2.325261
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 394
 },
 {
 "n": "Shift Technology",
@@ -68286,31 +64347,6 @@
 "b": 2686
 },
 {
-"n": "Sia/Stratumn",
-"u": "https://stratumn.com/",
-"d": "Stratumn est une FinTech innovante utilisant cryptographie et technologie blockchain pour rendre les processus critiques des Grandes Entreprises plus fiables, simples et efficaces. Nous sommes une équipe organisée en méthodologie agile avec comme priorité la l",
-"y": 2015,
-"e": 2002,
-"rd": "Series a · 2017",
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "21 Rue de Berri",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.872846,
-2.304773
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2688
-},
-{
 "n": "SIBUS-In",
 "u": "https://sibusin.com/",
 "d": "SibUS-In is the first and only ultrasound finger probe specifically designed for ultrasound-guided injections of toxins, fillers, and threads. Our innovative technology revolutionizes aesthetic and medical injection procedures by providing unparalleled safety ",
@@ -68389,31 +64425,6 @@
 },
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "Sienna Investment Managers",
-"u": "https://sienna-im.com/",
-"d": "Sienna est spécialisée dans la conception de solutions d’investissement sur les marchés cotés et privés. La plateforme multi-expertises propose une offre diversifiée couvrant un large spectre de stratégies : actions, obligations, multi-actifs, hybrides et dett",
-"y": 2013,
-"e": 262,
-"s": "Fintech & Insurance",
-"st": "scale",
-"eh": "linkedin",
-"a": "21 Boulevard Haussmann",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.872689,
-2.334033
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 610
 },
 {
 "n": "Sifflet",
@@ -68695,31 +64706,6 @@
 "b": 578
 },
 {
-"n": "SILVER BEAUTE",
-"u": "https://silverbeaute.com/",
-"d": "Silver Beauté est le réseau expert de la coiffure et de la socio-esthétique dédié aux personnes âgées en établissements médico-sociaux. Depuis plus de 15 ans, nous accompagnons les EHPAD, cliniques SMR (Soins Médicaux et de Réadaptation), résidences services s",
-"y": 2011,
-"e": 317,
-"s": "Health & Bio",
-"st": "scale",
-"eh": "linkedin",
-"a": "33 Cité Nollez",
-"pc": "75018",
-"area": "18e · Montmartre",
-"ll": [
-48.894118,
-2.337906
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2697
-},
-{
 "n": "Silver In Touch",
 "u": "https://silverintouch.fr/",
 "d": "Qu'est-ce que Silver In Touch ? Silver In Touch se veut la plateforme de référence qui met en relation nos jeunes de plus de 60 ans (nos Silvers) et nos étudiants ou jeunes diplômés (nos Juniors). Les Silvers ou leurs proches postent un service dont le Silver ",
@@ -68840,31 +64826,6 @@
 "linkedin"
 ],
 "b": 2699
-},
-{
-"n": "Simplon",
-"u": "https://simplon.co/",
-"d": "Simplon vous accompagne simplement pour développer vos compétences numériques et rend les métiers de la tech accessibles à toutes et à tous. Du niveau Découverte au niveau Bac +5, rejoignez nos formations en Développement, Réseaux & Cybersécurité, Data / IA.",
-"y": 2019,
-"e": 817,
-"s": "AI & Data",
-"st": "scale",
-"eh": "linkedin",
-"a": "55 Rue de Vincennes",
-"pc": "93100",
-"area": "Montreuil",
-"ll": [
-48.854474,
-2.435925
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2701
 },
 {
 "n": "SINAXIA- Le gestionnaire du sinistre immobilier 24h/24-7j/7 au service des victimes et responsables",
@@ -68995,33 +64956,6 @@
 "research"
 ],
 "b": 2703
-},
-{
-"n": "Sipartech",
-"u": "https://sipartech.com/",
-"d": "Depuis 2008, Sipartech déploie ses propres réseaux de fibres optiques et de transmissions optiques en France et en Europe interconnectant les principaux datacenters ainsi que les grands centres d’affaire pour garantir l’excellence de ses services. En Europe, 3",
-"y": 2008,
-"e": 160,
-"rd": "Private equity · 2016",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "7 Rue Auber",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.872035,
-2.329882
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 480
 },
 {
 "n": "Sismo",
@@ -69299,33 +65233,6 @@
 "linkedin"
 ],
 "b": 3
-},
-{
-"n": "Skores",
-"u": "https://skores.com/",
-"d": "THE LEADING MEDIA FOR ULTIMATE SPORTS FANS. SKORES combines a global set of digital sports media brands designed to maximize fan engagement through a complete offer of sports, media and live data. We deliver sports information in real time, to Ultimate Sports ",
-"y": 2015,
-"e": 67,
-"rd": "Venture · 2024",
-"s": "Media, Gaming & Sport",
-"st": "growth",
-"eh": "linkedin",
-"a": "2 Boulevard Montmartre",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.871694,
-2.342882
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 2714
 },
 {
 "n": "SKU One (formerly Retail NEXT.AI)",
@@ -69687,61 +65594,6 @@
 "website"
 ],
 "b": 2722
-},
-{
-"n": "SmallBusinessAct.fr",
-"u": "https://smallbusinessact.com/",
-"d": "1st on line and real time Accounting Service dedicated to Small businesses. - Full saas mode. - Plateform accessible to your CPA, banker ...Your decision. - Monthly subscription with full included pack. Gives Small businesses services usually reserved to Big b",
-"y": 2009,
-"e": 111,
-"f": 5300000,
-"rd": "Corporate round · 2022",
-"s": "Fintech & Insurance",
-"st": "growth",
-"eh": "linkedin",
-"a": "15 Rue du Faubourg Montmartre",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.872527,
-2.343051
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 2723
-},
-{
-"n": "Smart Energies",
-"u": "https://smart-energies.eu/",
-"d": "Smart Energies (www.smart-energies.eu) is an Independent Power Producer (IPP) specialized in the development, financing, construction and operation of renewable projects across Europe. Smart Energies was created in 2012, as a new structure coming from former S",
-"y": 2012,
-"e": 105,
-"f": 94757926,
-"rd": "Private equity · 2024",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "20 Rue Quentin-Bauchart",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.870457,
-2.301847
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 634
 },
 {
 "n": "Smart Farming System",
@@ -70470,29 +66322,6 @@
 "b": 385
 },
 {
-"n": "Solvay S.A.",
-"u": "https://solvay.com/fr/france",
-"d": "Solvay is a major player in the chemistry industry, with a long history in France. They are essential chemistry and aim to make progress possible for generations.",
-"e": 16509,
-"s": "Deeptech & Hardware",
-"st": "scale",
-"eh": "linkedin",
-"a": "52 Rue de la Haie Coq",
-"pc": "93300",
-"area": "Aubervilliers",
-"ll": [
-48.907687,
-2.372708
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2745
-},
-{
 "n": "Sonaar",
 "u": "https://sonaar.com/",
 "d": "Create customizable website audio players, organize tracks and playlists, and embed your music on WordPress, Webflow, Shopify, or any website. Start free.",
@@ -70671,30 +66500,6 @@
 ],
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "Sopra Steria Ventures",
-"u": "https://soprasteria.com/about-us/sopra-steria-ventures",
-"d": "Sopra Steria Ventures is a strategic Corporate Venture Capital supporting Sopra Steria group’s positioning as a Tech leader. SSV invests in Emerging Technologies startups (SaaS, AI, Data, VR…) and funds benefitting Financial Services, Human Resources, Real Est",
-"y": 2018,
-"e": 48765,
-"s": "Fintech & Insurance",
-"st": "scale",
-"eh": "linkedin",
-"a": "3 Rue Lauriston",
-"pc": "75116",
-"area": "16e · Passy & Auteuil",
-"ll": [
-48.872281,
-2.293012
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 494
 },
 {
 "n": "Sorare",
@@ -71092,30 +66897,6 @@
 "website"
 ],
 "b": 2764
-},
-{
-"n": "Spark | Paid Acquisition & SEO",
-"u": "https://spark.do/",
-"d": "Spark, accélérez votre acquisition. Nous concevons des stratégies d'acquisition digitales avancées grâce à une profonde connaissance des plateformes publicitaires (Search, Social) et un usage pragmatique de vos données (conversion, CRM). De l’élaboration de la",
-"y": 2019,
-"e": 65,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "174 Quai de Jemmapes",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.878932,
-2.367315
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 54
 },
 {
 "n": "Sparteo",
@@ -72057,36 +67838,6 @@
 "b": 630
 },
 {
-"n": "Sqwad",
-"u": "https://sqwad.fr/",
-"d": "Welcome to Sqwad 🔥, your outsourcing partner for customer relations, dedicated to exceptionally improving your customer service and business performance. 🌟 Based in France 🇫🇷, our startup focuses on customer engagement and the quality of relationships. Thanks ",
-"y": 2020,
-"e": 168,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "exa",
-"a": "5 Parvis Alan Turing",
-"pc": "75013",
-"area": "13e · Paris Rive Gauche",
-"ll": [
-48.8341,
-2.3711
-],
-"k": "seat",
-"cf": "u",
-"v": "cohort",
-"ev": [
-"cohort"
-],
-"sf": {
-"s": "past",
-"p": "Founders Program",
-"y": "2022"
-},
-"cp": "Station F",
-"b": 0
-},
-{
 "n": "SRM Solutions Group",
 "u": "https://srmsolutions.fr/",
 "d": "www.SRMsolutions.fr. SRM Solutions est le spécialiste des Logiciels de Gestion des Fournisseurs depuis plus de 14 ans, Notre logiciel EasySRM de Supplier Relationship Management vous permet de simplifier la gestion des fournisseurs et de vos achats. EasySRM pr",
@@ -72234,33 +67985,6 @@
 "linkedin"
 ],
 "b": 2793
-},
-{
-"n": "Stairling",
-"u": "https://stairling.com/",
-"d": "🚀 Stairling réinvente l’emploi dans le secteur VTC Stairling est une coopérative de travail innovante qui permet aux chauffeurs VTC d’exercer leur activité en toute liberté, tout en bénéficiant d’un contrat de travail CESA et d’un accompagnement métier solide.",
-"y": 2024,
-"e": 72,
-"f": 1739800,
-"rd": "Pre seed · 2025",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "11 Rue Bachaumont",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.865981,
-2.345618
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"register"
-],
-"b": 620
 },
 {
 "n": "STAIRWAGE",
@@ -72919,31 +68643,6 @@
 "b": 25
 },
 {
-"n": "Storm Reply France",
-"u": "https://reply.com/storm-reply/fr",
-"d": "Storm Reply est un partenaire consultant AWS Premier mondial et un spécialiste des services professionnels de cloud computing au sein du réseau Reply. Storm Reply possède une expertise technique complète sur les principaux catalyseurs de la transformation numé",
-"y": 2021,
-"e": 17210,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "33 Rue de Châteaudun",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.875995,
-2.336693
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 639
-},
-{
 "n": "Storyfox",
 "u": "https://storyfox.io/",
 "d": "Storyfox votre assistant malin de création vidéo de qualité professionnelle ! Storyfox c'est la startup française de création de contenus vidéo courts et authentiques. Grâce à sa solution de tournage guidé et de montage automatisé, Storyfox apporte une solutio",
@@ -73315,30 +69014,6 @@
 "b": 2826
 },
 {
-"n": "STUDIO TF1",
-"u": "https://studiotf1.com/",
-"d": "With over 50 production companies and labels, STUDIO TF1 is one of Europe's leading audiovisual and film production and distribution companies. Located in Europe, America, and Canada, STUDIO TF1 is a key player in all content genres (from fiction and daily ser",
-"e": 392,
-"s": "AI & Data",
-"st": "scale",
-"eh": "linkedin",
-"a": "123 Boulevard de Grenelle",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.848835,
-2.299392
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 241
-},
-{
 "n": "Studio88.ai",
 "u": "https://studio88.ai/",
 "d": "Fashion brands are sitting on thousands of SKUs and spending millions on content that takes too long, costs too much, and still can't keep pace with demand. That is not a creative problem. That is a production problem. Studio88 builds bespoke AI creative engin",
@@ -73511,30 +69186,6 @@
 "b": 2841
 },
 {
-"n": "Sucden Ventures",
-"u": "https://sucden.com/en/sucden-ventures",
-"d": "suden is an independent market leader in soft commodities, connecting supply and demand effectively, profitably and sustainably.",
-"e": 450,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "22 Rue de la Ville l'Évêque",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.871826,
-2.319625
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 2842
-},
-{
 "n": "Suma AI",
 "u": "https://suma-ai.com/",
 "d": "Suma is a B2B software that scans your market to identify high-interest topics and then writes impactful posts that resonate with your target audience.",
@@ -73614,32 +69265,6 @@
 "b": 36
 },
 {
-"n": "Sun'R",
-"u": "https://sunr.com/",
-"d": "Première entreprise à mission des énergies, nous œuvrons pour une énergie verte intelligente et utile partout. Acteur historique du solaire depuis 2007, Sun'R est devenu la plateforme d'accélération des énergies renouvelables d'Eiffage Concessions fin 2022. Au",
-"y": 2007,
-"e": 148,
-"f": 36667600,
-"rd": "Venture · 2021",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "7 Rue de Clichy",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.876971,
-2.330652
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 632
-},
-{
 "n": "Sunday",
 "u": "https://sundayapp.com/",
 "y": 2025,
@@ -73685,30 +69310,6 @@
 "research"
 ],
 "b": 2844
-},
-{
-"n": "Sunrock France",
-"u": "https://sunrockenergy.fr/",
-"d": "Sunrock accompagne clients et partenaires vers un avenir énergétique propre. Depuis 2012, nous sommes devenus un leader européen des systèmes énergétiques intégrés pour la logistique et l'industrie. Notre intégration au groupe COFRA en 2020 a renforcé notre ca",
-"e": 101,
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "10 Rue de la Victoire",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.87509,
-2.340135
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 637
 },
 {
 "n": "Sunshine-me",
@@ -74018,31 +69619,6 @@
 "register"
 ],
 "b": 2854
-},
-{
-"n": "SWAP Food",
-"u": "https://swapfood.com/",
-"d": "We make delicious, clean-label meat replacements from plants. Our first product, SWAP Filet (SWAP Chicken in the United States) is a thick, whole filet that closely replicates the taste, texture and appearance of chicken using a short list of familiar ingredie",
-"y": 2020,
-"e": 73,
-"rd": "Bankruptcy · 2026",
-"s": "Food & Agri",
-"st": "growth",
-"eh": "exa",
-"a": "58 Rue de l'Arcade",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.874439,
-2.324725
-],
-"k": "office",
-"cf": "l",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 2855
 },
 {
 "n": "Swapcard",
@@ -74551,31 +70127,6 @@
 "linkedin"
 ],
 "b": 54
-},
-{
-"n": "T-ART Digital",
-"u": "https://t-art.fr/",
-"d": "Planned by the inspired, filmed with purpose and driven by our global perspective. T-Art is a creative video production, livestreaming and marketing company formed by international creators from around the world. Our multicultural team have years of profession",
-"y": 2019,
-"e": 101,
-"s": "Media, Gaming & Sport",
-"st": "growth",
-"eh": "linkedin",
-"a": "131 Boulevard Pereire",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.884202,
-2.296285
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"b": 535
 },
 {
 "n": "t-heart",
@@ -75318,35 +70869,6 @@
 "b": 78
 },
 {
-"n": "Team Vitality",
-"u": "https://vitality.gg/",
-"d": "Equipe esports de référence. Plongez dans notre univers, suivez nos équipes et explorez notre boutique officielle.",
-"y": 2013,
-"e": 199,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "102 Boulevard de Sébastopol",
-"pc": "75003",
-"area": "3e · Haut-Marais",
-"ll": [
-48.867881,
-2.353684
-],
-"k": "office",
-"cf": "l",
-"v": "website",
-"ev": [
-"website"
-],
-"sf": {
-"s": "moved",
-"p": "Future 40",
-"y": "2019"
-},
-"b": 147
-},
-{
 "n": "TEAM'PARENTS",
 "u": "https://teamparents-app.com/",
 "d": "Nos valeurs : innovation, expertise, accessibilité, éthique Notre mission : soutenir et informer tous les parents dans leurs périodes de doutes ou de crises",
@@ -75880,31 +71402,6 @@
 "b": 440
 },
 {
-"n": "The Core Group",
-"u": "https://the-core.group/",
-"d": "La métamorphose permanente du monde renouvelle nos repères, révolutionne nos valeurs et impose à nos métiers une approche novatrice. En tant qu’individus, en tant qu’entrepreneurs, nous sommes convaincus du potentiel infini de chacun qui, une fois libéré, peut",
-"y": 2022,
-"e": 101,
-"s": "AI & Data",
-"st": "growth",
-"eh": "linkedin",
-"a": "66 Rue de Miromesnil",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.876216,
-2.31582
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 2904
-},
-{
 "n": "The Democratic Company",
 "u": "https://codemos.world/",
 "d": "The Democratic Company is a civic tech start-up of general interest created in August 2017 to help municipalities and regions to be more inclusive and align with the sustainable development goals of the United Nations. In 2018, the worldwide platform Codemos i",
@@ -76101,32 +71598,6 @@
 "b": 2914
 },
 {
-"n": "The Source",
-"u": "https://thesource.social/",
-"d": "Social media moves too fast for fragmented strategies. At The Source, we master the entire social ecosystem under one roof: Organic, Paid, and Influence. Building on our historic DNA in high-performance Paid Social, we combine sharp strategy, native creativity",
-"y": 2017,
-"e": 128,
-"rd": "Seed · 2018",
-"s": "Media, Gaming & Sport",
-"st": "growth",
-"eh": "exa",
-"a": "162 Boulevard de Magenta",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.882986,
-2.350302
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 104
-},
-{
 "n": "The Twinkle Factory",
 "u": "https://the-twinkle-factory.com/",
 "d": "The Twinkle Factory supplies fluorogens for FAST & splitFAST and fluorogenic molecular glues for CATCHFIRE: bright, fully reversible, oxygen-independent reagents for live-cell and in vivo protein imaging. Our catalogue spans a full colour palette of cell-perme",
@@ -76200,53 +71671,6 @@
 "website"
 ],
 "b": 141
-},
-{
-"n": "Theodo Cloud",
-"u": "https://cloud.theodo.com/",
-"d": "Nos experts vous accompagnent sur tous les enjeux liés à votre infrastructure, à chaque étape de votre projet. Que ce soit pour améliorer l'expérience de vos développeurs, assurer une haute disponibilité de vos applications ou encore sécuriser votre infrastruc",
-"e": 76,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "48 Boulevard Bessières",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.897681,
-2.322717
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"b": 257
-},
-{
-"n": "Theodo GovTech",
-"u": "https://theodo.com/secteur/secteur-public",
-"d": "Theodo GovTech est l’entité du groupe Theodo spécialisée dans la GovTech (technologie au service du citoyen et des services publics). C’est aussi la rencontre entre 2 fondateurs : - Maxime, expert du secteur public, qui accompagne depuis plus de 15 ans les adm",
-"y": 2023,
-"e": 844,
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "48 Boulevard des Batignolles",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.882719,
-2.322452
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 570
 },
 {
 "n": "Therapixel",
@@ -77828,31 +73252,6 @@
 "b": 34
 },
 {
-"n": "TRIBE Paris Batignolles",
-"u": "https://tribehotels.com/en/france/paris-batignolles",
-"d": "Located amid the lively Batignolles district, Tribe Paris Batignolles welcomes you to its sophisticated design universe. At Tribe, everything is designed for comfort and friendliness, to drink the best coffee, eat, sip a cocktail in our indoor garden or stay i",
-"y": 2020,
-"e": 232,
-"s": "Deeptech & Hardware",
-"st": "growth",
-"eh": "linkedin",
-"a": "176 Rue Cardinet",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.890504,
-2.317581
-],
-"k": "office",
-"cf": "v",
-"v": "linkedin",
-"ev": [
-"linkedin",
-"website"
-],
-"b": 2952
-},
-{
 "n": "TRINOV",
 "u": "https://trinov.com/",
 "d": "NOUS AIDONS LES PRODUCTEURS A OPTIMISER ET SUIVRE LEUR BUDGET DÉCHETS Pour y répondre nous proposons une gamme de logiciels, d’objets connectés et de services métiers. Notre ambition : . Avoir une vision et une compréhension fine des enjeux métiers (actuels et",
@@ -78208,30 +73607,6 @@
 "b": 2962
 },
 {
-"n": "Turenne Groupe",
-"u": "https://turennecapital.com/",
-"d": "Leader indépendant du capital-investissement small cap en France, Turenne Groupe accompagne depuis plus de 25 ans les entrepreneurs dans leurs projets d’innovation, de développement et de transmission de leur société sur tout le territoire. Avec plus de 2 mill",
-"e": 110,
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "9 Rue de Téhéran",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.876105,
-2.312637
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 294
-},
-{
 "n": "Twenty",
 "u": "https://20ty.gg/",
 "d": "Contact@20ty.gg",
@@ -78420,29 +73795,6 @@
 "b": 29
 },
 {
-"n": "Typology",
-"u": "https://typology.com/",
-"d": "We study the right ingredients for each skin typology. Our skincare is naturally active, sustainable, vegan, and made in France.",
-"e": 153,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "18 Avenue Parmentier",
-"pc": "75011",
-"area": "11e · Oberkampf & Bastille",
-"ll": [
-48.859919,
-2.379165
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 2970
-},
-{
 "n": "Ubble",
 "u": "https://ubble.ai/",
 "d": "Grow your users and fight fraud with Identity Verification from Checkout.com. Highly accurate, compliant, automated and built for conversion.",
@@ -78485,33 +73837,6 @@
 "register"
 ],
 "b": 2973
-},
-{
-"n": "Ubees",
-"u": "https://ubees.com/",
-"d": "UBEES drives innovation in making beekeeping a nature-based solutions for sustainability. We work with growers and global brands in achieving their net zero and regenerative agriculture objectives. Beekeeping and technology to contribute to sustaining the glob",
-"y": 2017,
-"e": 56,
-"f": 24101662,
-"rd": "Series a · 2026",
-"s": "Food & Agri",
-"st": "growth",
-"eh": "linkedin",
-"a": "89 Rue de l'Église",
-"pc": "75015",
-"area": "15e · Vaugirard & Beaugrenelle",
-"ll": [
-48.842934,
-2.291459
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 445
 },
 {
 "n": "UbiCar Technologies",
@@ -79576,33 +74901,6 @@
 "b": 2998
 },
 {
-"n": "Urban Campus",
-"u": "https://urbancampus.com/",
-"d": "Humans have been living in cities for hundreds of years. Yet one question remains: as our lifestyles have profoundly evolved, why has the way we live together stayed exactly the same? At Urban Campus Group, our mission is to redefine the essence of urban livin",
-"e": 57,
-"f": 8340850,
-"rd": "Private equity · 2025",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "25 Rue du Mail",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.867068,
-2.343138
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 3000
-},
-{
 "n": "URBAN CUISINE (LeChiller® Group)",
 "u": "https://urbancuisine.io/",
 "d": "URBAN CUISINE développe des potagers d'intérieur connecté permettant à chacun de cultiver depuis son lieu de vie ou de travail plusieurs kilos de fruits, légumes et herbes aromatiques par mois. Le plus court des circuits courts : 0 mètre de la graine à l'assie",
@@ -80371,33 +75669,6 @@
 "b": 49
 },
 {
-"n": "Verso Energy",
-"u": "https://verso.energy/",
-"d": "Verso Energy est spécialisée dans le développement, l’ingénierie, le financement, la construction et l’exploitation d’installations de production d’énergies renouvelables pilotables, d’installations de stockage d’électricité pour la fourniture de services aux ",
-"y": 2021,
-"e": 70,
-"rd": "Private equity · 2023",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "49B Avenue Franklin D. Roosevelt",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.870334,
-2.309884
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website",
-"linkedin"
-],
-"b": 3036
-},
-{
 "n": "Verteego - Now part of Bamboo Rose",
 "u": "https://bamboorose.com/decision-intelligence",
 "d": "Verteego is an artificial intelligence platform that makes your promotions more efficient and virtuous. We are hiring: https://www.welcometothejungle.co/companies/verteego",
@@ -80576,37 +75847,6 @@
 "b": 142
 },
 {
-"n": "Via Sana",
-"u": "https://centreviasana.com/",
-"d": "We empower healthcare professionals with a new working digital ecosystem and beautiful & fully-furnished spaces.",
-"y": 2020,
-"e": 70,
-"f": 24708879,
-"rd": "Series a · 2025",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "5 Rue Saulnier",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.874504,
-2.344263
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research"
-],
-"sf": {
-"s": "moved",
-"p": "STATION F welcomes Via Sana medical center to campus",
-"y": "2025"
-},
-"b": 3042
-},
-{
 "n": "ViaDialog",
 "u": "https://viadialog.com/",
 "d": "ViaDialog conçoit des solutions innovantes pour la gestion et l'automatisation des interactions clients. Grâce à notre expertise en gestion des flux omnicanaux et à notre maîtrise des technologies d'IA dédiées à la relation client, nos produits sont devenus de",
@@ -80758,33 +75998,6 @@
 "research"
 ],
 "b": 532
-},
-{
-"n": "Views",
-"u": "https://views.fr/",
-"d": "Views is a new-generation cultural media brand that tells the story of youth and its influences through video, photo, and editorial formats. Active online, across social platforms, and in print with its quarterly magazine, Views publishes original daily conten",
-"y": 2016,
-"e": 90,
-"f": 487196,
-"rd": "Seed · 2022",
-"s": "Media, Gaming & Sport",
-"st": "growth",
-"eh": "linkedin",
-"a": "16 Rue des Blancs Manteaux",
-"pc": "75004",
-"area": "4e · Marais & islands",
-"ll": [
-48.859014,
-2.357105
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 507
 },
 {
 "n": "Viewy",
@@ -81345,31 +76558,6 @@
 "b": 204
 },
 {
-"n": "VO2 GROUP",
-"u": "https://vo2-group.com/",
-"d": "Société de Conseil tech & digital, AI first, VO2 Group est le leader indépendant de l’expérience client et employé. Présent dans 9 pays, VO2 Group a reçu plusieurs reconnaissances et awards 🏆 dont: - Salesforce Impact Partner 2024 - Champion de la Croissance L",
-"y": 2011,
-"e": 379,
-"s": "AI & Data",
-"st": "scale",
-"eh": "linkedin",
-"a": "100 Rue Réaumur",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.867261,
-2.348268
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website",
-"linkedin"
-],
-"b": 90
-},
-{
 "n": "Vocads",
 "u": "https://vocads.com/",
 "d": "VOCADS builds AI voice agents that handle calls, qualify leads, and serve customers 24/7 — no IT team, live in under 1 hour.",
@@ -81600,31 +76788,6 @@
 "research"
 ],
 "b": 7
-},
-{
-"n": "Volta Groupe",
-"u": "https://groupe-volta.com/",
-"d": "The Volta group is a 100% renewable electricity producer with c. 250MWp in exploitation or under construction and a pipeline of c. 500MWp mainly in Europe and Indian Ocean. The group develops, builds and operates a portfolio of renewable energy projects around",
-"y": 2014,
-"e": 68,
-"rd": "Venture · 2023",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "60 Avenue de la Grande Armée",
-"pc": "75017",
-"area": "17e · Batignolles",
-"ll": [
-48.876839,
-2.286545
-],
-"k": "office",
-"cf": "v",
-"v": "website",
-"ev": [
-"website"
-],
-"b": 629
 },
 {
 "n": "Voltaage",
@@ -82316,32 +77479,6 @@
 "b": 640
 },
 {
-"n": "Waysia (ex Alorsfaim)",
-"u": "https://mywaysia.com/",
-"d": "We are Waysia (formerly known as Alorsfaim), the leading DTC platform offering Asian food and grocery delivery in Europe. On a daily basis, we deliver Asian groceries throughout France and other countries. With more than 2000 references carefully selected by u",
-"y": 2018,
-"e": 62,
-"rd": "Series a · 2022",
-"s": "Consumer & Commerce",
-"st": "growth",
-"eh": "linkedin",
-"a": "13 Rue Poirier de Narçay",
-"pc": "75014",
-"area": "14e · Montparnasse",
-"ll": [
-48.824231,
-2.324242
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 3083
-},
-{
 "n": "WayUp",
 "u": "https://wayup.com/",
 "d": "Upload your resume once. WayUp instantly builds your profile and matches you to jobs, internships, and employer events from 3,800+ US employers.",
@@ -82800,30 +77937,6 @@
 },
 "cp": "Station F",
 "b": 0
-},
-{
-"n": "WEFREE - Staffing et Portage Freelance",
-"u": "https://joinwefree.com/",
-"d": "🚀 WEFREE est la plateforme de référence pour les freelances IT en quête de missions de qualité. Notre mission est de connecter les talents indépendants avec des entreprises innovantes, simplifiant ainsi la recherche de projets enrichissants et la gestion admin",
-"y": 2023,
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "22 Rue de la Pépinière",
-"pc": "75008",
-"area": "8e · Champs-Élysées",
-"ll": [
-48.875147,
-2.321609
-],
-"k": "office",
-"cf": "l",
-"v": "linkedin",
-"ev": [
-"linkedin"
-],
-"b": 3093
 },
 {
 "n": "WeKids",
@@ -84165,30 +79278,6 @@
 "b": 3129
 },
 {
-"n": "Women in AI",
-"u": "https://womeninai.co/",
-"d": "We are a Global community of women experts and influencers of women in AI. Our goal is to close the gender gap in the field of Artificial Intelligence by empowering women and raising awareness about gender diversity in AI. Join the Women in AI community: https",
-"y": 2016,
-"e": 272,
-"s": "AI & Data",
-"st": "scale",
-"eh": "linkedin",
-"a": "9 Rue des Colonnes",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.869742,
-2.339379
-],
-"k": "office",
-"cf": "l",
-"v": "register",
-"ev": [
-"register"
-],
-"b": 1
-},
-{
 "n": "Woodoo",
 "u": "https://woodoo.com/",
 "d": "Discover Woodoo’s sustainable materials, engineered to transform construction with eco-friendly wood solutions for a greener future.",
@@ -84267,82 +79356,6 @@
 "register"
 ],
 "b": 3138
-},
-{
-"n": "Word Class",
-"u": "https://wordclass.net/",
-"d": "Founded in 2010, Word Class is a bespoke agency specialised in financial and regulated translation and interpreting. We deliver best-in-class project management using advanced technology to streamline multilingual content worldwide. With 3 offices, 24/7 suppor",
-"y": 2010,
-"e": 93,
-"s": "AI & Data",
-"st": "growth",
-"eh": "exa",
-"a": "37 Avenue Ledru-Rollin",
-"pc": "75012",
-"area": "12e · Bercy & Nation",
-"ll": [
-48.847681,
-2.370532
-],
-"k": "office",
-"cf": "l",
-"v": "register",
-"ev": [
-"register"
-],
-"b": 642
-},
-{
-"n": "Work Palace by INSITU",
-"u": "https://work-palace.com/",
-"d": "Un art de vivre professionnel, élevé au rang d’excellence. Work Palace réinvente les lieux de travail, en s’inspirant de l’hospitalité feutrée des grandes maisons parisiennes. Découvrez l’exigence subtile, la fluidité silencieuse, le geste juste, et l’élégance",
-"e": 101,
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "288 Boulevard Saint-Germain",
-"pc": "75007",
-"area": "7e · Invalides",
-"ll": [
-48.86204,
-2.320053
-],
-"k": "office",
-"cf": "v",
-"v": "register",
-"ev": [
-"register",
-"linkedin",
-"research"
-],
-"b": 3139
-},
-{
-"n": "Work With Island",
-"u": "https://workwithisland.com/",
-"d": "Soundproof pods for work and everything else Work With Island designs soundproof boxes and meeting rooms to isolate yourself, focus, communicate or simply catch your breath. Alone or with others. No noise, no distractions, no stress. No construction work, no h",
-"y": 2018,
-"e": 66,
-"rd": "Seed · 2020",
-"s": "Software & SaaS",
-"st": "growth",
-"eh": "linkedin",
-"a": "15 Rue de Chabrol",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.876564,
-2.35458
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"register",
-"linkedin"
-],
-"b": 421
 },
 {
 "n": "WorkAdventure",
@@ -85175,33 +80188,6 @@
 "b": 3159
 },
 {
-"n": "YKONE",
-"u": "https://ykone.com/",
-"d": "YKONE is a global influence agency trusted by iconic brands, with a consolidated international footprint spanning 20 territories across Europe, the Middle East, Asia, and the United States.",
-"y": 2008,
-"e": 354,
-"f": 1990272,
-"rd": "Corporate round · 2026",
-"s": "Software & SaaS",
-"st": "scale",
-"eh": "linkedin",
-"a": "3 Rue Moncey",
-"pc": "75009",
-"area": "9e · Opéra & SoPi",
-"ll": [
-48.880038,
-2.330861
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 3160
-},
-{
 "n": "YMO",
 "u": "https://ymo.africa/",
 "d": "YMO révolutionne le paiement digital en Afrique et pour sa diaspora. Notre mission, développer des solutions simples et accessibles à tous les citoyens africains, pour leur permettre d’effectuer des paiements instantanés au sein du continent et à l’internation",
@@ -85711,31 +80697,6 @@
 "b": 3171
 },
 {
-"n": "YouSchool",
-"u": "https://youschool.info/",
-"d": "Une formation pour changer de vie ! 🙌 Échangez avec les autres apprenants et professeurs en temps réel grâce à notre réseau social d’apprentissage unique. Profitez d’un suivi coaching personnalisé et d’une plateforme accessible 7J/7 et 24H/24 (disponible sur o",
-"y": 2014,
-"e": 195,
-"s": "Education & Travel",
-"st": "growth",
-"eh": "linkedin",
-"a": "13 Rue Yves Toudic",
-"pc": "75010",
-"area": "10e · Canal Saint-Martin",
-"ll": [
-48.870089,
-2.363508
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"linkedin"
-],
-"b": 3172
-},
-{
 "n": "YouScribe",
 "u": "https://youscribe.com/",
 "d": "YouScribe is the biggest digital library in Europe. Users get streaming access to millions of documents and hundreds of thousands E-books (novels, comics…). It is possible to read on a computer, a smartphone or a tablet (ios and android). The 9.90€ premium off",
@@ -86234,32 +81195,6 @@
 "research"
 ],
 "b": 3180
-},
-{
-"n": "ZE ENERGY",
-"u": "https://ze-energy.com/",
-"d": "Producteur indépendant d’énergie renouvelable, ZE Energy vient révolutionner le secteur des énergies renouvelables avec sa solution de centrales solaires hybrides combinant photovoltaïque et stockage adaptées à l’Europe continentale. / We develop, build and op",
-"y": 2019,
-"e": 64,
-"f": 108820579,
-"rd": "Series b · 2024",
-"s": "Climate & Energy",
-"st": "growth",
-"eh": "linkedin",
-"a": "35 Rue des Jeûneurs",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.869658,
-2.343825
-],
-"k": "office",
-"cf": "l",
-"v": "register",
-"ev": [
-"register"
-],
-"b": 523
 },
 {
 "n": "ZebraTruth",
@@ -86793,33 +81728,6 @@
 "linkedin"
 ],
 "b": 146
-},
-{
-"n": "Zoī",
-"u": "https://zoi.com/",
-"d": "Zoī is a science-backed holistic approach to your health and wellness. Starting with a 360° physical check-up, and leveraging data and behavioral sciences, we give you the keys to drastically improve your quality of life. By providing you personalized and acti",
-"y": 2021,
-"e": 80,
-"f": 22647005,
-"rd": "Seed · 2022",
-"s": "Health & Bio",
-"st": "growth",
-"eh": "linkedin",
-"a": "12 Rue Volney",
-"pc": "75002",
-"area": "2e · Bourse & Sentier",
-"ll": [
-48.869501,
-2.330145
-],
-"k": "office",
-"cf": "v",
-"v": "research",
-"ev": [
-"research",
-"website"
-],
-"b": 3188
 },
 {
 "n": "Édifice",
