@@ -17,6 +17,8 @@ Same stack as [paris-city](https://github.com/ethan-ab/paris-city): vanilla JS +
 | + Recent rounds | `scripts/rounds.py merge <files>` | Exa's round data lags, so rounds announced since mid-2026 are researched from the press (Maddyness, Les Pépites Tech, French Tech Journal…) into `data/ref/rounds.json`, one sourced row each. `build.py` overlays them by website domain: newest round in `rd` (with month), its source in `rs`, amount added to `f` unless Exa may already count it. |
 | 5. Build | `scripts/build.py [--artifact]` | Writes `public/` (Vercel) and a self-contained `artifact/` page with an offline basemap. |
 
+Hand-checked offices go in `data/ref/corrections.json` (they always win in `resolve.py`). Without the network caches a full resolve rebuilds a different dataset, so `scripts/apply_corrections.py` patches only the corrected rows (and drops names added to `data/ref/exclude.txt`); then run `scripts/buildings.py` and `scripts/build.py`.
+
 `scripts/locate.py` holds the shared helpers (address parsing, BAN batch geocoding, SIRENE matching, domiciliation list).
 All network calls are cached in `data/cache/` (git-ignored); `data/startups.json` is the published dataset.
 

@@ -50,7 +50,7 @@ def main():
         if c.get('employees'):
             new['e'], new['eh'] = c['employees'], 'manual'
         before = (r.get('a'), r.get('pc'))
-        if before == (new['a'], new['pc']) and r.get('v') == 'manual':
+        if r.get('v') == 'manual':   # resolve.py already placed it from this correction
             continue
         r.update(new)
         cp = R.CAMPUS.get(L.addr_key(r['a']))
@@ -63,9 +63,13 @@ def main():
         r.pop('b', None)
         changed += 1
         print(f"  {r['n']}: {before[0]}, {before[1]} -> {r['a']}, {r['pc']}")
+    # data/ref/exclude.txt (resolve.py's not-a-startup list) also drops companies found to have no Paris office
+    excl = {L.fold(l) for l in open(os.path.join(ROOT, 'data', 'ref', 'exclude.txt')).read().splitlines() if l.strip() and not l.startswith('#')}
+    gone = [r['n'] for r in rows if L.fold(r['n']) in excl]
+    rows = [r for r in rows if L.fold(r['n']) not in excl]
     with open(os.path.join(ROOT, 'data', 'startups.json'), 'w') as f:
         json.dump(rows, f, ensure_ascii=False, indent=0)
-    print(f'{changed} startups moved to their corrected office')
+    print(f'{changed} startups moved to their corrected office' + (f', {len(gone)} removed: {", ".join(gone)}' if gone else ''))
 
 
 if __name__ == '__main__':
